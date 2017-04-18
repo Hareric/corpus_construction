@@ -8,7 +8,7 @@ public class UrlMatch {
 	HashSet<String> urlSet = new HashSet<String>();
 
 	public void match(String htmlSC) {
-		Matcher match = spider.Crawl.regexString(htmlSC, "href='(/talks/.*?)'(>|\\?language=zh-cn)");
+		Matcher match = spider.Crawl.regexString(htmlSC, "href='(/talks/.*?)(\\?language=.{1,5})?'");
 		while (match.find()) {
 			this.urlSet.add("https://www.ted.com" + match.group(1) + "/transcript");
 		}

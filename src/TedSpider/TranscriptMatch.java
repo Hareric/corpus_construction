@@ -44,6 +44,18 @@ public class TranscriptMatch {
 
 	}
 
+	public boolean isAbeforeB(String timeA, String timeB) {
+		System.out.println(timeA.split(":")[1] + "    " + timeB.split(":")[1]);
+		if (Integer.parseInt(timeA.split(":")[0].trim()) < Integer.parseInt(timeB.split(":")[0].trim())) {
+			return true;
+		} else if (Integer.parseInt(timeA.split(":")[0].trim()) > Integer.parseInt(timeB.split(":")[0].trim())) {
+			return false;
+		} else if (Integer.parseInt(timeA.split(":")[1].trim()) < Integer.parseInt(timeB.split(":")[1].trim())) {
+			return true;
+		}
+		return false;
+	}
+
 	public ArrayList<String> getTimeList() {
 		return this.timeList;
 	}
@@ -58,11 +70,41 @@ public class TranscriptMatch {
 			System.out.println(this.scriptList.get(i));
 		}
 	}
-	
-	public void addScript(ArrayList<String> newScriptList){
-		for(int i = 0; i < this.scriptList.size(); i++)
-		{
-			this.scriptList.set(i, scriptList.get(i)+"\n"+newScriptList.get(i));
+
+	public void addScript(ArrayList<String> newScriptList, ArrayList<String> newTimeList) {
+		if (newScriptList.size() == this.scriptList.size()){
+			for (int i = 0; i < this.scriptList.size(); i++) {
+				this.scriptList.set(i, scriptList.get(i) + "\n" + newScriptList.get(i));
+			}
+			return;
+		}
+		else{
+			for (int i = 0, j=0; i < this.scriptList.size(); i++, j++) {
+				if(newTimeList.get(j).equals(this.timeList.get(i))){
+					if(this.scriptList.get(i).endsWith("TobeContinued")){
+						String mergeString = this.scriptList.get(i);
+						mergeString = mergeString.substring(0, mergeString.length()-13);
+						mergeString += newScriptList.get(j);
+						this.scriptList.set(i, mergeString);
+					}
+					else{
+						this.scriptList.set(i, scriptList.get(i) + "\n" + newScriptList.get(j));
+					}
+					
+				}
+				
+				else{
+					if(this.isAbeforeB(newTimeList.get(j), this.timeList.get(i))){
+						this.scriptList.set(i, scriptList.get(i) + "\n" + newScriptList.get(j) + "TobeContinued");
+						i--;
+					}
+					else{
+						this.scriptList.set(i, scriptList.get(i) + "(接下节)\n" + newScriptList.get(j));
+						this.scriptList.set(i+1, "(接上节)" + scriptList.get(i+1));
+						i++;
+					}
+				}
+			}
 		}
 	}
 
