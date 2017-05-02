@@ -45,7 +45,7 @@ public class TranscriptMatch {
 	}
 
 	public boolean isAbeforeB(String timeA, String timeB) {
-		System.out.println(timeA.split(":")[1] + "    " + timeB.split(":")[1]);
+//		System.out.println(timeA.split(":")[1] + "    " + timeB.split(":")[1]);
 		if (Integer.parseInt(timeA.split(":")[0].trim()) < Integer.parseInt(timeB.split(":")[0].trim())) {
 			return true;
 		} else if (Integer.parseInt(timeA.split(":")[0].trim()) > Integer.parseInt(timeB.split(":")[0].trim())) {
@@ -72,6 +72,7 @@ public class TranscriptMatch {
 	}
 
 	public void addScript(ArrayList<String> newScriptList, ArrayList<String> newTimeList) {
+		
 		if (newScriptList.size() == this.scriptList.size()){
 			for (int i = 0; i < this.scriptList.size(); i++) {
 				this.scriptList.set(i, scriptList.get(i) + "\n" + newScriptList.get(i));

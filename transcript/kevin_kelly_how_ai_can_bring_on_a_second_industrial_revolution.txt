@@ -1,0 +1,546 @@
+ 0:13
+我打算谈一谈技术的发展趋势。当（新的）技术到来时，常常会令我们感到惊讶。但事实上，技术在很大程度上是能够被预见的。这是因为所有的技术都有某种倾向性，有某种冲动，有某种趋势。这些趋势是由电线、开关、以及电子的物理和化学本质所决定的，并且呈现出不断重复的模式。或者说，这些模式形成了某种趋势、某种倾向。
+Tôi sẽ nói về việc công nghệđang đi về đâu.Và thường khi công nghệ tìm đến chúng ta,ta ngạc nhiên bởi cái nó mang lại.Nhưng thực sự có một khía cạnhlớn của công nghệcái mà có thể đoán trước được phần nhiều,là bởi vì các hệ thống công nghệ đều có những thiên hướng,chúng có tính khấn cấp,chúng có những xu hướng.Những xu hướng đó được bắt nguồntừ bản chất tự nhiên của vật lý,hóa học dây kim loại, những sựchuyển mạch và các hạt điện tử,và chúng sẽ tạo ra những khuônmẫu xảy ra lặp đi lặp lại.Và những khuôn mẫu đó tạo ranhững xu hướng, khuynh hướng.
+ 0:53
+你可以把它看成类似于重力的东西。想象雨点汇入山谷：一滴雨点流入山谷的实际路径是无法预测的。我们并不知道它的具体走向，但大方向是很显然的：它往下流。因此，这些内在趋势和冲动，深深扎根于技术系统中，使我们能够感知它们的大体方向。具体点说，电话是必然的，但 iPhone 不是；因特网是必然的，但推特不是。
+Bạn có thể hầu như nghĩ về nó như một loại trọng lực.Tưởng tượng những hạt mưarơi xuống thung lũngQuỹ đạo thực sự của một hạt mưakhi nó rơi xuống thung lũnglà không thể đoán trước.Ta không thể thấy nơi nó đến,nhưng hướng đi chung vẫn thường nhận ra:Là đi xuống.Vì thế những xu thế và sự khẩnthiết không thể tách rờitrong các hệ thống công nghệcho ta một cảm giác nơi chúng đitới một dạng thức lớn.Một cách cụ thể hơn,Tôi muốn nói rằng điện thoạilà chắc chắn xảy ra,nhưng iPhone thì không.Internet là chắc chắn xảy ra,nhưng Twitter thì không.
+ 1:32
+同样道理，当下有许多正在发生的趋势，而我认为其中最重要的一个是让物体变得越来越聪明。我称之为“知化”，也就是人们常说的人工智能，或者 AI。我认为在未来二十年中，这将是社会中最具影响力的发展趋势和驱动力。
+Vì thế chúng ta có rất nhiều nhữngxu hướng đang xảy ra ngay lúc này,và tôi nghĩ rằng một trong nhữngxu hướng trọng yếulà làm mọi thứ trở nênngày càng thông minh hơn.Tôi gọi nó là cognifying — cognification —cũng được biết như là trí tuệ nhântạo hay Al.Và tôi nghĩ rằng nó sẽ trở thànhmột trong những sự phát triển xu hướng, xu thế có tầm ảnh hưởngnhất của xã hội trong 20 năm tới.
+ 1:58
+当然，它已经发生了。我们已经有了 AI，它们通常都隐身在后台工作，在医院里，AI 分析 X 光片的水准比人类医生还要棒。在律所里，AI 核查证物的本事比人类助理律师还要强。我们乘坐的飞机是由 AI 在驾驶。人类驾驶员只飞个七、八分钟而已；其他时间都是 AI 在操控。当然，在 Netflix 和亚马逊网站，是AI在后台进行推荐。这些都是我们已经实现的。
+Và tất nhiên, nó đã ở đâyChúng ta đã có Al,và thường nó làm việc hậu trường,ở trụ sở sau các bệnh viện,nơi nó được dùng để chẩn đoántia X tốt hơn một bác sĩ thật.Nó làm cho các cơ quan pháp lý,nơi nó được dùng để thông quabằng chứng hợp pháptốt hơn một luật sư loài người.Nó được dùng để lái máy baymà bạn sử dụng để tới đây.Người phi công chỉ lái nó từ7 đến 8 phút,còn lại Al sẽ đảm nhiệmviệc lái.Và tất nhiên, tại Netflix và Amazon,nó làm việc hậu trường chuyênđưa ra các gợi ý.Và đó là thứ ta cóhôm nay.
+ 2:33
+我们也有一些更前沿的例子，比如“阿尔法狗”战胜了人类最强的围棋世界冠军。但还不止于此。我们打电玩时，对手往往是 AI。不过最近，谷歌教会了他们的 AI自己学习如何打电子游戏。教（AI）打游戏已经不是什么新鲜事了，但（AI）自己学习打游戏则是另一个境界。这就是人工智慧。我们正在以此为起点，让它变得越来越聪明。
+Và chúng ta có một ví dụ,ở mặt trước của nó nhiều hơn,với thắng lợi của AlphaGo, người đánh bạiGo, nhà vô địch thế giới.Nhưng nhiều hơn thế.Nếu bạn chơi video game,bạn đang chơi lại với một Al.Nhưng gần đây, Google đã dạy Al của họhọc cách chơi video games thực sự.Một lần nữa, việc dạy về video gamesđã được hoàn thành,nhưng học cách để chơi video gamelà một bước khác nữa.Đó là trí thông minh nhân tạo.Cái chúng ta đang làm là nắm lấytrí tuệ thông minh nàyvà chúng ta đang làm nó ngày càngthông minh hơn.
+ 3:17
+在这个大趋势中，我认为有三点尚未被充分认识；如果我们能理解这三点，就能更好的理解 AI，并更加全身心的拥抱 AI。只有拥抱 AI，才能控制AI。我们可以通过拥抱大趋势来控制细节。
+Có ba khía cạnh với xu thếchung nàymà tôi nghĩ đã bị xem thườngTôi nghĩ chúng ta sẽ hiểuAl tốt hơn nhiềunếu chúng ta hiểu ba điều này.Tôi nghĩ những điều đó cũnggiúp chúng ta có được Al,vì chỉ bằng cách nắm bắt nóta mới thực sự có thể điều khiển nó.Ta có thể thực sự hướng các đặc trưngbởi chấp nhận xu thế lớn hơn.
+ 3:38
+所以，请允许我谈谈这三点。第一点，我们自己尚未很好的理解什么是智能。我们通常认为智能是单维度的，就像一个越来越响的音符。我们用智商来衡量它。老鼠的智商较低，猩猩的智商较高，接下来是比较笨的人，然后是像我一样的普通人，再往上是天才。智商越高，智能就越高。这种看法是完全错误的。这根本就不是智能，人类智能也并非如此。智能更像由不同音符组成的交响乐，每个音符由不同的认知乐器来奏响。
+Để tôi nói cho các bạn ba mặtkhác nhau dưới đây.Đầu tiên, sự hiểu biết của bản thân chúngta có một ý niệm rất nghèo nànvề việc thông minh là gì.Chúng ta có xu hướng nghĩ về sự thông minhchỉ theo một chiều,rằng nó giống như một ghi chép càngngày càng lớn hơn.Nó bắt đầu với phép đo chỉ số IQPhép đo khởi đầu cùng với một IQtương đối thấp của loài chuột,và có thể có nhiều hơn trên mộtcon vượnvà cả trên một người ngớ ngẩn nữa,có thể trên một người bình thườngnhư tôicó thể là một thiên tài.Và trí thông minh IQ đang ngày càngmạnh hơn.Điều đó hoàn toàn sai.Đó không phải trí thông minhkhông phải là trí thông minh loài người.Nó giống một một bản nhạc giao hưởng củacác nốt nhạc khác nhau nhiều hơn,và mỗi một nốt nhạc này được chơi trênmột công cụ nhận thức khác nhau.
+ 4:26
+人类的心智包含了多种智能。我们可以进行演绎推理，我们具备情绪智力，我们有空间智能。我们可能有一百种不同的智能集合在一起，它们在不同人的身上也体现得强弱不一。而动物们则可能是另一套体系——由其他智能组成的另一首交响乐，当然，有些乐器与人类是相同的。可能思考的方式相同但侧重点不同，某些方面可能还强于人类，像松鼠的长期记忆就很了不得，能清楚记得坚果的埋藏之所。但在另外一些方面可能不如人类。
+Có rất nhiều loại trí thông minh trongđầu của bản thân chúng ta.Chúng ta có lập luận diễn dịch,chúng ta có trí tuệ cảm xúc,chúng ta có trí tuệ không gian;chúng ta có thể có 100 loại khác nhau vàtất cả được nhóm lại với nhau,và chúng thay đổi ở cường độ khác nhauvới những người khác nhau.Và đương nhiên, nếu chúng ta để ý đếnđộng vật, chúng cũng có một thứmột sự hòa âm khác của các loạitrí tuệ khác nhau,và đôi khi những nhạc cụ tương tự đógiống với những thứ chúng ta cóChúng có thể nghĩ với cùng một cách nhưngcó lẽ có một cách sắp xếp khác,có lẽ chúng cao hơn loài ngườiở một số trường hợp,như trí tuệ dài hạn ở một chú sócthật sự là lạ thường,vì thế nó có thể nhớ nơinó chôn những quả hạch.Ở những trường hợp khácchúng thấp hơn.
+ 5:09
+当我们制造机器时，也会用同样的方式来设计它们，它们在某些方面会比我们聪明得多，而在其他方面则远远不如我们，因为根本没必要。我们会用这些东西，这些人造的功能组合，为我们的 AI 添加各种各样的人工认知。我们会让它们（的功能）非常具体。
+Khi chúng ta tạo ra máy móc,chúng ta sẽ bố trí chúng theocùng một cách,nơi chúng ta sẽ tạo ra một vài loại tríthông minh hơn cả của chúng ta,và nhiều trong số chúng sẽkhông giống của chúng ta,bởi vì chúng không cần thiết.Vì vậy chúng ta sẽ nắm lấy những thứ này,những tập hợp nhân tạo,và chúng ta sẽ thêm nhiều trí tuệ nhântạo vào Al của chúng ta.Chúng ta khiến chúng trở nên rất rấtcụ thể.
+ 5:37
+比方说，计算器在数学运算上要比我们聪明得多；GPS 的空间导航能力远胜过我们；谷歌、必应在长期记忆上完胜我们。然后我们再把这些不同类型的智能塞到……比如说汽车里，实现自动行驶。我们之所以这么做，正是因为它的驾驶方式跟我们不一样。它不像我们那样思考。这恰恰是它的特点。它不会分心，不会担心是否忘记了关炉子，不会纠结要不要选金融专业。它只知道开车。
+Vì thế về số học, máy tính của bạn đãthông minh hơn bạn rồi;GPS của bạn thông minh hơn bạn trong việcđịnh vị không gian;Google, Bing thông minh hơn bạn vềtrí nhớ dài hạn.Và chúng ta sẽ lần nữa có lại được nhữngloại suy nghĩ khác nhauvà ta sẽ cho chúng vào mộtchiếc ô tô.Lý do chúng tôi muốn để chúng vào mộtchiếc ô tô là để nó lái,vì nó không lái giống người lái.Nó không nghĩ giống chúng ta.Nó là một chi tiết nằm trong tổng thể.Nó không bị làm cho sao nhãng,nó không lo lắng về liệu có dời đi vớicái lò chưa tắt,hay nó có nên chuyên tâm vàovấn đề tài chính.Nó chỉ lái thôi.
+ 6:16
+（笑声）
+(tiếng cười)
+ 6:17
+它会专心开车，对吧？我们甚至可以把这个做为卖点，叫做“无意识”。它们没有意识，不会东想西想，不会分心。
+Chỉ lái thôi, OK?Và chúng ta thậm chí có thểquảng bá về chúngnhư thể: &quot;không có ý thức.&quot;Chúng không có ý thức,chúng không quan tâm đếnnhững điều đó,chúng không bị phân tâm.
+ 6:28
+所以，我们应该尽我们所能制造各种各样的思考（机器）。我们应该去尝试所有可能的思考方式。在商业和科学上，我们会遇到一些难题，单凭人类自身的思考无法解决。我们可能需要分两步走，先发明出新的思考方式，再与它们一起解决这些真正的难题，比如暗能量和量子引力。
+Nhìn chung, cái chúng ta đang cố gắng làmlà tạo ra càng nhiều loại suy nghĩkhác biệt có thể.Chúng ta sẽ đưa dân đếnkhoảng khôngcủa tất cả các loại suy nghĩkhác biệt có thể.Và thực sự có lẽ có một số vấn đềkhó khăn trong khoa học vàkinh tếmà loại suy nghĩ của loài người khôngthể có khả năng tự giải quyết.Chúng ta cần một chương trình gồm 2 bước,để sáng lập những loại suy nghĩ mớichúng ta có thể làm việc cùng lúc đểgiải quyết những vấn đề lớn,như năng lượng tối hay lực hấp dẫnlượng tử chẳng hạn.
+ 7:07
+我们实际上是在创造异形智能。某种意义上，甚至可以将它们看作人造异形。它们将帮助我们用不同的方式思考，而换一种思考方式是创造的源泉，是财富和新经济的引擎。
+Cái chúng ta đang làm là tạo ratrí tuệ ngoài hành tinh.Bạn thậm chí có thể nghĩ về nó như nhữngngười ngoài hành tinh nhân tạotheo một vài hướng.Và chúng sẽ giúp chúng ta nghĩ khác đibởi vì suy nghĩ khác biệt làphương tiện của sự sáng tạocủa cải và nền kinh tế mới.
+ 7:24
+第二点是，我们将用 AI推动第二次工业革命。在第一次工业革命中，人类发明了我称之为“人造能源”的东西。在此之前，在农业革命时期，制造业靠人力驱动，或者靠畜力。除此之外别无他法。工业革命时期的伟大发明就是人们利用化石燃料和蒸汽所产生的“人造能源”来做我们想做的任何事情。今天，当我们开车行驶在高速上，只需轻轻拨弄开关，就能驾驭 250 匹马——或者说，250 匹马的马力——我们可以建造高楼大厦，修建道路，建设城市，开办工厂，源源不断地生产桌椅或冰箱，这些都远远超出了人力所为。这种“人造能源”还可以通过电网和电线输送到家庭、工厂和农庄，任何人都可以购买这种“人造能源”，只需插上插头就可以使用。
+Ở khía cạnh thứ hai, chúng tasẽ sử dụng Alvề cơ bản để tạo ra cuộc cách mạngcông nghiệp thứ hai.Cuộc cách mạng công nghiệp thứ nhấtđược dựa trên sự thậtrằng chúng ta đã tạo ra một vài thứchúng ta gọi là năng lượng nhân tạo.Trước đó,trong suốt cuộc cách mạng nông nghiệp,mọi thứ được tạo ra phải được làm bởisức lực cơ bắp của con ngườihoặc sức mạnh của động vật.Đó đã từng là cách duy nhất đểlàm mọi thứ.Sáng kiến lớn trong suốt thời kìcách mạng công nghiệp là,chúng ta khai thác năng lượng hơi nước,nhiên liệu hóa thạch,để tạo ra năng lượng nhân tạochúng ta có thể sử dụngđể làm bất cứ thứ gì chúng ta muốn.Vì vậy ngày nay khi bạn lái xe trênđường cao tốc,chỉ cần một cái xoay nhẹ công tắctương đương với điều khiển 250 con ngựa250 mã lựcchúng ta có thể xây dựng tòa nhàchọc trời, xây thành phố, xây đường,tạo ra các nhà máy sản xuất đại tràcác dòng ghế hoặc tủ lạnhvượt xa năng lực của chúng ta.Năng lượng nhân tạo cũng có thể được phânphát qua lưới điện hay một chấn song sắtđể đi đến mọi nhà, xí nghiệp, trang trại,và tới bất cứ ai có thể muanăng lượng nhân tạo này,chỉ bằng cách cắm phích điện.
+ 8:38
+它也带来了很多创新，农民可以为手动泵通上电，加上这种“人造能源”，就变成了电泵。类似的改造成千上万，这个（人力器械+人造能源的）公式造就了工业革命。今天我们看到的所有事物，享受的所有服务，几乎都来源于此。
+Vì thế đây là một nguồn sáng kiếncũng nhưbởi vì một người nông dân có thểđiều khiển máy bơm bằng tay,và chúng có thể thêm năng lượng nhân tạo,là nguồn điện,và anh ta có một máy bơm điện.Và bạn làm tăng nguồn năng lượng lên hàngngàn hay hàng chục ngàn lần,và cách thức đó mang chúng ta đến vớicuộc cách mạng công nghiệp.tất cả những thứ ta thấy, tất cảnhững tiến bộ giờ ta đang tận hưởng,đều xuất phát từ thực tế chúng ta làm.
+ 9:01
+现在我们要用 AI 做同样的事情。我们用网路传输 AI，把 AI 加载到诸如电泵之类的东西上，就得到了聪明的电泵。类似的改造做上几百万次，就会掀起第二次工业革命。那么将来汽车行驶在高速上，它不仅有 250倍马力，还有 250倍的脑力。这就是自动驾驶汽车。它是一种新的商品，是一种新的基础设施。AI 将会在网络、在云端传输，就像电一样。
+Bây giờ chúng ta sẽ làm điềutương tự với Al.Ta sẽ phân phát nó theo mộthệ thống dây,và bây giờ bạn có thể dùngmáy bơm bằng điện.Bạn có thể thêm trí thông minh nhân tạo,và giờ bạn có mộtmáy bơm nhanh.Thứ được tăng công lực gấp 1 triệu lần,sẽ có mặt ở cuộc cách mạngcông nghiệp lần hai.Vì thế giờ ô tô sẽ đi trên đường cao tốc,với 250 mã lực nhưngthêm vào đó là 250 trí ócĐó là ô tô tự động lái.nó như một hàng hóakiểu mới;nó là một tiện ích mới.Al sẽ chảy qua hệ thống đường dây-đám mây-với cách giống như dòng điện.
+ 9:33
+所以凡是可以用电的地方，都可以用 AI。而我可以建议说，未来一万家创业公司的秘诀其实非常非常简单：拿来某样东西，加上 AI。这个公式就是我们将要不断践行的。我们将以这种方式来掀起第二次工业革命。顺便说一句，就在此时，你可以登录谷歌，购买 AI：用6美分购买100次服务。这个服务现在就能用。
+Vì thế mọi thứ chúng ta nạp điện,Chúng ta sẽ nhận thức được.Và tôi muốn nói rằng,công thức cho 10.000 bướckhởi nghiệp tiếp theovô cùng đơn giản,là lấy x và thêm Al.Đó là cách thức mà chúng tasẽ đang làm.Và đó là cách mà chúng ta sẽ tạo racách mạng công nghiệp lần thứ hai.và ngay bây giờ, giờ phút này,bạn có thể đăng nhập Googlevà bạn có thể mua Al với 6 xu,100 lượt truy cập.Ngay bây giờ điều này là sẵn có.
+10:05
+第三点是，我们将AI实体化，就得到了机器人。机器人可以帮助我们，完成许多曾经需要我们亲力亲为的任务。而工作就是一系列的任务，我们的工作将会被重新定义，一部分任务将交给机器人来完成。与此同时，也将产生一大批不同种类的新任务，一批以往我们没有意识到要去做的任务。它们甚至有可能催生出新的职业，我们感兴趣的新工作，就像自动化带来的许多新事物，我们之前并不知道会需要它们，但今天我们已经离不开它们了。所以机器人带来的工作机会比它们抢走的要多。更重要的是，我们交给它们的都是需要效率或生产率的任务。如果一个任务，不管是体力的还是脑力的，可以用效率或生产率来衡量，那么就应该交给机器人来完成。需要效率的事情交给机器人好了。我们真正擅长的是浪费时间。
+Khía cạnh thứ balà khi chúng ta có Al và biểu hiệncho điều đó,chúng ta có robots.Và robots sẽ là cácchương trình máychúng sẽ làm nhiều nhiệm vụmà chúng ta đã làm.Một việc gồm một mớ cácnhiệm vụ,do đó chúng sẽ đánh giá lại việc làmvì chúng sẽ làm một vàinhiệm vụ đó.Nhưng chúng cũng sẽ tạo ra nhữngloại hoàn toàn mới,một số lượng lớn các nhiệm vụhoàn toàn mớimà chúng ta không biết tađã muốn làm trước đó.Chúng sẽ thực sự đem lại nhữngloại nghề nghiệp mới,những loại nhiệm vụ mới màchúng ta muốn làm,chỉ như tự động hóa tạo ra mộtbó những thứ mới mẻmà chúng ta không biết ta cầntrước đó,và giờ ta không thể sốngthiếu chúng.Vì thế chúng sẽ sản sinh thậm chí nhiềunghề hơn chúng lấy đi,nhưng quan trọng là nhiều nhiệm vụ màchúng ta sẽ giao cho chúngcó thể được chỉ rõ dựa theotính hiệu quả và năng suất.Nếu bạn có thể chỉ rõ một nhiệm vụ,hoặc là bằng tay hoặc thuộc nhận thức,rằng có thể được chỉ ra dựa theotính hiệu quả hay năng suất,đi tới những chương trình máy tính.Năng suất là nhờ robots.Cái mà chúng ta thực sự giỏi đólà gây lãng phí thời gian.
+11:15
+（笑声）
+(tiếng cười)
+11:15
+我们最擅长做那些没有效率的事情。科学从本质上来说是低效的。我们一次又一次的失败，很多试验和尝试都徒劳无功，否则我们也学不到什么东西。事实就是，科学研究没有什么效率。创新从定义上来说就是低效的。毕竟我们需要制作原型，需要做各种尝试，经历各种失败。探索是低效的。艺术是低效的。人际关系也是低效的。这些都是我们喜欢做的事情，因为它们都是低效的。高效是机器人的使命。还要认识到，我们将和 AI 一起工作，因为它们的思维方式与我们不同。
+Ta thực sự giỏi ở những thứkhông có khả năng.Khoa học vốn không hiệu quả.Nó dẫn đến sự thật là bạn thất bạihết lần này đến lần khác.Nó đưa ra sự thật rằng bạn làm những bàitest và thí nghiệm không thành,mặt khác bạn đang không học.Nó đưa ra sự thật lànó không có nhiều hiệu quả.Sự đổi mới theo định nghĩalà không hiệu quả,vì bạn tạo ra nguyên mẫu,vì bạn thử những thứ gây thất bại,không làm được việc.Sự khám phá vốn không hiệu quả.Nghệ thuật không hiệu quả.Mối quan hệ của con người khônghiệu quả.Đó là tất cả những thứ chúng ta hướng đến,vì chúng không hiệu quả.Hiệu quả là nhờ robots.Chúng ta cũng sẽ học được rằngchúng ta làm việc cùng Alvì chúng suy nghĩ khác chúng ta.
+12:01
+在“深蓝”战胜国际象棋的世界冠军后，人们以为国际象棋没什么玩头了。但事实上，目前世界上最厉害的国际象棋冠军并不是 AI，也不是人类，而是由人类和 AI 组成的团队。最棒的医学诊疗师既不是医生，也不是 AI，而是他们组成的团队。也就是说我们将和 AI 一起工作，你将来的薪酬，很可能取决于你跟机器人合作得如何。这就是我想说的第三点：AI 是不同于我们的，它们是技术设备，我们将与它们合作，而非竞争。
+Khi Deep Blue đánh bại nhà vô địch cờ vuagiỏi nhất thế giới,mọi người nghĩ đó là kết thúccủa cờ vua.Nhưng thực tế, hóa ra ngày nay, nhàvô địch cờ vua giỏi nhất thế giớikhông phải là một Al.không là một con người.Nó là một đội gồm một người và một Al.Thầy thuốc chẩn đoán giỏi nhất không phảimột bác sĩ hay Al,Nó là một đội.Chúng ta đang và sẽ làm việc với Al,và tôi nghĩ bạn sẽ được trả lươngtheo cách bạn làm việc với nhữngchương trình máy.Đó là điều thứ ba, rằng chúnglà khác biệt,chúng có íchvà chúng sẽ trở thành thứ mà chúng talàm việc cùng hơn là chống lại.Chúng ta sẽ làm việc cùng hơn làchống lại chúng.
+12:42
+那么，未来会如何？我想，25年后我们回头再看今天对 AI 的理解，我们会说：“你们那都不叫 AI。你们甚至都还没有真正的因特网，25年后的因特网才能叫因特网呢。“我们也还没有真正的 AI 专家。而大量的资本正涌向这个领域，动辄数十亿美金，这是一个巨大的产业。但我们尚未拥有真正的 AI 专家——如果跟20年后相比的话。我们还处在最初的起步阶段，所有一切才刚刚开始。因特网的历史才刚刚开始。美好的未来才刚刚开始。未来20年最受欢迎的 AI 产品，最普及的 AI 产品，还没有被发明呢。也就是说，你们还有机会。
+Vì vậy, tương lai:Nó đưa chúng ta đi về đâu?Tôi nghĩ rằng 25 năm kể từ bây giờ,họ sẽ nhìn lạinhìn vào sự hiểu biết về Al củachúng ta và nói,&quot;Bạn đã không có Al. Sự thật, bạn thậm chíchưa có Internet,so với cái chúng ta sẽ có sau 25 năm.&quot;Ngay lúc này ta chưa có nhữngchuyên gia Al.Có rất nhiều tiền được đổ vào đó,Có hàng tỉ đô-la được chi vào đó;Nó là một món kinh doanh khổng lồ,nhưng chẳng có một chuyên gia nào khiso với cái mà chúng ta sẽ biết sau 25 năm.Vì thế chúng ta chỉ đang ở điểm bắt đầu,ta ở giờ đầu tiên của tất cảnhững điều này.Chúng ta ở giờ đầu tiên của Internet.Ta ở giờ đầu tiên của cái đangxảy đến.Sản phẩm Al phổ biến nhất trong 20 năm tớilà cái mọi người đều sử dụng,chưa từng được phát minh.Điều đó có nghĩa là bạn vẫn chưa muộn.
+13:34
+谢谢！
+Cảm ơn.
+13:35
+（笑声）
+(tiếng cười)
+13:36
+（掌声）
+(tiếng vỗ tay)
+ 0:13
+我打算谈一谈技术的发展趋势。当（新的）技术到来时，常常会令我们感到惊讶。但事实上，技术在很大程度上是能够被预见的。这是因为所有的技术都有某种倾向性，有某种冲动，有某种趋势。这些趋势是由电线、开关、以及电子的物理和化学本质所决定的，并且呈现出不断重复的模式。或者说，这些模式形成了某种趋势、某种倾向。
+Tôi sẽ nói về việc công nghệđang đi về đâu.Và thường khi công nghệ tìm đến chúng ta,ta ngạc nhiên bởi cái nó mang lại.Nhưng thực sự có một khía cạnhlớn của công nghệcái mà có thể đoán trước được phần nhiều,là bởi vì các hệ thống công nghệ đều có những thiên hướng,chúng có tính khấn cấp,chúng có những xu hướng.Những xu hướng đó được bắt nguồntừ bản chất tự nhiên của vật lý,hóa học dây kim loại, những sựchuyển mạch và các hạt điện tử,và chúng sẽ tạo ra những khuônmẫu xảy ra lặp đi lặp lại.Và những khuôn mẫu đó tạo ranhững xu hướng, khuynh hướng.
+ 0:53
+你可以把它看成类似于重力的东西。想象雨点汇入山谷：一滴雨点流入山谷的实际路径是无法预测的。我们并不知道它的具体走向，但大方向是很显然的：它往下流。因此，这些内在趋势和冲动，深深扎根于技术系统中，使我们能够感知它们的大体方向。具体点说，电话是必然的，但 iPhone 不是；因特网是必然的，但推特不是。
+Bạn có thể hầu như nghĩ về nó như một loại trọng lực.Tưởng tượng những hạt mưarơi xuống thung lũngQuỹ đạo thực sự của một hạt mưakhi nó rơi xuống thung lũnglà không thể đoán trước.Ta không thể thấy nơi nó đến,nhưng hướng đi chung vẫn thường nhận ra:Là đi xuống.Vì thế những xu thế và sự khẩnthiết không thể tách rờitrong các hệ thống công nghệcho ta một cảm giác nơi chúng đitới một dạng thức lớn.Một cách cụ thể hơn,Tôi muốn nói rằng điện thoạilà chắc chắn xảy ra,nhưng iPhone thì không.Internet là chắc chắn xảy ra,nhưng Twitter thì không.
+ 1:32
+同样道理，当下有许多正在发生的趋势，而我认为其中最重要的一个是让物体变得越来越聪明。我称之为“知化”，也就是人们常说的人工智能，或者 AI。我认为在未来二十年中，这将是社会中最具影响力的发展趋势和驱动力。
+Vì thế chúng ta có rất nhiều nhữngxu hướng đang xảy ra ngay lúc này,và tôi nghĩ rằng một trong nhữngxu hướng trọng yếulà làm mọi thứ trở nênngày càng thông minh hơn.Tôi gọi nó là cognifying — cognification —cũng được biết như là trí tuệ nhântạo hay Al.Và tôi nghĩ rằng nó sẽ trở thànhmột trong những sự phát triển xu hướng, xu thế có tầm ảnh hưởngnhất của xã hội trong 20 năm tới.
+ 1:58
+当然，它已经发生了。我们已经有了 AI，它们通常都隐身在后台工作，在医院里，AI 分析 X 光片的水准比人类医生还要棒。在律所里，AI 核查证物的本事比人类助理律师还要强。我们乘坐的飞机是由 AI 在驾驶。人类驾驶员只飞个七、八分钟而已；其他时间都是 AI 在操控。当然，在 Netflix 和亚马逊网站，是AI在后台进行推荐。这些都是我们已经实现的。
+Và tất nhiên, nó đã ở đâyChúng ta đã có Al,và thường nó làm việc hậu trường,ở trụ sở sau các bệnh viện,nơi nó được dùng để chẩn đoántia X tốt hơn một bác sĩ thật.Nó làm cho các cơ quan pháp lý,nơi nó được dùng để thông quabằng chứng hợp pháptốt hơn một luật sư loài người.Nó được dùng để lái máy baymà bạn sử dụng để tới đây.Người phi công chỉ lái nó từ7 đến 8 phút,còn lại Al sẽ đảm nhiệmviệc lái.Và tất nhiên, tại Netflix và Amazon,nó làm việc hậu trường chuyênđưa ra các gợi ý.Và đó là thứ ta cóhôm nay.
+ 2:33
+我们也有一些更前沿的例子，比如“阿尔法狗”战胜了人类最强的围棋世界冠军。但还不止于此。我们打电玩时，对手往往是 AI。不过最近，谷歌教会了他们的 AI自己学习如何打电子游戏。教（AI）打游戏已经不是什么新鲜事了，但（AI）自己学习打游戏则是另一个境界。这就是人工智慧。我们正在以此为起点，让它变得越来越聪明。
+Và chúng ta có một ví dụ,ở mặt trước của nó nhiều hơn,với thắng lợi của AlphaGo, người đánh bạiGo, nhà vô địch thế giới.Nhưng nhiều hơn thế.Nếu bạn chơi video game,bạn đang chơi lại với một Al.Nhưng gần đây, Google đã dạy Al của họhọc cách chơi video games thực sự.Một lần nữa, việc dạy về video gamesđã được hoàn thành,nhưng học cách để chơi video gamelà một bước khác nữa.Đó là trí thông minh nhân tạo.Cái chúng ta đang làm là nắm lấytrí tuệ thông minh nàyvà chúng ta đang làm nó ngày càngthông minh hơn.
+ 3:17
+在这个大趋势中，我认为有三点尚未被充分认识；如果我们能理解这三点，就能更好的理解 AI，并更加全身心的拥抱 AI。只有拥抱 AI，才能控制AI。我们可以通过拥抱大趋势来控制细节。
+Có ba khía cạnh với xu thếchung nàymà tôi nghĩ đã bị xem thườngTôi nghĩ chúng ta sẽ hiểuAl tốt hơn nhiềunếu chúng ta hiểu ba điều này.Tôi nghĩ những điều đó cũnggiúp chúng ta có được Al,vì chỉ bằng cách nắm bắt nóta mới thực sự có thể điều khiển nó.Ta có thể thực sự hướng các đặc trưngbởi chấp nhận xu thế lớn hơn.
+ 3:38
+所以，请允许我谈谈这三点。第一点，我们自己尚未很好的理解什么是智能。我们通常认为智能是单维度的，就像一个越来越响的音符。我们用智商来衡量它。老鼠的智商较低，猩猩的智商较高，接下来是比较笨的人，然后是像我一样的普通人，再往上是天才。智商越高，智能就越高。这种看法是完全错误的。这根本就不是智能，人类智能也并非如此。智能更像由不同音符组成的交响乐，每个音符由不同的认知乐器来奏响。
+Để tôi nói cho các bạn ba mặtkhác nhau dưới đây.Đầu tiên, sự hiểu biết của bản thân chúngta có một ý niệm rất nghèo nànvề việc thông minh là gì.Chúng ta có xu hướng nghĩ về sự thông minhchỉ theo một chiều,rằng nó giống như một ghi chép càngngày càng lớn hơn.Nó bắt đầu với phép đo chỉ số IQPhép đo khởi đầu cùng với một IQtương đối thấp của loài chuột,và có thể có nhiều hơn trên mộtcon vượnvà cả trên một người ngớ ngẩn nữa,có thể trên một người bình thườngnhư tôicó thể là một thiên tài.Và trí thông minh IQ đang ngày càngmạnh hơn.Điều đó hoàn toàn sai.Đó không phải trí thông minhkhông phải là trí thông minh loài người.Nó giống một một bản nhạc giao hưởng củacác nốt nhạc khác nhau nhiều hơn,và mỗi một nốt nhạc này được chơi trênmột công cụ nhận thức khác nhau.
+ 4:26
+人类的心智包含了多种智能。我们可以进行演绎推理，我们具备情绪智力，我们有空间智能。我们可能有一百种不同的智能集合在一起，它们在不同人的身上也体现得强弱不一。而动物们则可能是另一套体系——由其他智能组成的另一首交响乐，当然，有些乐器与人类是相同的。可能思考的方式相同但侧重点不同，某些方面可能还强于人类，像松鼠的长期记忆就很了不得，能清楚记得坚果的埋藏之所。但在另外一些方面可能不如人类。
+Có rất nhiều loại trí thông minh trongđầu của bản thân chúng ta.Chúng ta có lập luận diễn dịch,chúng ta có trí tuệ cảm xúc,chúng ta có trí tuệ không gian;chúng ta có thể có 100 loại khác nhau vàtất cả được nhóm lại với nhau,và chúng thay đổi ở cường độ khác nhauvới những người khác nhau.Và đương nhiên, nếu chúng ta để ý đếnđộng vật, chúng cũng có một thứmột sự hòa âm khác của các loạitrí tuệ khác nhau,và đôi khi những nhạc cụ tương tự đógiống với những thứ chúng ta cóChúng có thể nghĩ với cùng một cách nhưngcó lẽ có một cách sắp xếp khác,có lẽ chúng cao hơn loài ngườiở một số trường hợp,như trí tuệ dài hạn ở một chú sócthật sự là lạ thường,vì thế nó có thể nhớ nơinó chôn những quả hạch.Ở những trường hợp khácchúng thấp hơn.
+ 5:09
+当我们制造机器时，也会用同样的方式来设计它们，它们在某些方面会比我们聪明得多，而在其他方面则远远不如我们，因为根本没必要。我们会用这些东西，这些人造的功能组合，为我们的 AI 添加各种各样的人工认知。我们会让它们（的功能）非常具体。
+Khi chúng ta tạo ra máy móc,chúng ta sẽ bố trí chúng theocùng một cách,nơi chúng ta sẽ tạo ra một vài loại tríthông minh hơn cả của chúng ta,và nhiều trong số chúng sẽkhông giống của chúng ta,bởi vì chúng không cần thiết.Vì vậy chúng ta sẽ nắm lấy những thứ này,những tập hợp nhân tạo,và chúng ta sẽ thêm nhiều trí tuệ nhântạo vào Al của chúng ta.Chúng ta khiến chúng trở nên rất rấtcụ thể.
+ 5:37
+比方说，计算器在数学运算上要比我们聪明得多；GPS 的空间导航能力远胜过我们；谷歌、必应在长期记忆上完胜我们。然后我们再把这些不同类型的智能塞到……比如说汽车里，实现自动行驶。我们之所以这么做，正是因为它的驾驶方式跟我们不一样。它不像我们那样思考。这恰恰是它的特点。它不会分心，不会担心是否忘记了关炉子，不会纠结要不要选金融专业。它只知道开车。
+Vì thế về số học, máy tính của bạn đãthông minh hơn bạn rồi;GPS của bạn thông minh hơn bạn trong việcđịnh vị không gian;Google, Bing thông minh hơn bạn vềtrí nhớ dài hạn.Và chúng ta sẽ lần nữa có lại được nhữngloại suy nghĩ khác nhauvà ta sẽ cho chúng vào mộtchiếc ô tô.Lý do chúng tôi muốn để chúng vào mộtchiếc ô tô là để nó lái,vì nó không lái giống người lái.Nó không nghĩ giống chúng ta.Nó là một chi tiết nằm trong tổng thể.Nó không bị làm cho sao nhãng,nó không lo lắng về liệu có dời đi vớicái lò chưa tắt,hay nó có nên chuyên tâm vàovấn đề tài chính.Nó chỉ lái thôi.
+ 6:16
+（笑声）
+(tiếng cười)
+ 6:17
+它会专心开车，对吧？我们甚至可以把这个做为卖点，叫做“无意识”。它们没有意识，不会东想西想，不会分心。
+Chỉ lái thôi, OK?Và chúng ta thậm chí có thểquảng bá về chúngnhư thể: &quot;không có ý thức.&quot;Chúng không có ý thức,chúng không quan tâm đếnnhững điều đó,chúng không bị phân tâm.
+ 6:28
+所以，我们应该尽我们所能制造各种各样的思考（机器）。我们应该去尝试所有可能的思考方式。在商业和科学上，我们会遇到一些难题，单凭人类自身的思考无法解决。我们可能需要分两步走，先发明出新的思考方式，再与它们一起解决这些真正的难题，比如暗能量和量子引力。
+Nhìn chung, cái chúng ta đang cố gắng làmlà tạo ra càng nhiều loại suy nghĩkhác biệt có thể.Chúng ta sẽ đưa dân đếnkhoảng khôngcủa tất cả các loại suy nghĩkhác biệt có thể.Và thực sự có lẽ có một số vấn đềkhó khăn trong khoa học vàkinh tếmà loại suy nghĩ của loài người khôngthể có khả năng tự giải quyết.Chúng ta cần một chương trình gồm 2 bước,để sáng lập những loại suy nghĩ mớichúng ta có thể làm việc cùng lúc đểgiải quyết những vấn đề lớn,như năng lượng tối hay lực hấp dẫnlượng tử chẳng hạn.
+ 7:07
+我们实际上是在创造异形智能。某种意义上，甚至可以将它们看作人造异形。它们将帮助我们用不同的方式思考，而换一种思考方式是创造的源泉，是财富和新经济的引擎。
+Cái chúng ta đang làm là tạo ratrí tuệ ngoài hành tinh.Bạn thậm chí có thể nghĩ về nó như nhữngngười ngoài hành tinh nhân tạotheo một vài hướng.Và chúng sẽ giúp chúng ta nghĩ khác đibởi vì suy nghĩ khác biệt làphương tiện của sự sáng tạocủa cải và nền kinh tế mới.
+ 7:24
+第二点是，我们将用 AI推动第二次工业革命。在第一次工业革命中，人类发明了我称之为“人造能源”的东西。在此之前，在农业革命时期，制造业靠人力驱动，或者靠畜力。除此之外别无他法。工业革命时期的伟大发明就是人们利用化石燃料和蒸汽所产生的“人造能源”来做我们想做的任何事情。今天，当我们开车行驶在高速上，只需轻轻拨弄开关，就能驾驭 250 匹马——或者说，250 匹马的马力——我们可以建造高楼大厦，修建道路，建设城市，开办工厂，源源不断地生产桌椅或冰箱，这些都远远超出了人力所为。这种“人造能源”还可以通过电网和电线输送到家庭、工厂和农庄，任何人都可以购买这种“人造能源”，只需插上插头就可以使用。
+Ở khía cạnh thứ hai, chúng tasẽ sử dụng Alvề cơ bản để tạo ra cuộc cách mạngcông nghiệp thứ hai.Cuộc cách mạng công nghiệp thứ nhấtđược dựa trên sự thậtrằng chúng ta đã tạo ra một vài thứchúng ta gọi là năng lượng nhân tạo.Trước đó,trong suốt cuộc cách mạng nông nghiệp,mọi thứ được tạo ra phải được làm bởisức lực cơ bắp của con ngườihoặc sức mạnh của động vật.Đó đã từng là cách duy nhất đểlàm mọi thứ.Sáng kiến lớn trong suốt thời kìcách mạng công nghiệp là,chúng ta khai thác năng lượng hơi nước,nhiên liệu hóa thạch,để tạo ra năng lượng nhân tạochúng ta có thể sử dụngđể làm bất cứ thứ gì chúng ta muốn.Vì vậy ngày nay khi bạn lái xe trênđường cao tốc,chỉ cần một cái xoay nhẹ công tắctương đương với điều khiển 250 con ngựa250 mã lựcchúng ta có thể xây dựng tòa nhàchọc trời, xây thành phố, xây đường,tạo ra các nhà máy sản xuất đại tràcác dòng ghế hoặc tủ lạnhvượt xa năng lực của chúng ta.Năng lượng nhân tạo cũng có thể được phânphát qua lưới điện hay một chấn song sắtđể đi đến mọi nhà, xí nghiệp, trang trại,và tới bất cứ ai có thể muanăng lượng nhân tạo này,chỉ bằng cách cắm phích điện.
+ 8:38
+它也带来了很多创新，农民可以为手动泵通上电，加上这种“人造能源”，就变成了电泵。类似的改造成千上万，这个（人力器械+人造能源的）公式造就了工业革命。今天我们看到的所有事物，享受的所有服务，几乎都来源于此。
+Vì thế đây là một nguồn sáng kiếncũng nhưbởi vì một người nông dân có thểđiều khiển máy bơm bằng tay,và chúng có thể thêm năng lượng nhân tạo,là nguồn điện,và anh ta có một máy bơm điện.Và bạn làm tăng nguồn năng lượng lên hàngngàn hay hàng chục ngàn lần,và cách thức đó mang chúng ta đến vớicuộc cách mạng công nghiệp.tất cả những thứ ta thấy, tất cảnhững tiến bộ giờ ta đang tận hưởng,đều xuất phát từ thực tế chúng ta làm.
+ 9:01
+现在我们要用 AI 做同样的事情。我们用网路传输 AI，把 AI 加载到诸如电泵之类的东西上，就得到了聪明的电泵。类似的改造做上几百万次，就会掀起第二次工业革命。那么将来汽车行驶在高速上，它不仅有 250倍马力，还有 250倍的脑力。这就是自动驾驶汽车。它是一种新的商品，是一种新的基础设施。AI 将会在网络、在云端传输，就像电一样。
+Bây giờ chúng ta sẽ làm điềutương tự với Al.Ta sẽ phân phát nó theo mộthệ thống dây,và bây giờ bạn có thể dùngmáy bơm bằng điện.Bạn có thể thêm trí thông minh nhân tạo,và giờ bạn có mộtmáy bơm nhanh.Thứ được tăng công lực gấp 1 triệu lần,sẽ có mặt ở cuộc cách mạngcông nghiệp lần hai.Vì thế giờ ô tô sẽ đi trên đường cao tốc,với 250 mã lực nhưngthêm vào đó là 250 trí ócĐó là ô tô tự động lái.nó như một hàng hóakiểu mới;nó là một tiện ích mới.Al sẽ chảy qua hệ thống đường dây-đám mây-với cách giống như dòng điện.
+ 9:33
+所以凡是可以用电的地方，都可以用 AI。而我可以建议说，未来一万家创业公司的秘诀其实非常非常简单：拿来某样东西，加上 AI。这个公式就是我们将要不断践行的。我们将以这种方式来掀起第二次工业革命。顺便说一句，就在此时，你可以登录谷歌，购买 AI：用6美分购买100次服务。这个服务现在就能用。
+Vì thế mọi thứ chúng ta nạp điện,Chúng ta sẽ nhận thức được.Và tôi muốn nói rằng,công thức cho 10.000 bướckhởi nghiệp tiếp theovô cùng đơn giản,là lấy x và thêm Al.Đó là cách thức mà chúng tasẽ đang làm.Và đó là cách mà chúng ta sẽ tạo racách mạng công nghiệp lần thứ hai.và ngay bây giờ, giờ phút này,bạn có thể đăng nhập Googlevà bạn có thể mua Al với 6 xu,100 lượt truy cập.Ngay bây giờ điều này là sẵn có.
+10:05
+第三点是，我们将AI实体化，就得到了机器人。机器人可以帮助我们，完成许多曾经需要我们亲力亲为的任务。而工作就是一系列的任务，我们的工作将会被重新定义，一部分任务将交给机器人来完成。与此同时，也将产生一大批不同种类的新任务，一批以往我们没有意识到要去做的任务。它们甚至有可能催生出新的职业，我们感兴趣的新工作，就像自动化带来的许多新事物，我们之前并不知道会需要它们，但今天我们已经离不开它们了。所以机器人带来的工作机会比它们抢走的要多。更重要的是，我们交给它们的都是需要效率或生产率的任务。如果一个任务，不管是体力的还是脑力的，可以用效率或生产率来衡量，那么就应该交给机器人来完成。需要效率的事情交给机器人好了。我们真正擅长的是浪费时间。
+Khía cạnh thứ balà khi chúng ta có Al và biểu hiệncho điều đó,chúng ta có robots.Và robots sẽ là cácchương trình máychúng sẽ làm nhiều nhiệm vụmà chúng ta đã làm.Một việc gồm một mớ cácnhiệm vụ,do đó chúng sẽ đánh giá lại việc làmvì chúng sẽ làm một vàinhiệm vụ đó.Nhưng chúng cũng sẽ tạo ra nhữngloại hoàn toàn mới,một số lượng lớn các nhiệm vụhoàn toàn mớimà chúng ta không biết tađã muốn làm trước đó.Chúng sẽ thực sự đem lại nhữngloại nghề nghiệp mới,những loại nhiệm vụ mới màchúng ta muốn làm,chỉ như tự động hóa tạo ra mộtbó những thứ mới mẻmà chúng ta không biết ta cầntrước đó,và giờ ta không thể sốngthiếu chúng.Vì thế chúng sẽ sản sinh thậm chí nhiềunghề hơn chúng lấy đi,nhưng quan trọng là nhiều nhiệm vụ màchúng ta sẽ giao cho chúngcó thể được chỉ rõ dựa theotính hiệu quả và năng suất.Nếu bạn có thể chỉ rõ một nhiệm vụ,hoặc là bằng tay hoặc thuộc nhận thức,rằng có thể được chỉ ra dựa theotính hiệu quả hay năng suất,đi tới những chương trình máy tính.Năng suất là nhờ robots.Cái mà chúng ta thực sự giỏi đólà gây lãng phí thời gian.
+11:15
+（笑声）
+(tiếng cười)
+11:15
+我们最擅长做那些没有效率的事情。科学从本质上来说是低效的。我们一次又一次的失败，很多试验和尝试都徒劳无功，否则我们也学不到什么东西。事实就是，科学研究没有什么效率。创新从定义上来说就是低效的。毕竟我们需要制作原型，需要做各种尝试，经历各种失败。探索是低效的。艺术是低效的。人际关系也是低效的。这些都是我们喜欢做的事情，因为它们都是低效的。高效是机器人的使命。还要认识到，我们将和 AI 一起工作，因为它们的思维方式与我们不同。
+Ta thực sự giỏi ở những thứkhông có khả năng.Khoa học vốn không hiệu quả.Nó dẫn đến sự thật là bạn thất bạihết lần này đến lần khác.Nó đưa ra sự thật rằng bạn làm những bàitest và thí nghiệm không thành,mặt khác bạn đang không học.Nó đưa ra sự thật lànó không có nhiều hiệu quả.Sự đổi mới theo định nghĩalà không hiệu quả,vì bạn tạo ra nguyên mẫu,vì bạn thử những thứ gây thất bại,không làm được việc.Sự khám phá vốn không hiệu quả.Nghệ thuật không hiệu quả.Mối quan hệ của con người khônghiệu quả.Đó là tất cả những thứ chúng ta hướng đến,vì chúng không hiệu quả.Hiệu quả là nhờ robots.Chúng ta cũng sẽ học được rằngchúng ta làm việc cùng Alvì chúng suy nghĩ khác chúng ta.
+12:01
+在“深蓝”战胜国际象棋的世界冠军后，人们以为国际象棋没什么玩头了。但事实上，目前世界上最厉害的国际象棋冠军并不是 AI，也不是人类，而是由人类和 AI 组成的团队。最棒的医学诊疗师既不是医生，也不是 AI，而是他们组成的团队。也就是说我们将和 AI 一起工作，你将来的薪酬，很可能取决于你跟机器人合作得如何。这就是我想说的第三点：AI 是不同于我们的，它们是技术设备，我们将与它们合作，而非竞争。
+Khi Deep Blue đánh bại nhà vô địch cờ vuagiỏi nhất thế giới,mọi người nghĩ đó là kết thúccủa cờ vua.Nhưng thực tế, hóa ra ngày nay, nhàvô địch cờ vua giỏi nhất thế giớikhông phải là một Al.không là một con người.Nó là một đội gồm một người và một Al.Thầy thuốc chẩn đoán giỏi nhất không phảimột bác sĩ hay Al,Nó là một đội.Chúng ta đang và sẽ làm việc với Al,và tôi nghĩ bạn sẽ được trả lươngtheo cách bạn làm việc với nhữngchương trình máy.Đó là điều thứ ba, rằng chúnglà khác biệt,chúng có íchvà chúng sẽ trở thành thứ mà chúng talàm việc cùng hơn là chống lại.Chúng ta sẽ làm việc cùng hơn làchống lại chúng.
+12:42
+那么，未来会如何？我想，25年后我们回头再看今天对 AI 的理解，我们会说：“你们那都不叫 AI。你们甚至都还没有真正的因特网，25年后的因特网才能叫因特网呢。“我们也还没有真正的 AI 专家。而大量的资本正涌向这个领域，动辄数十亿美金，这是一个巨大的产业。但我们尚未拥有真正的 AI 专家——如果跟20年后相比的话。我们还处在最初的起步阶段，所有一切才刚刚开始。因特网的历史才刚刚开始。美好的未来才刚刚开始。未来20年最受欢迎的 AI 产品，最普及的 AI 产品，还没有被发明呢。也就是说，你们还有机会。
+Vì vậy, tương lai:Nó đưa chúng ta đi về đâu?Tôi nghĩ rằng 25 năm kể từ bây giờ,họ sẽ nhìn lạinhìn vào sự hiểu biết về Al củachúng ta và nói,&quot;Bạn đã không có Al. Sự thật, bạn thậm chíchưa có Internet,so với cái chúng ta sẽ có sau 25 năm.&quot;Ngay lúc này ta chưa có nhữngchuyên gia Al.Có rất nhiều tiền được đổ vào đó,Có hàng tỉ đô-la được chi vào đó;Nó là một món kinh doanh khổng lồ,nhưng chẳng có một chuyên gia nào khiso với cái mà chúng ta sẽ biết sau 25 năm.Vì thế chúng ta chỉ đang ở điểm bắt đầu,ta ở giờ đầu tiên của tất cảnhững điều này.Chúng ta ở giờ đầu tiên của Internet.Ta ở giờ đầu tiên của cái đangxảy đến.Sản phẩm Al phổ biến nhất trong 20 năm tớilà cái mọi người đều sử dụng,chưa từng được phát minh.Điều đó có nghĩa là bạn vẫn chưa muộn.
+13:34
+谢谢！
+Cảm ơn.
+13:35
+（笑声）
+(tiếng cười)
+13:36
+（掌声）
+(tiếng vỗ tay)
+ 0:13
+我打算谈一谈技术的发展趋势。当（新的）技术到来时，常常会令我们感到惊讶。但事实上，技术在很大程度上是能够被预见的。这是因为所有的技术都有某种倾向性，有某种冲动，有某种趋势。这些趋势是由电线、开关、以及电子的物理和化学本质所决定的，并且呈现出不断重复的模式。或者说，这些模式形成了某种趋势、某种倾向。
+Tôi sẽ nói về việc công nghệđang đi về đâu.Và thường khi công nghệ tìm đến chúng ta,ta ngạc nhiên bởi cái nó mang lại.Nhưng thực sự có một khía cạnhlớn của công nghệcái mà có thể đoán trước được phần nhiều,là bởi vì các hệ thống công nghệ đều có những thiên hướng,chúng có tính khấn cấp,chúng có những xu hướng.Những xu hướng đó được bắt nguồntừ bản chất tự nhiên của vật lý,hóa học dây kim loại, những sựchuyển mạch và các hạt điện tử,và chúng sẽ tạo ra những khuônmẫu xảy ra lặp đi lặp lại.Và những khuôn mẫu đó tạo ranhững xu hướng, khuynh hướng.
+ 0:53
+你可以把它看成类似于重力的东西。想象雨点汇入山谷：一滴雨点流入山谷的实际路径是无法预测的。我们并不知道它的具体走向，但大方向是很显然的：它往下流。因此，这些内在趋势和冲动，深深扎根于技术系统中，使我们能够感知它们的大体方向。具体点说，电话是必然的，但 iPhone 不是；因特网是必然的，但推特不是。
+Bạn có thể hầu như nghĩ về nó như một loại trọng lực.Tưởng tượng những hạt mưarơi xuống thung lũngQuỹ đạo thực sự của một hạt mưakhi nó rơi xuống thung lũnglà không thể đoán trước.Ta không thể thấy nơi nó đến,nhưng hướng đi chung vẫn thường nhận ra:Là đi xuống.Vì thế những xu thế và sự khẩnthiết không thể tách rờitrong các hệ thống công nghệcho ta một cảm giác nơi chúng đitới một dạng thức lớn.Một cách cụ thể hơn,Tôi muốn nói rằng điện thoạilà chắc chắn xảy ra,nhưng iPhone thì không.Internet là chắc chắn xảy ra,nhưng Twitter thì không.
+ 1:32
+同样道理，当下有许多正在发生的趋势，而我认为其中最重要的一个是让物体变得越来越聪明。我称之为“知化”，也就是人们常说的人工智能，或者 AI。我认为在未来二十年中，这将是社会中最具影响力的发展趋势和驱动力。
+Vì thế chúng ta có rất nhiều nhữngxu hướng đang xảy ra ngay lúc này,và tôi nghĩ rằng một trong nhữngxu hướng trọng yếulà làm mọi thứ trở nênngày càng thông minh hơn.Tôi gọi nó là cognifying — cognification —cũng được biết như là trí tuệ nhântạo hay Al.Và tôi nghĩ rằng nó sẽ trở thànhmột trong những sự phát triển xu hướng, xu thế có tầm ảnh hưởngnhất của xã hội trong 20 năm tới.
+ 1:58
+当然，它已经发生了。我们已经有了 AI，它们通常都隐身在后台工作，在医院里，AI 分析 X 光片的水准比人类医生还要棒。在律所里，AI 核查证物的本事比人类助理律师还要强。我们乘坐的飞机是由 AI 在驾驶。人类驾驶员只飞个七、八分钟而已；其他时间都是 AI 在操控。当然，在 Netflix 和亚马逊网站，是AI在后台进行推荐。这些都是我们已经实现的。
+Và tất nhiên, nó đã ở đâyChúng ta đã có Al,và thường nó làm việc hậu trường,ở trụ sở sau các bệnh viện,nơi nó được dùng để chẩn đoántia X tốt hơn một bác sĩ thật.Nó làm cho các cơ quan pháp lý,nơi nó được dùng để thông quabằng chứng hợp pháptốt hơn một luật sư loài người.Nó được dùng để lái máy baymà bạn sử dụng để tới đây.Người phi công chỉ lái nó từ7 đến 8 phút,còn lại Al sẽ đảm nhiệmviệc lái.Và tất nhiên, tại Netflix và Amazon,nó làm việc hậu trường chuyênđưa ra các gợi ý.Và đó là thứ ta cóhôm nay.
+ 2:33
+我们也有一些更前沿的例子，比如“阿尔法狗”战胜了人类最强的围棋世界冠军。但还不止于此。我们打电玩时，对手往往是 AI。不过最近，谷歌教会了他们的 AI自己学习如何打电子游戏。教（AI）打游戏已经不是什么新鲜事了，但（AI）自己学习打游戏则是另一个境界。这就是人工智慧。我们正在以此为起点，让它变得越来越聪明。
+Và chúng ta có một ví dụ,ở mặt trước của nó nhiều hơn,với thắng lợi của AlphaGo, người đánh bạiGo, nhà vô địch thế giới.Nhưng nhiều hơn thế.Nếu bạn chơi video game,bạn đang chơi lại với một Al.Nhưng gần đây, Google đã dạy Al của họhọc cách chơi video games thực sự.Một lần nữa, việc dạy về video gamesđã được hoàn thành,nhưng học cách để chơi video gamelà một bước khác nữa.Đó là trí thông minh nhân tạo.Cái chúng ta đang làm là nắm lấytrí tuệ thông minh nàyvà chúng ta đang làm nó ngày càngthông minh hơn.
+ 3:17
+在这个大趋势中，我认为有三点尚未被充分认识；如果我们能理解这三点，就能更好的理解 AI，并更加全身心的拥抱 AI。只有拥抱 AI，才能控制AI。我们可以通过拥抱大趋势来控制细节。
+Có ba khía cạnh với xu thếchung nàymà tôi nghĩ đã bị xem thườngTôi nghĩ chúng ta sẽ hiểuAl tốt hơn nhiềunếu chúng ta hiểu ba điều này.Tôi nghĩ những điều đó cũnggiúp chúng ta có được Al,vì chỉ bằng cách nắm bắt nóta mới thực sự có thể điều khiển nó.Ta có thể thực sự hướng các đặc trưngbởi chấp nhận xu thế lớn hơn.
+ 3:38
+所以，请允许我谈谈这三点。第一点，我们自己尚未很好的理解什么是智能。我们通常认为智能是单维度的，就像一个越来越响的音符。我们用智商来衡量它。老鼠的智商较低，猩猩的智商较高，接下来是比较笨的人，然后是像我一样的普通人，再往上是天才。智商越高，智能就越高。这种看法是完全错误的。这根本就不是智能，人类智能也并非如此。智能更像由不同音符组成的交响乐，每个音符由不同的认知乐器来奏响。
+Để tôi nói cho các bạn ba mặtkhác nhau dưới đây.Đầu tiên, sự hiểu biết của bản thân chúngta có một ý niệm rất nghèo nànvề việc thông minh là gì.Chúng ta có xu hướng nghĩ về sự thông minhchỉ theo một chiều,rằng nó giống như một ghi chép càngngày càng lớn hơn.Nó bắt đầu với phép đo chỉ số IQPhép đo khởi đầu cùng với một IQtương đối thấp của loài chuột,và có thể có nhiều hơn trên mộtcon vượnvà cả trên một người ngớ ngẩn nữa,có thể trên một người bình thườngnhư tôicó thể là một thiên tài.Và trí thông minh IQ đang ngày càngmạnh hơn.Điều đó hoàn toàn sai.Đó không phải trí thông minhkhông phải là trí thông minh loài người.Nó giống một một bản nhạc giao hưởng củacác nốt nhạc khác nhau nhiều hơn,và mỗi một nốt nhạc này được chơi trênmột công cụ nhận thức khác nhau.
+ 4:26
+人类的心智包含了多种智能。我们可以进行演绎推理，我们具备情绪智力，我们有空间智能。我们可能有一百种不同的智能集合在一起，它们在不同人的身上也体现得强弱不一。而动物们则可能是另一套体系——由其他智能组成的另一首交响乐，当然，有些乐器与人类是相同的。可能思考的方式相同但侧重点不同，某些方面可能还强于人类，像松鼠的长期记忆就很了不得，能清楚记得坚果的埋藏之所。但在另外一些方面可能不如人类。
+Có rất nhiều loại trí thông minh trongđầu của bản thân chúng ta.Chúng ta có lập luận diễn dịch,chúng ta có trí tuệ cảm xúc,chúng ta có trí tuệ không gian;chúng ta có thể có 100 loại khác nhau vàtất cả được nhóm lại với nhau,và chúng thay đổi ở cường độ khác nhauvới những người khác nhau.Và đương nhiên, nếu chúng ta để ý đếnđộng vật, chúng cũng có một thứmột sự hòa âm khác của các loạitrí tuệ khác nhau,và đôi khi những nhạc cụ tương tự đógiống với những thứ chúng ta cóChúng có thể nghĩ với cùng một cách nhưngcó lẽ có một cách sắp xếp khác,có lẽ chúng cao hơn loài ngườiở một số trường hợp,như trí tuệ dài hạn ở một chú sócthật sự là lạ thường,vì thế nó có thể nhớ nơinó chôn những quả hạch.Ở những trường hợp khácchúng thấp hơn.
+ 5:09
+当我们制造机器时，也会用同样的方式来设计它们，它们在某些方面会比我们聪明得多，而在其他方面则远远不如我们，因为根本没必要。我们会用这些东西，这些人造的功能组合，为我们的 AI 添加各种各样的人工认知。我们会让它们（的功能）非常具体。
+Khi chúng ta tạo ra máy móc,chúng ta sẽ bố trí chúng theocùng một cách,nơi chúng ta sẽ tạo ra một vài loại tríthông minh hơn cả của chúng ta,và nhiều trong số chúng sẽkhông giống của chúng ta,bởi vì chúng không cần thiết.Vì vậy chúng ta sẽ nắm lấy những thứ này,những tập hợp nhân tạo,và chúng ta sẽ thêm nhiều trí tuệ nhântạo vào Al của chúng ta.Chúng ta khiến chúng trở nên rất rấtcụ thể.
+ 5:37
+比方说，计算器在数学运算上要比我们聪明得多；GPS 的空间导航能力远胜过我们；谷歌、必应在长期记忆上完胜我们。然后我们再把这些不同类型的智能塞到……比如说汽车里，实现自动行驶。我们之所以这么做，正是因为它的驾驶方式跟我们不一样。它不像我们那样思考。这恰恰是它的特点。它不会分心，不会担心是否忘记了关炉子，不会纠结要不要选金融专业。它只知道开车。
+Vì thế về số học, máy tính của bạn đãthông minh hơn bạn rồi;GPS của bạn thông minh hơn bạn trong việcđịnh vị không gian;Google, Bing thông minh hơn bạn vềtrí nhớ dài hạn.Và chúng ta sẽ lần nữa có lại được nhữngloại suy nghĩ khác nhauvà ta sẽ cho chúng vào mộtchiếc ô tô.Lý do chúng tôi muốn để chúng vào mộtchiếc ô tô là để nó lái,vì nó không lái giống người lái.Nó không nghĩ giống chúng ta.Nó là một chi tiết nằm trong tổng thể.Nó không bị làm cho sao nhãng,nó không lo lắng về liệu có dời đi vớicái lò chưa tắt,hay nó có nên chuyên tâm vàovấn đề tài chính.Nó chỉ lái thôi.
+ 6:16
+（笑声）
+(tiếng cười)
+ 6:17
+它会专心开车，对吧？我们甚至可以把这个做为卖点，叫做“无意识”。它们没有意识，不会东想西想，不会分心。
+Chỉ lái thôi, OK?Và chúng ta thậm chí có thểquảng bá về chúngnhư thể: &quot;không có ý thức.&quot;Chúng không có ý thức,chúng không quan tâm đếnnhững điều đó,chúng không bị phân tâm.
+ 6:28
+所以，我们应该尽我们所能制造各种各样的思考（机器）。我们应该去尝试所有可能的思考方式。在商业和科学上，我们会遇到一些难题，单凭人类自身的思考无法解决。我们可能需要分两步走，先发明出新的思考方式，再与它们一起解决这些真正的难题，比如暗能量和量子引力。
+Nhìn chung, cái chúng ta đang cố gắng làmlà tạo ra càng nhiều loại suy nghĩkhác biệt có thể.Chúng ta sẽ đưa dân đếnkhoảng khôngcủa tất cả các loại suy nghĩkhác biệt có thể.Và thực sự có lẽ có một số vấn đềkhó khăn trong khoa học vàkinh tếmà loại suy nghĩ của loài người khôngthể có khả năng tự giải quyết.Chúng ta cần một chương trình gồm 2 bước,để sáng lập những loại suy nghĩ mớichúng ta có thể làm việc cùng lúc đểgiải quyết những vấn đề lớn,như năng lượng tối hay lực hấp dẫnlượng tử chẳng hạn.
+ 7:07
+我们实际上是在创造异形智能。某种意义上，甚至可以将它们看作人造异形。它们将帮助我们用不同的方式思考，而换一种思考方式是创造的源泉，是财富和新经济的引擎。
+Cái chúng ta đang làm là tạo ratrí tuệ ngoài hành tinh.Bạn thậm chí có thể nghĩ về nó như nhữngngười ngoài hành tinh nhân tạotheo một vài hướng.Và chúng sẽ giúp chúng ta nghĩ khác đibởi vì suy nghĩ khác biệt làphương tiện của sự sáng tạocủa cải và nền kinh tế mới.
+ 7:24
+第二点是，我们将用 AI推动第二次工业革命。在第一次工业革命中，人类发明了我称之为“人造能源”的东西。在此之前，在农业革命时期，制造业靠人力驱动，或者靠畜力。除此之外别无他法。工业革命时期的伟大发明就是人们利用化石燃料和蒸汽所产生的“人造能源”来做我们想做的任何事情。今天，当我们开车行驶在高速上，只需轻轻拨弄开关，就能驾驭 250 匹马——或者说，250 匹马的马力——我们可以建造高楼大厦，修建道路，建设城市，开办工厂，源源不断地生产桌椅或冰箱，这些都远远超出了人力所为。这种“人造能源”还可以通过电网和电线输送到家庭、工厂和农庄，任何人都可以购买这种“人造能源”，只需插上插头就可以使用。
+Ở khía cạnh thứ hai, chúng tasẽ sử dụng Alvề cơ bản để tạo ra cuộc cách mạngcông nghiệp thứ hai.Cuộc cách mạng công nghiệp thứ nhấtđược dựa trên sự thậtrằng chúng ta đã tạo ra một vài thứchúng ta gọi là năng lượng nhân tạo.Trước đó,trong suốt cuộc cách mạng nông nghiệp,mọi thứ được tạo ra phải được làm bởisức lực cơ bắp của con ngườihoặc sức mạnh của động vật.Đó đã từng là cách duy nhất đểlàm mọi thứ.Sáng kiến lớn trong suốt thời kìcách mạng công nghiệp là,chúng ta khai thác năng lượng hơi nước,nhiên liệu hóa thạch,để tạo ra năng lượng nhân tạochúng ta có thể sử dụngđể làm bất cứ thứ gì chúng ta muốn.Vì vậy ngày nay khi bạn lái xe trênđường cao tốc,chỉ cần một cái xoay nhẹ công tắctương đương với điều khiển 250 con ngựa250 mã lựcchúng ta có thể xây dựng tòa nhàchọc trời, xây thành phố, xây đường,tạo ra các nhà máy sản xuất đại tràcác dòng ghế hoặc tủ lạnhvượt xa năng lực của chúng ta.Năng lượng nhân tạo cũng có thể được phânphát qua lưới điện hay một chấn song sắtđể đi đến mọi nhà, xí nghiệp, trang trại,và tới bất cứ ai có thể muanăng lượng nhân tạo này,chỉ bằng cách cắm phích điện.
+ 8:38
+它也带来了很多创新，农民可以为手动泵通上电，加上这种“人造能源”，就变成了电泵。类似的改造成千上万，这个（人力器械+人造能源的）公式造就了工业革命。今天我们看到的所有事物，享受的所有服务，几乎都来源于此。
+Vì thế đây là một nguồn sáng kiếncũng nhưbởi vì một người nông dân có thểđiều khiển máy bơm bằng tay,và chúng có thể thêm năng lượng nhân tạo,là nguồn điện,và anh ta có một máy bơm điện.Và bạn làm tăng nguồn năng lượng lên hàngngàn hay hàng chục ngàn lần,và cách thức đó mang chúng ta đến vớicuộc cách mạng công nghiệp.tất cả những thứ ta thấy, tất cảnhững tiến bộ giờ ta đang tận hưởng,đều xuất phát từ thực tế chúng ta làm.
+ 9:01
+现在我们要用 AI 做同样的事情。我们用网路传输 AI，把 AI 加载到诸如电泵之类的东西上，就得到了聪明的电泵。类似的改造做上几百万次，就会掀起第二次工业革命。那么将来汽车行驶在高速上，它不仅有 250倍马力，还有 250倍的脑力。这就是自动驾驶汽车。它是一种新的商品，是一种新的基础设施。AI 将会在网络、在云端传输，就像电一样。
+Bây giờ chúng ta sẽ làm điềutương tự với Al.Ta sẽ phân phát nó theo mộthệ thống dây,và bây giờ bạn có thể dùngmáy bơm bằng điện.Bạn có thể thêm trí thông minh nhân tạo,và giờ bạn có mộtmáy bơm nhanh.Thứ được tăng công lực gấp 1 triệu lần,sẽ có mặt ở cuộc cách mạngcông nghiệp lần hai.Vì thế giờ ô tô sẽ đi trên đường cao tốc,với 250 mã lực nhưngthêm vào đó là 250 trí ócĐó là ô tô tự động lái.nó như một hàng hóakiểu mới;nó là một tiện ích mới.Al sẽ chảy qua hệ thống đường dây-đám mây-với cách giống như dòng điện.
+ 9:33
+所以凡是可以用电的地方，都可以用 AI。而我可以建议说，未来一万家创业公司的秘诀其实非常非常简单：拿来某样东西，加上 AI。这个公式就是我们将要不断践行的。我们将以这种方式来掀起第二次工业革命。顺便说一句，就在此时，你可以登录谷歌，购买 AI：用6美分购买100次服务。这个服务现在就能用。
+Vì thế mọi thứ chúng ta nạp điện,Chúng ta sẽ nhận thức được.Và tôi muốn nói rằng,công thức cho 10.000 bướckhởi nghiệp tiếp theovô cùng đơn giản,là lấy x và thêm Al.Đó là cách thức mà chúng tasẽ đang làm.Và đó là cách mà chúng ta sẽ tạo racách mạng công nghiệp lần thứ hai.và ngay bây giờ, giờ phút này,bạn có thể đăng nhập Googlevà bạn có thể mua Al với 6 xu,100 lượt truy cập.Ngay bây giờ điều này là sẵn có.
+10:05
+第三点是，我们将AI实体化，就得到了机器人。机器人可以帮助我们，完成许多曾经需要我们亲力亲为的任务。而工作就是一系列的任务，我们的工作将会被重新定义，一部分任务将交给机器人来完成。与此同时，也将产生一大批不同种类的新任务，一批以往我们没有意识到要去做的任务。它们甚至有可能催生出新的职业，我们感兴趣的新工作，就像自动化带来的许多新事物，我们之前并不知道会需要它们，但今天我们已经离不开它们了。所以机器人带来的工作机会比它们抢走的要多。更重要的是，我们交给它们的都是需要效率或生产率的任务。如果一个任务，不管是体力的还是脑力的，可以用效率或生产率来衡量，那么就应该交给机器人来完成。需要效率的事情交给机器人好了。我们真正擅长的是浪费时间。
+Khía cạnh thứ balà khi chúng ta có Al và biểu hiệncho điều đó,chúng ta có robots.Và robots sẽ là cácchương trình máychúng sẽ làm nhiều nhiệm vụmà chúng ta đã làm.Một việc gồm một mớ cácnhiệm vụ,do đó chúng sẽ đánh giá lại việc làmvì chúng sẽ làm một vàinhiệm vụ đó.Nhưng chúng cũng sẽ tạo ra nhữngloại hoàn toàn mới,một số lượng lớn các nhiệm vụhoàn toàn mớimà chúng ta không biết tađã muốn làm trước đó.Chúng sẽ thực sự đem lại nhữngloại nghề nghiệp mới,những loại nhiệm vụ mới màchúng ta muốn làm,chỉ như tự động hóa tạo ra mộtbó những thứ mới mẻmà chúng ta không biết ta cầntrước đó,và giờ ta không thể sốngthiếu chúng.Vì thế chúng sẽ sản sinh thậm chí nhiềunghề hơn chúng lấy đi,nhưng quan trọng là nhiều nhiệm vụ màchúng ta sẽ giao cho chúngcó thể được chỉ rõ dựa theotính hiệu quả và năng suất.Nếu bạn có thể chỉ rõ một nhiệm vụ,hoặc là bằng tay hoặc thuộc nhận thức,rằng có thể được chỉ ra dựa theotính hiệu quả hay năng suất,đi tới những chương trình máy tính.Năng suất là nhờ robots.Cái mà chúng ta thực sự giỏi đólà gây lãng phí thời gian.
+11:15
+（笑声）
+(tiếng cười)
+11:15
+我们最擅长做那些没有效率的事情。科学从本质上来说是低效的。我们一次又一次的失败，很多试验和尝试都徒劳无功，否则我们也学不到什么东西。事实就是，科学研究没有什么效率。创新从定义上来说就是低效的。毕竟我们需要制作原型，需要做各种尝试，经历各种失败。探索是低效的。艺术是低效的。人际关系也是低效的。这些都是我们喜欢做的事情，因为它们都是低效的。高效是机器人的使命。还要认识到，我们将和 AI 一起工作，因为它们的思维方式与我们不同。
+Ta thực sự giỏi ở những thứkhông có khả năng.Khoa học vốn không hiệu quả.Nó dẫn đến sự thật là bạn thất bạihết lần này đến lần khác.Nó đưa ra sự thật rằng bạn làm những bàitest và thí nghiệm không thành,mặt khác bạn đang không học.Nó đưa ra sự thật lànó không có nhiều hiệu quả.Sự đổi mới theo định nghĩalà không hiệu quả,vì bạn tạo ra nguyên mẫu,vì bạn thử những thứ gây thất bại,không làm được việc.Sự khám phá vốn không hiệu quả.Nghệ thuật không hiệu quả.Mối quan hệ của con người khônghiệu quả.Đó là tất cả những thứ chúng ta hướng đến,vì chúng không hiệu quả.Hiệu quả là nhờ robots.Chúng ta cũng sẽ học được rằngchúng ta làm việc cùng Alvì chúng suy nghĩ khác chúng ta.
+12:01
+在“深蓝”战胜国际象棋的世界冠军后，人们以为国际象棋没什么玩头了。但事实上，目前世界上最厉害的国际象棋冠军并不是 AI，也不是人类，而是由人类和 AI 组成的团队。最棒的医学诊疗师既不是医生，也不是 AI，而是他们组成的团队。也就是说我们将和 AI 一起工作，你将来的薪酬，很可能取决于你跟机器人合作得如何。这就是我想说的第三点：AI 是不同于我们的，它们是技术设备，我们将与它们合作，而非竞争。
+Khi Deep Blue đánh bại nhà vô địch cờ vuagiỏi nhất thế giới,mọi người nghĩ đó là kết thúccủa cờ vua.Nhưng thực tế, hóa ra ngày nay, nhàvô địch cờ vua giỏi nhất thế giớikhông phải là một Al.không là một con người.Nó là một đội gồm một người và một Al.Thầy thuốc chẩn đoán giỏi nhất không phảimột bác sĩ hay Al,Nó là một đội.Chúng ta đang và sẽ làm việc với Al,và tôi nghĩ bạn sẽ được trả lươngtheo cách bạn làm việc với nhữngchương trình máy.Đó là điều thứ ba, rằng chúnglà khác biệt,chúng có íchvà chúng sẽ trở thành thứ mà chúng talàm việc cùng hơn là chống lại.Chúng ta sẽ làm việc cùng hơn làchống lại chúng.
+12:42
+那么，未来会如何？我想，25年后我们回头再看今天对 AI 的理解，我们会说：“你们那都不叫 AI。你们甚至都还没有真正的因特网，25年后的因特网才能叫因特网呢。“我们也还没有真正的 AI 专家。而大量的资本正涌向这个领域，动辄数十亿美金，这是一个巨大的产业。但我们尚未拥有真正的 AI 专家——如果跟20年后相比的话。我们还处在最初的起步阶段，所有一切才刚刚开始。因特网的历史才刚刚开始。美好的未来才刚刚开始。未来20年最受欢迎的 AI 产品，最普及的 AI 产品，还没有被发明呢。也就是说，你们还有机会。
+Vì vậy, tương lai:Nó đưa chúng ta đi về đâu?Tôi nghĩ rằng 25 năm kể từ bây giờ,họ sẽ nhìn lạinhìn vào sự hiểu biết về Al củachúng ta và nói,&quot;Bạn đã không có Al. Sự thật, bạn thậm chíchưa có Internet,so với cái chúng ta sẽ có sau 25 năm.&quot;Ngay lúc này ta chưa có nhữngchuyên gia Al.Có rất nhiều tiền được đổ vào đó,Có hàng tỉ đô-la được chi vào đó;Nó là một món kinh doanh khổng lồ,nhưng chẳng có một chuyên gia nào khiso với cái mà chúng ta sẽ biết sau 25 năm.Vì thế chúng ta chỉ đang ở điểm bắt đầu,ta ở giờ đầu tiên của tất cảnhững điều này.Chúng ta ở giờ đầu tiên của Internet.Ta ở giờ đầu tiên của cái đangxảy đến.Sản phẩm Al phổ biến nhất trong 20 năm tớilà cái mọi người đều sử dụng,chưa từng được phát minh.Điều đó có nghĩa là bạn vẫn chưa muộn.
+13:34
+谢谢！
+Cảm ơn.
+13:35
+（笑声）
+(tiếng cười)
+13:36
+（掌声）
+(tiếng vỗ tay)
+ 0:13
+我打算谈一谈技术的发展趋势。当（新的）技术到来时，常常会令我们感到惊讶。但事实上，技术在很大程度上是能够被预见的。这是因为所有的技术都有某种倾向性，有某种冲动，有某种趋势。这些趋势是由电线、开关、以及电子的物理和化学本质所决定的，并且呈现出不断重复的模式。或者说，这些模式形成了某种趋势、某种倾向。
+Tôi sẽ nói về việc công nghệđang đi về đâu.Và thường khi công nghệ tìm đến chúng ta,ta ngạc nhiên bởi cái nó mang lại.Nhưng thực sự có một khía cạnhlớn của công nghệcái mà có thể đoán trước được phần nhiều,là bởi vì các hệ thống công nghệ đều có những thiên hướng,chúng có tính khấn cấp,chúng có những xu hướng.Những xu hướng đó được bắt nguồntừ bản chất tự nhiên của vật lý,hóa học dây kim loại, những sựchuyển mạch và các hạt điện tử,và chúng sẽ tạo ra những khuônmẫu xảy ra lặp đi lặp lại.Và những khuôn mẫu đó tạo ranhững xu hướng, khuynh hướng.
+ 0:53
+你可以把它看成类似于重力的东西。想象雨点汇入山谷：一滴雨点流入山谷的实际路径是无法预测的。我们并不知道它的具体走向，但大方向是很显然的：它往下流。因此，这些内在趋势和冲动，深深扎根于技术系统中，使我们能够感知它们的大体方向。具体点说，电话是必然的，但 iPhone 不是；因特网是必然的，但推特不是。
+Bạn có thể hầu như nghĩ về nó như một loại trọng lực.Tưởng tượng những hạt mưarơi xuống thung lũngQuỹ đạo thực sự của một hạt mưakhi nó rơi xuống thung lũnglà không thể đoán trước.Ta không thể thấy nơi nó đến,nhưng hướng đi chung vẫn thường nhận ra:Là đi xuống.Vì thế những xu thế và sự khẩnthiết không thể tách rờitrong các hệ thống công nghệcho ta một cảm giác nơi chúng đitới một dạng thức lớn.Một cách cụ thể hơn,Tôi muốn nói rằng điện thoạilà chắc chắn xảy ra,nhưng iPhone thì không.Internet là chắc chắn xảy ra,nhưng Twitter thì không.
+ 1:32
+同样道理，当下有许多正在发生的趋势，而我认为其中最重要的一个是让物体变得越来越聪明。我称之为“知化”，也就是人们常说的人工智能，或者 AI。我认为在未来二十年中，这将是社会中最具影响力的发展趋势和驱动力。
+Vì thế chúng ta có rất nhiều nhữngxu hướng đang xảy ra ngay lúc này,và tôi nghĩ rằng một trong nhữngxu hướng trọng yếulà làm mọi thứ trở nênngày càng thông minh hơn.Tôi gọi nó là cognifying — cognification —cũng được biết như là trí tuệ nhântạo hay Al.Và tôi nghĩ rằng nó sẽ trở thànhmột trong những sự phát triển xu hướng, xu thế có tầm ảnh hưởngnhất của xã hội trong 20 năm tới.
+ 1:58
+当然，它已经发生了。我们已经有了 AI，它们通常都隐身在后台工作，在医院里，AI 分析 X 光片的水准比人类医生还要棒。在律所里，AI 核查证物的本事比人类助理律师还要强。我们乘坐的飞机是由 AI 在驾驶。人类驾驶员只飞个七、八分钟而已；其他时间都是 AI 在操控。当然，在 Netflix 和亚马逊网站，是AI在后台进行推荐。这些都是我们已经实现的。
+Và tất nhiên, nó đã ở đâyChúng ta đã có Al,và thường nó làm việc hậu trường,ở trụ sở sau các bệnh viện,nơi nó được dùng để chẩn đoántia X tốt hơn một bác sĩ thật.Nó làm cho các cơ quan pháp lý,nơi nó được dùng để thông quabằng chứng hợp pháptốt hơn một luật sư loài người.Nó được dùng để lái máy baymà bạn sử dụng để tới đây.Người phi công chỉ lái nó từ7 đến 8 phút,còn lại Al sẽ đảm nhiệmviệc lái.Và tất nhiên, tại Netflix và Amazon,nó làm việc hậu trường chuyênđưa ra các gợi ý.Và đó là thứ ta cóhôm nay.
+ 2:33
+我们也有一些更前沿的例子，比如“阿尔法狗”战胜了人类最强的围棋世界冠军。但还不止于此。我们打电玩时，对手往往是 AI。不过最近，谷歌教会了他们的 AI自己学习如何打电子游戏。教（AI）打游戏已经不是什么新鲜事了，但（AI）自己学习打游戏则是另一个境界。这就是人工智慧。我们正在以此为起点，让它变得越来越聪明。
+Và chúng ta có một ví dụ,ở mặt trước của nó nhiều hơn,với thắng lợi của AlphaGo, người đánh bạiGo, nhà vô địch thế giới.Nhưng nhiều hơn thế.Nếu bạn chơi video game,bạn đang chơi lại với một Al.Nhưng gần đây, Google đã dạy Al của họhọc cách chơi video games thực sự.Một lần nữa, việc dạy về video gamesđã được hoàn thành,nhưng học cách để chơi video gamelà một bước khác nữa.Đó là trí thông minh nhân tạo.Cái chúng ta đang làm là nắm lấytrí tuệ thông minh nàyvà chúng ta đang làm nó ngày càngthông minh hơn.
+ 3:17
+在这个大趋势中，我认为有三点尚未被充分认识；如果我们能理解这三点，就能更好的理解 AI，并更加全身心的拥抱 AI。只有拥抱 AI，才能控制AI。我们可以通过拥抱大趋势来控制细节。
+Có ba khía cạnh với xu thếchung nàymà tôi nghĩ đã bị xem thườngTôi nghĩ chúng ta sẽ hiểuAl tốt hơn nhiềunếu chúng ta hiểu ba điều này.Tôi nghĩ những điều đó cũnggiúp chúng ta có được Al,vì chỉ bằng cách nắm bắt nóta mới thực sự có thể điều khiển nó.Ta có thể thực sự hướng các đặc trưngbởi chấp nhận xu thế lớn hơn.
+ 3:38
+所以，请允许我谈谈这三点。第一点，我们自己尚未很好的理解什么是智能。我们通常认为智能是单维度的，就像一个越来越响的音符。我们用智商来衡量它。老鼠的智商较低，猩猩的智商较高，接下来是比较笨的人，然后是像我一样的普通人，再往上是天才。智商越高，智能就越高。这种看法是完全错误的。这根本就不是智能，人类智能也并非如此。智能更像由不同音符组成的交响乐，每个音符由不同的认知乐器来奏响。
+Để tôi nói cho các bạn ba mặtkhác nhau dưới đây.Đầu tiên, sự hiểu biết của bản thân chúngta có một ý niệm rất nghèo nànvề việc thông minh là gì.Chúng ta có xu hướng nghĩ về sự thông minhchỉ theo một chiều,rằng nó giống như một ghi chép càngngày càng lớn hơn.Nó bắt đầu với phép đo chỉ số IQPhép đo khởi đầu cùng với một IQtương đối thấp của loài chuột,và có thể có nhiều hơn trên mộtcon vượnvà cả trên một người ngớ ngẩn nữa,có thể trên một người bình thườngnhư tôicó thể là một thiên tài.Và trí thông minh IQ đang ngày càngmạnh hơn.Điều đó hoàn toàn sai.Đó không phải trí thông minhkhông phải là trí thông minh loài người.Nó giống một một bản nhạc giao hưởng củacác nốt nhạc khác nhau nhiều hơn,và mỗi một nốt nhạc này được chơi trênmột công cụ nhận thức khác nhau.
+ 4:26
+人类的心智包含了多种智能。我们可以进行演绎推理，我们具备情绪智力，我们有空间智能。我们可能有一百种不同的智能集合在一起，它们在不同人的身上也体现得强弱不一。而动物们则可能是另一套体系——由其他智能组成的另一首交响乐，当然，有些乐器与人类是相同的。可能思考的方式相同但侧重点不同，某些方面可能还强于人类，像松鼠的长期记忆就很了不得，能清楚记得坚果的埋藏之所。但在另外一些方面可能不如人类。
+Có rất nhiều loại trí thông minh trongđầu của bản thân chúng ta.Chúng ta có lập luận diễn dịch,chúng ta có trí tuệ cảm xúc,chúng ta có trí tuệ không gian;chúng ta có thể có 100 loại khác nhau vàtất cả được nhóm lại với nhau,và chúng thay đổi ở cường độ khác nhauvới những người khác nhau.Và đương nhiên, nếu chúng ta để ý đếnđộng vật, chúng cũng có một thứmột sự hòa âm khác của các loạitrí tuệ khác nhau,và đôi khi những nhạc cụ tương tự đógiống với những thứ chúng ta cóChúng có thể nghĩ với cùng một cách nhưngcó lẽ có một cách sắp xếp khác,có lẽ chúng cao hơn loài ngườiở một số trường hợp,như trí tuệ dài hạn ở một chú sócthật sự là lạ thường,vì thế nó có thể nhớ nơinó chôn những quả hạch.Ở những trường hợp khácchúng thấp hơn.
+ 5:09
+当我们制造机器时，也会用同样的方式来设计它们，它们在某些方面会比我们聪明得多，而在其他方面则远远不如我们，因为根本没必要。我们会用这些东西，这些人造的功能组合，为我们的 AI 添加各种各样的人工认知。我们会让它们（的功能）非常具体。
+Khi chúng ta tạo ra máy móc,chúng ta sẽ bố trí chúng theocùng một cách,nơi chúng ta sẽ tạo ra một vài loại tríthông minh hơn cả của chúng ta,và nhiều trong số chúng sẽkhông giống của chúng ta,bởi vì chúng không cần thiết.Vì vậy chúng ta sẽ nắm lấy những thứ này,những tập hợp nhân tạo,và chúng ta sẽ thêm nhiều trí tuệ nhântạo vào Al của chúng ta.Chúng ta khiến chúng trở nên rất rấtcụ thể.
+ 5:37
+比方说，计算器在数学运算上要比我们聪明得多；GPS 的空间导航能力远胜过我们；谷歌、必应在长期记忆上完胜我们。然后我们再把这些不同类型的智能塞到……比如说汽车里，实现自动行驶。我们之所以这么做，正是因为它的驾驶方式跟我们不一样。它不像我们那样思考。这恰恰是它的特点。它不会分心，不会担心是否忘记了关炉子，不会纠结要不要选金融专业。它只知道开车。
+Vì thế về số học, máy tính của bạn đãthông minh hơn bạn rồi;GPS của bạn thông minh hơn bạn trong việcđịnh vị không gian;Google, Bing thông minh hơn bạn vềtrí nhớ dài hạn.Và chúng ta sẽ lần nữa có lại được nhữngloại suy nghĩ khác nhauvà ta sẽ cho chúng vào mộtchiếc ô tô.Lý do chúng tôi muốn để chúng vào mộtchiếc ô tô là để nó lái,vì nó không lái giống người lái.Nó không nghĩ giống chúng ta.Nó là một chi tiết nằm trong tổng thể.Nó không bị làm cho sao nhãng,nó không lo lắng về liệu có dời đi vớicái lò chưa tắt,hay nó có nên chuyên tâm vàovấn đề tài chính.Nó chỉ lái thôi.
+ 6:16
+（笑声）
+(tiếng cười)
+ 6:17
+它会专心开车，对吧？我们甚至可以把这个做为卖点，叫做“无意识”。它们没有意识，不会东想西想，不会分心。
+Chỉ lái thôi, OK?Và chúng ta thậm chí có thểquảng bá về chúngnhư thể: &quot;không có ý thức.&quot;Chúng không có ý thức,chúng không quan tâm đếnnhững điều đó,chúng không bị phân tâm.
+ 6:28
+所以，我们应该尽我们所能制造各种各样的思考（机器）。我们应该去尝试所有可能的思考方式。在商业和科学上，我们会遇到一些难题，单凭人类自身的思考无法解决。我们可能需要分两步走，先发明出新的思考方式，再与它们一起解决这些真正的难题，比如暗能量和量子引力。
+Nhìn chung, cái chúng ta đang cố gắng làmlà tạo ra càng nhiều loại suy nghĩkhác biệt có thể.Chúng ta sẽ đưa dân đếnkhoảng khôngcủa tất cả các loại suy nghĩkhác biệt có thể.Và thực sự có lẽ có một số vấn đềkhó khăn trong khoa học vàkinh tếmà loại suy nghĩ của loài người khôngthể có khả năng tự giải quyết.Chúng ta cần một chương trình gồm 2 bước,để sáng lập những loại suy nghĩ mớichúng ta có thể làm việc cùng lúc đểgiải quyết những vấn đề lớn,như năng lượng tối hay lực hấp dẫnlượng tử chẳng hạn.
+ 7:07
+我们实际上是在创造异形智能。某种意义上，甚至可以将它们看作人造异形。它们将帮助我们用不同的方式思考，而换一种思考方式是创造的源泉，是财富和新经济的引擎。
+Cái chúng ta đang làm là tạo ratrí tuệ ngoài hành tinh.Bạn thậm chí có thể nghĩ về nó như nhữngngười ngoài hành tinh nhân tạotheo một vài hướng.Và chúng sẽ giúp chúng ta nghĩ khác đibởi vì suy nghĩ khác biệt làphương tiện của sự sáng tạocủa cải và nền kinh tế mới.
+ 7:24
+第二点是，我们将用 AI推动第二次工业革命。在第一次工业革命中，人类发明了我称之为“人造能源”的东西。在此之前，在农业革命时期，制造业靠人力驱动，或者靠畜力。除此之外别无他法。工业革命时期的伟大发明就是人们利用化石燃料和蒸汽所产生的“人造能源”来做我们想做的任何事情。今天，当我们开车行驶在高速上，只需轻轻拨弄开关，就能驾驭 250 匹马——或者说，250 匹马的马力——我们可以建造高楼大厦，修建道路，建设城市，开办工厂，源源不断地生产桌椅或冰箱，这些都远远超出了人力所为。这种“人造能源”还可以通过电网和电线输送到家庭、工厂和农庄，任何人都可以购买这种“人造能源”，只需插上插头就可以使用。
+Ở khía cạnh thứ hai, chúng tasẽ sử dụng Alvề cơ bản để tạo ra cuộc cách mạngcông nghiệp thứ hai.Cuộc cách mạng công nghiệp thứ nhấtđược dựa trên sự thậtrằng chúng ta đã tạo ra một vài thứchúng ta gọi là năng lượng nhân tạo.Trước đó,trong suốt cuộc cách mạng nông nghiệp,mọi thứ được tạo ra phải được làm bởisức lực cơ bắp của con ngườihoặc sức mạnh của động vật.Đó đã từng là cách duy nhất đểlàm mọi thứ.Sáng kiến lớn trong suốt thời kìcách mạng công nghiệp là,chúng ta khai thác năng lượng hơi nước,nhiên liệu hóa thạch,để tạo ra năng lượng nhân tạochúng ta có thể sử dụngđể làm bất cứ thứ gì chúng ta muốn.Vì vậy ngày nay khi bạn lái xe trênđường cao tốc,chỉ cần một cái xoay nhẹ công tắctương đương với điều khiển 250 con ngựa250 mã lựcchúng ta có thể xây dựng tòa nhàchọc trời, xây thành phố, xây đường,tạo ra các nhà máy sản xuất đại tràcác dòng ghế hoặc tủ lạnhvượt xa năng lực của chúng ta.Năng lượng nhân tạo cũng có thể được phânphát qua lưới điện hay một chấn song sắtđể đi đến mọi nhà, xí nghiệp, trang trại,và tới bất cứ ai có thể muanăng lượng nhân tạo này,chỉ bằng cách cắm phích điện.
+ 8:38
+它也带来了很多创新，农民可以为手动泵通上电，加上这种“人造能源”，就变成了电泵。类似的改造成千上万，这个（人力器械+人造能源的）公式造就了工业革命。今天我们看到的所有事物，享受的所有服务，几乎都来源于此。
+Vì thế đây là một nguồn sáng kiếncũng nhưbởi vì một người nông dân có thểđiều khiển máy bơm bằng tay,và chúng có thể thêm năng lượng nhân tạo,là nguồn điện,và anh ta có một máy bơm điện.Và bạn làm tăng nguồn năng lượng lên hàngngàn hay hàng chục ngàn lần,và cách thức đó mang chúng ta đến vớicuộc cách mạng công nghiệp.tất cả những thứ ta thấy, tất cảnhững tiến bộ giờ ta đang tận hưởng,đều xuất phát từ thực tế chúng ta làm.
+ 9:01
+现在我们要用 AI 做同样的事情。我们用网路传输 AI，把 AI 加载到诸如电泵之类的东西上，就得到了聪明的电泵。类似的改造做上几百万次，就会掀起第二次工业革命。那么将来汽车行驶在高速上，它不仅有 250倍马力，还有 250倍的脑力。这就是自动驾驶汽车。它是一种新的商品，是一种新的基础设施。AI 将会在网络、在云端传输，就像电一样。
+Bây giờ chúng ta sẽ làm điềutương tự với Al.Ta sẽ phân phát nó theo mộthệ thống dây,và bây giờ bạn có thể dùngmáy bơm bằng điện.Bạn có thể thêm trí thông minh nhân tạo,và giờ bạn có mộtmáy bơm nhanh.Thứ được tăng công lực gấp 1 triệu lần,sẽ có mặt ở cuộc cách mạngcông nghiệp lần hai.Vì thế giờ ô tô sẽ đi trên đường cao tốc,với 250 mã lực nhưngthêm vào đó là 250 trí ócĐó là ô tô tự động lái.nó như một hàng hóakiểu mới;nó là một tiện ích mới.Al sẽ chảy qua hệ thống đường dây-đám mây-với cách giống như dòng điện.
+ 9:33
+所以凡是可以用电的地方，都可以用 AI。而我可以建议说，未来一万家创业公司的秘诀其实非常非常简单：拿来某样东西，加上 AI。这个公式就是我们将要不断践行的。我们将以这种方式来掀起第二次工业革命。顺便说一句，就在此时，你可以登录谷歌，购买 AI：用6美分购买100次服务。这个服务现在就能用。
+Vì thế mọi thứ chúng ta nạp điện,Chúng ta sẽ nhận thức được.Và tôi muốn nói rằng,công thức cho 10.000 bướckhởi nghiệp tiếp theovô cùng đơn giản,là lấy x và thêm Al.Đó là cách thức mà chúng tasẽ đang làm.Và đó là cách mà chúng ta sẽ tạo racách mạng công nghiệp lần thứ hai.và ngay bây giờ, giờ phút này,bạn có thể đăng nhập Googlevà bạn có thể mua Al với 6 xu,100 lượt truy cập.Ngay bây giờ điều này là sẵn có.
+10:05
+第三点是，我们将AI实体化，就得到了机器人。机器人可以帮助我们，完成许多曾经需要我们亲力亲为的任务。而工作就是一系列的任务，我们的工作将会被重新定义，一部分任务将交给机器人来完成。与此同时，也将产生一大批不同种类的新任务，一批以往我们没有意识到要去做的任务。它们甚至有可能催生出新的职业，我们感兴趣的新工作，就像自动化带来的许多新事物，我们之前并不知道会需要它们，但今天我们已经离不开它们了。所以机器人带来的工作机会比它们抢走的要多。更重要的是，我们交给它们的都是需要效率或生产率的任务。如果一个任务，不管是体力的还是脑力的，可以用效率或生产率来衡量，那么就应该交给机器人来完成。需要效率的事情交给机器人好了。我们真正擅长的是浪费时间。
+Khía cạnh thứ balà khi chúng ta có Al và biểu hiệncho điều đó,chúng ta có robots.Và robots sẽ là cácchương trình máychúng sẽ làm nhiều nhiệm vụmà chúng ta đã làm.Một việc gồm một mớ cácnhiệm vụ,do đó chúng sẽ đánh giá lại việc làmvì chúng sẽ làm một vàinhiệm vụ đó.Nhưng chúng cũng sẽ tạo ra nhữngloại hoàn toàn mới,một số lượng lớn các nhiệm vụhoàn toàn mớimà chúng ta không biết tađã muốn làm trước đó.Chúng sẽ thực sự đem lại nhữngloại nghề nghiệp mới,những loại nhiệm vụ mới màchúng ta muốn làm,chỉ như tự động hóa tạo ra mộtbó những thứ mới mẻmà chúng ta không biết ta cầntrước đó,và giờ ta không thể sốngthiếu chúng.Vì thế chúng sẽ sản sinh thậm chí nhiềunghề hơn chúng lấy đi,nhưng quan trọng là nhiều nhiệm vụ màchúng ta sẽ giao cho chúngcó thể được chỉ rõ dựa theotính hiệu quả và năng suất.Nếu bạn có thể chỉ rõ một nhiệm vụ,hoặc là bằng tay hoặc thuộc nhận thức,rằng có thể được chỉ ra dựa theotính hiệu quả hay năng suất,đi tới những chương trình máy tính.Năng suất là nhờ robots.Cái mà chúng ta thực sự giỏi đólà gây lãng phí thời gian.
+11:15
+（笑声）
+(tiếng cười)
+11:15
+我们最擅长做那些没有效率的事情。科学从本质上来说是低效的。我们一次又一次的失败，很多试验和尝试都徒劳无功，否则我们也学不到什么东西。事实就是，科学研究没有什么效率。创新从定义上来说就是低效的。毕竟我们需要制作原型，需要做各种尝试，经历各种失败。探索是低效的。艺术是低效的。人际关系也是低效的。这些都是我们喜欢做的事情，因为它们都是低效的。高效是机器人的使命。还要认识到，我们将和 AI 一起工作，因为它们的思维方式与我们不同。
+Ta thực sự giỏi ở những thứkhông có khả năng.Khoa học vốn không hiệu quả.Nó dẫn đến sự thật là bạn thất bạihết lần này đến lần khác.Nó đưa ra sự thật rằng bạn làm những bàitest và thí nghiệm không thành,mặt khác bạn đang không học.Nó đưa ra sự thật lànó không có nhiều hiệu quả.Sự đổi mới theo định nghĩalà không hiệu quả,vì bạn tạo ra nguyên mẫu,vì bạn thử những thứ gây thất bại,không làm được việc.Sự khám phá vốn không hiệu quả.Nghệ thuật không hiệu quả.Mối quan hệ của con người khônghiệu quả.Đó là tất cả những thứ chúng ta hướng đến,vì chúng không hiệu quả.Hiệu quả là nhờ robots.Chúng ta cũng sẽ học được rằngchúng ta làm việc cùng Alvì chúng suy nghĩ khác chúng ta.
+12:01
+在“深蓝”战胜国际象棋的世界冠军后，人们以为国际象棋没什么玩头了。但事实上，目前世界上最厉害的国际象棋冠军并不是 AI，也不是人类，而是由人类和 AI 组成的团队。最棒的医学诊疗师既不是医生，也不是 AI，而是他们组成的团队。也就是说我们将和 AI 一起工作，你将来的薪酬，很可能取决于你跟机器人合作得如何。这就是我想说的第三点：AI 是不同于我们的，它们是技术设备，我们将与它们合作，而非竞争。
+Khi Deep Blue đánh bại nhà vô địch cờ vuagiỏi nhất thế giới,mọi người nghĩ đó là kết thúccủa cờ vua.Nhưng thực tế, hóa ra ngày nay, nhàvô địch cờ vua giỏi nhất thế giớikhông phải là một Al.không là một con người.Nó là một đội gồm một người và một Al.Thầy thuốc chẩn đoán giỏi nhất không phảimột bác sĩ hay Al,Nó là một đội.Chúng ta đang và sẽ làm việc với Al,và tôi nghĩ bạn sẽ được trả lươngtheo cách bạn làm việc với nhữngchương trình máy.Đó là điều thứ ba, rằng chúnglà khác biệt,chúng có íchvà chúng sẽ trở thành thứ mà chúng talàm việc cùng hơn là chống lại.Chúng ta sẽ làm việc cùng hơn làchống lại chúng.
+12:42
+那么，未来会如何？我想，25年后我们回头再看今天对 AI 的理解，我们会说：“你们那都不叫 AI。你们甚至都还没有真正的因特网，25年后的因特网才能叫因特网呢。“我们也还没有真正的 AI 专家。而大量的资本正涌向这个领域，动辄数十亿美金，这是一个巨大的产业。但我们尚未拥有真正的 AI 专家——如果跟20年后相比的话。我们还处在最初的起步阶段，所有一切才刚刚开始。因特网的历史才刚刚开始。美好的未来才刚刚开始。未来20年最受欢迎的 AI 产品，最普及的 AI 产品，还没有被发明呢。也就是说，你们还有机会。
+Vì vậy, tương lai:Nó đưa chúng ta đi về đâu?Tôi nghĩ rằng 25 năm kể từ bây giờ,họ sẽ nhìn lạinhìn vào sự hiểu biết về Al củachúng ta và nói,&quot;Bạn đã không có Al. Sự thật, bạn thậm chíchưa có Internet,so với cái chúng ta sẽ có sau 25 năm.&quot;Ngay lúc này ta chưa có nhữngchuyên gia Al.Có rất nhiều tiền được đổ vào đó,Có hàng tỉ đô-la được chi vào đó;Nó là một món kinh doanh khổng lồ,nhưng chẳng có một chuyên gia nào khiso với cái mà chúng ta sẽ biết sau 25 năm.Vì thế chúng ta chỉ đang ở điểm bắt đầu,ta ở giờ đầu tiên của tất cảnhững điều này.Chúng ta ở giờ đầu tiên của Internet.Ta ở giờ đầu tiên của cái đangxảy đến.Sản phẩm Al phổ biến nhất trong 20 năm tớilà cái mọi người đều sử dụng,chưa từng được phát minh.Điều đó có nghĩa là bạn vẫn chưa muộn.
+13:34
+谢谢！
+Cảm ơn.
+13:35
+（笑声）
+(tiếng cười)
+13:36
+（掌声）
+(tiếng vỗ tay)
+ 0:13
+我打算谈一谈技术的发展趋势。当（新的）技术到来时，常常会令我们感到惊讶。但事实上，技术在很大程度上是能够被预见的。这是因为所有的技术都有某种倾向性，有某种冲动，有某种趋势。这些趋势是由电线、开关、以及电子的物理和化学本质所决定的，并且呈现出不断重复的模式。或者说，这些模式形成了某种趋势、某种倾向。
+Tôi sẽ nói về việc công nghệđang đi về đâu.Và thường khi công nghệ tìm đến chúng ta,ta ngạc nhiên bởi cái nó mang lại.Nhưng thực sự có một khía cạnhlớn của công nghệcái mà có thể đoán trước được phần nhiều,là bởi vì các hệ thống công nghệ đều có những thiên hướng,chúng có tính khấn cấp,chúng có những xu hướng.Những xu hướng đó được bắt nguồntừ bản chất tự nhiên của vật lý,hóa học dây kim loại, những sựchuyển mạch và các hạt điện tử,và chúng sẽ tạo ra những khuônmẫu xảy ra lặp đi lặp lại.Và những khuôn mẫu đó tạo ranhững xu hướng, khuynh hướng.
+ 0:53
+你可以把它看成类似于重力的东西。想象雨点汇入山谷：一滴雨点流入山谷的实际路径是无法预测的。我们并不知道它的具体走向，但大方向是很显然的：它往下流。因此，这些内在趋势和冲动，深深扎根于技术系统中，使我们能够感知它们的大体方向。具体点说，电话是必然的，但 iPhone 不是；因特网是必然的，但推特不是。
+Bạn có thể hầu như nghĩ về nó như một loại trọng lực.Tưởng tượng những hạt mưarơi xuống thung lũngQuỹ đạo thực sự của một hạt mưakhi nó rơi xuống thung lũnglà không thể đoán trước.Ta không thể thấy nơi nó đến,nhưng hướng đi chung vẫn thường nhận ra:Là đi xuống.Vì thế những xu thế và sự khẩnthiết không thể tách rờitrong các hệ thống công nghệcho ta một cảm giác nơi chúng đitới một dạng thức lớn.Một cách cụ thể hơn,Tôi muốn nói rằng điện thoạilà chắc chắn xảy ra,nhưng iPhone thì không.Internet là chắc chắn xảy ra,nhưng Twitter thì không.
+ 1:32
+同样道理，当下有许多正在发生的趋势，而我认为其中最重要的一个是让物体变得越来越聪明。我称之为“知化”，也就是人们常说的人工智能，或者 AI。我认为在未来二十年中，这将是社会中最具影响力的发展趋势和驱动力。
+Vì thế chúng ta có rất nhiều nhữngxu hướng đang xảy ra ngay lúc này,và tôi nghĩ rằng một trong nhữngxu hướng trọng yếulà làm mọi thứ trở nênngày càng thông minh hơn.Tôi gọi nó là cognifying — cognification —cũng được biết như là trí tuệ nhântạo hay Al.Và tôi nghĩ rằng nó sẽ trở thànhmột trong những sự phát triển xu hướng, xu thế có tầm ảnh hưởngnhất của xã hội trong 20 năm tới.
+ 1:58
+当然，它已经发生了。我们已经有了 AI，它们通常都隐身在后台工作，在医院里，AI 分析 X 光片的水准比人类医生还要棒。在律所里，AI 核查证物的本事比人类助理律师还要强。我们乘坐的飞机是由 AI 在驾驶。人类驾驶员只飞个七、八分钟而已；其他时间都是 AI 在操控。当然，在 Netflix 和亚马逊网站，是AI在后台进行推荐。这些都是我们已经实现的。
+Và tất nhiên, nó đã ở đâyChúng ta đã có Al,và thường nó làm việc hậu trường,ở trụ sở sau các bệnh viện,nơi nó được dùng để chẩn đoántia X tốt hơn một bác sĩ thật.Nó làm cho các cơ quan pháp lý,nơi nó được dùng để thông quabằng chứng hợp pháptốt hơn một luật sư loài người.Nó được dùng để lái máy baymà bạn sử dụng để tới đây.Người phi công chỉ lái nó từ7 đến 8 phút,còn lại Al sẽ đảm nhiệmviệc lái.Và tất nhiên, tại Netflix và Amazon,nó làm việc hậu trường chuyênđưa ra các gợi ý.Và đó là thứ ta cóhôm nay.
+ 2:33
+我们也有一些更前沿的例子，比如“阿尔法狗”战胜了人类最强的围棋世界冠军。但还不止于此。我们打电玩时，对手往往是 AI。不过最近，谷歌教会了他们的 AI自己学习如何打电子游戏。教（AI）打游戏已经不是什么新鲜事了，但（AI）自己学习打游戏则是另一个境界。这就是人工智慧。我们正在以此为起点，让它变得越来越聪明。
+Và chúng ta có một ví dụ,ở mặt trước của nó nhiều hơn,với thắng lợi của AlphaGo, người đánh bạiGo, nhà vô địch thế giới.Nhưng nhiều hơn thế.Nếu bạn chơi video game,bạn đang chơi lại với một Al.Nhưng gần đây, Google đã dạy Al của họhọc cách chơi video games thực sự.Một lần nữa, việc dạy về video gamesđã được hoàn thành,nhưng học cách để chơi video gamelà một bước khác nữa.Đó là trí thông minh nhân tạo.Cái chúng ta đang làm là nắm lấytrí tuệ thông minh nàyvà chúng ta đang làm nó ngày càngthông minh hơn.
+ 3:17
+在这个大趋势中，我认为有三点尚未被充分认识；如果我们能理解这三点，就能更好的理解 AI，并更加全身心的拥抱 AI。只有拥抱 AI，才能控制AI。我们可以通过拥抱大趋势来控制细节。
+Có ba khía cạnh với xu thếchung nàymà tôi nghĩ đã bị xem thườngTôi nghĩ chúng ta sẽ hiểuAl tốt hơn nhiềunếu chúng ta hiểu ba điều này.Tôi nghĩ những điều đó cũnggiúp chúng ta có được Al,vì chỉ bằng cách nắm bắt nóta mới thực sự có thể điều khiển nó.Ta có thể thực sự hướng các đặc trưngbởi chấp nhận xu thế lớn hơn.
+ 3:38
+所以，请允许我谈谈这三点。第一点，我们自己尚未很好的理解什么是智能。我们通常认为智能是单维度的，就像一个越来越响的音符。我们用智商来衡量它。老鼠的智商较低，猩猩的智商较高，接下来是比较笨的人，然后是像我一样的普通人，再往上是天才。智商越高，智能就越高。这种看法是完全错误的。这根本就不是智能，人类智能也并非如此。智能更像由不同音符组成的交响乐，每个音符由不同的认知乐器来奏响。
+Để tôi nói cho các bạn ba mặtkhác nhau dưới đây.Đầu tiên, sự hiểu biết của bản thân chúngta có một ý niệm rất nghèo nànvề việc thông minh là gì.Chúng ta có xu hướng nghĩ về sự thông minhchỉ theo một chiều,rằng nó giống như một ghi chép càngngày càng lớn hơn.Nó bắt đầu với phép đo chỉ số IQPhép đo khởi đầu cùng với một IQtương đối thấp của loài chuột,và có thể có nhiều hơn trên mộtcon vượnvà cả trên một người ngớ ngẩn nữa,có thể trên một người bình thườngnhư tôicó thể là một thiên tài.Và trí thông minh IQ đang ngày càngmạnh hơn.Điều đó hoàn toàn sai.Đó không phải trí thông minhkhông phải là trí thông minh loài người.Nó giống một một bản nhạc giao hưởng củacác nốt nhạc khác nhau nhiều hơn,và mỗi một nốt nhạc này được chơi trênmột công cụ nhận thức khác nhau.
+ 4:26
+人类的心智包含了多种智能。我们可以进行演绎推理，我们具备情绪智力，我们有空间智能。我们可能有一百种不同的智能集合在一起，它们在不同人的身上也体现得强弱不一。而动物们则可能是另一套体系——由其他智能组成的另一首交响乐，当然，有些乐器与人类是相同的。可能思考的方式相同但侧重点不同，某些方面可能还强于人类，像松鼠的长期记忆就很了不得，能清楚记得坚果的埋藏之所。但在另外一些方面可能不如人类。
+Có rất nhiều loại trí thông minh trongđầu của bản thân chúng ta.Chúng ta có lập luận diễn dịch,chúng ta có trí tuệ cảm xúc,chúng ta có trí tuệ không gian;chúng ta có thể có 100 loại khác nhau vàtất cả được nhóm lại với nhau,và chúng thay đổi ở cường độ khác nhauvới những người khác nhau.Và đương nhiên, nếu chúng ta để ý đếnđộng vật, chúng cũng có một thứmột sự hòa âm khác của các loạitrí tuệ khác nhau,và đôi khi những nhạc cụ tương tự đógiống với những thứ chúng ta cóChúng có thể nghĩ với cùng một cách nhưngcó lẽ có một cách sắp xếp khác,có lẽ chúng cao hơn loài ngườiở một số trường hợp,như trí tuệ dài hạn ở một chú sócthật sự là lạ thường,vì thế nó có thể nhớ nơinó chôn những quả hạch.Ở những trường hợp khácchúng thấp hơn.
+ 5:09
+当我们制造机器时，也会用同样的方式来设计它们，它们在某些方面会比我们聪明得多，而在其他方面则远远不如我们，因为根本没必要。我们会用这些东西，这些人造的功能组合，为我们的 AI 添加各种各样的人工认知。我们会让它们（的功能）非常具体。
+Khi chúng ta tạo ra máy móc,chúng ta sẽ bố trí chúng theocùng một cách,nơi chúng ta sẽ tạo ra một vài loại tríthông minh hơn cả của chúng ta,và nhiều trong số chúng sẽkhông giống của chúng ta,bởi vì chúng không cần thiết.Vì vậy chúng ta sẽ nắm lấy những thứ này,những tập hợp nhân tạo,và chúng ta sẽ thêm nhiều trí tuệ nhântạo vào Al của chúng ta.Chúng ta khiến chúng trở nên rất rấtcụ thể.
+ 5:37
+比方说，计算器在数学运算上要比我们聪明得多；GPS 的空间导航能力远胜过我们；谷歌、必应在长期记忆上完胜我们。然后我们再把这些不同类型的智能塞到……比如说汽车里，实现自动行驶。我们之所以这么做，正是因为它的驾驶方式跟我们不一样。它不像我们那样思考。这恰恰是它的特点。它不会分心，不会担心是否忘记了关炉子，不会纠结要不要选金融专业。它只知道开车。
+Vì thế về số học, máy tính của bạn đãthông minh hơn bạn rồi;GPS của bạn thông minh hơn bạn trong việcđịnh vị không gian;Google, Bing thông minh hơn bạn vềtrí nhớ dài hạn.Và chúng ta sẽ lần nữa có lại được nhữngloại suy nghĩ khác nhauvà ta sẽ cho chúng vào mộtchiếc ô tô.Lý do chúng tôi muốn để chúng vào mộtchiếc ô tô là để nó lái,vì nó không lái giống người lái.Nó không nghĩ giống chúng ta.Nó là một chi tiết nằm trong tổng thể.Nó không bị làm cho sao nhãng,nó không lo lắng về liệu có dời đi vớicái lò chưa tắt,hay nó có nên chuyên tâm vàovấn đề tài chính.Nó chỉ lái thôi.
+ 6:16
+（笑声）
+(tiếng cười)
+ 6:17
+它会专心开车，对吧？我们甚至可以把这个做为卖点，叫做“无意识”。它们没有意识，不会东想西想，不会分心。
+Chỉ lái thôi, OK?Và chúng ta thậm chí có thểquảng bá về chúngnhư thể: &quot;không có ý thức.&quot;Chúng không có ý thức,chúng không quan tâm đếnnhững điều đó,chúng không bị phân tâm.
+ 6:28
+所以，我们应该尽我们所能制造各种各样的思考（机器）。我们应该去尝试所有可能的思考方式。在商业和科学上，我们会遇到一些难题，单凭人类自身的思考无法解决。我们可能需要分两步走，先发明出新的思考方式，再与它们一起解决这些真正的难题，比如暗能量和量子引力。
+Nhìn chung, cái chúng ta đang cố gắng làmlà tạo ra càng nhiều loại suy nghĩkhác biệt có thể.Chúng ta sẽ đưa dân đếnkhoảng khôngcủa tất cả các loại suy nghĩkhác biệt có thể.Và thực sự có lẽ có một số vấn đềkhó khăn trong khoa học vàkinh tếmà loại suy nghĩ của loài người khôngthể có khả năng tự giải quyết.Chúng ta cần một chương trình gồm 2 bước,để sáng lập những loại suy nghĩ mớichúng ta có thể làm việc cùng lúc đểgiải quyết những vấn đề lớn,như năng lượng tối hay lực hấp dẫnlượng tử chẳng hạn.
+ 7:07
+我们实际上是在创造异形智能。某种意义上，甚至可以将它们看作人造异形。它们将帮助我们用不同的方式思考，而换一种思考方式是创造的源泉，是财富和新经济的引擎。
+Cái chúng ta đang làm là tạo ratrí tuệ ngoài hành tinh.Bạn thậm chí có thể nghĩ về nó như nhữngngười ngoài hành tinh nhân tạotheo một vài hướng.Và chúng sẽ giúp chúng ta nghĩ khác đibởi vì suy nghĩ khác biệt làphương tiện của sự sáng tạocủa cải và nền kinh tế mới.
+ 7:24
+第二点是，我们将用 AI推动第二次工业革命。在第一次工业革命中，人类发明了我称之为“人造能源”的东西。在此之前，在农业革命时期，制造业靠人力驱动，或者靠畜力。除此之外别无他法。工业革命时期的伟大发明就是人们利用化石燃料和蒸汽所产生的“人造能源”来做我们想做的任何事情。今天，当我们开车行驶在高速上，只需轻轻拨弄开关，就能驾驭 250 匹马——或者说，250 匹马的马力——我们可以建造高楼大厦，修建道路，建设城市，开办工厂，源源不断地生产桌椅或冰箱，这些都远远超出了人力所为。这种“人造能源”还可以通过电网和电线输送到家庭、工厂和农庄，任何人都可以购买这种“人造能源”，只需插上插头就可以使用。
+Ở khía cạnh thứ hai, chúng tasẽ sử dụng Alvề cơ bản để tạo ra cuộc cách mạngcông nghiệp thứ hai.Cuộc cách mạng công nghiệp thứ nhấtđược dựa trên sự thậtrằng chúng ta đã tạo ra một vài thứchúng ta gọi là năng lượng nhân tạo.Trước đó,trong suốt cuộc cách mạng nông nghiệp,mọi thứ được tạo ra phải được làm bởisức lực cơ bắp của con ngườihoặc sức mạnh của động vật.Đó đã từng là cách duy nhất đểlàm mọi thứ.Sáng kiến lớn trong suốt thời kìcách mạng công nghiệp là,chúng ta khai thác năng lượng hơi nước,nhiên liệu hóa thạch,để tạo ra năng lượng nhân tạochúng ta có thể sử dụngđể làm bất cứ thứ gì chúng ta muốn.Vì vậy ngày nay khi bạn lái xe trênđường cao tốc,chỉ cần một cái xoay nhẹ công tắctương đương với điều khiển 250 con ngựa250 mã lựcchúng ta có thể xây dựng tòa nhàchọc trời, xây thành phố, xây đường,tạo ra các nhà máy sản xuất đại tràcác dòng ghế hoặc tủ lạnhvượt xa năng lực của chúng ta.Năng lượng nhân tạo cũng có thể được phânphát qua lưới điện hay một chấn song sắtđể đi đến mọi nhà, xí nghiệp, trang trại,và tới bất cứ ai có thể muanăng lượng nhân tạo này,chỉ bằng cách cắm phích điện.
+ 8:38
+它也带来了很多创新，农民可以为手动泵通上电，加上这种“人造能源”，就变成了电泵。类似的改造成千上万，这个（人力器械+人造能源的）公式造就了工业革命。今天我们看到的所有事物，享受的所有服务，几乎都来源于此。
+Vì thế đây là một nguồn sáng kiếncũng nhưbởi vì một người nông dân có thểđiều khiển máy bơm bằng tay,và chúng có thể thêm năng lượng nhân tạo,là nguồn điện,và anh ta có một máy bơm điện.Và bạn làm tăng nguồn năng lượng lên hàngngàn hay hàng chục ngàn lần,và cách thức đó mang chúng ta đến vớicuộc cách mạng công nghiệp.tất cả những thứ ta thấy, tất cảnhững tiến bộ giờ ta đang tận hưởng,đều xuất phát từ thực tế chúng ta làm.
+ 9:01
+现在我们要用 AI 做同样的事情。我们用网路传输 AI，把 AI 加载到诸如电泵之类的东西上，就得到了聪明的电泵。类似的改造做上几百万次，就会掀起第二次工业革命。那么将来汽车行驶在高速上，它不仅有 250倍马力，还有 250倍的脑力。这就是自动驾驶汽车。它是一种新的商品，是一种新的基础设施。AI 将会在网络、在云端传输，就像电一样。
+Bây giờ chúng ta sẽ làm điềutương tự với Al.Ta sẽ phân phát nó theo mộthệ thống dây,và bây giờ bạn có thể dùngmáy bơm bằng điện.Bạn có thể thêm trí thông minh nhân tạo,và giờ bạn có mộtmáy bơm nhanh.Thứ được tăng công lực gấp 1 triệu lần,sẽ có mặt ở cuộc cách mạngcông nghiệp lần hai.Vì thế giờ ô tô sẽ đi trên đường cao tốc,với 250 mã lực nhưngthêm vào đó là 250 trí ócĐó là ô tô tự động lái.nó như một hàng hóakiểu mới;nó là một tiện ích mới.Al sẽ chảy qua hệ thống đường dây-đám mây-với cách giống như dòng điện.
+ 9:33
+所以凡是可以用电的地方，都可以用 AI。而我可以建议说，未来一万家创业公司的秘诀其实非常非常简单：拿来某样东西，加上 AI。这个公式就是我们将要不断践行的。我们将以这种方式来掀起第二次工业革命。顺便说一句，就在此时，你可以登录谷歌，购买 AI：用6美分购买100次服务。这个服务现在就能用。
+Vì thế mọi thứ chúng ta nạp điện,Chúng ta sẽ nhận thức được.Và tôi muốn nói rằng,công thức cho 10.000 bướckhởi nghiệp tiếp theovô cùng đơn giản,là lấy x và thêm Al.Đó là cách thức mà chúng tasẽ đang làm.Và đó là cách mà chúng ta sẽ tạo racách mạng công nghiệp lần thứ hai.và ngay bây giờ, giờ phút này,bạn có thể đăng nhập Googlevà bạn có thể mua Al với 6 xu,100 lượt truy cập.Ngay bây giờ điều này là sẵn có.
+10:05
+第三点是，我们将AI实体化，就得到了机器人。机器人可以帮助我们，完成许多曾经需要我们亲力亲为的任务。而工作就是一系列的任务，我们的工作将会被重新定义，一部分任务将交给机器人来完成。与此同时，也将产生一大批不同种类的新任务，一批以往我们没有意识到要去做的任务。它们甚至有可能催生出新的职业，我们感兴趣的新工作，就像自动化带来的许多新事物，我们之前并不知道会需要它们，但今天我们已经离不开它们了。所以机器人带来的工作机会比它们抢走的要多。更重要的是，我们交给它们的都是需要效率或生产率的任务。如果一个任务，不管是体力的还是脑力的，可以用效率或生产率来衡量，那么就应该交给机器人来完成。需要效率的事情交给机器人好了。我们真正擅长的是浪费时间。
+Khía cạnh thứ balà khi chúng ta có Al và biểu hiệncho điều đó,chúng ta có robots.Và robots sẽ là cácchương trình máychúng sẽ làm nhiều nhiệm vụmà chúng ta đã làm.Một việc gồm một mớ cácnhiệm vụ,do đó chúng sẽ đánh giá lại việc làmvì chúng sẽ làm một vàinhiệm vụ đó.Nhưng chúng cũng sẽ tạo ra nhữngloại hoàn toàn mới,một số lượng lớn các nhiệm vụhoàn toàn mớimà chúng ta không biết tađã muốn làm trước đó.Chúng sẽ thực sự đem lại nhữngloại nghề nghiệp mới,những loại nhiệm vụ mới màchúng ta muốn làm,chỉ như tự động hóa tạo ra mộtbó những thứ mới mẻmà chúng ta không biết ta cầntrước đó,và giờ ta không thể sốngthiếu chúng.Vì thế chúng sẽ sản sinh thậm chí nhiềunghề hơn chúng lấy đi,nhưng quan trọng là nhiều nhiệm vụ màchúng ta sẽ giao cho chúngcó thể được chỉ rõ dựa theotính hiệu quả và năng suất.Nếu bạn có thể chỉ rõ một nhiệm vụ,hoặc là bằng tay hoặc thuộc nhận thức,rằng có thể được chỉ ra dựa theotính hiệu quả hay năng suất,đi tới những chương trình máy tính.Năng suất là nhờ robots.Cái mà chúng ta thực sự giỏi đólà gây lãng phí thời gian.
+11:15
+（笑声）
+(tiếng cười)
+11:15
+我们最擅长做那些没有效率的事情。科学从本质上来说是低效的。我们一次又一次的失败，很多试验和尝试都徒劳无功，否则我们也学不到什么东西。事实就是，科学研究没有什么效率。创新从定义上来说就是低效的。毕竟我们需要制作原型，需要做各种尝试，经历各种失败。探索是低效的。艺术是低效的。人际关系也是低效的。这些都是我们喜欢做的事情，因为它们都是低效的。高效是机器人的使命。还要认识到，我们将和 AI 一起工作，因为它们的思维方式与我们不同。
+Ta thực sự giỏi ở những thứkhông có khả năng.Khoa học vốn không hiệu quả.Nó dẫn đến sự thật là bạn thất bạihết lần này đến lần khác.Nó đưa ra sự thật rằng bạn làm những bàitest và thí nghiệm không thành,mặt khác bạn đang không học.Nó đưa ra sự thật lànó không có nhiều hiệu quả.Sự đổi mới theo định nghĩalà không hiệu quả,vì bạn tạo ra nguyên mẫu,vì bạn thử những thứ gây thất bại,không làm được việc.Sự khám phá vốn không hiệu quả.Nghệ thuật không hiệu quả.Mối quan hệ của con người khônghiệu quả.Đó là tất cả những thứ chúng ta hướng đến,vì chúng không hiệu quả.Hiệu quả là nhờ robots.Chúng ta cũng sẽ học được rằngchúng ta làm việc cùng Alvì chúng suy nghĩ khác chúng ta.
+12:01
+在“深蓝”战胜国际象棋的世界冠军后，人们以为国际象棋没什么玩头了。但事实上，目前世界上最厉害的国际象棋冠军并不是 AI，也不是人类，而是由人类和 AI 组成的团队。最棒的医学诊疗师既不是医生，也不是 AI，而是他们组成的团队。也就是说我们将和 AI 一起工作，你将来的薪酬，很可能取决于你跟机器人合作得如何。这就是我想说的第三点：AI 是不同于我们的，它们是技术设备，我们将与它们合作，而非竞争。
+Khi Deep Blue đánh bại nhà vô địch cờ vuagiỏi nhất thế giới,mọi người nghĩ đó là kết thúccủa cờ vua.Nhưng thực tế, hóa ra ngày nay, nhàvô địch cờ vua giỏi nhất thế giớikhông phải là một Al.không là một con người.Nó là một đội gồm một người và một Al.Thầy thuốc chẩn đoán giỏi nhất không phảimột bác sĩ hay Al,Nó là một đội.Chúng ta đang và sẽ làm việc với Al,và tôi nghĩ bạn sẽ được trả lươngtheo cách bạn làm việc với nhữngchương trình máy.Đó là điều thứ ba, rằng chúnglà khác biệt,chúng có íchvà chúng sẽ trở thành thứ mà chúng talàm việc cùng hơn là chống lại.Chúng ta sẽ làm việc cùng hơn làchống lại chúng.
+12:42
+那么，未来会如何？我想，25年后我们回头再看今天对 AI 的理解，我们会说：“你们那都不叫 AI。你们甚至都还没有真正的因特网，25年后的因特网才能叫因特网呢。“我们也还没有真正的 AI 专家。而大量的资本正涌向这个领域，动辄数十亿美金，这是一个巨大的产业。但我们尚未拥有真正的 AI 专家——如果跟20年后相比的话。我们还处在最初的起步阶段，所有一切才刚刚开始。因特网的历史才刚刚开始。美好的未来才刚刚开始。未来20年最受欢迎的 AI 产品，最普及的 AI 产品，还没有被发明呢。也就是说，你们还有机会。
+Vì vậy, tương lai:Nó đưa chúng ta đi về đâu?Tôi nghĩ rằng 25 năm kể từ bây giờ,họ sẽ nhìn lạinhìn vào sự hiểu biết về Al củachúng ta và nói,&quot;Bạn đã không có Al. Sự thật, bạn thậm chíchưa có Internet,so với cái chúng ta sẽ có sau 25 năm.&quot;Ngay lúc này ta chưa có nhữngchuyên gia Al.Có rất nhiều tiền được đổ vào đó,Có hàng tỉ đô-la được chi vào đó;Nó là một món kinh doanh khổng lồ,nhưng chẳng có một chuyên gia nào khiso với cái mà chúng ta sẽ biết sau 25 năm.Vì thế chúng ta chỉ đang ở điểm bắt đầu,ta ở giờ đầu tiên của tất cảnhững điều này.Chúng ta ở giờ đầu tiên của Internet.Ta ở giờ đầu tiên của cái đangxảy đến.Sản phẩm Al phổ biến nhất trong 20 năm tớilà cái mọi người đều sử dụng,chưa từng được phát minh.Điều đó có nghĩa là bạn vẫn chưa muộn.
+13:34
+谢谢！
+Cảm ơn.
+13:35
+（笑声）
+(tiếng cười)
+13:36
+（掌声）
+(tiếng vỗ tay)
+ 0:13
+我打算谈一谈技术的发展趋势。当（新的）技术到来时，常常会令我们感到惊讶。但事实上，技术在很大程度上是能够被预见的。这是因为所有的技术都有某种倾向性，有某种冲动，有某种趋势。这些趋势是由电线、开关、以及电子的物理和化学本质所决定的，并且呈现出不断重复的模式。或者说，这些模式形成了某种趋势、某种倾向。
+Tôi sẽ nói về việc công nghệđang đi về đâu.Và thường khi công nghệ tìm đến chúng ta,ta ngạc nhiên bởi cái nó mang lại.Nhưng thực sự có một khía cạnhlớn của công nghệcái mà có thể đoán trước được phần nhiều,là bởi vì các hệ thống công nghệ đều có những thiên hướng,chúng có tính khấn cấp,chúng có những xu hướng.Những xu hướng đó được bắt nguồntừ bản chất tự nhiên của vật lý,hóa học dây kim loại, những sựchuyển mạch và các hạt điện tử,và chúng sẽ tạo ra những khuônmẫu xảy ra lặp đi lặp lại.Và những khuôn mẫu đó tạo ranhững xu hướng, khuynh hướng.
+ 0:53
+你可以把它看成类似于重力的东西。想象雨点汇入山谷：一滴雨点流入山谷的实际路径是无法预测的。我们并不知道它的具体走向，但大方向是很显然的：它往下流。因此，这些内在趋势和冲动，深深扎根于技术系统中，使我们能够感知它们的大体方向。具体点说，电话是必然的，但 iPhone 不是；因特网是必然的，但推特不是。
+Bạn có thể hầu như nghĩ về nó như một loại trọng lực.Tưởng tượng những hạt mưarơi xuống thung lũngQuỹ đạo thực sự của một hạt mưakhi nó rơi xuống thung lũnglà không thể đoán trước.Ta không thể thấy nơi nó đến,nhưng hướng đi chung vẫn thường nhận ra:Là đi xuống.Vì thế những xu thế và sự khẩnthiết không thể tách rờitrong các hệ thống công nghệcho ta một cảm giác nơi chúng đitới một dạng thức lớn.Một cách cụ thể hơn,Tôi muốn nói rằng điện thoạilà chắc chắn xảy ra,nhưng iPhone thì không.Internet là chắc chắn xảy ra,nhưng Twitter thì không.
+ 1:32
+同样道理，当下有许多正在发生的趋势，而我认为其中最重要的一个是让物体变得越来越聪明。我称之为“知化”，也就是人们常说的人工智能，或者 AI。我认为在未来二十年中，这将是社会中最具影响力的发展趋势和驱动力。
+Vì thế chúng ta có rất nhiều nhữngxu hướng đang xảy ra ngay lúc này,và tôi nghĩ rằng một trong nhữngxu hướng trọng yếulà làm mọi thứ trở nênngày càng thông minh hơn.Tôi gọi nó là cognifying — cognification —cũng được biết như là trí tuệ nhântạo hay Al.Và tôi nghĩ rằng nó sẽ trở thànhmột trong những sự phát triển xu hướng, xu thế có tầm ảnh hưởngnhất của xã hội trong 20 năm tới.
+ 1:58
+当然，它已经发生了。我们已经有了 AI，它们通常都隐身在后台工作，在医院里，AI 分析 X 光片的水准比人类医生还要棒。在律所里，AI 核查证物的本事比人类助理律师还要强。我们乘坐的飞机是由 AI 在驾驶。人类驾驶员只飞个七、八分钟而已；其他时间都是 AI 在操控。当然，在 Netflix 和亚马逊网站，是AI在后台进行推荐。这些都是我们已经实现的。
+Và tất nhiên, nó đã ở đâyChúng ta đã có Al,và thường nó làm việc hậu trường,ở trụ sở sau các bệnh viện,nơi nó được dùng để chẩn đoántia X tốt hơn một bác sĩ thật.Nó làm cho các cơ quan pháp lý,nơi nó được dùng để thông quabằng chứng hợp pháptốt hơn một luật sư loài người.Nó được dùng để lái máy baymà bạn sử dụng để tới đây.Người phi công chỉ lái nó từ7 đến 8 phút,còn lại Al sẽ đảm nhiệmviệc lái.Và tất nhiên, tại Netflix và Amazon,nó làm việc hậu trường chuyênđưa ra các gợi ý.Và đó là thứ ta cóhôm nay.
+ 2:33
+我们也有一些更前沿的例子，比如“阿尔法狗”战胜了人类最强的围棋世界冠军。但还不止于此。我们打电玩时，对手往往是 AI。不过最近，谷歌教会了他们的 AI自己学习如何打电子游戏。教（AI）打游戏已经不是什么新鲜事了，但（AI）自己学习打游戏则是另一个境界。这就是人工智慧。我们正在以此为起点，让它变得越来越聪明。
+Và chúng ta có một ví dụ,ở mặt trước của nó nhiều hơn,với thắng lợi của AlphaGo, người đánh bạiGo, nhà vô địch thế giới.Nhưng nhiều hơn thế.Nếu bạn chơi video game,bạn đang chơi lại với một Al.Nhưng gần đây, Google đã dạy Al của họhọc cách chơi video games thực sự.Một lần nữa, việc dạy về video gamesđã được hoàn thành,nhưng học cách để chơi video gamelà một bước khác nữa.Đó là trí thông minh nhân tạo.Cái chúng ta đang làm là nắm lấytrí tuệ thông minh nàyvà chúng ta đang làm nó ngày càngthông minh hơn.
+ 3:17
+在这个大趋势中，我认为有三点尚未被充分认识；如果我们能理解这三点，就能更好的理解 AI，并更加全身心的拥抱 AI。只有拥抱 AI，才能控制AI。我们可以通过拥抱大趋势来控制细节。
+Có ba khía cạnh với xu thếchung nàymà tôi nghĩ đã bị xem thườngTôi nghĩ chúng ta sẽ hiểuAl tốt hơn nhiềunếu chúng ta hiểu ba điều này.Tôi nghĩ những điều đó cũnggiúp chúng ta có được Al,vì chỉ bằng cách nắm bắt nóta mới thực sự có thể điều khiển nó.Ta có thể thực sự hướng các đặc trưngbởi chấp nhận xu thế lớn hơn.
+ 3:38
+所以，请允许我谈谈这三点。第一点，我们自己尚未很好的理解什么是智能。我们通常认为智能是单维度的，就像一个越来越响的音符。我们用智商来衡量它。老鼠的智商较低，猩猩的智商较高，接下来是比较笨的人，然后是像我一样的普通人，再往上是天才。智商越高，智能就越高。这种看法是完全错误的。这根本就不是智能，人类智能也并非如此。智能更像由不同音符组成的交响乐，每个音符由不同的认知乐器来奏响。
+Để tôi nói cho các bạn ba mặtkhác nhau dưới đây.Đầu tiên, sự hiểu biết của bản thân chúngta có một ý niệm rất nghèo nànvề việc thông minh là gì.Chúng ta có xu hướng nghĩ về sự thông minhchỉ theo một chiều,rằng nó giống như một ghi chép càngngày càng lớn hơn.Nó bắt đầu với phép đo chỉ số IQPhép đo khởi đầu cùng với một IQtương đối thấp của loài chuột,và có thể có nhiều hơn trên mộtcon vượnvà cả trên một người ngớ ngẩn nữa,có thể trên một người bình thườngnhư tôicó thể là một thiên tài.Và trí thông minh IQ đang ngày càngmạnh hơn.Điều đó hoàn toàn sai.Đó không phải trí thông minhkhông phải là trí thông minh loài người.Nó giống một một bản nhạc giao hưởng củacác nốt nhạc khác nhau nhiều hơn,và mỗi một nốt nhạc này được chơi trênmột công cụ nhận thức khác nhau.
+ 4:26
+人类的心智包含了多种智能。我们可以进行演绎推理，我们具备情绪智力，我们有空间智能。我们可能有一百种不同的智能集合在一起，它们在不同人的身上也体现得强弱不一。而动物们则可能是另一套体系——由其他智能组成的另一首交响乐，当然，有些乐器与人类是相同的。可能思考的方式相同但侧重点不同，某些方面可能还强于人类，像松鼠的长期记忆就很了不得，能清楚记得坚果的埋藏之所。但在另外一些方面可能不如人类。
+Có rất nhiều loại trí thông minh trongđầu của bản thân chúng ta.Chúng ta có lập luận diễn dịch,chúng ta có trí tuệ cảm xúc,chúng ta có trí tuệ không gian;chúng ta có thể có 100 loại khác nhau vàtất cả được nhóm lại với nhau,và chúng thay đổi ở cường độ khác nhauvới những người khác nhau.Và đương nhiên, nếu chúng ta để ý đếnđộng vật, chúng cũng có một thứmột sự hòa âm khác của các loạitrí tuệ khác nhau,và đôi khi những nhạc cụ tương tự đógiống với những thứ chúng ta cóChúng có thể nghĩ với cùng một cách nhưngcó lẽ có một cách sắp xếp khác,có lẽ chúng cao hơn loài ngườiở một số trường hợp,như trí tuệ dài hạn ở một chú sócthật sự là lạ thường,vì thế nó có thể nhớ nơinó chôn những quả hạch.Ở những trường hợp khácchúng thấp hơn.
+ 5:09
+当我们制造机器时，也会用同样的方式来设计它们，它们在某些方面会比我们聪明得多，而在其他方面则远远不如我们，因为根本没必要。我们会用这些东西，这些人造的功能组合，为我们的 AI 添加各种各样的人工认知。我们会让它们（的功能）非常具体。
+Khi chúng ta tạo ra máy móc,chúng ta sẽ bố trí chúng theocùng một cách,nơi chúng ta sẽ tạo ra một vài loại tríthông minh hơn cả của chúng ta,và nhiều trong số chúng sẽkhông giống của chúng ta,bởi vì chúng không cần thiết.Vì vậy chúng ta sẽ nắm lấy những thứ này,những tập hợp nhân tạo,và chúng ta sẽ thêm nhiều trí tuệ nhântạo vào Al của chúng ta.Chúng ta khiến chúng trở nên rất rấtcụ thể.
+ 5:37
+比方说，计算器在数学运算上要比我们聪明得多；GPS 的空间导航能力远胜过我们；谷歌、必应在长期记忆上完胜我们。然后我们再把这些不同类型的智能塞到……比如说汽车里，实现自动行驶。我们之所以这么做，正是因为它的驾驶方式跟我们不一样。它不像我们那样思考。这恰恰是它的特点。它不会分心，不会担心是否忘记了关炉子，不会纠结要不要选金融专业。它只知道开车。
+Vì thế về số học, máy tính của bạn đãthông minh hơn bạn rồi;GPS của bạn thông minh hơn bạn trong việcđịnh vị không gian;Google, Bing thông minh hơn bạn vềtrí nhớ dài hạn.Và chúng ta sẽ lần nữa có lại được nhữngloại suy nghĩ khác nhauvà ta sẽ cho chúng vào mộtchiếc ô tô.Lý do chúng tôi muốn để chúng vào mộtchiếc ô tô là để nó lái,vì nó không lái giống người lái.Nó không nghĩ giống chúng ta.Nó là một chi tiết nằm trong tổng thể.Nó không bị làm cho sao nhãng,nó không lo lắng về liệu có dời đi vớicái lò chưa tắt,hay nó có nên chuyên tâm vàovấn đề tài chính.Nó chỉ lái thôi.
+ 6:16
+（笑声）
+(tiếng cười)
+ 6:17
+它会专心开车，对吧？我们甚至可以把这个做为卖点，叫做“无意识”。它们没有意识，不会东想西想，不会分心。
+Chỉ lái thôi, OK?Và chúng ta thậm chí có thểquảng bá về chúngnhư thể: &quot;không có ý thức.&quot;Chúng không có ý thức,chúng không quan tâm đếnnhững điều đó,chúng không bị phân tâm.
+ 6:28
+所以，我们应该尽我们所能制造各种各样的思考（机器）。我们应该去尝试所有可能的思考方式。在商业和科学上，我们会遇到一些难题，单凭人类自身的思考无法解决。我们可能需要分两步走，先发明出新的思考方式，再与它们一起解决这些真正的难题，比如暗能量和量子引力。
+Nhìn chung, cái chúng ta đang cố gắng làmlà tạo ra càng nhiều loại suy nghĩkhác biệt có thể.Chúng ta sẽ đưa dân đếnkhoảng khôngcủa tất cả các loại suy nghĩkhác biệt có thể.Và thực sự có lẽ có một số vấn đềkhó khăn trong khoa học vàkinh tếmà loại suy nghĩ của loài người khôngthể có khả năng tự giải quyết.Chúng ta cần một chương trình gồm 2 bước,để sáng lập những loại suy nghĩ mớichúng ta có thể làm việc cùng lúc đểgiải quyết những vấn đề lớn,như năng lượng tối hay lực hấp dẫnlượng tử chẳng hạn.
+ 7:07
+我们实际上是在创造异形智能。某种意义上，甚至可以将它们看作人造异形。它们将帮助我们用不同的方式思考，而换一种思考方式是创造的源泉，是财富和新经济的引擎。
+Cái chúng ta đang làm là tạo ratrí tuệ ngoài hành tinh.Bạn thậm chí có thể nghĩ về nó như nhữngngười ngoài hành tinh nhân tạotheo một vài hướng.Và chúng sẽ giúp chúng ta nghĩ khác đibởi vì suy nghĩ khác biệt làphương tiện của sự sáng tạocủa cải và nền kinh tế mới.
+ 7:24
+第二点是，我们将用 AI推动第二次工业革命。在第一次工业革命中，人类发明了我称之为“人造能源”的东西。在此之前，在农业革命时期，制造业靠人力驱动，或者靠畜力。除此之外别无他法。工业革命时期的伟大发明就是人们利用化石燃料和蒸汽所产生的“人造能源”来做我们想做的任何事情。今天，当我们开车行驶在高速上，只需轻轻拨弄开关，就能驾驭 250 匹马——或者说，250 匹马的马力——我们可以建造高楼大厦，修建道路，建设城市，开办工厂，源源不断地生产桌椅或冰箱，这些都远远超出了人力所为。这种“人造能源”还可以通过电网和电线输送到家庭、工厂和农庄，任何人都可以购买这种“人造能源”，只需插上插头就可以使用。
+Ở khía cạnh thứ hai, chúng tasẽ sử dụng Alvề cơ bản để tạo ra cuộc cách mạngcông nghiệp thứ hai.Cuộc cách mạng công nghiệp thứ nhấtđược dựa trên sự thậtrằng chúng ta đã tạo ra một vài thứchúng ta gọi là năng lượng nhân tạo.Trước đó,trong suốt cuộc cách mạng nông nghiệp,mọi thứ được tạo ra phải được làm bởisức lực cơ bắp của con ngườihoặc sức mạnh của động vật.Đó đã từng là cách duy nhất đểlàm mọi thứ.Sáng kiến lớn trong suốt thời kìcách mạng công nghiệp là,chúng ta khai thác năng lượng hơi nước,nhiên liệu hóa thạch,để tạo ra năng lượng nhân tạochúng ta có thể sử dụngđể làm bất cứ thứ gì chúng ta muốn.Vì vậy ngày nay khi bạn lái xe trênđường cao tốc,chỉ cần một cái xoay nhẹ công tắctương đương với điều khiển 250 con ngựa250 mã lựcchúng ta có thể xây dựng tòa nhàchọc trời, xây thành phố, xây đường,tạo ra các nhà máy sản xuất đại tràcác dòng ghế hoặc tủ lạnhvượt xa năng lực của chúng ta.Năng lượng nhân tạo cũng có thể được phânphát qua lưới điện hay một chấn song sắtđể đi đến mọi nhà, xí nghiệp, trang trại,và tới bất cứ ai có thể muanăng lượng nhân tạo này,chỉ bằng cách cắm phích điện.
+ 8:38
+它也带来了很多创新，农民可以为手动泵通上电，加上这种“人造能源”，就变成了电泵。类似的改造成千上万，这个（人力器械+人造能源的）公式造就了工业革命。今天我们看到的所有事物，享受的所有服务，几乎都来源于此。
+Vì thế đây là một nguồn sáng kiếncũng nhưbởi vì một người nông dân có thểđiều khiển máy bơm bằng tay,và chúng có thể thêm năng lượng nhân tạo,là nguồn điện,và anh ta có một máy bơm điện.Và bạn làm tăng nguồn năng lượng lên hàngngàn hay hàng chục ngàn lần,và cách thức đó mang chúng ta đến vớicuộc cách mạng công nghiệp.tất cả những thứ ta thấy, tất cảnhững tiến bộ giờ ta đang tận hưởng,đều xuất phát từ thực tế chúng ta làm.
+ 9:01
+现在我们要用 AI 做同样的事情。我们用网路传输 AI，把 AI 加载到诸如电泵之类的东西上，就得到了聪明的电泵。类似的改造做上几百万次，就会掀起第二次工业革命。那么将来汽车行驶在高速上，它不仅有 250倍马力，还有 250倍的脑力。这就是自动驾驶汽车。它是一种新的商品，是一种新的基础设施。AI 将会在网络、在云端传输，就像电一样。
+Bây giờ chúng ta sẽ làm điềutương tự với Al.Ta sẽ phân phát nó theo mộthệ thống dây,và bây giờ bạn có thể dùngmáy bơm bằng điện.Bạn có thể thêm trí thông minh nhân tạo,và giờ bạn có mộtmáy bơm nhanh.Thứ được tăng công lực gấp 1 triệu lần,sẽ có mặt ở cuộc cách mạngcông nghiệp lần hai.Vì thế giờ ô tô sẽ đi trên đường cao tốc,với 250 mã lực nhưngthêm vào đó là 250 trí ócĐó là ô tô tự động lái.nó như một hàng hóakiểu mới;nó là một tiện ích mới.Al sẽ chảy qua hệ thống đường dây-đám mây-với cách giống như dòng điện.
+ 9:33
+所以凡是可以用电的地方，都可以用 AI。而我可以建议说，未来一万家创业公司的秘诀其实非常非常简单：拿来某样东西，加上 AI。这个公式就是我们将要不断践行的。我们将以这种方式来掀起第二次工业革命。顺便说一句，就在此时，你可以登录谷歌，购买 AI：用6美分购买100次服务。这个服务现在就能用。
+Vì thế mọi thứ chúng ta nạp điện,Chúng ta sẽ nhận thức được.Và tôi muốn nói rằng,công thức cho 10.000 bướckhởi nghiệp tiếp theovô cùng đơn giản,là lấy x và thêm Al.Đó là cách thức mà chúng tasẽ đang làm.Và đó là cách mà chúng ta sẽ tạo racách mạng công nghiệp lần thứ hai.và ngay bây giờ, giờ phút này,bạn có thể đăng nhập Googlevà bạn có thể mua Al với 6 xu,100 lượt truy cập.Ngay bây giờ điều này là sẵn có.
+10:05
+第三点是，我们将AI实体化，就得到了机器人。机器人可以帮助我们，完成许多曾经需要我们亲力亲为的任务。而工作就是一系列的任务，我们的工作将会被重新定义，一部分任务将交给机器人来完成。与此同时，也将产生一大批不同种类的新任务，一批以往我们没有意识到要去做的任务。它们甚至有可能催生出新的职业，我们感兴趣的新工作，就像自动化带来的许多新事物，我们之前并不知道会需要它们，但今天我们已经离不开它们了。所以机器人带来的工作机会比它们抢走的要多。更重要的是，我们交给它们的都是需要效率或生产率的任务。如果一个任务，不管是体力的还是脑力的，可以用效率或生产率来衡量，那么就应该交给机器人来完成。需要效率的事情交给机器人好了。我们真正擅长的是浪费时间。
+Khía cạnh thứ balà khi chúng ta có Al và biểu hiệncho điều đó,chúng ta có robots.Và robots sẽ là cácchương trình máychúng sẽ làm nhiều nhiệm vụmà chúng ta đã làm.Một việc gồm một mớ cácnhiệm vụ,do đó chúng sẽ đánh giá lại việc làmvì chúng sẽ làm một vàinhiệm vụ đó.Nhưng chúng cũng sẽ tạo ra nhữngloại hoàn toàn mới,một số lượng lớn các nhiệm vụhoàn toàn mớimà chúng ta không biết tađã muốn làm trước đó.Chúng sẽ thực sự đem lại nhữngloại nghề nghiệp mới,những loại nhiệm vụ mới màchúng ta muốn làm,chỉ như tự động hóa tạo ra mộtbó những thứ mới mẻmà chúng ta không biết ta cầntrước đó,và giờ ta không thể sốngthiếu chúng.Vì thế chúng sẽ sản sinh thậm chí nhiềunghề hơn chúng lấy đi,nhưng quan trọng là nhiều nhiệm vụ màchúng ta sẽ giao cho chúngcó thể được chỉ rõ dựa theotính hiệu quả và năng suất.Nếu bạn có thể chỉ rõ một nhiệm vụ,hoặc là bằng tay hoặc thuộc nhận thức,rằng có thể được chỉ ra dựa theotính hiệu quả hay năng suất,đi tới những chương trình máy tính.Năng suất là nhờ robots.Cái mà chúng ta thực sự giỏi đólà gây lãng phí thời gian.
+11:15
+（笑声）
+(tiếng cười)
+11:15
+我们最擅长做那些没有效率的事情。科学从本质上来说是低效的。我们一次又一次的失败，很多试验和尝试都徒劳无功，否则我们也学不到什么东西。事实就是，科学研究没有什么效率。创新从定义上来说就是低效的。毕竟我们需要制作原型，需要做各种尝试，经历各种失败。探索是低效的。艺术是低效的。人际关系也是低效的。这些都是我们喜欢做的事情，因为它们都是低效的。高效是机器人的使命。还要认识到，我们将和 AI 一起工作，因为它们的思维方式与我们不同。
+Ta thực sự giỏi ở những thứkhông có khả năng.Khoa học vốn không hiệu quả.Nó dẫn đến sự thật là bạn thất bạihết lần này đến lần khác.Nó đưa ra sự thật rằng bạn làm những bàitest và thí nghiệm không thành,mặt khác bạn đang không học.Nó đưa ra sự thật lànó không có nhiều hiệu quả.Sự đổi mới theo định nghĩalà không hiệu quả,vì bạn tạo ra nguyên mẫu,vì bạn thử những thứ gây thất bại,không làm được việc.Sự khám phá vốn không hiệu quả.Nghệ thuật không hiệu quả.Mối quan hệ của con người khônghiệu quả.Đó là tất cả những thứ chúng ta hướng đến,vì chúng không hiệu quả.Hiệu quả là nhờ robots.Chúng ta cũng sẽ học được rằngchúng ta làm việc cùng Alvì chúng suy nghĩ khác chúng ta.
+12:01
+在“深蓝”战胜国际象棋的世界冠军后，人们以为国际象棋没什么玩头了。但事实上，目前世界上最厉害的国际象棋冠军并不是 AI，也不是人类，而是由人类和 AI 组成的团队。最棒的医学诊疗师既不是医生，也不是 AI，而是他们组成的团队。也就是说我们将和 AI 一起工作，你将来的薪酬，很可能取决于你跟机器人合作得如何。这就是我想说的第三点：AI 是不同于我们的，它们是技术设备，我们将与它们合作，而非竞争。
+Khi Deep Blue đánh bại nhà vô địch cờ vuagiỏi nhất thế giới,mọi người nghĩ đó là kết thúccủa cờ vua.Nhưng thực tế, hóa ra ngày nay, nhàvô địch cờ vua giỏi nhất thế giớikhông phải là một Al.không là một con người.Nó là một đội gồm một người và một Al.Thầy thuốc chẩn đoán giỏi nhất không phảimột bác sĩ hay Al,Nó là một đội.Chúng ta đang và sẽ làm việc với Al,và tôi nghĩ bạn sẽ được trả lươngtheo cách bạn làm việc với nhữngchương trình máy.Đó là điều thứ ba, rằng chúnglà khác biệt,chúng có íchvà chúng sẽ trở thành thứ mà chúng talàm việc cùng hơn là chống lại.Chúng ta sẽ làm việc cùng hơn làchống lại chúng.
+12:42
+那么，未来会如何？我想，25年后我们回头再看今天对 AI 的理解，我们会说：“你们那都不叫 AI。你们甚至都还没有真正的因特网，25年后的因特网才能叫因特网呢。“我们也还没有真正的 AI 专家。而大量的资本正涌向这个领域，动辄数十亿美金，这是一个巨大的产业。但我们尚未拥有真正的 AI 专家——如果跟20年后相比的话。我们还处在最初的起步阶段，所有一切才刚刚开始。因特网的历史才刚刚开始。美好的未来才刚刚开始。未来20年最受欢迎的 AI 产品，最普及的 AI 产品，还没有被发明呢。也就是说，你们还有机会。
+Vì vậy, tương lai:Nó đưa chúng ta đi về đâu?Tôi nghĩ rằng 25 năm kể từ bây giờ,họ sẽ nhìn lạinhìn vào sự hiểu biết về Al củachúng ta và nói,&quot;Bạn đã không có Al. Sự thật, bạn thậm chíchưa có Internet,so với cái chúng ta sẽ có sau 25 năm.&quot;Ngay lúc này ta chưa có nhữngchuyên gia Al.Có rất nhiều tiền được đổ vào đó,Có hàng tỉ đô-la được chi vào đó;Nó là một món kinh doanh khổng lồ,nhưng chẳng có một chuyên gia nào khiso với cái mà chúng ta sẽ biết sau 25 năm.Vì thế chúng ta chỉ đang ở điểm bắt đầu,ta ở giờ đầu tiên của tất cảnhững điều này.Chúng ta ở giờ đầu tiên của Internet.Ta ở giờ đầu tiên của cái đangxảy đến.Sản phẩm Al phổ biến nhất trong 20 năm tớilà cái mọi người đều sử dụng,chưa từng được phát minh.Điều đó có nghĩa là bạn vẫn chưa muộn.
+13:34
+谢谢！
+Cảm ơn.
+13:35
+（笑声）
+(tiếng cười)
+13:36
+（掌声）
+(tiếng vỗ tay)
+ 0:13
+我打算谈一谈技术的发展趋势。当（新的）技术到来时，常常会令我们感到惊讶。但事实上，技术在很大程度上是能够被预见的。这是因为所有的技术都有某种倾向性，有某种冲动，有某种趋势。这些趋势是由电线、开关、以及电子的物理和化学本质所决定的，并且呈现出不断重复的模式。或者说，这些模式形成了某种趋势、某种倾向。
+Tôi sẽ nói về việc công nghệđang đi về đâu.Và thường khi công nghệ tìm đến chúng ta,ta ngạc nhiên bởi cái nó mang lại.Nhưng thực sự có một khía cạnhlớn của công nghệcái mà có thể đoán trước được phần nhiều,là bởi vì các hệ thống công nghệ đều có những thiên hướng,chúng có tính khấn cấp,chúng có những xu hướng.Những xu hướng đó được bắt nguồntừ bản chất tự nhiên của vật lý,hóa học dây kim loại, những sựchuyển mạch và các hạt điện tử,và chúng sẽ tạo ra những khuônmẫu xảy ra lặp đi lặp lại.Và những khuôn mẫu đó tạo ranhững xu hướng, khuynh hướng.
+ 0:53
+你可以把它看成类似于重力的东西。想象雨点汇入山谷：一滴雨点流入山谷的实际路径是无法预测的。我们并不知道它的具体走向，但大方向是很显然的：它往下流。因此，这些内在趋势和冲动，深深扎根于技术系统中，使我们能够感知它们的大体方向。具体点说，电话是必然的，但 iPhone 不是；因特网是必然的，但推特不是。
+Bạn có thể hầu như nghĩ về nó như một loại trọng lực.Tưởng tượng những hạt mưarơi xuống thung lũngQuỹ đạo thực sự của một hạt mưakhi nó rơi xuống thung lũnglà không thể đoán trước.Ta không thể thấy nơi nó đến,nhưng hướng đi chung vẫn thường nhận ra:Là đi xuống.Vì thế những xu thế và sự khẩnthiết không thể tách rờitrong các hệ thống công nghệcho ta một cảm giác nơi chúng đitới một dạng thức lớn.Một cách cụ thể hơn,Tôi muốn nói rằng điện thoạilà chắc chắn xảy ra,nhưng iPhone thì không.Internet là chắc chắn xảy ra,nhưng Twitter thì không.
+ 1:32
+同样道理，当下有许多正在发生的趋势，而我认为其中最重要的一个是让物体变得越来越聪明。我称之为“知化”，也就是人们常说的人工智能，或者 AI。我认为在未来二十年中，这将是社会中最具影响力的发展趋势和驱动力。
+Vì thế chúng ta có rất nhiều nhữngxu hướng đang xảy ra ngay lúc này,và tôi nghĩ rằng một trong nhữngxu hướng trọng yếulà làm mọi thứ trở nênngày càng thông minh hơn.Tôi gọi nó là cognifying — cognification —cũng được biết như là trí tuệ nhântạo hay Al.Và tôi nghĩ rằng nó sẽ trở thànhmột trong những sự phát triển xu hướng, xu thế có tầm ảnh hưởngnhất của xã hội trong 20 năm tới.
+ 1:58
+当然，它已经发生了。我们已经有了 AI，它们通常都隐身在后台工作，在医院里，AI 分析 X 光片的水准比人类医生还要棒。在律所里，AI 核查证物的本事比人类助理律师还要强。我们乘坐的飞机是由 AI 在驾驶。人类驾驶员只飞个七、八分钟而已；其他时间都是 AI 在操控。当然，在 Netflix 和亚马逊网站，是AI在后台进行推荐。这些都是我们已经实现的。
+Và tất nhiên, nó đã ở đâyChúng ta đã có Al,và thường nó làm việc hậu trường,ở trụ sở sau các bệnh viện,nơi nó được dùng để chẩn đoántia X tốt hơn một bác sĩ thật.Nó làm cho các cơ quan pháp lý,nơi nó được dùng để thông quabằng chứng hợp pháptốt hơn một luật sư loài người.Nó được dùng để lái máy baymà bạn sử dụng để tới đây.Người phi công chỉ lái nó từ7 đến 8 phút,còn lại Al sẽ đảm nhiệmviệc lái.Và tất nhiên, tại Netflix và Amazon,nó làm việc hậu trường chuyênđưa ra các gợi ý.Và đó là thứ ta cóhôm nay.
+ 2:33
+我们也有一些更前沿的例子，比如“阿尔法狗”战胜了人类最强的围棋世界冠军。但还不止于此。我们打电玩时，对手往往是 AI。不过最近，谷歌教会了他们的 AI自己学习如何打电子游戏。教（AI）打游戏已经不是什么新鲜事了，但（AI）自己学习打游戏则是另一个境界。这就是人工智慧。我们正在以此为起点，让它变得越来越聪明。
+Và chúng ta có một ví dụ,ở mặt trước của nó nhiều hơn,với thắng lợi của AlphaGo, người đánh bạiGo, nhà vô địch thế giới.Nhưng nhiều hơn thế.Nếu bạn chơi video game,bạn đang chơi lại với một Al.Nhưng gần đây, Google đã dạy Al của họhọc cách chơi video games thực sự.Một lần nữa, việc dạy về video gamesđã được hoàn thành,nhưng học cách để chơi video gamelà một bước khác nữa.Đó là trí thông minh nhân tạo.Cái chúng ta đang làm là nắm lấytrí tuệ thông minh nàyvà chúng ta đang làm nó ngày càngthông minh hơn.
+ 3:17
+在这个大趋势中，我认为有三点尚未被充分认识；如果我们能理解这三点，就能更好的理解 AI，并更加全身心的拥抱 AI。只有拥抱 AI，才能控制AI。我们可以通过拥抱大趋势来控制细节。
+Có ba khía cạnh với xu thếchung nàymà tôi nghĩ đã bị xem thườngTôi nghĩ chúng ta sẽ hiểuAl tốt hơn nhiềunếu chúng ta hiểu ba điều này.Tôi nghĩ những điều đó cũnggiúp chúng ta có được Al,vì chỉ bằng cách nắm bắt nóta mới thực sự có thể điều khiển nó.Ta có thể thực sự hướng các đặc trưngbởi chấp nhận xu thế lớn hơn.
+ 3:38
+所以，请允许我谈谈这三点。第一点，我们自己尚未很好的理解什么是智能。我们通常认为智能是单维度的，就像一个越来越响的音符。我们用智商来衡量它。老鼠的智商较低，猩猩的智商较高，接下来是比较笨的人，然后是像我一样的普通人，再往上是天才。智商越高，智能就越高。这种看法是完全错误的。这根本就不是智能，人类智能也并非如此。智能更像由不同音符组成的交响乐，每个音符由不同的认知乐器来奏响。
+Để tôi nói cho các bạn ba mặtkhác nhau dưới đây.Đầu tiên, sự hiểu biết của bản thân chúngta có một ý niệm rất nghèo nànvề việc thông minh là gì.Chúng ta có xu hướng nghĩ về sự thông minhchỉ theo một chiều,rằng nó giống như một ghi chép càngngày càng lớn hơn.Nó bắt đầu với phép đo chỉ số IQPhép đo khởi đầu cùng với một IQtương đối thấp của loài chuột,và có thể có nhiều hơn trên mộtcon vượnvà cả trên một người ngớ ngẩn nữa,có thể trên một người bình thườngnhư tôicó thể là một thiên tài.Và trí thông minh IQ đang ngày càngmạnh hơn.Điều đó hoàn toàn sai.Đó không phải trí thông minhkhông phải là trí thông minh loài người.Nó giống một một bản nhạc giao hưởng củacác nốt nhạc khác nhau nhiều hơn,và mỗi một nốt nhạc này được chơi trênmột công cụ nhận thức khác nhau.
+ 4:26
+人类的心智包含了多种智能。我们可以进行演绎推理，我们具备情绪智力，我们有空间智能。我们可能有一百种不同的智能集合在一起，它们在不同人的身上也体现得强弱不一。而动物们则可能是另一套体系——由其他智能组成的另一首交响乐，当然，有些乐器与人类是相同的。可能思考的方式相同但侧重点不同，某些方面可能还强于人类，像松鼠的长期记忆就很了不得，能清楚记得坚果的埋藏之所。但在另外一些方面可能不如人类。
+Có rất nhiều loại trí thông minh trongđầu của bản thân chúng ta.Chúng ta có lập luận diễn dịch,chúng ta có trí tuệ cảm xúc,chúng ta có trí tuệ không gian;chúng ta có thể có 100 loại khác nhau vàtất cả được nhóm lại với nhau,và chúng thay đổi ở cường độ khác nhauvới những người khác nhau.Và đương nhiên, nếu chúng ta để ý đếnđộng vật, chúng cũng có một thứmột sự hòa âm khác của các loạitrí tuệ khác nhau,và đôi khi những nhạc cụ tương tự đógiống với những thứ chúng ta cóChúng có thể nghĩ với cùng một cách nhưngcó lẽ có một cách sắp xếp khác,có lẽ chúng cao hơn loài ngườiở một số trường hợp,như trí tuệ dài hạn ở một chú sócthật sự là lạ thường,vì thế nó có thể nhớ nơinó chôn những quả hạch.Ở những trường hợp khácchúng thấp hơn.
+ 5:09
+当我们制造机器时，也会用同样的方式来设计它们，它们在某些方面会比我们聪明得多，而在其他方面则远远不如我们，因为根本没必要。我们会用这些东西，这些人造的功能组合，为我们的 AI 添加各种各样的人工认知。我们会让它们（的功能）非常具体。
+Khi chúng ta tạo ra máy móc,chúng ta sẽ bố trí chúng theocùng một cách,nơi chúng ta sẽ tạo ra một vài loại tríthông minh hơn cả của chúng ta,và nhiều trong số chúng sẽkhông giống của chúng ta,bởi vì chúng không cần thiết.Vì vậy chúng ta sẽ nắm lấy những thứ này,những tập hợp nhân tạo,và chúng ta sẽ thêm nhiều trí tuệ nhântạo vào Al của chúng ta.Chúng ta khiến chúng trở nên rất rấtcụ thể.
+ 5:37
+比方说，计算器在数学运算上要比我们聪明得多；GPS 的空间导航能力远胜过我们；谷歌、必应在长期记忆上完胜我们。然后我们再把这些不同类型的智能塞到……比如说汽车里，实现自动行驶。我们之所以这么做，正是因为它的驾驶方式跟我们不一样。它不像我们那样思考。这恰恰是它的特点。它不会分心，不会担心是否忘记了关炉子，不会纠结要不要选金融专业。它只知道开车。
+Vì thế về số học, máy tính của bạn đãthông minh hơn bạn rồi;GPS của bạn thông minh hơn bạn trong việcđịnh vị không gian;Google, Bing thông minh hơn bạn vềtrí nhớ dài hạn.Và chúng ta sẽ lần nữa có lại được nhữngloại suy nghĩ khác nhauvà ta sẽ cho chúng vào mộtchiếc ô tô.Lý do chúng tôi muốn để chúng vào mộtchiếc ô tô là để nó lái,vì nó không lái giống người lái.Nó không nghĩ giống chúng ta.Nó là một chi tiết nằm trong tổng thể.Nó không bị làm cho sao nhãng,nó không lo lắng về liệu có dời đi vớicái lò chưa tắt,hay nó có nên chuyên tâm vàovấn đề tài chính.Nó chỉ lái thôi.
+ 6:16
+（笑声）
+(tiếng cười)
+ 6:17
+它会专心开车，对吧？我们甚至可以把这个做为卖点，叫做“无意识”。它们没有意识，不会东想西想，不会分心。
+Chỉ lái thôi, OK?Và chúng ta thậm chí có thểquảng bá về chúngnhư thể: &quot;không có ý thức.&quot;Chúng không có ý thức,chúng không quan tâm đếnnhững điều đó,chúng không bị phân tâm.
+ 6:28
+所以，我们应该尽我们所能制造各种各样的思考（机器）。我们应该去尝试所有可能的思考方式。在商业和科学上，我们会遇到一些难题，单凭人类自身的思考无法解决。我们可能需要分两步走，先发明出新的思考方式，再与它们一起解决这些真正的难题，比如暗能量和量子引力。
+Nhìn chung, cái chúng ta đang cố gắng làmlà tạo ra càng nhiều loại suy nghĩkhác biệt có thể.Chúng ta sẽ đưa dân đếnkhoảng khôngcủa tất cả các loại suy nghĩkhác biệt có thể.Và thực sự có lẽ có một số vấn đềkhó khăn trong khoa học vàkinh tếmà loại suy nghĩ của loài người khôngthể có khả năng tự giải quyết.Chúng ta cần một chương trình gồm 2 bước,để sáng lập những loại suy nghĩ mớichúng ta có thể làm việc cùng lúc đểgiải quyết những vấn đề lớn,như năng lượng tối hay lực hấp dẫnlượng tử chẳng hạn.
+ 7:07
+我们实际上是在创造异形智能。某种意义上，甚至可以将它们看作人造异形。它们将帮助我们用不同的方式思考，而换一种思考方式是创造的源泉，是财富和新经济的引擎。
+Cái chúng ta đang làm là tạo ratrí tuệ ngoài hành tinh.Bạn thậm chí có thể nghĩ về nó như nhữngngười ngoài hành tinh nhân tạotheo một vài hướng.Và chúng sẽ giúp chúng ta nghĩ khác đibởi vì suy nghĩ khác biệt làphương tiện của sự sáng tạocủa cải và nền kinh tế mới.
+ 7:24
+第二点是，我们将用 AI推动第二次工业革命。在第一次工业革命中，人类发明了我称之为“人造能源”的东西。在此之前，在农业革命时期，制造业靠人力驱动，或者靠畜力。除此之外别无他法。工业革命时期的伟大发明就是人们利用化石燃料和蒸汽所产生的“人造能源”来做我们想做的任何事情。今天，当我们开车行驶在高速上，只需轻轻拨弄开关，就能驾驭 250 匹马——或者说，250 匹马的马力——我们可以建造高楼大厦，修建道路，建设城市，开办工厂，源源不断地生产桌椅或冰箱，这些都远远超出了人力所为。这种“人造能源”还可以通过电网和电线输送到家庭、工厂和农庄，任何人都可以购买这种“人造能源”，只需插上插头就可以使用。
+Ở khía cạnh thứ hai, chúng tasẽ sử dụng Alvề cơ bản để tạo ra cuộc cách mạngcông nghiệp thứ hai.Cuộc cách mạng công nghiệp thứ nhấtđược dựa trên sự thậtrằng chúng ta đã tạo ra một vài thứchúng ta gọi là năng lượng nhân tạo.Trước đó,trong suốt cuộc cách mạng nông nghiệp,mọi thứ được tạo ra phải được làm bởisức lực cơ bắp của con ngườihoặc sức mạnh của động vật.Đó đã từng là cách duy nhất đểlàm mọi thứ.Sáng kiến lớn trong suốt thời kìcách mạng công nghiệp là,chúng ta khai thác năng lượng hơi nước,nhiên liệu hóa thạch,để tạo ra năng lượng nhân tạochúng ta có thể sử dụngđể làm bất cứ thứ gì chúng ta muốn.Vì vậy ngày nay khi bạn lái xe trênđường cao tốc,chỉ cần một cái xoay nhẹ công tắctương đương với điều khiển 250 con ngựa250 mã lựcchúng ta có thể xây dựng tòa nhàchọc trời, xây thành phố, xây đường,tạo ra các nhà máy sản xuất đại tràcác dòng ghế hoặc tủ lạnhvượt xa năng lực của chúng ta.Năng lượng nhân tạo cũng có thể được phânphát qua lưới điện hay một chấn song sắtđể đi đến mọi nhà, xí nghiệp, trang trại,và tới bất cứ ai có thể muanăng lượng nhân tạo này,chỉ bằng cách cắm phích điện.
+ 8:38
+它也带来了很多创新，农民可以为手动泵通上电，加上这种“人造能源”，就变成了电泵。类似的改造成千上万，这个（人力器械+人造能源的）公式造就了工业革命。今天我们看到的所有事物，享受的所有服务，几乎都来源于此。
+Vì thế đây là một nguồn sáng kiếncũng nhưbởi vì một người nông dân có thểđiều khiển máy bơm bằng tay,và chúng có thể thêm năng lượng nhân tạo,là nguồn điện,và anh ta có một máy bơm điện.Và bạn làm tăng nguồn năng lượng lên hàngngàn hay hàng chục ngàn lần,và cách thức đó mang chúng ta đến vớicuộc cách mạng công nghiệp.tất cả những thứ ta thấy, tất cảnhững tiến bộ giờ ta đang tận hưởng,đều xuất phát từ thực tế chúng ta làm.
+ 9:01
+现在我们要用 AI 做同样的事情。我们用网路传输 AI，把 AI 加载到诸如电泵之类的东西上，就得到了聪明的电泵。类似的改造做上几百万次，就会掀起第二次工业革命。那么将来汽车行驶在高速上，它不仅有 250倍马力，还有 250倍的脑力。这就是自动驾驶汽车。它是一种新的商品，是一种新的基础设施。AI 将会在网络、在云端传输，就像电一样。
+Bây giờ chúng ta sẽ làm điềutương tự với Al.Ta sẽ phân phát nó theo mộthệ thống dây,và bây giờ bạn có thể dùngmáy bơm bằng điện.Bạn có thể thêm trí thông minh nhân tạo,và giờ bạn có mộtmáy bơm nhanh.Thứ được tăng công lực gấp 1 triệu lần,sẽ có mặt ở cuộc cách mạngcông nghiệp lần hai.Vì thế giờ ô tô sẽ đi trên đường cao tốc,với 250 mã lực nhưngthêm vào đó là 250 trí ócĐó là ô tô tự động lái.nó như một hàng hóakiểu mới;nó là một tiện ích mới.Al sẽ chảy qua hệ thống đường dây-đám mây-với cách giống như dòng điện.
+ 9:33
+所以凡是可以用电的地方，都可以用 AI。而我可以建议说，未来一万家创业公司的秘诀其实非常非常简单：拿来某样东西，加上 AI。这个公式就是我们将要不断践行的。我们将以这种方式来掀起第二次工业革命。顺便说一句，就在此时，你可以登录谷歌，购买 AI：用6美分购买100次服务。这个服务现在就能用。
+Vì thế mọi thứ chúng ta nạp điện,Chúng ta sẽ nhận thức được.Và tôi muốn nói rằng,công thức cho 10.000 bướckhởi nghiệp tiếp theovô cùng đơn giản,là lấy x và thêm Al.Đó là cách thức mà chúng tasẽ đang làm.Và đó là cách mà chúng ta sẽ tạo racách mạng công nghiệp lần thứ hai.và ngay bây giờ, giờ phút này,bạn có thể đăng nhập Googlevà bạn có thể mua Al với 6 xu,100 lượt truy cập.Ngay bây giờ điều này là sẵn có.
+10:05
+第三点是，我们将AI实体化，就得到了机器人。机器人可以帮助我们，完成许多曾经需要我们亲力亲为的任务。而工作就是一系列的任务，我们的工作将会被重新定义，一部分任务将交给机器人来完成。与此同时，也将产生一大批不同种类的新任务，一批以往我们没有意识到要去做的任务。它们甚至有可能催生出新的职业，我们感兴趣的新工作，就像自动化带来的许多新事物，我们之前并不知道会需要它们，但今天我们已经离不开它们了。所以机器人带来的工作机会比它们抢走的要多。更重要的是，我们交给它们的都是需要效率或生产率的任务。如果一个任务，不管是体力的还是脑力的，可以用效率或生产率来衡量，那么就应该交给机器人来完成。需要效率的事情交给机器人好了。我们真正擅长的是浪费时间。
+Khía cạnh thứ balà khi chúng ta có Al và biểu hiệncho điều đó,chúng ta có robots.Và robots sẽ là cácchương trình máychúng sẽ làm nhiều nhiệm vụmà chúng ta đã làm.Một việc gồm một mớ cácnhiệm vụ,do đó chúng sẽ đánh giá lại việc làmvì chúng sẽ làm một vàinhiệm vụ đó.Nhưng chúng cũng sẽ tạo ra nhữngloại hoàn toàn mới,một số lượng lớn các nhiệm vụhoàn toàn mớimà chúng ta không biết tađã muốn làm trước đó.Chúng sẽ thực sự đem lại nhữngloại nghề nghiệp mới,những loại nhiệm vụ mới màchúng ta muốn làm,chỉ như tự động hóa tạo ra mộtbó những thứ mới mẻmà chúng ta không biết ta cầntrước đó,và giờ ta không thể sốngthiếu chúng.Vì thế chúng sẽ sản sinh thậm chí nhiềunghề hơn chúng lấy đi,nhưng quan trọng là nhiều nhiệm vụ màchúng ta sẽ giao cho chúngcó thể được chỉ rõ dựa theotính hiệu quả và năng suất.Nếu bạn có thể chỉ rõ một nhiệm vụ,hoặc là bằng tay hoặc thuộc nhận thức,rằng có thể được chỉ ra dựa theotính hiệu quả hay năng suất,đi tới những chương trình máy tính.Năng suất là nhờ robots.Cái mà chúng ta thực sự giỏi đólà gây lãng phí thời gian.
+11:15
+（笑声）
+(tiếng cười)
+11:15
+我们最擅长做那些没有效率的事情。科学从本质上来说是低效的。我们一次又一次的失败，很多试验和尝试都徒劳无功，否则我们也学不到什么东西。事实就是，科学研究没有什么效率。创新从定义上来说就是低效的。毕竟我们需要制作原型，需要做各种尝试，经历各种失败。探索是低效的。艺术是低效的。人际关系也是低效的。这些都是我们喜欢做的事情，因为它们都是低效的。高效是机器人的使命。还要认识到，我们将和 AI 一起工作，因为它们的思维方式与我们不同。
+Ta thực sự giỏi ở những thứkhông có khả năng.Khoa học vốn không hiệu quả.Nó dẫn đến sự thật là bạn thất bạihết lần này đến lần khác.Nó đưa ra sự thật rằng bạn làm những bàitest và thí nghiệm không thành,mặt khác bạn đang không học.Nó đưa ra sự thật lànó không có nhiều hiệu quả.Sự đổi mới theo định nghĩalà không hiệu quả,vì bạn tạo ra nguyên mẫu,vì bạn thử những thứ gây thất bại,không làm được việc.Sự khám phá vốn không hiệu quả.Nghệ thuật không hiệu quả.Mối quan hệ của con người khônghiệu quả.Đó là tất cả những thứ chúng ta hướng đến,vì chúng không hiệu quả.Hiệu quả là nhờ robots.Chúng ta cũng sẽ học được rằngchúng ta làm việc cùng Alvì chúng suy nghĩ khác chúng ta.
+12:01
+在“深蓝”战胜国际象棋的世界冠军后，人们以为国际象棋没什么玩头了。但事实上，目前世界上最厉害的国际象棋冠军并不是 AI，也不是人类，而是由人类和 AI 组成的团队。最棒的医学诊疗师既不是医生，也不是 AI，而是他们组成的团队。也就是说我们将和 AI 一起工作，你将来的薪酬，很可能取决于你跟机器人合作得如何。这就是我想说的第三点：AI 是不同于我们的，它们是技术设备，我们将与它们合作，而非竞争。
+Khi Deep Blue đánh bại nhà vô địch cờ vuagiỏi nhất thế giới,mọi người nghĩ đó là kết thúccủa cờ vua.Nhưng thực tế, hóa ra ngày nay, nhàvô địch cờ vua giỏi nhất thế giớikhông phải là một Al.không là một con người.Nó là một đội gồm một người và một Al.Thầy thuốc chẩn đoán giỏi nhất không phảimột bác sĩ hay Al,Nó là một đội.Chúng ta đang và sẽ làm việc với Al,và tôi nghĩ bạn sẽ được trả lươngtheo cách bạn làm việc với nhữngchương trình máy.Đó là điều thứ ba, rằng chúnglà khác biệt,chúng có íchvà chúng sẽ trở thành thứ mà chúng talàm việc cùng hơn là chống lại.Chúng ta sẽ làm việc cùng hơn làchống lại chúng.
+12:42
+那么，未来会如何？我想，25年后我们回头再看今天对 AI 的理解，我们会说：“你们那都不叫 AI。你们甚至都还没有真正的因特网，25年后的因特网才能叫因特网呢。“我们也还没有真正的 AI 专家。而大量的资本正涌向这个领域，动辄数十亿美金，这是一个巨大的产业。但我们尚未拥有真正的 AI 专家——如果跟20年后相比的话。我们还处在最初的起步阶段，所有一切才刚刚开始。因特网的历史才刚刚开始。美好的未来才刚刚开始。未来20年最受欢迎的 AI 产品，最普及的 AI 产品，还没有被发明呢。也就是说，你们还有机会。
+Vì vậy, tương lai:Nó đưa chúng ta đi về đâu?Tôi nghĩ rằng 25 năm kể từ bây giờ,họ sẽ nhìn lạinhìn vào sự hiểu biết về Al củachúng ta và nói,&quot;Bạn đã không có Al. Sự thật, bạn thậm chíchưa có Internet,so với cái chúng ta sẽ có sau 25 năm.&quot;Ngay lúc này ta chưa có nhữngchuyên gia Al.Có rất nhiều tiền được đổ vào đó,Có hàng tỉ đô-la được chi vào đó;Nó là một món kinh doanh khổng lồ,nhưng chẳng có một chuyên gia nào khiso với cái mà chúng ta sẽ biết sau 25 năm.Vì thế chúng ta chỉ đang ở điểm bắt đầu,ta ở giờ đầu tiên của tất cảnhững điều này.Chúng ta ở giờ đầu tiên của Internet.Ta ở giờ đầu tiên của cái đangxảy đến.Sản phẩm Al phổ biến nhất trong 20 năm tớilà cái mọi người đều sử dụng,chưa từng được phát minh.Điều đó có nghĩa là bạn vẫn chưa muộn.
+13:34
+谢谢！
+Cảm ơn.
+13:35
+（笑声）
+(tiếng cười)
+13:36
+（掌声）
+(tiếng vỗ tay)

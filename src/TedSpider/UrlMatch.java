@@ -14,19 +14,26 @@ public class UrlMatch {
 		}
 	}
 
-	public void matchPageUrl(String url, int pageNum) throws Exception {
+	public void matchPageUrl(String url, int startNum, int endNum) throws Exception {
 
-		for (int i = 1; i <= pageNum; i++) {
+		for (int i = startNum; i <= endNum; i++) {
 			System.out.print(url + "?page=" + i);
-			String htmlsc = spider.Crawl.getPage(url + "?page=" + i);
-			this.match(htmlsc);
+			try{
+				String htmlsc = spider.Crawl.getPage(url + "?page=" + i);
+				this.match(htmlsc);
+			}
+			catch (NullPointerException E){
+				continue;
+			}
+			
+			
 			System.out.println("  Done!");
 		}
 	}
 
 	public static void main(String args[]) throws Exception {
 		UrlMatch um = new UrlMatch();
-		um.matchPageUrl("https://www.ted.com/talks", 5);
+		um.matchPageUrl("https://www.ted.com/talks", 5, 40);
 		for (Iterator<String> it = um.urlSet.iterator(); it.hasNext();) {
 			System.out.println(it.next());
 		}
