@@ -71,8 +71,22 @@ public class TranscriptMatch {
 		}
 	}
 
-	public void addScript(ArrayList<String> newScriptList, ArrayList<String> newTimeList) {
-		
+	/**
+	 * 在没一句前加入语言类型
+	 * @param type
+	 */
+	public void addLanguageType(String type){
+		for (int i = 0; i < this.scriptList.size(); i++) {
+			this.scriptList.set(i, type + "####   " + scriptList.get(i));
+		}
+	}
+	/**
+	 * 将2份不同语言的脚本合二维一
+	 * @param newScriptList
+	 * @param newTimeList
+	 * @throws Exception
+	 */
+	public void addScript(ArrayList<String> newScriptList, ArrayList<String> newTimeList) throws Exception {
 		if (newScriptList.size() == this.scriptList.size()){
 			for (int i = 0; i < this.scriptList.size(); i++) {
 				this.scriptList.set(i, scriptList.get(i) + "\n" + newScriptList.get(i));
@@ -80,33 +94,36 @@ public class TranscriptMatch {
 			return;
 		}
 		else{
-			for (int i = 0, j=0; i < this.scriptList.size(); i++, j++) {
-				if(newTimeList.get(j).equals(this.timeList.get(i))){
-					if(this.scriptList.get(i).endsWith("TobeContinued")){
-						String mergeString = this.scriptList.get(i);
-						mergeString = mergeString.substring(0, mergeString.length()-13);
-						mergeString += newScriptList.get(j);
-						this.scriptList.set(i, mergeString);
-					}
-					else{
-						this.scriptList.set(i, scriptList.get(i) + "\n" + newScriptList.get(j));
-					}
-					
-				}
-				
-				else{
-					if(this.isAbeforeB(newTimeList.get(j), this.timeList.get(i))){
-						this.scriptList.set(i, scriptList.get(i) + "\n" + newScriptList.get(j) + "TobeContinued");
-						i--;
-					}
-					else{
-						this.scriptList.set(i, scriptList.get(i) + "(接下节)\n" + newScriptList.get(j));
-						this.scriptList.set(i+1, "(接上节)" + scriptList.get(i+1));
-						i++;
-					}
-				}
-			}
+			throw new Exception("时间轴无法对应无法添加");
 		}
+//		else{
+//			for (int i = 0, j=0; i < this.scriptList.size(); i++, j++) {
+//				if(newTimeList.get(j).equals(this.timeList.get(i))){
+//					if(this.scriptList.get(i).endsWith("TobeContinued")){
+//						String mergeString = this.scriptList.get(i);
+//						mergeString = mergeString.substring(0, mergeString.length()-13);
+//						mergeString += newScriptList.get(j);
+//						this.scriptList.set(i, mergeString);
+//					}
+//					else{
+//						this.scriptList.set(i, scriptList.get(i) + "\n" + newScriptList.get(j));
+//					}
+//					
+//				}
+//				
+//				else{
+//					if(this.isAbeforeB(newTimeList.get(j), this.timeList.get(i))){
+//						this.scriptList.set(i, scriptList.get(i) + "\n" + newScriptList.get(j) + "TobeContinued");
+//						i--;
+//					}
+//					else{
+//						this.scriptList.set(i, scriptList.get(i) + "(接下节)\n" + newScriptList.get(j));
+//						this.scriptList.set(i+1, "(接上节)" + scriptList.get(i+1));
+//						i++;
+//					}
+//				}
+//			}
+//		}
 	}
 
 	public static void main(String[] args) throws Exception {
