@@ -2,5 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/Har/EclipseProjects/corpus_constructor/jar/htmlparser.jar"/>
 	<classpathentry kind="output" path="class"/>
 </classpath>
