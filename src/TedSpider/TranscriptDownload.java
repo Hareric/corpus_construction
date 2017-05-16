@@ -10,26 +10,29 @@ public class TranscriptDownload {
 		String htmlsc = spider.Crawl.getPage(url);
 		Matcher match = TranscriptMatch.regexString(htmlsc, "value='zh-cn'");
 		if (!match.find()) { // 若无中文翻译文本则返回不爬取
+			System.err.println(url + "  无中文文本");
 			return;
 		}
 		TranscriptMatch tsmZh = new TranscriptMatch();
 		htmlsc = spider.Crawl.getPage(url + "?language=zh-cn");
 		tsmZh.match(htmlsc);
-		tsmZh.addLanguageType("zh-cn");
+//		tsmZh.addLanguageType("zh-cn");
 		String htmlscl = "";
 		boolean isSave = false;  // 若无相应的外文transcript 则不保存
 		for (int i = 0; i < languageType.length; i++) {
 			TranscriptMatch tsm = new TranscriptMatch();
 			match = spider.Crawl.regexString(htmlsc, "value='" + languageType[i] + "'");
 			if (!match.find()) {
+				System.err.println(url + "  无外文文本");
 				continue;
 			}
 			htmlscl = spider.Crawl.getPage(url + "?language=" + languageType[i]);
 			tsm.match(htmlscl);
-			tsm.addLanguageType(languageType[i]);
+//			tsm.addLanguageType(languageType[i]);
 			try {
 				tsmZh.addScript(tsm.getScriptList(), tsm.getTimeList());
 			} catch (Exception e) {
+				System.err.println(url);
 				continue;
 			}
 			isSave = true;
@@ -61,12 +64,14 @@ public class TranscriptDownload {
 
 	public static void main(String args[]) throws Exception {
 		UrlMatch um = new UrlMatch();
-		um.matchPageUrl("https://www.ted.com/talks?language=zh-cn", 1, 5);
-		String[] languageType = { "vi", "id", "ms" };
+		um.matchPageUrl("https://www.ted.com/talks?language=zh-cn", 1, 30);
+//		UrlMatch umvi
+		String[] languageType = { "vi"};
+		System.out.println("演讲个数：" + um.urlSet.size());
 		for (Iterator<String> it = um.urlSet.iterator(); it.hasNext();) {
 //			System.out.println(it.next());
 			try {
-				download(it.next(), languageType, "transcript");
+				download(it.next(), languageType, "transcript/vi");
 			} catch (NullPointerException ex) {
 				continue;
 			}

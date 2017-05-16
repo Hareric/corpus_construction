@@ -17,12 +17,13 @@ public class UrlMatch {
 	public void matchPageUrl(String url, int startNum, int endNum) throws Exception {
 
 		for (int i = startNum; i <= endNum; i++) {
-			System.out.print(url + "?page=" + i);
+			System.out.print(url + "&page=" + i);
 			try{
-				String htmlsc = spider.Crawl.getPage(url + "?page=" + i);
+				String htmlsc = spider.Crawl.getPage(url + "&page=" + i);
 				this.match(htmlsc);
 			}
 			catch (NullPointerException E){
+				System.err.println("faile");
 				continue;
 			}
 			

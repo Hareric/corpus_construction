@@ -1,0 +1,57 @@
+ 0:11
+当我们设计新的产品推出新的服务或业务的时候只有当用户真正开始使用它们我们才能判定这个产品或是服务设计得究竟如何
+Khi chúng ta thiết kế những sản phẩm mớicho mục đích dịch vụ hay thương mạicách duy nhất để bạn biết sản phẩmđó có tốt hay khôngvà nếu thiết kế đó tốt hay khônglà xem việc chúng được sử dụng trong thực tế, trong ngữ cảnh nhất định
+ 0:25
+我每次路过伦敦北部的海布里公园（Highbury Fields）都会想起这个道理那个公园非常美公园内有一大块草坪格鲁吉亚风格的建筑环绕四周但是草坪中间有一段泥泞小路显然，人们不愿意绕一大圈，更喜欢抄近路，而小路有自我强化机制：一旦形成，就会有越来越多的人走
+Tôi lại nghĩ về điều đó mỗi khi tôi đi ngang qua Highbury Fieldsở phía bắc London.Nơi đó rất là đẹp.Có không gian mở lớn màu xanh lá câyCó những tòa nhà thuộc thời đại Georgia ở xung quanhNhưng lại có những vũng bùn cắt ngang ở giữaMọi người rõ ràng không muốn đivòng ngoài rìa khuôn viênThay vào đó, họ muốn đi một lối tắt,và lối tắt đó dần dần được hình thành.
+ 0:49
+我们把这类“近路”叫做心仪小路 (desire path)这类小路对于行人来说是最有吸引力的这些小路让我着迷因为它体现出设计与用户体验往往是有偏差的
+Bây giờ, lối tắt này được gọi làlối đi mong muốn,và nó thường là lối đi được lựachọn nhiều nhất.Tôi thấy chúng rất thú vịbởi vì đây chúng thường là điểm mà tại đóthiết kế và thực nghiệm bắt đầu tách biệt.
+ 1:03
+在此，我应该道歉因为此后你们会开始注意到这样的偏差无处不在但今天我只挑三个例子与你们分享它们不仅有趣，还会提醒我们研发新产品、推广新服务时应该注意什么第一个例子来自巴西首都——巴西利亚这个例子提醒我设计产品时往往需要关注实际需求以避免不必要的麻烦当下，巴西利亚非常迷人20世纪50年代尼迈耶对整座城市做了规划那个时候是航空业的黄金时期你可以看出来，他规划出了一个飞机的形状不过有些令人担心的是他将大多数重要政府机构都放在了机头的位置但是如果你将巴西利亚市中心航拍图放大就是图中标注的这个位置你将看到这里遍布着心仪小路真的无处不在
+Và lúc này, tôi nên xin lỗi,bởi vì các bạn sẽ bắt đầu thấy điều này ở khắp mọi nơiNhưng hôm nay, tôi sẽ chỉ chọn ba ví dụ tôi thấy thú vịvà chia sẻ những gì chúng thực sự nhắc nhở tôivề việc ra mắt các sản phẩm mới và dịch vụVí dụ đầu tiên là ở thủ đô của Brazil - BrasiliaVà nó nhắc tôi rằng thỉnh thoảng,chúng ta chỉ cần phải tập trung thiết kế cho một nhu cầu thực tếtốt nhất có thể.Bây giờ, Brasilia rất hấp dẫn,Thành phố được thiết kế bởi kiến trúc sư Niemeyer vào thập niên 50Đó là thời hoàng kim của ngành hàng không,nên ông ấy bố cục giống như một máy bay,như bạn có thể thấy ở đây.Hơi đáng lo ngại một xíuông ấy đặt phần lớn công trình chính phủquan trọng ở buồng lái.Nhưng nếu bạn phóng tongay giữa trung tâm Brasiliangay điểm màu đỏ trên hìnhbạn sẽ thấy nó dày đặc những lối đi tự tạo.Chúng chính xác là ở khắp mọi nơi.
+ 1:52
+他们曾觉得这个设计能经受住时间的考验因为他们认为未来我们不再需要步行了我们可以开车所以也就不再需要人行道了但是你可以看到，人行道还是必要的这些心仪小路非常危险比如我们看一下中间这条小路如果走这条路，行人需要横穿15个机动车道在座各位可能知道在巴西利亚，行人出车祸的概率是在美国的五倍人们都很聪明他们总是寻找最便捷的路线既省钱又省时间
+Lúc này, họ nghĩ rằng họ đã dự đoán tương lai của thiết kế nàyHọ nghĩ trong tương lai chúng takhông cần phải đi bộ nữachúng ta có thể lái xenên những đường đi bộ hoặc vỉa hè là không cần thiết.Nhưng bạn có thể thấy đi bộ là nhu cầu thực tếNhững lối đi tự tạo này rất nguy hiểm.Nếu chúng ta chọn một cái, ngay giữa này,bạn có thể thấy nó băng ngang quamột đường xe 15 lànNên hoàn toàn không ngạc nhiên lắmkhi Brasilia có tỉ lệ tai nạn của người đi bộ cao gấp năm lầnso với tỉ lệ trung bình ở Mỹ.Con người rất sáng tạo.Họ luôn tìm ra con đường tốt nhấtđể tiết kiệm tiền, tiết kiệm thời gian.
+ 2:29
+但也并不是所有的心仪小路都很危险当我抵达希思罗机场的时候曾注意到很多乘客对这里的道路设计都很不满因为他们必须从免税店穿过这让我很好奇会有多少乘客不走左边这条又长又蜿蜒的路线而选择走右边走这条心仪小路
+Không phải tất cả lối đinày đều nguy hiểmTôi nhớ chuyến bay của mình ở đây hồi tôi ở Heathrow.Nhiều người trong chúng tôi rấtbực mình khi phải đối mặt vớilối đi bắt buộc này thông quakhu vực miễn thuế.Tôi rất là kinh ngạckhi thấy có bao nhiêu người đã từ chốiđi lối đi dài, đánh vòng phía bên tráimà cứ đi cắt ngang về bên phảiđi qua lối đi tự tạo.
+ 2:51
+这个问题有趣的地方在于设计师是如何看待我们的行为的呢他们会觉得我们傻吗会觉得我们懒吗还是他们会承认他们设计失误毕竟，这是他们的设计作品我们这些使用者实际上也参与了产品设计所以我们设计师的工作就是尽可能满足用户的实际需求因为如果设计师做不到，使用者自己也会想办法的
+Câu hỏi thú vị ở đây là:Những người thiết kế nghĩ gìkhi họ thấy hành động này của chúng ta?Họ có nghĩ là chúng ta ngốc quá?Họ có nghĩ là chúng ta lười biếng?Hay họ chấp nhận rằng đơn giảnsự thật nó phải như vậyĐây là sản phẩm của họVà chúng ta góp một phầnrất đáng kể vào sản phẩm đó.Nên công việc của chúng ta là thiết kếcho những nhu cầu thật tốt nhất có thểvì nếu không thì thế nào khách hàngcũng sẽ tự thiết kế.
+ 3:18
+我想跟大家分享的第二条心仪小路位于加州大学这个例子让我明白有时候最好的设计方式就是顺应用户大学校园是寻找心仪小路的理想场合我觉得这是因为学生总是赶时间而且他们还很聪明当他们冲向讲座教室时候他们总能找到近道而那里的设计者了解这一点所以他们先建好大楼然后等上几个月，直到人们踩出了小路然后在此基础上铺路(笑声)非常聪明的点子事实上，多数情况，通过类似的前期试验设计师即可捕获用户的真正需求
+Một ví dụ thứ hai tôi muốn chia sẻlà ở Đại học California.Nó nhắc tôi rằngthỉnh thoảng cách tối ưuđể có thiết kế tốt nhấtlà cứ đưa chúng vào sử dụng.Bây giờ, khuôn viên trường đại học rấtthú vị chúng đầy rẫy những đi lối tự tạoTôi nghĩ là bởi vì sinh viên luôntrễ học và họ thì rất thông minhNên khi cuống cuồng tới lớphọ luôn tìm những lối tắt.Và những người thiết kế biết điều đó.Nên khi họ xây xong công trìnhhọ đợi vài tháng sau cho những lối đitự tạo được hình thành.Và sau đó họ lát đá cho chúng.(Tiếng cười)Một cách tiếp cận hết sức thông minh.Thực tế, cứ đưa ra phiên bảndùng thử của một dịch vụnó sẽ giúp chúng ta biếtmọi người muốn gì
+ 3:59
+例如波士顿的 Ayr Muir 想要开一个餐馆但是如何选址菜单又应包含哪些菜品呢在开餐厅之前他开了一个快餐车然后每天换个地方售卖快餐他每天也会在餐车的旁边立一块白板上面写有当天的菜单以此找出人们喜欢的菜式如今他已经拥有多家连锁餐厅了显然，先做一些实验来找出“心仪小路”的办法极为有效
+Ví dụ, Ayr Muir ở Boston biếtông ấy muốn mở một nhà hàng.Nhưng không biết nên mở ở đâuthực đơn nên có những món gì.Ông ấy đã chạy thử một dịch vụ,trường hợp này là xe bán đồ ănvà ông thay đổi vị trí bán mỗi ngày.Ông viết những thực đơn khác nhautrên tấm bảng trắngđể phát hiện ra mọi người họ muốn gì.Bây giờ, ông ấy đã làm chủmột chuỗi các nhà hàng.Nên nó rất là hiệu quảkhi chạy thử một cái gì đó để biết điều khách hàng muốn
+ 4:27
+第三个，也是最后一个我想要分享的心仪小路位于UNIH（美国国立卫生研究院）这个例子提醒我世界不是一成不变的我们要随时准备应对这些变化正如你们所料，这是个医院我把左边的肿瘤科标记了出来病人通常都呆在图中右下角的宾馆里这是个以病人为中心的组织所以他们为病人提供免费摆渡车但是当医院开始提供化疗之后他们发现病人通常都不想坐摆渡车化疗后的病人通常感觉非常恶心所以他们更想走回宾馆这就形成了这么一条对角线的心仪小路病人们甚至给它起了名字——化疗之路当医院最开始注意到这条小路的时候他们给这条路重新铺上草皮，并没有重视但是很快地，他们意识到这条小路的重要性病人真的需要走这条路于是他们把这条路铺了出来
+Ví dụ thứ ba cũng là ví dụ cuốitôi muốn chia sẻ với các bạnđó là UNIHNó nhắc tôi rằng thế giới không ngừng thay đổivà chúng ta phải thích ứng vớinhững thay đổi đó.Như các bạn có thể đoánđây là một bệnh việnTôi đã đánh dấu ở bên trái này đâykhu vực khoa Ung bướu.Các bệnh nhân thường nghỉ lại ởkhách sạn nằm phía dưới góc phải này.Ở đây từng có một tổ chức chăm sóc bệnh nhânhọ để xe ô tô để những bệnh nhân sử dụngNhưng họ nhận thấy rằng khibệnh nhân bắt đầu được hóa trịhọ hiếm khi muốn đi ô tô.Họ quá buồn nôn nên chỉ muốnđi bộ về khách sạn.Và một con đường chéo tự tạobạn có thể thấy ở đây hình thànhThậm chí bệnh nhân còn gọinó là "Đường mòn hóa trị"Bây giờ khi bệnh việnnhận thấy điều nàyhọ cố gẳng trải cỏ lạivà lờ nó đi.Nhưng sau một thời gian họ nhận thấyđây là một nhu cầu quan trọngthật sự cần thiết cho các bệnh nhânnên bệnh viện lát gạch cho lối đi đó
+ 5:23
+我认为我们设计师的工作就是铺出这些逐渐出现的心仪小路如果我们回头再看看伦敦北部那条小路会发现那条心仪小路并不是最开始就存在的它之所以会出现是因为每到足球赛季的比赛日，球迷们都会涌到阿森纳俱乐部看球他们从地图右下角的地铁站出来这条心仪小路就这样形成了如果时光倒流几年当体育馆还没建好的时候这条路还不存在
+Và tôi nghĩ công việc chúng ta sẽ thườngphải lát gạch cho những lối đi như thế.Nếu ta nhìn lại con đườngở phía bắc London lần nữa,lối đi tự tạo không phải lúc nào cũng ở đóCó lí do để nó xuất hiện.Đó là do người dân đi đến sân vận độngArsenal Football Clubvào những ngày thi đấutừ trạm xe điện ngầm bạn thấygóc dưới bên phải này.Giờ thì bạn thấy lối đi đó.Nếu chúng ta quay ngược lạivài năm trước,khi sân vận động mới bắt đầu khởi côngkhông hề có lối đi tự tạo nào.
+ 5:52
+所以我们的工作就是观察等待这些路形成再伺机把它们铺设成真正的道路就像下面这个例子一样有人（在小路上）安装了一个路障然后发现人们要么跨过去，要么从底下钻过去后来他们就干脆把这条路铺上了
+Nên công việc của chúng ta là để ý xemkhi nào những lối đi đó bắt đầu hình thànhvà khi có thể, thì lát gạch cho chúngnhư ai đó đã làm ở đây.Ai đó làm một cái rào chắnmọi người vẫn đi quavòng bên dưới như bạn thấyvà họ phải lát gạch thôi
+ 6:09
+(笑声)
+(Tiếng cười)
+ 6:11
+我觉得这是个很好的例子它提示我们世界不是一成不变的它始终都在不停变化比如你看这张图片的上面部分另一条心仪小路正在形成
+Nhưng tôi nghĩ đây làmột lời nhắc tuyệt vời,rằng thế giới thật ranó thay đổi đóNó không ngừng thay đổivì nếu bạn nhìn phía trên cùngcủa bức ảnhcó một lối đi khác đang hình thành.
+ 6:22
+这三条心仪小路提醒着我我们在设计时要考虑人们的真正需求我觉得对客户需求的同理心可能是事业成功的最好先行指标设计要满足客户真正的需求并减少使用的难度因为一旦他们觉得这个设计难用他们可能会自己做出反馈及调整
+Nên ba ví dụ này nhắc tôi làchúng ta cần thiết kế cho những nhu cầucó thật của con ngườiTôi nghĩ đồng cảm với nhu cầucủa khách hànglà kim chỉ nam lớn nhất dẫn đếnthành công trong kinh doanh.Thiết kế cho những nhu cầu thậtvà thiết kế chúng tốt nhất có thể,vì nếu bạn không làm chúng đủ tốtngười khác sẽ làm, và thường là khách hàng
+ 6:45
+第二，挖掘用户真正需求的最好方式往往是进行前期实验闭门造车很难得出答案走出去，看看人们到底想要什么
+Thứ hai, thường cách tốt nhất để biếtcái mọi người thật sự muốnlà cứ ra mắt dịch vụ của bạn.Câu trả lời hiếm khi nằm trong văn phòng.Hãy ra ngoài và nhìn xemmọi người thật sự muốn gì.
+ 6:57
+最后，由于科技的不断发展世界目前处在剧变中并且这种变化的脚步从未停歇这些心仪小路出现的速度之快前所未有我们的工作就是挑选合适的小路并铺设好路石
+Và cuối cùng. một phần nhờ vào công nghệthế giới chúng ta thay đổi liên tụcngay khoảnh khắc nàyNó đang không ngừng thay đổi.Những con đường sẽ tiếp tụcxuất hiện nhanh hơn bao giờ hết.Công việc của chúng ta là chọnnhững lối đi thích hợpvà lát gạch cho chúng.
+ 7:13
+非常感谢
+Cảm ơn các bạn rất nhiều
+ 7:14
+(掌声)
+(Tiếng vỗ tay)

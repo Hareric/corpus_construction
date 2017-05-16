@@ -1,0 +1,30 @@
+ 0:12
+（水声）
+(Tiếng ồn trong nước )
+ 0:19
+这段视频是在一座海底实验室拍摄的这座实验室距离基拉戈海岸四英里（注：基拉戈位于美国佛罗里达州）海平面以下约 60 英尺处美国宇航局用这种极端环境训练宇航员和海底观探员去年，他们邀请我们一起做研究。所有素材都来自我们的开放 ROV，它是一个我们在自己车库里制造的一个机器人
+Video này đã được thực hiệntại phòng thí nghiệm dưới biển Aquariusbốn dặm ngoài khơi bờ biển Key Largo,khoảng 18 mét dưới mặt biển.NASA sử dụng môi trường khắc nghiệt nàyđể đào tạo các phi hành gia và nhà khoa học lặn ,và năm ngoái, họ đã mời chúng tôi tham gia chuyến đi này.Tất cả các đoạn phim được lấy từ ROV mở của chúng tôi,đó là một robot mà chúng tôi tạo ratrong nhà để xe của mình.
+ 0:43
+所以 ROV是”远程操作移动工具“的缩写对我们来说，就是我们的小机器人通过超薄系绳发送实况视频返回到地面上的电脑。它是开放资源，意思是说我们在网络上发布和分享所有的设计档案和所有的代码允许任何人调整或改善，甚至更改设计。制作它所使用的绝大部分部件是工业成品所需要的费用比詹姆斯卡梅隆所使用的用来探索泰坦尼克的远程操作移动工具便宜约1000倍所以 远程操作移动工具并不是新发明出来的。它们已经出现几十年。科学家们使用远程操作移动工具来探索海洋。石油和天然气公司使用它们进行勘探与建设。我们制作的这个机器本身并不独特。它的独特性来自于我们建立它的方式与过程。
+ROV là viết tắt của xe vận hành từ xa,(Remote Operated Vehicle)mà trong trường hợp của chúng tôi đó là một con robot nhỏgửi video trực tiếpqua dây dẫn siêu mỏngvề máy tính trên mặt nước.Nó có nguồn mở, nghĩa là chúng tôi công bốvà chia sẻ tất cả các file thiết kếvà tất cả các đoạn mã của mình lên mạng ,cho phép bất cứ ai sửa đổihoặc cải thiện hoặc thay đổi thiết kế .Nó được xây dựng với chủ yếu là các bộ phận lỗi thờivới chi phí rẻ hơn khoảng 1.000 lầnso với những cái ROV mà James Cameron đã sử dụngđể khám phá con tàu Titanic .Vì thế ROVs không có gì là mới .Chúng đã xuất hiện nhiều thập kỷ qua.Các nhà khoa học sử dụng ROV để khám phá đại dương.Các công ty dầu khí sử dụng chúngđể thăm dò và xây dựng.Những gì mà chúng tôi tạo rakhông phải là độc đáo.Nhưng cách mà chúng tôi tạo nên nó lại thực sự độc đáo.
+ 1:31
+所以我想用一个简短的故事，讲述这个工程是如何开始的。几年前，我和我的朋友艾瑞克决定我们想探索一个水下洞穴这个水下洞穴位于山脉的一个山脚下我们听说了一个故事，淘金热时期发生的一次抢劫中抢匪劫获的黄金就藏在那里. 我们很想去那里探险不幸的是，我们没有钱也没有任何工具。所以，艾瑞克的初期构想是做一个机器人，但是我们不知道如何找到所需的零件所以我们做出了任何人在这样的情况下都会做的事那就是在互联网上寻求帮助。更具体地说，我们创建了这个网站，openROV.com，在这个网站上分享的我们意图和计划最初的几个月，只是我和艾瑞克在论坛上相互对话，但是，很快我们就开始接收到回复这些反馈来自于一些创客和爱好者之后，有一些专业的海洋工程师为我们提供建议，告诉我们应该怎样做。我们一直致力于完成它，在过程中学到了很多知识。我们不断的改进我们的设计，并且最终，我们决定要去山洞里了。我们准备好了。
+Và tôi muốn kể cho các bạn một câu chuyện nhỏ về việc nó đã bắt đầu như thế nào.Một vài năm trước đây, bạn tôi Eric và tôiquyết định là chúng tôi muốn thăm dò hang động dưới nướcở vùng đồi thấp dưới chân dãy núi Sierra.Chúng tôi đã từng nghe kể về số vàng bị đánh cắptừ một tên trộm vào thời kỳ Cơn Sốt Vàng,và chúng tôi muốn tới đó xem sao.Thật không may,chúng tôi đã không có đủ kinh phívà vì thế cũng không có đủ công cụ để thực hiện việc này.Vì thế Eric đã nảy ra ý tưởngthiết kế một con robot,nhưng chúng tôi cũng chưa hình dung ra chính xác mọi thứ,thế nên chúng tôi đã làm việc mà người ta vẫn thường làmkhi ở trong trường hợp này:Nhờ đến Internet.Chỉ có điều đặc biệt hơn,chúng tôi tạo ra trang web này,openROV.com, và chia sẻdự định và kế hoạch của mìnhTrong vài tháng đầu, chỉ có Eric và tôitrao đổi qua lại với nhau trên các diễn đàn,nhưng không lâu sau đó, chúng tôi bắt đầu nhận được phản hồitừ các nhà chế tạo và những người quan tâm,rồi đến những kỹ sư biển chuyên nghiệp thực thụnhững người đã có vài gợi ý về những điều mà chúng tôi nên làm.Chúng tôi kiên trì làm việc. Chúng tôi học hỏi được vô số.Kiên trì với cái mới, và cuối cùng,chúng tôi quyết định đi tới hang động. Chúng tôi đã sẵn sàng.
+ 2:25
+就在那时候，我们的小探险成为了故事，《纽约时报》刊载了我们的故事。我们被那些希望用一个工具箱就能自己动手制作一个远程操作移动工具的人们包围
+Vào lúc đó, cuộc thám hiểm nho nhỏ của chúng tôitrở thành một tiêu điểmvà được xuất hiện trên tờ New York Times.Ngay sau đó chúng tôi nhận được hàng loạt những mối quan tâmtừ những người muốn có một bộ trang bịđể tự làm một con ROV cho riêng mình.
+ 2:36
+所以我们决定将该项目放在 Kickstarter 网站上，我们这样做了，在我们提出资金目标的大约两小时后，突然之间，发现我们有足够的钱来做这些工具包了。然后我们学习如何制作它们。我的意思是，我们必须学习如何小批量得制造它们。我们很快发现，我们的车库已不再足以承载我们日益增长的业务量了。但我们还是完成了所有的工具箱，非常感谢 TechShop 给我们提供的巨大帮助，就在去年的圣诞节前，我们把这些工具箱发往世界各地，这只是几个月前发生的故事。但我们已经开始收到从世界各地发回来的视频和照片包括这张南极冰层下的照片。同时我们也发现，企鹅挺喜爱机器人的。（笑声）
+Nên chúng tôi quyết định đăng dự án lên Kickstarter,và rồi số tiền quyên góp mục tiêuđược của chúng tôi tăng lên chỉ trong 2 tiếng,và nhanh chóng,có đủ số tiền để làm những bộ trang bị đó.Nhưng rồi chúng tôi phải học cách làm ra chúng.Ý tôi là, chúng tôi phải học từng công đoạn sản xuất nhỏ.Chúng tôi nhanh chóng nhận ra nhà để xe của mìnhkhông đủ lớn để chứa cả hệ thống đang lớn dần lên đấy.Nhưng rồi chúng tôi cũng làm được, những bộ trang bị được hoàn thành,nhờ rất nhiều vào TechShop,đã hỗ trợ chúng tôi rất nhiều,và chúng tôi đã chuyển những bộ trang bị nàyđi khắp nơi trên thế giới,chỉ trước dịp Giáng sinh năm ngoái,tức là mới chỉ vài tháng trước.Nhưng chúng tôi đãbắt đầu nhận được videovà ảnh được gửi về từ khắp nơi trên thế giớibao gồm cả bức hình này từ dưới những tảng băng Nam cực.Chúng tôi cũng biết thêm làchim cánh cụt rất thích robot.(Cười)
+ 3:20
+所以我们继续在网上发布设计资料鼓励人们自己动手制作这些机器人。因为我们之所以能把最初的设想付诸实践，就是依靠网络资源作为一个开放的资源。我们建立了分散式的研究发展网并且我们比任何有风投支持的同行有着更快的进展。但是，机器人只是故事的一半。真正的长期潜力是这个属于DIY海洋探索者的社群在世界各地都形成了。当世界上有成千上万这样的设备我们能探索到什么呢漫游海洋吗？
+Vì thế chúng tôi vẫn đang công bố tất cả thiết kế trên mạng,khuyến khích bất cứ aitự làm ra những thứ này cho mình.Đó là cách duy nhấtmà chúng tôi đã làm nó.Bằng việc dùng nguồn mở, chúng tôi đã tạo ramạng phân phối nghiên cứu và phát triển này,và chúng tôi đang xúc tiến nhanh hơnbất kỳ đối tác hoàn vốn nào.Nhưng thực ra, con robot mới chỉ là một nửa câu chuyện mà thôi.Tiềm năng thực sự, tiềm năng dài hạnlà ở cộng đồng DIY (do-it-yourself: tự làm)những người khám phá đại dươngđang hình thànhtrên khắp thế giới này.Điều chúng ta có thể khám phá rakhi có hàng nghìnnhững thiết bị như thế nàytrên biển là gì?
+ 3:52
+你们估计都在想：洞穴你找到黄金了吗?好吧，我们没找到任何黄金，但是我们坚信，我们发现了更有价值的东西。我们瞥见了，海洋探险事业的未来。这是不再限于卡梅隆们（意指精英们）的世界，而是我们普通大众都能参与的事情。水下的世界我们一起去探索发现。
+Các bạn hầu như đều tò mò về các hang động.Các bạn có tìm thấy vàng không?Chúng tôi đã không tìm thấy vàng,nhưng chúng tôi thấy rằng cái mà mình tìm được còn giá trị hơn nhiều.Đó là một cái nhìn về một tương lai đầy tiềm năngcho việc khám phá đại dương.Nó không phải là thứ gì đó bị giới hạnnhư của James Camerons,mà là cái mà tất cả chúng ta đều đang tham gia vào.Đó là cả một thế giới dưới nướcmà chúng ta đang cùng nhau thám hiểm.
+ 4:14
+谢谢。
+Xin cảm ơn.
+ 4:16
+（掌声）
+(Vỗ tay)

@@ -1,0 +1,126 @@
+ 0:12
+大部分人认为动作是明显可见的。比如我走过这个舞台，或者边做手势边说话，这些动作都能被大家看到。但还有很多重要的动作肉眼很难察觉到，在过去几年中，我们致力于寻找某种摄像机可以捕捉到人眼看不到的运动。
+Nhiều người nghĩ chuyển độnglà những thứ nhìn thấy được.Khi tôi bước trên sân khấuhay làm động tác tay khi nói,bạn có thể thấy những chuyển động đó.Thế nhưng, có một thế giới nhữngchuyển động quá tinh tế với mắt người.Vài năm trở lại đây,chúng tôi bắt đầu tìm kiếm các loại máy quaycó thể nhìn ra những chuyển độngngay cả khi con người không thấy.
+ 0:39
+请看大屏幕。左边是一个人的手腕，右边是一个熟睡的婴儿，但是如果我不告诉你们这是一段视频，你们可能会认为这只是两张普通的图片，因为乍一看，这两段视频几乎是完全静止的。但实际上，画面中有许多细微的运动变化，如果你能碰到左边的那个手腕，你会感受到脉搏的跳动，如果你抱起右边的婴儿，你能感受到她胸腔的起伏，感受到她的每一次呼吸。这些动作都很重要，但由于过于细微，很难被我们察觉，要想感受到这些动作的存在只能通过直接接触。
+Hãy để tôi cho bạn thấy.Bên trái là đoạn phim quay cổ tay ngườivà bên phải là em bé đang ngủ,nhưng nếu tôi không cho bạn biếtđó là những đoạn phim,chắc bạn sẽ nghĩ bạn đangnhìn vào hai bức ảnh thông thường,vì ở cả hai bên,các đoạn phim dường nhưkhông có chuyển động.Thực ra, có nhiều chuyển độngtinh vi đang xảy ra ở đây,Nếu bạn chạm vào cổ tay phía bên trái,bạn sẽ cảm thấy mạch đang đập,còn nếu bạn đang ôm đứa bé ở bên phải,bạn có thể cảm thấy ngực nó chuyển độngkhi cô bé hít thở.Những chuyển động nàymang rất nhiều ý nghĩa,nhưng thường thì chúng quá nhỏ béđể chúng ta nhìn thấy được,thay vào đó, chúng ta phải quan sát chúngqua tiếp xúc trực tiếp, qua đụng chạm.
+ 1:29
+然而几年前，我在麻省理工学院的同事们开发出了一种被称为“动作显微镜”的软件，能够发现视频中细微的运动，并将其放大到肉眼可见的级别。如果我们运用这一软件分析左边的视频，我们就能看到手腕上的脉搏跳动，通过计算脉搏数量，就能得知这个人的心率。而用这一软件分析右边的视频，我们就能看清婴儿的每一次呼吸，不需要触碰就能监控她的呼吸。
+Nhưng vài năm trước đây,vài đồng nghiệp tôi ở MIT đã tạo ra một thứmà họ gọi là "kính hiển vi chuyển động",là một phầm mềm có thể phát hiệnnhững chuyển động tinh vi trong đoạn phimrồi phóng đại chúng to đến mứcmà chúng ta có thể thấy được.Và vì thế, khi ta dùng phần mềm của họcho đoạn phim bên trái,nó cho ta thấy mạch đập ở cổ tay,và nếu chúng ta đếm mạch,chúng ta còn biết được nhịp tim người này.Và nếu làm tương tự với đoạn phim bên phải,phần mềm cho ta thấymỗi nhịp thở của em bé,và ta không cần chạm vào ngườiđể theo dõi nhịp thở của bé.
+ 2:07
+这项技术非常强大，因为它能帮助我们看到原本要靠触觉才能感受到的东西，并且这一过程是可见和无创的。
+Công nghệ này thật sự rất mạnhbởi vì nó ghi nhận được các hiện tượng nàymà chúng ta thường chỉ được cảm nhận qua tiếp xúcvà công nghệ này cho phép chúng ta có được hình ảnh mà không phải chạm tới vật đó.
+ 2:20
+因此在几年前，我开始与这个软件的编写者们一起工作，我们产生了一个疯狂的想法。我们觉得，运用软件将细微的动作可视化的这个点子非常酷，你甚至可以把它当做拓展人类触觉感官的好方法。那如果我们能用相同的方法来增强我们的听觉呢？如果我们能通过视频捕捉到声音的振动，声音的振动实际上也是一种运动，将“看到”的东西录入麦克风呢？
+Vài năm trước, tôi bắt đầu làm việcvới nhóm tạo ra phần mềm này,và rồi chúng tôi đã quyết địnhđeo đuổi một ý tưởng điên rồ.Chúng tôi nghĩ, thật tuyệt vờikhi chúng tôi có thể dùng phần mềmđể tái hiện những chuyển động nhỏ như vậy,và bạn có thể coi nó nhưmột cách để mở rộng cảm quan của chúng ta.Nhưng liệu chúng ta có thể làmđiều tương tự đối với thính giác của chúng ta?Sẽ thế nào nếu ta dùng phimđể ghi lại những rung động của âm thanh,thật ra âm thanh là một dạng chuyển động,và truyền tải những gì ta thấyvào một cái micrô?
+ 2:55
+也许听起来有点不太好理解，我试着为大家解释一下。传统麦克风的工作原理是将其内部薄膜的振动转换成电信号，这个薄膜极易随声音振动，这个振动可以被记录下来并还原成声音。而声音事实上可以引起任何物体的振动。只不过这种振动对我们而言通常很细微而且转瞬即逝。
+Có vẻ như đó là một ý tưởng kỳ lạ,nên hãy để tôi giúp bạn hiểu rõ nó.Micro thông thường hoạt độngbằng cách chuyển các rung độngtừ màng rung bên trongthành tín hiệu điện,màng rung được thiết kế đểchuyển động dễ dàng theo tiếng động,rung động sau đó được ghi lạivà chuyển thành âm thanh.Nhưng âm thanh làm mọi thứ rung động.Những rung động đó thườngquá nhỏ và quá nhanh để có thể nhìn thấy.
+ 3:25
+但如果我们用高速摄影机将这种振动录下来，并通过软件从这些高速视频中提取出这些细小的振动，然后分析这些振动来弄清声音的来源，会怎么样呢？这样一来我们可以将远处的可见物体转化为可视化麦克风。我们进行了各种尝试，以下是我们的试验之一，右边是一株盆栽植物，我们用高速摄影机拍下它，同时旁边的音箱在播放这个声音。
+Vậy, sẽ thế nào nếu ta ghi hìnhbằng một máy quay tốc độ caovà dùng phần mềm đểtách ra các chuyển động nhỏtừ đoạn phim tốc độ cao,sau đó phân tích chúng để biếtâm thanh nào tạo ra chúng?Điều này cho phép chúng ta biến những vật thể nhìn thấy thành một chiếc micro trực quan từ xa.Và rồi chúng tôi đã thử làm,và đây là một trong số những thí nghiệm của chúng tôi,trong đó chúng tôi đã sử dụng chậu cây mà các bạn có thể thấy ở bên phảiquay lại bằng camera tốc độ caotrong khi cái loa bên cạnhđang được mở bài hát này.
+ 4:01
+（音乐：玛丽有一只小羊羔）
+(Âm nhạc: "Mary có một con cừu nhỏ")
+ 4:10
+这是我们录下的视频，用的是每秒数千帧的速度，但即使你凑得非常近，也只能看到一些叶子静静地呆在那儿，一动不动，因为刚才的音乐只能让叶子移动一微米，也就是一厘米的万分之一，只占这幅图像中一个像素的百分之一到千分之一。你大可以眯着眼使劲儿看，但如此细微的运动从感官上来说是不可见的。但事实证明感官上不可见的东西在数值上可能很惊人,因为通过正确的算法，我们就可以从这段无声的看似静止的视频中还原出这段声音。
+Và đây là đoạn băng chúng tôi thu được,ở tốc độ hàng ngàn khung hình một giây,nhưng ngay cả lúc bạn nhìn kỹ,bạn sẽ chỉ thấy những tán lákhông động đậy gì cả,vì âm phát ra chỉ dịch chuyểnchúng khoảng 1 micro-mét.Đó là khoảng 1 phần 10 nghìn cm,vào khoảng 1 phần trăm hoặc phần nghìncủa 1 pixel (điểm ảnh) trong hình này.Bạn có căng mắt nhìn tới đâu,cũng không thể thấy đượcchuyển động bé như vậy.Nhưng hóa ra, những thứdường như là vô hìnhlại có thể có ý nghĩa với số hoá,bởi vì bằng những thuật toán,chúng ta có thể làm cho điều tĩnh lặng này, trong đoạn phimkhôi phục lại thành những âm thanh này.
+ 5:03
+（音乐：玛丽有一只小羊羔）
+(Âm nhạc: "Mary có một con cừu nhỏ")
+ 5:11
+（掌声）
+(Khán giả vỗ tay)
+ 5:21
+这怎么可能呢？我们怎么能从如此细小的运动中得到如此丰富的信息？我们必须承认这些叶子只移动了一微米，只改变了图像中一个像素的千分之一。看起来很微不足道，但是视频中的每一帧都包含数以万计的像素，当我们将整幅画面中所有细微的运动组合在一起来看的时候，无数个千分之一像素聚在一起就能组合出有十分意义的信息。
+Làm thế nào để điều này có được?Làm sao ta lấy được thông tintừ những chuyển động nhỏ đó?Cứ cho rằng đám lá kiachỉ xê dịch 1 micro-mét,và trong bức ảnh là 1 phần nghìn pixel.Nghe thì có vẻ ít,nhưng một khung hìnhcó thể chứa hàng trăm ngàn điểm ảnh,và nếu ta kết hợp những xê dịch nhỏ lạitừ toàn bộ bức ảnh,thì đột nhiên một phần nghìn pixelsẽ tạo nên những thứ rất có ý nghĩa.
+ 5:57
+老实说，当我们想通这一点的时候真是乐疯了。（笑声）但是，即便运用正确的算法我们还是会丢失掉很多重要的信息。这项技术能否成功取决于很多因素。比如目标物体的距离；摄影机和镜头的选用；光线是否充足，声音是否够大等等。因此，即便我们的算法正确，在早期试验中我们还是得万分谨慎，因为一着不慎，满盘皆输，得不到有用的信息，也查不出原因。还原出来的只有噪音。初期的试验场景是这样的。左边的是我，左下角是我们的高速摄影机，正对着一袋薯片，薯片被一盏明亮的灯照着。就像刚才我说的，在初期试验中我们需要十分小心，得有多小心呢？请看。
+Thực tế, chúng tôi thấy vô cùng phấn khíchkhi khám phá ra được điều này.(Khán giả cười)Nhưng cho dù với thuật toán đúng,chúng tôi vẫn thiếu một mảnh ghéptrong toàn bộ bức tranh.Bạn sẽ thấy, có nhiều yếu tốảnh hưởng tới hiệu quảcủa kỹ thuật này.Đó là là loại vật thể, và khoảng cách bao xa,là máy quay và ống kính bạn dùng;vật được chiếu sáng thế nàovà âm thanh phát ra lớn ra sao.Cho dù thuật toán đúng,chúng tôi vẫn phải thận trọngvới những thí nghiệm ban đầu,vì lỡ chúng ta có bất kỳ yếu tố nào saithì sẽ không thể biết đó là vấn đề gì.Chúng ta chỉ nhận lại được các tạp âm.Và rất nhiều thí nghiệm ban đầu của chúng tôi được thực hiện như sau.Đây là tôi,phía dưới bên trái là camera tốc độ caonó được hướng vào bịch khoai tây chiên,và toàn bộ được chiếu sáng bởi những cái đèn.Như tôi nói, chúng tôi đã phải vô cùngcẩn thận với những thí nghiệm đầu,và nó diễn ra như thế này.
+ 7:02
+（视频：三、二、一，开始）（视频：玛丽有一只小羊羔！小羊羔！小羊羔！）
+(Phim) Abe Davis: 3, 2, 1, bắt đầu.Mary có một con cừu nhỏ!Con cừu nhỏ! Con cừu nhỏ!
+ 7:11
+（笑声）
+(Khán giả cười)
+ 7:16
+这试验看起来真是弱爆了。（笑声）我可是对着一袋薯片在咆哮——（笑声）而且我们用的灯功率太大，差点把第一袋薯片点着了。（笑声）虽然看起来很不靠谱，但结果还是不错的，因为我们最终还原出了这段声音。
+AD: Thí nghiệm này rất là kỳ cục.(Khán giả cười)Ý tôi là, tôi đang hét vàomột cái bịch khoai tây.(Khán giả cười)và chúng tôi rọi quá nhiều đèn vào nó,chúng tôi đã làm tan chảy cái bịchtrong thí nghiệm đầu tiên. (Khán giả cười)Nhưng nhìn nực cười vậy thôi,nó thật sự quan trọng,vì chúng tôi đã phục hồi được đoạn ghi âm.
+ 7:39
+（音频：玛丽有一只小羊羔！小羊羔！小羊羔！）
+(Âm thanh) Mary có một con cừu nhỏ!Con cừu nhỏ! Con cừu nhỏ!
+ 7:44
+（掌声）
+(Khán giả vỗ tay)
+ 7:48
+这绝对是一个里程碑，因为这是我们第一次从一段无声录像中还原出具有意义的人声。因此我们以此为出发点不断修正我们的试验，更换试验对象，调整距离，减小光线强度，降低声音等等。我们不断分析试验结果，直到发现这一技术的局限性，因为只有搞清楚局限在哪儿我们才能不断取得突破。
+AD: Nó rất có ý nghĩa,vì đây là lần đầu tiên chúng tôiphục hồi giọng nói con ngườitừ đoạn phim im lặng của một vật thể.Đó cũng là cơ sởđể chúng tôi dần điều chỉnhcác thí nghiệm,sử dụng các vật dụng khác hoặc dời các vật dụng ra xa,sử dụng ít ánh sáng hơn hoặc âm phát ra nhỏ hơn.Và rồi chúng tôi phân tích các thí nghiệm ngàyđến khi biết đượccác giới hạn của kỹ thuật nàyvì một khi hiểu được các hạn chế đó,chúng tôi có thể tìm ra cách để cải thiện chúng,
+ 8:21
+于是，就有了下面这个试验，这一次，我还是对着一袋薯片说话，但将摄影机后退到了15英尺（4.572米）远的室外，隔着一层隔音玻璃，只借助自然光线。这是我们拍下的视频。这是在室内，在薯片旁说话的原声。
+Và điều đó dẫn đến một thí nghiệm như sau,khi tôi lại nói chuyệnvới bịch khoai tây,những lần này chúng tôichuyển camera ra xa gần 15 feet (khoảng 5 mét),chắn giữa bởi một tấm kính cách âm,toàn bộ chỉ được chiếu sángbởi ánh sáng tự nhiên.Đây là video chúng tôi đã quay được.Còn đây là cái ta nghe đượctừ phía trong, gần bịch khoai tây.
+ 8:48
+（音频：玛丽有一只小羊羔，身上羊毛白又好，无论玛丽走到哪，小羊都会跟着跑。）
+(Âm thanh) Mary có một con cừu nhỏ,lông nó trắng như tuyết,và bất cứ chỗ nào Mary tới,con cừu đó cũng sẽ theo.
+ 8:58
+这是通过我们从室外隔音玻璃后采集的无声影像还原出来的声音。
+AD: Và đây là cái chúng tôi phục hồiđược từ đoạn phim im lặng của chúng tôiquay được từ ngoài cửa sổ.
+ 9:05
+（音频：玛丽有一只小羊羔，身上羊毛白又好，无论玛丽走到哪，小羊都会跟着跑。）
+(Âm thanh) Mary có một con cừu nhỏ,lông nó trắng như tuyết,và bất cứ chỗ nào Mary tới,con cừu đó cũng sẽ theo.
+ 9:14
+（掌声）
+(Khán giả vỗ tay)
+ 9:21
+我们还调整了其它参数。比如说降低音量，这有一副耳机，插在笔记本电脑上，在这个实验中，我们想仅通过拍摄下这对塑料耳机的无声视频来还原笔记本里播放的音乐，结果很理想，我甚至能用Shazam来识别出这段音乐。（笑声）
+AD: Còn đây là những cách khácđể chúng tôi mở rộng giới hạn.Một thí nghiệm yên tĩnh hơn,chúng tôi quay những chiếc tai ngheđược cắm vào máy tính để bàn,trong trường hợp này, mục tiêu làkhôi phục được bài hát đang được bật từ máy tính đótừ một đoạn phim không có tiếngtừ hai chiếc tai nghe nhựa nhỏ bé,và chúng tôi đã hồi phục được chúng rất tốtđể tôi có thể dùng Shazam để kiểm tra kết quả.(Khán giả cười)
+ 9:48
+（音乐：“皇后乐队”的《重压之下》）
+(Âm nhạc: "Under Pressure" của Queen)
+10:00
+（掌声）
+(Khán giả vỗ tay)
+10:05
+我们还尝试了更换试验设备来完善我们的成果。因为前面我给大家展示的试验都是通过高速摄影机完成的，它的拍摄速度比大多数手机摄像头快100倍，但是我们也找到了用普通摄影机来完成试验的方法，我们利用了叫做“滚动快门”的技术。大部分摄像头是逐行拍摄影像的，因此如果在拍摄单张照片时物体发生了移动，每一行影像间就会出现少许延迟，这种延迟使得视频的每一帧都会产生轻微的变形。通过分析这种变形，运用调整过的算法我们还是可以还原声音。在接下来这个试验里，我们拍摄的是一袋糖果，旁边的喇叭里播放的还是之前那首“玛丽有一只小羊羔”，但这一次我们使用的是能在店里买到的普通摄影机，下面请听我们还原出来的声音，这次的声音有些失真，但仔细听一下，看你能否分辨出来这段音乐。
+Và chúng tôi còn làm nhiều hơnbằng cách thay đổi các vật dụng.Bởi những thí nghiệm các bạn đã thấyđược quay bởi các camera tốc độ caocó thể quay nhanh hơn 100 lầnso với hầu hết điện thoại,nhưng chúng tôi đã tìm cáchứng dụng công nghệ nàyvới những máy quay thông dụng hơn,và chúng tôi đã tận dụng con lăn màn trập.Bạn thấy, hầu hết camera ghi hìnhtheo từng cột ngang tại một thời điểm,nếu vật di chuyển khi đang ghi hình,sẽ có chênh lệchthời gian giữa các hàng,gây ra lỗi giật hình (artifact)bị mã hóa vào mỗi khung hình của video.Và rồi chúng tôi tìm ra rằngbằng cách phân tích lỗi này,có thể phục hồi âm thanh quathuật toán đã được thay đổi của chúng tôi.Đây là thí nghiệm chúng tôi tiến hànhghi hình lại một bịch kẹolúc cái loa bên cạnhphát cùng bài "Mary có một con cừu nhỏ" như trước,nhưng lần này, chúng tôidùng máy quay thông thường,và sau đây, tôi sẽ bật âm thanhchúng tôi phục hồi lại được,lần này nó sẽ nhiễu hơn,nhưng hãy nghe để xembạn còn nhận ra nó không.
+11:18
+（音频：玛丽有一只小羊羔）
+(Âm nhạc: "Mary có một con cừu nhỏ")
+11:36
+就是这样，听起来有点失真，但别忘了我们这次用的是普通摄影机，你随便到一家百思买这样的电器商店就可以买到。
+Và vì vây, một lần nữa chúng ta thấy am thanh đó bị nhiễu,nhưng điều kỳ diệu ở đâylà ta có thể làm điều nàybằng thứ bạn có thể dễ dàng tớivà mua tại Best Buy.
+11:50
+那么目前为止，相信许多人看到这儿立刻想到了监听。说实话，用这个技术去监听还真不是什么难事。但请大家注意，早就有很多成熟的技术被用于监听了。实际上，将激光投射在物体上进行远距离监听的技术已经出现几十年了。但我们这项技术的创新之处，与众不同之处在于我们掌握了一种描绘物体振动的方法，使我们能通过一种全新的镜头去看这个世界。通过这个镜头，不仅能看清使物体产生振动的外力，比如声音，还能了解物体本身的性质。
+Tại thời điểm này,nhiều người thấy công nghệ nàyvà ngay lập tức nghĩ đến sự theo dõi.Và công bằng mà nói,không khó tưởng tượng rằng bạn sử dụngcông nghệ này để do thám người khác.Nhưng nhớ rằng, đã córất nhiều kỹ thuật hiện đạicho việc giám sát, theo dõi.Thật ra, người ta đã biết dùng tia laserđể nghe lén đối tượng từ xatừ vài thập kỷ trước.Nhưng cái mới ở đây,cái thực sự khác biệtlà chúng ta bây giờ đã có cáchthu lại rung động của vật thể,chúng cho ta một lăng kínhmới để nhìn ra thế giới,và chúng ta có thể dùng nóđể hiểu không chỉ về những lựcnhư âm thanh làm vật rung độngmà còn về chính rung động của vật đó.
+12:35
+因此我想换个角度思考这将如何改变我们使用视频的方式，我们通常用视频来“看”东西，而我刚刚给大家展示的是如何用视频来“听”东西。但是还有一种认识世界的重要方式，就是与世界互动。我们可以移动或触碰某个物体。或者摇晃它，看它会发生什么变化。但这一变化（可能太过微小）视频没法捕捉，至少用传统的方式实现不了。因此我想向大家展示一项新的成果，这项成果基于我几个月前的一个想法，今天其实是我第一次将它公之于众。简而言之就是，我们会利用视频里的振动来与物体进行互动，然后看物体如何反应。
+Hãy để tôi quay lại một chútvà bằng cách nào nó thay đổi cáchchúng ta sử dụng một đoạn phim,bởi thường ta dùng đoạn phimđể nhìn các vật thể,và tôi vừa cho bạn thấy cách ta dùng nóđể nghe tiếng động của vật.Nhưng vẫn còn cách khácđể ta hiểu thêm về thế giới:đó là tương tác với nó.Chúng ta kéo, đẩy, gạt, đâm,lắc mọi thứ để xem cái gì xảy ra.Và đó là cái mà đoạn phim vẫn chưacho chúng ta thực hiện,ít nhất là theo cách truyền thống.Tôi sẽ cho bạn thấy vài dự án mới,dựa trên ý tưởng của tôi vài tháng trước,đây chính xác là lần đầutôi cho ra mắt công chúng.Cơ bản ý tưởng là chúng tôidùng chuyển động trong đoạn phimđể chép lại vật thể theo cáchgiúp chúng ta tương tác với nóvà xem nó phản ứng thế nào.
+13:30
+这是我们的试验对象，一个用铁丝做成的小人，我们使用的是一台普通的摄影机。没有任何特别之处。实际上，我用手机也能做到。但如果我们想让这个小人振动，要怎么做呢，我们仅仅在放置小人的台子上敲了几下，并把过程拍了下来。
+Đây là một đối tượng,trong này là hình người cuốn bởi dây thép,và chúng tôi sẽ quay phim nóchỉ bằng camera thông dụng.Không có gì đặc biệt ở cái máy quay cả.Thực tế, tôi còn thực hiệnbằng cả điện thoại trước đó.Tôi muốn vật thể đó rung,để làm điều đó,tôi tác động vào bề mặtphía dưới khi nó đứng yênlúc chúng tôi quay phim.
+13:58
+就这样，我们得到了一段五秒钟的普通视频，敲了几下台子，我们将利用视频里的振动来研究这个小人的结构特征和材料特征，并利用这些信息创造出一种新的具有互动性的东西。这就是我们的成果看起来像一张普通的图片，但这不是图片，也不是视频，因为我可以移动鼠标与这个小人进行互动。现在大家看到的是模拟小人在受到外力时会如何反应，即使这种外力是初次施加的，而这都来源于那短短五秒钟的普通视频。
+Vậy đấy: chỉ 5 giây củamột đoạn phim bình thường,quay lúc chúng tôi gõ vào mặt bàn,và chúng tôi sẽ sử dụngnhững chuyển động trong đóđể biết được đặc tínhcấu trúc và chất liệu của nó,và chúng tôi dùng dữ liệu đótạo ra một thứ có thể tương tác.Chúng tôi đã làm ra thứ này.Trông như một bức ảnh thường,nhưng nó không phải ảnh,cũng không phải là một đoạn phim,bởi giờ tôi có thể dùng chuộttương tác với chính vật thể.Và cái bạn thấy đâymô phỏng cách vật thểthay đổi bởi những lực mớimà ta chưa từng chứng kiến,và nó được tạo ra chỉ bằng 5 giây ghi hình thông thường.
+14:58
+（掌声）
+(Khán giả vỗ tay)
+15:08
+这的确是一种审视世界的有效方法，让我们可以预测物体在新的条件下会作何反应，想象一下，前面有一座很旧的桥，我们不知道它是否足够结实，我们能不能把车开过去。而这种问题最好在你开车上桥之前就搞清楚答案。当然，这项技术有它的局限，就像之前的视觉麦克风试验一样，但我们也发现它能在许多场景下发挥作用，有时甚至出乎你的意料，特别是当视频时间足够长的时候。
+Đây quả là một cách hiệu quảđể khảo sát thế giới,bởi nó giúp ta đoán đượcvật sẽ phản ứng ra saovới những tình huống,và bạn tưởng tượng,ví dụ như, nhìn vào một cây cầu cổvà băn khoăn xem điều gì sẽ xảy ra, xem liệu nó có đứng vữngnếu tôi lái xe qua đó.Đó là câu hỏi bạn cần hỏitrước khi lái qua cầu.Tất nhiên, sẽ có những giới hạncủa công nghệ nàynhư trường hợp chiếc micro,nhưng chúng tôi thấy nóhoạt động tốt trong nhiều tình huốngbạn ít tưởng tượng được,đặc biệt khi bạn quay phim lâu hơn.
+15:46
+举个例子，这段视频拍的是我公寓外的灌木丛，我没有动过它，只是拍了一段1分钟长的视频，微风不断吹动灌木，让我能够收集到足够的信息来完成这段模拟。（掌声）想象一下，如果电影导演掌握了这项技术，他就可以在后期制作时随心所欲地控制风的大小和方向。来看另一个例子，我们拍摄了一副挂起来的窗帘，在这段视频里你甚至看不出来窗帘在动，但是利用2分钟长的一段视频，仅仅靠房间里的自然空气流动引发的无法察觉的动作和振动，就能使我们提取出足够多的信息来完成这段模拟。
+Ví dụ, đây là đoạn phim tôi quaymột bụi cây ngoài nhà tôi,và mặc dù không đụng gì tới nó,nhưng bằng cách quay đoạn phim dài 1 phút,một cơn gió nhẹ thổi qua tạo đủ những rung độngmà ta có thể đủ hiểu về bụi câyđể tạo ra một mô phỏng như thế này.(Khán giả vỗ tay)Và bạn có thể tưởng tượngđưa cái này cho đạo diễn phim,và để họ điều khiểnsức và hướng gió trong đoạn phim đã quay.Hoặc, ở đây, chĩa camera vào tấm rèm treo,thậm chí không thấy nó chuyển động,nhưng chỉ bằng một video 2 phút,luồng không khí tự nhiên trong phòngtạo ra đủ các chuyển động tinh tếđể ta tạo ra mô hình này.
+16:47
+神奇的是，以往我们都是针对虚拟物体，针对游戏和3D模型来实现这种互动，而这项技术仅仅是利用普通的视频对现实世界中的真实物体进行采样，它极富新意，具有广阔的应用前景。
+Và, trớ trêu thay,chúng ta vẫn đang dùng loại tương tác nàyvới vật thể ảo,video game và các thể loại 3D,nhưng việc có thể lưu thông tintừ các vật trong thế giới thựcchỉ dùng đoạn phim đơn giảnlà điều mới mẻ và có rất nhiêu tiềm năng.
+17:09
+这些是跟我共同研究这项技术的优秀的同事。（掌声）
+Và đây là những con người tuyệt vờiđã làm việc với tôi trong dự án này.(Khán giả vỗ tay)
+17:23
+今天向大家展示的只是一个技术雏形。关于如何使用这种新型图像，我们才刚刚入门，它为我们提供了一种运用已有的普通技术来记录周围事物的新方法。展望一下未来，我们迫不及待地想要看到如何利用这项技术去更好地了解世界。
+Và thứ tôi cho các bạn xem hôm naymới chỉ là điểm khởi đầu.Ta chỉ mới biết một phần rất nhỏ vềnhững gì có thể làm với công nghệ này.bởi nó cho ta cách mớiđể ghi lại những thứ xung quanhbằng những công nghệ phổ biến.Trong tương lai,chúng ta sẽ rất mong chờ được khám pháthế giới qua công nghệ mới này.
+17:45
+谢谢大家。
+Cám ơn các bạn.
+17:46
+（掌声）
+(Khán giả vỗ tay)

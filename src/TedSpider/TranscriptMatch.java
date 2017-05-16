@@ -37,7 +37,9 @@ public class TranscriptMatch {
 			}
 			String s = "";
 			while (sentMatcher.find()) {
-				s += sentMatcher.group(1).replaceAll("[\\t\\n\\r]", "");
+				String t = sentMatcher.group(1).replaceAll("[\\t\\n\\r]", "");
+				t = t.replaceAll("&quot;", "\"").replaceAll("&amp;", "&").replaceAll("&lt;", "<").replaceAll("&gt;", ">").replaceAll("nbsp;", " ");	
+				s += t;
 			}
 			this.scriptList.add(s);
 		}
@@ -94,7 +96,8 @@ public class TranscriptMatch {
 			return;
 		}
 		else{
-			throw new Exception("时间轴无法对应无法添加");
+			System.err.print("时间轴无法对应无法添加");
+			throw new Exception();
 		}
 //		else{
 //			for (int i = 0, j=0; i < this.scriptList.size(); i++, j++) {
