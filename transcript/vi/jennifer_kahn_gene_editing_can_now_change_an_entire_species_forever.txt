@@ -1,0 +1,87 @@
+ 0:11
+这是一个有关于基因驱动的演讲，但首先我先讲一个小故事。20年前，一位名为安东尼·詹姆斯的生物学家正致力于培育不会传播疟疾的蚊子。
+Đây là bài diễn thuyếtvề công nghệ gene drive (phát động gen),nhưng tôi xin được bắt đầu bằng một câu chuyện ngắn.20 năm trước, một nhà sinh vật họctên là Anthony Jamesđã luôn suy nghĩ về ý tưởng tạo ra loại muỗikhông truyền bệnh sốt rét.
+ 0:26
+想法很好，但是结果是失败的。首先，让蚊子不携带疟疾是非常困难的。最终，詹姆斯在几年之前利用添加基因的方式才使蚊子抵抗疟原虫的寄生成为可能。
+Đó là một ý tưởng tuyệt vời, và gần như một thất bại hoàn toàn.Một điều đáng lưu ý,đó là tạo ra muỗi kháng bệnh sốt rét là việc cực kì khó.James cuối cùng đã thành công, chỉ mới vài năm trước,bằng cách thêm vào một vài loại genelàm cho ký sinh trùng sốt rét không thể sống sót trong muỗi.
+ 0:46
+但是接下来还有一个问题。我们有了抵抗疟疾的蚊子，要如何替换那些携带疟疾的蚊子呢？有很多方案，方案一主要依靠培育的办法，向大自然中释放一群新型的经过基因改造的蚊子，寄希望于它们大量繁殖，稀释原来的基因。可是问题在于差不多要释放10倍于原来蚊子数量的转基因蚊子才有效果。如果一个小镇上有一万只蚊子，就要释放十万只转基因蚊子。可以想象小镇村民肯定不会接受这个方案。
+Nhưng ý tưởng này lại nảy sinh một vấn đề khác.Giờ bạn có một con muỗi kháng bệnh sốt rét,làm cách nào để nó thay thếnhững con muỗi mang bệnh sốt rét khác?Có một vài lựa chọn,nhưng kế hoạch A cơ bản lànuôi một đàn muỗi biến đổi gene,thả chúng ra ngoài tự nhiên,và hy vọng chúng sẽ truyền gene tới thế hệ sau.Vấn đề là bạn sẽ phải thả số muỗigấp mười lần so với số muỗi bản địađể kế hoạch này có hiệu quả.Thế nên, trong một ngôi làng có 10,000 con muỗi,bạn sẽ phải thả thêm 100,000 con.Vậy bạn có thể đoán được rằng,chiến lược này không được lòng dân làng cho lắm.
+ 1:23
+（笑声）
+(Cười)
+ 1:25
+后来，今年一月的时候，安东尼詹姆斯收到了一封来自于一名叫伊森比尔的生物学家的邮件。比尔说他和他的研究生瓦伦蒂诺·甘茨无意中发现了一种工具，不仅可以保证特定的基因会被遗传，而且基因传播的速度难以置信的快。如果他们是对的，就从基本上解决了这个詹姆斯潜心研究20年的问题。
+Sau đó, vào tháng Giêng năm ngoái, Anthony James nhận được emailtừ một nhà sinh vật học tên là Ethan Bier.Bier nói rằngông và học sinh cao học của mình Valentino Gantzđã tình cờ phát hiện ra một công cụ có thể bảo đảmmột đặc tính gene không những có thể di truyềnmà còn phát tán cực kì nhanh chóng.Nếu họ đúng, vấn đề mà ông và Jamesđã nghiên cứu trong 20 nămsẽ được giải quyết.
+ 1:49
+实验中需要两只携带抗疟疾基因的蚊子，以及新的工具，即基因驱动装置，一会儿我会详细介绍。实验的设计是任何携带抗疟疾基因的蚊子将拥有红色的眼睛，而不是常见的白色眼睛。这只是为了更好的通过肉眼就可以区分它们的基因携带情况。
+Để thử nghiệm, họ cấy ghép cho 2 con muỗi gene chống sốt rétvà công cụ mớimà tôi sẽ giải thích cho các bạn một lát sau: gene drive.Cuối cùng, họ sắp đặt sao cho bất cứ con muỗi nàothừa kế gene chống bệnh sốt rétkhông có mắt màu trắng như bình thường,mà có mắt màu đỏ.Mục đích của việc đólà để dễ dàng nhận biết muỗi nàocó mang gene chống sốt rét.
+ 2:13
+研究者把两只抗疟疾红眼蚊子放入一个有30只普通白眼蚊子的盒子中，让它们自由繁殖。两代繁殖之后，培养了3800个子二代。这并不是让人惊讶的部分。下面才是惊人的部分：如果一开始只有两只红眼蚊子，三十只白眼蚊子，它们自由繁殖的后代大多数应该是白眼。然而当詹姆斯打开盒子，3800只蚊子全部都是红眼。
+Họ lấy ra 2 con muỗichống sốt rét mắt màu đỏbỏ chúng trong một hộp có 30 con mắt màu trắng bình thường,và để cho chúng sinh sản.Sau 2 lần nhân giống, chúng đã sản sinh ra3,800 con muỗi con.Đó không phải là điều đáng ngạc nhiên.Đây mới là điều đáng ngạc nhiên:khi ta bắt đầu thí nghiệm với chỉ 2 con muỗi mắt màu đỏvà 30 con mắt màu trắng,thì ta thường cho rằng kết quả phần lớn muỗi con sẽ có mắt màu trắng.Thay vì thế, khi James mở hộp,tất cả 3,800 con muỗi đều có mắt màu đỏ.
+ 2:44
+当我问伊森比尔这一时刻的感受时，他太兴奋了，在电话里一直叫喊着。因为只得到了红色眼睛的蚊子打破了生物学的绝对基本定律，孟德尔遗传学定律。这部分我大概讲一下，孟德尔遗传学认为当雄性和雌性交配，它们的后代会遗传父母各一半的基因。所以如果本来蚊子的基因是aa转基因蚊子的基因是aB，B是抗疟疾基因，后代应该呈现下面四种基因组合：aa aB aa Ba。然而使用了新的基因驱动之后，它们全变成了aB型。从生物的角度说这应该是不可能的。
+Khi tôi hỏi Ethan Bier về khoảnh khắc đó,ông trở nên hào hứngđến mức hét lên trong điện thoại.Đó là bởi vì việc chỉ thu được muỗi mắt màu đỏđi ngược lại định luậtđược coi là nền tảng tuyệt đối trong sinh học,quy tắc di truyền Mendel.Nói ngắn gọn,quy tắc nói rằng khi một giống đực và một giống cái giao phối,con của chúng sẽ thừa hưởng nửa DNAtừ mỗi bố mẹ.Bởi vậy nếu muỗi ban đầu mang gene aa và muỗi mới mang gene aB,ở đó B là gene chống bệnh sốt rétcon của chúng sẽ mang 1 trong 4 hoán vị gene sau:aa, aB, aa, Ba.Thay vì vậy, với gene drive,chúng đều mang gene aB.Theo lý thuyết sinh học, điều này là không thể.
+ 3:23
+到底发生了什么呢？首先，2012年一种叫做CRISPR的基因修改工具进入了人们的视野。很多人可能听说过CRISPR，简而言之CRISPR是一种允许研究者快速，精准，简单地修改基因的工具。这种工具利用了一种存在于细菌中的机制。也就是一个扮演了DNA剪刀角色的蛋白质，在一个RNA分子的指示下剪刀可以作用于任何目标基因组。就像是一个基因文字处理系统。你可以取出整段基因，再加入一个进行替换，甚至可以编辑基因中的单个碱基。这个工具几乎适用于所有物种。
+Vậy chuyện gì đã xảy ra?Đầu tiên, đó là sự phát minh racông cụ chỉnh sửa gene gọi là CRISPR vào năm 2012.Nhiều bạn có thể đã nghe nói về CRISPR,nên tôi xin nói ngắn gọn rằngCRIPSR là công cụ các nhà nghiên cứu dùngđể chỉnh sửa gene một cách chính xác,dễ dàng và nhanh chóng.CRISPR làm điều nàybằng cách tận dụng một cơ cấu đã có sẵn trong vi khuẩn.Nói đơn giản, có một proteincó chức năng như cái kéo và cắt DNA,và có một phân tử RNA có khả năng điều khiển cái kéo đótới bất kì chỗ nào trên hệ genebạn muốn.Thế là một công cụ như phần mềmchỉnh sửa văn bản cho gene ra đời.Bạn có thể bớt hay thêm genehay chỉ chỉnh sửa một “chữ cái” duy nhất trong gene.Và bạn có thể làm vậy đối với bất cứ sinh vật nào.
+ 4:04
+前面我提过基因驱动有两大难题。首先是如何培育一只抗疟疾的蚊子。多亏了CRISPR，我们解决了这个难题。但是第二个问题随之而来。如何让这个性状得以传播？这就是这个装置精巧的地方。
+Được rồi, các bạn có nhớ tôi đã nói rằngcông nghệ gene drive ban đầu có 2 vấn đề?Thứ nhất đó là rất khó để cấy ghép cho một con muỗigene kháng sốt rét.Vấn đề đó giờ đã được giải quyết, nhờ có CRISPR.Nhưng vấn đề còn lại làvề mặt phương pháp.làm thế nào để lan truyền rộng rãimột đặc tính gene?Cách giải quyết vấn đề nàyrất sáng tạo.
+ 4:23
+几年前，哈佛大学的一名叫做凯文·恩斯福尔特的生物学家探究如果不仅仅在新基因中使用CRISPR，在剪切复制机制中也使用CRISPR，会发生什么情况。换言之，如果CRISPR自己也进行复制粘贴会如何。我们就得到了永动的基因修改工具。事实果真如此。恩斯福尔特创造的CRISPR基因驱动装置不仅保证了性状的传播，而且当它作用于生殖细胞的时候，它会在每个个体的两条染色体上自动复制粘贴新的基因。就像是全面检索并替换的功能，用学术术语来说，就是杂合子性状纯合化。
+Vài năm trước, một nhà sinh vật họcở Harvard tên là Kevin Esveltđã băn khoăn chuyện gì sẽ xảy ranếu ta làm cho CRISPR có thể thêm vào không chỉ gene mớimà còn cả cơ chế sao chip và dán gene.Nói cách khác, nếu CRISPR có thểtự sao chép và dán chính nó thì sao?Bạn sẽ có một cỗ máy chỉnh sửa gene tuần hoàn.Và đó chính là điều đã xảy ra.Công nghệ gene drive CRISPR mà Esvelt tạo rakhông chỉ bảo đảm rằng một đặc tính gene có thể di truyền,mà nếu được sử dụng trong các tế bào mầm,nó sẽ tự động sao chép và dán gene mớivào nhiễm sắc thể của từng cá thể một.Nó như một công cụ tìm kiếmvà thay thế toàn cầu,hay theo thuật ngữ khoa học,nó làm cho một đặc tính dị hợptrở nên đồng nhất.
+ 5:10
+那么这意味着什么呢？首先，我们拥有了一个很强大，但同时也令人担忧的新工具。目前为止，基因驱动还并不是很有效，这反而让我们感到欣慰。通常，当我们对有机体的基因进行研究时，会研究一些进化中不太可能发生的改变。生物学家可以随心所欲培育变异果蝇，根本不用担心任何后果。就算有些逃出了实验室，也无法在自然界中存活和繁殖。
+Vậy, điều này có ý nghĩa gì?Có một điều, chúng ta đang sở hữumột công cụ vô cùng mạnh mẽ,nhưng cũng khá đáng sợ.Cho đến bây giờ, việc gene drivehoạt động không hiệu quảlà 1 điều khá may mắn.Bình thường khi thay đổi trật tự genecủa một sinh vật nào đó,chúng ta cũng làm giảm khả năng tiến hoá của nó.Vậy các nhà sinh vật họccó thể biến đổi gene bao nhiêuruồi giấm họ muốn mà không cần lo lắng.Nếu có vài con thoát ra, quy luậtchọn lọc tự nhiên sẽ đào thải chúng.
+ 5:37
+基因驱动的强大和可怕之处在于这种情况不再是理所当然的了。想象新的性状并没有一个像蚊子不会飞那样的很大的进化缺陷，基于CRISPR的基因驱动将很快地让每一个个体拥有这种性状。目前为止基因驱动技术还并不完善，但是詹姆斯和恩斯福尔特相信最终我们可以做到。
+Điều phi thường, mạnh mẽ và đáng sợvề gene driveđó là quy luật này không còn đúng nữa.Giả sử gene sinh vật của bạnkhông có tật nguyền lớn nào trong quá trình tiến hoá,ví dụ như một con muỗi không thể bay,công nghệ gene drive CRISPRsẽ lan truyền sự biến đổi trong gene một cách rộng rãiđến tất cả các cá thể trong 1 quần thể.Một gene drive hiệu quả đến vậy hiện giờ chưa thể chế tạo được,nhưng James và Esvelt nghĩ rằng chúng ta hoàn toàn có thể.
+ 6:04
+好消息是它拥有美好的前景。只要在1%的疟蚊身上使用含有抗疟疾基因的基因驱动装置，疟蚊就是传播疟疾的蚊子，研究者预测一年之内所有疟蚊都会获得新的基因。所以一年之内就可以根除疟疾。实际上我们还需要几年时间来进行试验，但是目前，每天仍有1000个孩子死于疟疾。一年之内这个数字可能几乎下降为0。登革热、基孔肯雅热、黄热病也可以同样被根除。
+Tin tốt lành là điều nàymở ra nhiều cơ hộiNếu bạn chỉ cấy ghép gene drive chống sốt rétcho 1% số muỗi Anophen,loài muỗi truyền bệnh sốt rét,các nhà nghiên cứu ước tínhnó sẽ lan truyền tới toàn bộquần thể muỗi chỉ trong vòng 1 năm.Vậy trong 1 năm, bạn có thể loại bỏ sốt rét gần như hoàn toàn.Thực tế, chúng ta vẫn còn cần một vài nămnữa mới làm được điều đó,tuy vậy, có 1000 đứa trẻ trong 1 ngàymất mạng do bệnh sốt rét.Trong vòng 1 năm,con số đó có thể trở thành 0.Điều này cũng đúngđối với bệnh sốt dengue,bệnh chikungunya và bệnh sốt vàng.
+ 6:36
+这项技术会越来越成熟。如果你想根除入侵物种，比如五大湖中的亚洲鲤鱼。只要使用基因驱动让鱼群只能繁衍雄性后代。几代之后没有了雌性鲤鱼，鲤鱼种群就会随之消失。理论上我们可以通过这个方式保护上百种濒临灭绝的本地物种。
+Và tốt hơn nữa,giả sử bạn muốn loại bỏ một sinh vật ngoại lai xâm lấn,ví dụ như tách giống cá chép châu Ára khỏi Ngũ Đại Hồ.Tất cả những gì bạn cần làmlà cấy ghép một gene drivelàm cho lũ cá chỉ có thểsinh được cá con đực.Sau một vài thế hệ sẽ không còn giống cái,không còn cá chép nữa.Theo lý thuyết, điều này nghĩa làta có thể phục hồihàng trăm sinh vật bản địađứng trên bờ vực tuyệt chủng.
+ 6:58
+上面都是好的部分，下面说说负面影响。基因驱动的效率太高，以至于不经意释放的样本都可能在短时间内引起整个种群的巨大改变。詹姆斯做好了预防措施。他在一个生物控制实验室繁殖蚊子，并且蚊子也并不是美国本土的种类，所以就算蚊子逃跑了，也会因为没有办法交配而灭绝。但是如果有一些携带只繁殖雄性后代基因驱动的亚洲鲤鱼偶然从五大湖被带回了亚洲，这可能会让整个亚洲鲤鱼种群灭绝。鉴于现在世界联系的紧密程度，这是很有可能的。这也是为什么会出现物种入侵。这是鱼类的情况。而像蚊子和果蝇一类的生物，它们经常漂洋过海，基本上是没有办法限制它们的。
+Được rồi, đó là tin tốt,và đây là tin xấu.Gene drive có hiệu quả đến nỗichỉ cần vô tình thả các sinh vậtcũng có thể làm thay đổi cả giống nòi của chúng,và thường rất nhanh chóng.Anthony James thực hiệnbiện pháp phòng tránh rất tốt.Ông nuôi muỗi trong phòngthí nghiệm sinh học khép kínvà sử dụng giống không sinh ra tại Mỹđể kể cả khi một số con thoát ra,chúng sẽ chết đi mà không thể giao phối với những con khác.Nhưng nếu một vài con cá chép châu Ávới gene drive đựcđược vô tình mang từ Ngũ Đại Hồ về châu Á,chúng có thể xoá sổ toàn bộ quần thể cá chép châu Á.Điều này hoàn toàn có thể xảy ra,do sự liên kết chặt chẽ của thế giới.Thực ra, đó là lý dochúng ta gặp vấn đềsinh vật ngoại lai xâm lấn.Và đó mới chỉ là cá.Những con vật như ruồi và muỗi,không có cách nàongăn chúng thoát ra được.Chúng luôn bay qua mọi ranh giớivà biển khơi.
+ 7:52
+另外一个坏消息，基因驱动不一定被限制在我们所谓的靶物种上。这是源于基因流动，基因流动意思是相似的物种偶尔会彼此杂交。如果发生了杂交，有可能基因驱动会穿过物种的限制，比如亚洲鲤鱼可能会影响其他的鲤鱼种类。如果基因驱动只是改变了一个性状，比如眼睛颜色，可能还好。而实际上，近期很可能将会有大量奇怪的果蝇被培育出来。不过如果基因驱动被用于毁灭物种，可能会导致大的灾难。
+Một tin xấu nữa là 1 gene drivesẽ không chỉ tác độngđến sinh vật mục tiêu.Đó là vì sự di truyền của genegiữa các quần thểhay nói đơn giản hơn,các sinh vật ở các vùng lân cậncó thể giao phối với nhau.Nếu chuyện đó xảy ra, gene drivecó thể lây lan,ví dụ, gene drive từ cá chép châu Ácó thể lây sang loài cá chép khác.Sẽ là không tồi nếu gene drive mang lạimột đặc điểm bề ngoài, như màu mắt.Thực ra, chúng ta rất có thể sẽ nhìn thấymột loại ruồi giấm trông rất lạtrong tương lai không xa.Nhưng sẽ là một thảm hoạnếu gene drive được thiết kếđể loại bỏ hoàn toàn cả một loài sinh vật.
+ 8:25
+更为可怕的是基因驱动的技术，这种能够培育含有基因驱动的有机体的技术，基本上在世界上任何一个实验室都可以做到。本科生就可以做到。甚至有天赋的高中生在有设备的情况下都可以做到。
+Điều đáng lo cuối cùng,đó là công nghệ cấy ghép genevà thêm gene drive vào một sinh vậtcó thể thành thứ mà bất cứphòng thí nghiệm nào có thể sử dụng được.Một sinh viên đại họccó thể sử dụng được.Một học sinh cấp 3 tài năngvới một số thiết bị có thể sử dụng được.
+ 8:43
+这就很可怕了。
+Giờ thì tôi đoán chắc rằng điều nàynghe thật kinh khủng.
+ 8:46
+（笑声）
+(Cười)
+ 8:48
+有趣的是，几乎每一个和我探讨基因驱动的科学家都不认为基因驱动实际上那么可怕和危险。一部分原因是他们相信科学家们使用这个技术时都会非常小心谨慎。
+Thú vị thay, gần như tất cảcác nhà khoa học tôi nói chuyện cùngdường như đều nghĩ gene drive không đáng sợ hay nguy hiểm đến vậy.Một phần bởi vì họ tin rằngcác nhà khoa họcsẽ sử dụng công nghệmột cách thận trọng và có trách nghiệm.
+ 9:00
+（笑声）
+(Cười)
+ 9:01
+目前为止确实如此。不过基因驱动也有一些实际的限制。首先它只能应用于有性生殖的物种。所以谢天谢地，它们并不能用在细菌和病毒的培育上。其次，性状只有在不停繁衍下才会传播。所以只有在繁殖周期很短的物种中改变或者灭绝种群才是可能的。比如昆虫或者类似于鼠类或者鱼类的小型脊椎动物。对于大象或者人类，可能需要几百年，改变的性状才可能传播的足够广。
+Tới bây giờ, điều đó vẫn đúng.Nhưng gene drive cũng có một số hạn chế.Trước hết chúng chỉ ảnh hưởng tớicác sinh vật sinh sản hữu tính,nên thật may là chúng không thể sử dụngđể biến đổi gene cho virus hay vi khuẩn.Còn nữa, đặc tính genechỉ lan truyền tới thế hệ kế tiếp.Bởi vậy thay đổi hay loại bỏ cả 1 quần thểchỉ thiết thực khi sinh vật đócó chu kì sinh sản ngắn,như côn trùng hay động vật có xương sốngnhư chuột hay cá.Đối với voi hay người, sẽ mất vài thế kỷđể một đặc tính genelan truyền đủ rộngvà đem lại thành quả.
+ 9:31
+另外，就算有CRISPR，想要制造一个真正可以引发灭绝的性状也不是简单的事。比如你想制造一种果蝇，它们以普通水果为食，而不是腐烂的水果，打算以此摧毁美国的农业。首先你要搞清楚，哪个基因控制果蝇的择食，这已经是很复杂的项目了。接下来你要根据你的想法通过改变基因去改变果蝇的习性，这将是更加复杂的项目。甚至可能压根儿没什么效果，因为基因对于行为的控制是非常复杂的。所以如果你是一个恐怖分子，你会选择开始一个耗时多年的艰苦卓绝的也许还没有结果的实验，还是直接选择炸毁目的地？多半是后者。
+Hơn nữa, kể cả với CRISPR,việc cấy ghép một đặc tính gây hạicũng không dễ dàng gì.Giả sử bạn muốn làm cho ruồi giấmăn trái cây tươi thay vì trái cây hỏng,với mục địch phá hoạingành nông nghiệp Mỹ.Đầu tiên, bạn phải tìm ragene nào kiểm soát loại thức ănmà con ruồi muốn ăn,một công đoạn tốn thời gian và rắc rối.Sau đó bạn phải biến đổi những gene nàyđể thay đổi tập tính của con ruồitheo cách bạn mong muốn,một công đoạn còn tốn thời gianvà rắc rối hơn.Và chưa chắc nó sẽ có tác dụng,vì gene kiểm soát tập tínhcủa một sinh vật rất phức tạp.Vậy nếu bạn là một tên khủng bốvà phải lựa chọngiữa một công trình nghiên cứu mệt nhọccần nhiều năm làm thí nghiệm tỉ mỉmà vẫn không thu được kết quả,và việc làm nổ tung mọi thứ?Bạn chắc sẽ lựa chọn cách thứ hai.
+10:14
+而且至少在理论上，制造一个逆转驱动装置也应该很简单。这样就可以覆盖第一个基因驱动进行的改变。所以如果你对于改变的结果不满意，启动第二个装置取消改变，至少理论上是可行的。
+Điều này đặc biệt đúngvì ít nhất theo lý thuyết,việc thiết lập một gene drive ngượclà khá dễ dàng.Đó là loại gene drive làm đảo ngược lạisự biến đổi của gene drive ban đầu.Vậy nếu không thích tác dụngcủa gene drive đầu tiên,bạn chỉ cần cấy ghép một gene drive mớixoá bỏ tác dụng đó,ít nhất là theo lý thuyết.
+10:32
+那么这一切到底告诉了我们什么呢？我们现在可以随意改变整个种群。是这样么？我们扮演上帝的角色了么？我不这么认为。我想说的是：首先，很多睿智的人现在已经开始讨论如何规范基因驱动。与此同时另外一些聪明的人开始制定安全保护措施，比如让基因驱动自我调控，或者在经过几代之后逐渐消失。这是很好的。但是这项技术仍然需要更多讨论。而且鉴于基因驱动的本质，全球都应该参与到讨论之中。如果肯尼亚想使用一个基因驱动但坦桑尼亚不想怎么办？谁来决定可以广泛传播的基因驱动什么时候释放？
+Vậy công nghệ này sẽ dẫn ta đi tới đâu?Giờ chúng ta đang sở hữu khả năngbiển đổi cả một nòi giống theo ý muốn.Chúng ta có nên làm vậy?Phải chăng chúng ta đang là thần thánh?Tôi không chắc lắm.Nhưng tôi có thể nói điều này:đầu tiên, có một sốnhững người rất thông minhvẫn đang tranh cãi về cáchđiều chỉnh tác dụng của gene drive.Cùng lúc đó, một số những ngườirất thông minh khácđang làm việc miệt màiđể tạo ra những lá chắn,ví dụ như những gene drivetự điều chỉnh,hay có tác dụng giảm dầnsau một vài lần nhân giống.Điều đó thật tuyệt vời.Nhưng vẫn cần có một cuộc bàn luậnvề công nghệ này.Vì tầm ảnh hưởng của gene drive,cuộc bàn luận này phải có quy mô toàn cầu.Sẽ như thế nàonếu Kenya muốn sử dụng gene drivenhưng Tanzania lại không?Ai có thể quyết địnhviệc có nên thả một sinh vậtmang gene drive biết bay?
+11:21
+我不知道答案。接下来我们能做的是实事求是的讨论利弊，并且对我们做出的选择负责。我的意思是，不仅仅是选择使用基因驱动，也可以选择禁用它。人类倾向的最安全的方案就是维持现状。但是事实往往不一定如此。基因驱动确实有风险，也需要认真讨论，但是疟疾现在每天都夺去1000个人的生命。为了对抗疟疾我们播撒了对于其他物种，包括两栖类和鸟类都伤害巨大的杀虫剂。
+Tôi không có câu trả lời cho câu hỏi đó.Tôi nghĩ tất cả những gìchúng ta có thể làmđó là bàn luận một cách trung thựcvề những rủi ro và lợi íchvà chịu trách nghiệmcho sự lựa chọn của chúng ta.Ý tôi là, không chỉ bàn luậnđến lựa chọn sử dụng gene drive,mà còn lựa chọn không sử dụng nó.Loài người thường có xu hướngcho rằng sự lựa chọn an toàn nhấtlà giữ nguyên hiện trạng.Tuy nhiên, không phải lúc nàođiều đó cũng đúng.Gene drive mang lại những rủi rocần được chúng ta xem xét,nhưng sốt rét vẫn đang tồn tạivà giết 1000 người trong 1 ngày.Để đối phó, chúng ta phun thuốc trừ sâu,gây hại trầm trọng đến các sinh vật khác,bao gồm động vật lưỡng cưvà nhiều loài chim.
+12:02
+所以如果接下来的几个月你听到了基因驱动，你们一定会听到的，请记住我说的话。行动意味着风险，但是有时无动于衷更加致命。
+Bởi vậy, khi bạn nghe về gene drivetrong những tháng sắp tới,tin tôi đi, bạn sẽ nghe về chúng,hãy ghi nhớ điều này.Hành động để thay đổicó thể là 1 việc đáng sợ,nhưng đôi khi, không hành động còn tệ hơn.
+12:15
+（掌声）
+(Vỗ tay)

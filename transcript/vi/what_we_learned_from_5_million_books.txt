@@ -1,0 +1,96 @@
+ 0:15
+Erez Liberman Aiden：人说一副画面抵过一千个词但是我们在哈佛大学却在思考这是不是一定正确（众人笑）我们召集了各方专家他们来自哈佛 麻省理工《英国大百科全书》 《美国传统英语字典》还有我们骄傲的赞助商谷歌我们思考了大概四年最后得出一个惊人的结论女士们先生们 一副画面可不止一千个词那么简单事实上 我们发现有时候一幅画面抵过5千亿个词
+Erez Lieberman Aiden : Mọi người đều biếtmột bức ảnh đáng giá một nghìn từ.Nhưng chúng tôi, tại Harvardluôn thắc mắc liệu điều đó có thật sự đúng.(Tiếng cười)Vì vậy chúng tôi tập hợp một đội những chuyên gia,từ khắp Harvard , MIT,Từ điển Di sản Mỹ, Bách khoa toàn thư Britannicavà cả nhà tài trợ tự hào của chúng tôi,Google.Chúng tôi đã ngẫm nghĩ về điều nàytrong khoảng bốn năm.Và chúng tôi đã đi đến một kết luận đầy sửng sốt.Xin thưa với quí vị rằng, một bức tranh không đáng một nghìn từ.Thực tế, chúng tôi đã tìm thấy bức tranhđáng giá 500 nghìn triệu từ!
+ 1:02
+Jean-Baptiste Michel: 我们是如何得出这个结论的呢是这样的 Erez和我在想怎样找到一幅展现人类文明和人文历史的画面： 历史的变迁人们在漫长岁月中写了很多书所以我们想 向他们学习的最佳方法就是把那几百万本书全都读完当然 如果用坐标来表示这样做的好处那Y轴上的值一定是极高的但问题是还有X轴也就是可行性这是极低的
+Jean-Baptiste Michel: Vậy làm thế nào chúng tôi lại đi đến kết luận này?Erez và tôi đã suy nghĩ cáchnắm bắt được bức tranh toàn cảnh về nền văn hoá nhân loạivà lịch sử loài người thay đổi qua thời gian.Có rất nhiều cuốn sách được viết ra trong nhiều năm.Vậy nên chúng tôi nghĩ rằng, vậy cách tốt nhất để học từ chúnglà đọc hết hàng triệu cuốn sách này.Tất nhiên, nếu có thang đo về độ hoành tráng của dự án này,thì nó hoàn toàn, hoàn toàn hoành tráng.Nhưng vấn đề là còn có một trục ngang cho việc đánh giá này,đó là đánh giá về mức độ thực tế.Thì điều này rất rất ít tính thực tế.
+ 1:29
+（众人鼓掌）
+(Vỗ tay)
+ 1:32
+现在人们倾向于另一种做法那就是选择几本书进行精读可行性极高但还不够好人们真正想要的是一个既好又可行的方法结果 在水一方 有一家叫“谷歌”的公司他们在此之前的几年前就开始了一个数字化工程有可能帮我们找到这个“既好又可行”的方法他们已经将几百万本书进行了数字化这就意味着人们在电脑上点几个键就能阅读所有的书这真的是既可行又好
+Thế là người ta có khuynh hướng tìm cách khác,đó là chọn ra một số nguồn sách và đọc chúng thật cẩn thận.Cách này cực kì thực tiễn nhưng không hoành tráng cho lắm.Điều mà chúng ta muốn thật sựlà một cách thức vừa hoành tráng vừa thực tiễn.Và hoá ra có một công ty gọi là Googleđã bắt đầu một dự án số hoá từ một vài năm trướckhiến ta thực hiện được cách thức đó.Họ đã số hoá hàng triệu cuốn sách.Điều đó có nghĩa là, ta có thể dùng máy mócđể đọc tất cả các cuốn sách trong một cú nhấn chuột.Cách này rất thực dụng và cực kì hoành tráng.
+ 2:03
+这些书是哪里来的呢从古时候开始 人们就开始写作了这些作家写书都非常卖力几个世纪前印刷机问世了写书的过程变得简单多了自那以后作家们已经出版了1.29亿本书如果这些书没有随年月而遗失就都在图书馆里存着谷歌已经把许多书从图书馆中调了出来进行了数字化被扫描的书籍到目前已有1500万册
+ELA: Để tôi nói cho các bạn biết một chút về nơi những cuốn sách đó bắt nguồn.Từ thời xa xưa đã có những nhà sáng tác.Những nhà sáng tác này nỗ lực viết những cuốn sách.Và việc này trở nên khá dễ dàng hơnnhờ sự phát triển của công nghệ in ấn vài thế kỉ trước.Từ đó, các nhà sáng tác đã có được129 triệu cơ hộixuất bản những cuốn sách.Bây giờ nếu những cuốn sách đó không lạc vào lịch sử,thì chúng sẽ ở đâu đó trong một thư viện nào đó,và nhiều trong số đó được lưu trữvà số hoá bởi Google,nơi đến nay đã quét được 15 triệu cuốn sách.
+ 2:33
+谷歌扫描图书时 把书的格式做得很好现在我们不但有了数据 还有元数据我们掌握了这些书的出版地作者 出版时间等信息接下来 我们就要从所有这些记录中筛选出质量最高的数据最后剩下的是5百万本书5000亿个词这么多词连起来长度是人类基因组的1000倍如果把这些词连续写出来其长度相当于在地月之间往返10次以上这还仅是我们文化基因组的小小一段当然啦面对如此令人崩溃的结果（众人笑）我们做了一个懂得自重的研究者应该做的事我们借鉴了XKCD（科学漫画）说：" 往后站。我们要用科学来解决问题。”
+Bây giờ khi Google số hoá một cuốn sách, họ sẽ đưa nó vào một định dạng thật đẹp.Chúng ta có dữ liệu, thêm vào đó chúng ta có siêu dữ liệu.Chúng ta có thông tin về những thứ như là cuốn sách đó được xuất bản khi nào,ai là tác giả, nó được xuất bản khi nào.Và điều chúng tôi làm là lướt qua tất cả những bộ dữ liệu đóvà loại bỏ hết những cái không phải là những dữ liệu chất lượng nhất.Cái còn lại làmột tập hợp của 5 triệu cuốn sách.500 tỉ từ,một chuỗi kí tự dài hơn hàng ngàn lầnhệ gien con người —một bản chữ mà khi viết rasẽ dài bằng từ đây đi đến mặt trăng rồi vòng lạihơn 10 lần —một mảnh thực của hệ gien văn hoá cuả chúng ta.Tất nhiên, điều chúng tôi đã làmkhi đối diện với một sự phóng đại tàn bạo như thế ...(Tiếng cười)là điều mà bất kì nhà nghiên cứu đáng kính nàocũng sẽ làm.Chúng tôi trích ra một trang trong chuỗi XKCDvà chúng tôi nói "Khoan đã.Chúng tôi sẽ thử thí nghiệm chúng."
+ 3:32
+（众人笑）
+(Tiếng cười)
+ 3:34
+当然 这时我们在想何不先把数据放上去让人们通过科学来运用数据现在我们在思考 哪些数据可以公开你当然想把这所有5百万本书全文公开现在谷歌 具体地说是乔恩. 奥温特告诉教给我们一个有用的方程式你有5百万本书 那就有五百万个作者一个有5百万个原告的官司可不小啊所以尽管这是个好想法但是也极不现实（众人笑）
+JM : Tất nhiên, chúng tôi đã nghĩ làtrước tiên hãy thử đưa dữ liệu racho người ta thí nghiệm.Và chúng tôi suy nghĩ, dữ liệu nào có thể đem ra đây?Tất nhiên, các bạn muốn lấy những cuốn sáchvà tung ra hết nguyên bản của 5 triệu cuốn sách.Google, cụ thể là Jon Orwant,đã bảo cho chúng tôi một công thức mà chúng tôi nên nghĩ tới.Chúng tôi có 5 triệu cuốn sách, tức bằng với năm triệu tác giảvà năm triệu đơn kiện cho một cuộc kiện tụng khổng lồ.Vì thế, dù cách này rất rất hoành tráng,nhưng một lần nữa lại cực kì cực kì không thực tế.(Tiếng cười)
+ 4:03
+现在我们做出些许让步采用一个非常可行但稍微没那么好的方法我们不公开全书内容而是公开书本的相关统计数据拿“A gleam of happiness”这个词组做例子它有四个单词 我们称它为四字格我们会告诉你直到2008年出版的书中在1801年 1802年 1803年一直到2008年某个四字格一共出现了多少次这让我们看到这个词组在这段时期内被使用的频率我们对在这些书中的所有单词和词组都这么处理于是我们得出了一个由20亿曲线表示出文化变化的情况
+Một lần nữa chúng tôi lại nhượng bộChúng tôi đã thử cách thực tế nhất nhưng ít hoành trángChúng tôi nói rằng, được rồi, thay vì phát hành nguyên cả văn bản,chúng tôi sẽ tung ra thống kê về những quyển sách đó.Hãy lấy một ví dụ cụm từ "Tia sáng hạnh phúc"Đây là cụm bốn từ; chúng tôi gọi đó là một four-gram.Chúng tôi sẽ cho các bạn biết một four-gram sẽ xuất hiện bao nhiêu lầntrong những cuốn sách năm 1801, 1802, 1803,cho đến tận năm 2008.Qua đó chúng ta sẽ có được một chuỗi thời giancho ta biết một câu nhất định được dùng với tần suất thế nào qua thời gian.Chúng tôi làm như thế với tất cả từ ngữ và nhóm từ trong những cuốn sách đó,kết quả chúng tôi có được một bảng khổng lồ của hai tỉ đườngcho chúng tôi thấy cách nền văn hoá thay đổi qua thời gian.
+ 4:34
+这20亿条曲线我们成作20亿个n字格它们告诉了我们什么这些n字格衡量的是文化的走势我来举个例子假设 我正在发财明天我告诉你我发财的情况我会说：“昨天，我发了。”也可以说：“昨天，我发财了。”我到底应该用哪个说法呢怎么找答案
+ELA: Chúng tôi gọi hai tỉ đường đó làhai tỉ n-gram.Chúng cho ta biết điều gì ư?Đó là mỗi n-gram đo xu hướng của nền văn hoá.Để tôi cho bạn một ví dụ.Thử giả định rằng tôi đang phát triểnMai tôi muốn nói cho các bạn biết tôi đã phát triển thế nào.Và có lẽ tôi sẽ nói là "Yesterday, I throve" ("Ngày hôm qua, tôi đã phát triển")Hay nói cách khác rằng " Yesterday, I thrived." ("Ngày hôm qua, tôi đã phát triển")Tôi nên nói theo cách nào?Làm sao biết được?
+ 4:59
+6个月以前很流行的做法是比如说你去问这位秀发飘逸的心理学家你说“史蒂夫，你是不规则动词的专家。我该怎么办啊？”他会说：“大多数人说‘发财了’，但有些人说‘发了’。”如果你可以回到200年前问问这位秀发同样飘逸的政治家（众人笑）“托马斯，我该怎么说？”他会回答：“嗯，在我的时代，大多数人说‘发了’，但是少数人说‘发财了’。”现在我给你们看一个原始数据这是20亿本书中的其中两本书的曲线你们将看到“发了”和“发财了”这两个词随时间的推移被使用的频率这还只是20亿条曲线中的其中两条整套数据比这张幻灯片要宏伟10亿倍
+Nếu là sáu tháng trướctính nghệ thuật trong lĩnh vực nàylà chẳng hạn bạn sẽtìm đến nhà tâm lý học có bộ tóc tuyệt vời nàyvà nói rằng,"Steve, anh là chuyên gia về động từ bất quy tắc.Tôi nên chia động từ đó theo cách nào?"Và ông ta sẽ nói với bạn rằng " Phần lớn người ta chia động từ đó thành "thrived",nhưng một vài người dùng "throve"."Ít nhiều bạn cũng biết rằngnếu bạn quay ngược lại 200 năm trướcvà hỏi nhà chính trị có bộ tóc tuyệt vời ngang ngửa này(Tiếng cười)"Tom, tôi nên nói thế nào?"Ông ta sẽ nói rằng " Ở thời kì của tôi, hầu hết người ta dùng "throve",nhưng một số dùng "thrived"."Giờ tôi sẽ cho các bạn xem dữ liệu sốngHai hàng trích ra từ bảng của hai tỷ dữ liệu kiaCái bạn đang nhìn thấy là tần số xuất hiện từng nămcủa "thrived" và "throve"Đây chỉ là haitrong số hai tỉ hàng.Vì thế toàn bộ dữ liệu nàysẽ hoành tráng hơn cả tỉ lần cái slide này.
+ 5:59
+（众人笑）
+(Tiếng cười)
+ 6:01
+（众人鼓掌）
+(Vỗ tay)
+ 6:05
+很多画面都相当于5千亿个词比如这一幅如果你找“流行感冒”这一词你会看到几个全球范围内祸害人命的流感高峰
+JM: Vậy có bao nhiêu bức tranh khác đáng 500 tỉ từ ngữ.Ví dụ như cái nàyNếu bạn chọn dịch cúm,bạn sẽ thấy những thời điểm cao trào mà bạn biếtkhi mà những dịch cúm lớn tiêu diệt con người khắp nơi.
+ 6:16
+如果这不足以令人信服海平面正在上升大气中二氧化碳含量和全球气温都在升高
+ELA: Nếu bạn vẫn chưa tinmực nước biển đang tăng,khí CO2 và nhiệt độ trái đất cũng thế.
+ 6:24
+你们也可以看看这个n字格告诉尼采上帝没死你可能也认为他或许要换一个企宣了
+JM: Các bạn chắc cũng muốn xem cái n-gram này,nó nói cho Nietzsche biết rằng chúa không chết,dù bạn có lẽ sẽ đồng ý rằng ông ta cần một nhà báo giỏi hơn.
+ 6:33
+（众人笑）
+(Tiếng cười)
+ 6:35
+你可以通过这个得到非常抽象的概念我跟你们说说1950年的历史在漫漫历史长河中几乎没人在意1950年1700年 1800年 1900年没有人在意20世纪三十年代和四十年代没有人在意到了四十年代中期 突然间关注度飞升人们意识到1950年快来了这一年可能非同小可啊（众人笑）1950年 正如人们想象的一样没发生任何有意思的事情（众人笑）人们都着了魔了无时无刻不在谈论他们1950年做过的事情他们打算在1950年做的事情后者他们1950年想要实现的梦想事实上 1950年是不同凡响的一年即使过了好多年人们还是不停地谈论那年发生的所有美好事情51年 52年 53年终于到了1954年人们醒悟过来1950年已成往事了（众人笑）就这样 泡泡破了
+ELA : Bạn có thể nắm được một số khái niệm khá trừu tượng đại loại thế này.Để tôi kể cho bạn nghe về lịch sửcủa năm 1950.Phần lớn trong lịch sửchẳng ai đếm xỉa gì về năm 1950 cảNăm 1700, 1800, 1900,chẳng ai quan tâm.Trong suốt những năm 30 và 40,cũng chẳng ai quan tâm .Bất ngờ vào giữa những năm 40bắt đầu có một chút động đậy.Người ta bắt đầu nhận ra 1950 sắp đếnvà có thể nó sẽ rất hoành tráng!(Tiếng cười)Nhưng không có bất cứ thứ gì có thể làm cho người ta chú ý đến năm 1950như chính năm 1950.(Tiếng cười)Người ta đi lại xung quanh, bị ám ảnh.Họ không thể dừng nóivề tất cả những thứ họ làm trong năm 1950tất cả những thứ họ đang định làm trong năm 1950tất cả những giấc mơ họ muốn đạt được trong năm 1950.Thực tế 1950 tuyệt vời đến nỗinhiều năm sau đó,người ta vẫn cứ nói đến những điều kinh ngạc đã xảy ra.trong năm 51, 52, 53.Cuối cùng thì đến năm 1954,có người mới thức tỉnh và nhận ra rằng1950 đã qua lâu rồi!(Tiếng cười)Và cứ như thế, bong bóng nổ!
+ 7:52
+（众人笑）
+(Tiếng cười)
+ 7:54
+1950年的情况以及每一年的情况 我们都记录了下来多亏了这些漂亮的图表 我们的工作顺利多了有了这些漂亮的图表 我们就能测量各种事物我们会说：“泡泡破掉的速度有多快？”结果证明 我们可以对此进行精准的测量等式出来了 图表也做好了最终结果是泡泡破掉的速度每年都在加快我们对过去的遗忘不断加快
+Câu chuyện của năm 1950là câu chuyện của từng năm mà chúng ta lưu lại được,với một chút sự biến hóa nhỏ bởi giờ chúng ta có những biểu đồ hay ho nàyVà bởi vì chúng ta có những biểu đồ hay ho này, chúng ta có thể đo đạc nhiều thứChúng ta có thể hỏi rằng ""Bong bóng nổ" nhanh như thế nào?"Và chúng ta có thể đo đạc điều đó một cách chính xác.Các phương trình được tính toán, các đồ thị được vẽ ra,và kết quả cuối cùnglà chúng ta phát hiện ra "bong bóng nổ" ngày càng nhanhqua từng năm.Chúng ta mất dần sự quan tâm đến quá khứ một cách nhanh chóng.
+ 8:24
+好 现在给大家一些发展事业的建议如果你想成名我们可以向25位最著名的政治人物作家 演员学习如果你想早点成名 你就应该做个演员因为 演员在20来岁的时候成名你还很年轻 这是本钱如果你能等一等 那就当个作家因为你可以像马克.吐温这样成为文坛巨星如果你想到达万人之上你就不能安于现状要成为一个政治家到了快60岁的时候 你就成名了而且之后名声远扬科学家通常在年纪一大把的时候才成名生物学家和物理学家的名声通常能跟演员的名声媲美有一个错误你不要犯 那就是成为一个数学家（众人笑）如果你成了数学家你会想：“太好啦，我20多岁的时候会有最辉煌的成就。”谁知道 人们连睬都不睬你
+JM: Bây giờ chúng tôi sẽ chia sẻ một vài lời khuyên về sự nghiệp cho bạn.Cho những ai muốn nổi tiếng,chúng ta có thể học từ 25 hình tượng chính trị gia nổi tiếng nhất,các nhà sáng tác, diễn viên, v.v.vVì vậy nếu bạn muốn nổi tiếng sớm, bạn nên làm diễn viên,bởi tiếng tăm của bạn sẽ ngày càng tăng cuối những năm 20 của bạn —bạn vẫn còn trẻ, điều đó thật tuyêt.Nếu bạn có thể đợi một chút, bạn nên làm tiểu thuyết gia,bởi rồi bạn sẽ đầy tiếng tămnhư Mark Twain, cực kì nổi tiếng.Nhưng nếu bạn muốn vươn đến đỉnh cao nhất,bạn đừng hài lòng sớmmà hãy trở thành nhà chính trị.Bạn sẽ trở nên nổi tiếng cuối những năm 50 tuổivà sẽ càng nổi tiếng hơn sau đóNhững nhà khoa học cũng trở nên nổi tiếng khi họ già đi.Ví dụ như là nhà sinh học, nhà vật lý họccó khuynh hướng nổi tiếng gần bằng diễn viên.Có một sai lầm mà bạn không nên phạm phải là trở thành nhà toán học.(Tiếng cười)Nếu bạn làm điều đóbạn có thể sẽ nghĩ rằng "Thật tuyệt. Mìng sẽ cố gắng hết sức trong những năm tuổi 20."Nhưng đoán thử đi, làm gì có ai quan tâm.
+ 9:14
+（众人笑）
+(Tiếng cười)
+ 9:17
+n字格中有些情况更为明了这是Marc Chagall的名声起落他是出生于1887的一位艺术家他的名声起落看似乎没有什么异常他的名声越来越大然而如果你在德语书中搜索 情况就不同了在德语书中 你会看到非常奇怪的现象闻所未闻 见所未见他先是名极一时但突然之间 名声直线下落在1933年到1945年间达到了低谷后来才回升当然 实际情况是Marc Chagall是一个犹太艺术家当时身在纳粹德国
+ELA: Còn có nhiều ghi chú nghiêm túc hơn thế nàytrong những n-gram đó.Ví dụ, đây là đường phát triển của Marc Chagall,một nghệ sĩ sinh năm 1887.Và nó giống con đường phát triển bình thường của một người nổi tiếng.Ông ta càng ngày càng nổi tiếng,trừ khi bạn nhìn vào nước Đức.Nếu bạn nhìn vào nước Đức, bạn sẽ thấy một thứ hoàn toàn lạmột thứ bạn chưa bao giờ thấy,đó là sự cực kì nổi tiếng của ông ấyvà rồi bất ngờ tụt dốc thảm hại,cho đến tận cùng trong những năm 1933 và 1945 ,rồi lại hồi phục danh tiếng sau đó.Dĩ nhiên là chúng ta nhận ra rằngsự thật thì Marc Chagall là một nghệ sĩ do tháicủa quốc xã Đức.
+ 9:55
+这些信号实在太强了我们无需知道谁被禁了我们事实上可以通过非常基本的信号处理来找出答案这里有一个简单的方法一个人在特定时期内所拥有的知名度应当大致为他成名前与成名后知名度的平均值这么想是有道理的我们也是怎么想的我们把观察到的知名度进行对比我们把前者比上后者产生的结果叫做抑制指数如果抑制指数非常非常小那么你的知名度正在被抑制如果数值非常大 或许就表明你从宣传中获益
+Bây giờ, những dấu hiệu nàythực sự rất chuẩnđến mức mà chúng ta không cần ai phải kiểm duyệt chúng.Chúng ta tự nhận ra sự việcbằng cách xử lý những dấu hiệu thật cơ bản.Đây là một trong những cách đơn giản.Chẳng hạn như một dự đoán hợp lýrằng danh tiếng trong một khoảng thời gian nhất địnhsẽ bằng trung bình của danh tiếng trướcvà sau đó chia ra.Đó là thứ chúng ta dự đoán.Rồi chúng ta so sánh nó với mức độ nổi tiếng chúng ta quan sát được.Chúng ta chia cái nó với mức độ dự đoán kia.để được cái gọi là "mức độ danh tiếng bị kìm hãm"Nếu mức độ danh tiếng bị kìm hãm rất rất nhỏ ,thì bạn có lẽ đang bị kìm hãm.Nếu nó rất rất lớn, thì có lẽ bạn đang được lợi từ cơ quan tuyên truyền
+10:34
+你还可以看到压抑指数在总人数中的分布情况这里有个例子这是从没有明显抑制的英文书籍中选出的5000个人它是这个样子的 基本上以1为中心实际情况与预想差不多而这在是德文书籍中的分布情况与前者大为不同 往左偏了人们对它的关注较预期要少了两倍更重要的是 这个分布的跨度更宽不少人处于左边的部分人数比预期中少了10倍而也有不少人处于更靠右的部分他们的宣传起了作用这幅图反映了书籍记录中的审查情况
+JM: Giờ bạn hãy nhìn vàosự phân phối của mức độ bị kìm hãm trên toàn dân số.Ví dụ ở đây —mức độ danh tiếng bị kìm hãm này của 5000 ngườichọn ra trong những cuốn sách tiếng anh không có sự kìm hãm được biết đến —nó sẽ như thế này, hầu như gần bằng 1.Điều bạn mong muốn đơn giản chính là điều bạn quan sát được.Đây là sự phân phối được thấy ở Đức —rất khác, nó được dịch chuyển về bên trái.Người ta đã nói về nó ít hơn hai lần nó đáng được.Nhưng quan trọng hơn hết là sự phân phối này trải rộng hơn nhiều .Có nhiều người cuối cùng lại ở xa hơn về phía trái của sự phân phối nàynhững người được ít hơn đến 10 lần danh tiếng mà họ đáng có.Nhưng đồng thời cũng có rất nhiều người ở xa phía bên phảihọ dường như đang hưởng lợi từ giới tuyên truyền.Bức tranh này chính là dấu đóng của sự kiểm duyệt sách.
+11:11
+我们把这种方法称作文化组学有点像基因组学只不过 基因组学是生物学上观察人类基因组序列的透镜文化组学很类似它指的是对人类文明研究的大规模数据收集分析的应用它使用的不是基因组这个透镜而是用数字化的历史记录片段作为透镜文化组学的优点是人人都会用它为什么呢这是因为这三个人谷歌的乔恩.奥温特 迈特.格雷和威尔.布洛克曼看到了n字格后说：“这太有意思了，我们得让所有人都用上它。”于是在我们的论文发表之前的整整两个星期中他们编了一个面向公众的Ngram Viewer版本现在你们也可以输入任何你感兴趣的单词或词组查看它的n字格并阅览所有书籍中出现n字格的例句
+ELA: Chúng tôi gọi phương pháp nàylà văn hoá học.Giống như di truyền học.Khác ở chỗ di truyền học là ống kính của sinh họcqua cửa sổ nhìn vào chuỗi nền tảng trong hệ gen của con người.Văn hoá học cũng tương tự.Nó là sự ứng dụng của sự phân tích hàng loạt dữ liệu trên qui mô lớnvào việc nghiên cứu văn hoá con người.Tại đây, qua ống kính của dữ liệu lịch sử đã được số hoá.thay vì qua ống kính của hệ gien.Điều tuyệt vời về văn hoá họclà ai cũng có thể thực hiện được nó.Tại sao mọi người đều có thể thực hiện?Mọi người đều có thể làm điều đó là nhờ ba người ,Jon Orwant, Matt Gray và Will Brockman của Googlenhìn thấy bản đồ mẫu của Ngram Viewer,và nói rằng "Cái này thật hay!Chúng ta phải làm thứ này cho mọi người dùng."Thế là trong chỉ hai tuần — hai tuần trước khi bài luận văn của chúng tôi hoàn thành —họ đã lập trình một phiên bản của NGram Viewer cho công chúng.Bạn có thể đánh một từ nào đó mà bạn thíchvà xem n-gram của nó ngay lập tức —và cũng có thể xem ví dụ của tất cả các cuốn sách khác nhaumà n-gram xuất hiện trong đó.
+12:06
+这个词在第一天就被使用了超过一百万次这真的是最棒的一个搜索词人们总想做到最好 总想展示最好的一面但是在18世纪 人们对此并不在乎他们不想做到最好（“best”）而是“beft”实际上 这是个错别字这并不是因为人们不识字而是因为当时英文字母S的写法跟现在不同 看起来像F当然 谷歌没有意识到这一点于是我们对此在论文中做了报告这实际上只是一个小提示尽管这很有趣但是你在解读这些图表时 仍须非常谨慎你必须遵循基本的科学准则
+JM : Nó được sử dụng hơn một triệu lần vào ngày đầu tiên,và đây thực sự là câu chất vấn hay nhất.Người ta muốn cố gắng hết sức, bước bước chân chắc nhất về phía trước.Nhưng hoá ra vào thế kỉ 18, người ta không hề thực sự quan tâm đến điều đó .Họ không muốn là "best", họ chỉ muốn là "beft".Dĩ nhiên thật ra đó chỉ là một lỗi chính tả.không có gì to tát cả,chỉ là S từng được viết theo cách khác, gần giống chữ F.Dĩ nhiên, Google lúc đó đã không để ý đến điều này,nên chúng tôi đã viết về điều đó trong một bài báo cáo khoa học.Nhưng hoá ra đây chỉ là một sự nhắc nhởrằng dù có hay đến đâu chăng nữathì khi bạn tìm cách hiểu những biểu đồ này, bạn phải vô cùng cẩn thận,và bạn phải áp dụng những chuẩn mực nền tảng trong khoa học.
+12:42
+人们使用它来寻求各种乐趣（众人笑）我们不打算多说光给你们看这些幻灯片这个用户对人们烦躁的历史很感兴趣这里有不同类型的烦躁如果你的脚趾被碰了 你会说“啊” （“argh”）如果地球被外星人毁灭了开了一条星际航道那就是“啊啊啊啊啊啊啊啊” （"aaaaaaaargh"）这个人研究了不同长短的“啊” （“argh”）从1个啊到8个啊结果那些使用频率较低的啊代表程度更高的烦躁八十年代是个例外我们猜这可能跟里根总统有关
+ELA : Người ta dùng phương pháp này cho đủ thứ mục đích hài hước.(Tiếng cười)Thực ra chúng tôi không nhất thiết phải nói,chúng tôi sẽ chỉ cho các bạn xem tất cả những bức hình này và giữ yên lặng.Người này muốn biết về lịch sử của sự giận dữ.Có rất nhiều loại giận dữ.Nếu bạn bị vấp chân, đó sẽ là một chữ A "argh".Nếu trái đất bị xâm chiếm bởi người Vogonsđể làm đường giữ thông tin liên lạc giữa các vì sao.đó sẽ là tám chữ A "aaaaaaaarg"Người này nghiên cứu tất cả "arghs"từ một cho đến tám chữ "A".Và kết quả làTừ "arghs" với ít chữ Atất nhiên tương ứng với những thứ gây nhiều tức giận hơn.ngoại trừ trong những năm đầu của thập niên 80, thật kì lạ!Chúng tôi cho rằng điều này có lẽ có liên quan đến Reegan.
+13:28
+（众人笑）
+(Tiếng cười)
+13:30
+这个数据库的用处很多但最重要的是这是一个数字化的历史记录谷歌已经开始对1500万本书进行数字化处理其中12%的书已被出版这是人类文明相当大的一部分而文明还包括更多的内容 有手稿 报纸非文字的内容 例如艺术与绘画这些内容都会出现在我们的电脑上在世界各地的电脑上如果这成真了我们对过去现在以及人类文明的认识就被改变了
+JM: Có rất nhiều cách sử dụng dữ liệu này,nhưng điều mấu chốt là hồ sơ lịch sử đang được số hoá.Google đã số hoá 15 triệu cuốn sách.Đó là 12 phần trăm của tất cả những cuốn sách đã từng được xuất bản.Đó là một tảng lớn đáng kể của văn hoá loài người.Còn rất nhiều của nền văn hoá: nào là những bản viết tay, nào là báo chí,nào là những thứ không phải là chữ mà là nghệ thuật và những bức tranh.Những thứ này tình cờ lại có trong máy tính của chúng ta,trên những chiếc máy tính trên khắp thế giới.Khi điều đó xảy ra, nó sẽ thay đổi cách chúng tahiểu về quá khứ, hiện tại và nền văn hóa con người.
+13:57
+非常感谢大家
+Cảm ơn rất nhiều.
+13:59
+（众人鼓掌）
+(Vỗ tay)

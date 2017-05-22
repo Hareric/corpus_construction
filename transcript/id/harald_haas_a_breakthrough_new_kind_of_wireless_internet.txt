@@ -1,0 +1,114 @@
+ 0:11
+我想要第一次向公众证明视频可以由一台LED台灯传送至太阳能电池板上，并由一台手提电脑接收没有Wi-Fi介入，只是光
+Saya akan memperagakanpertama kalinya di depan umumbahwa mungkin untuk memancarkan videodari lampu LED standar yang sudah adake sel surya dengan laptopsebagai penerima.Tidak menggunakan Wi-Fisama sekali, hanya cahaya saja.
+ 0:32
+那么你可能想知道，这样做有什么意义？意义就是：将来互联网会大规模覆盖“数字鸿沟“将不复存在并且让我们所说的“物联网”变为可能——数以亿计的设备连接到互联网
+Anda mungkin heran, apa intinya?Dan intinya adalah sebagai berikut:Akan ada perluasan Internet besar-besaranuntuk menghapus kesenjangan digital,juga untuk mewujudkan yang kita sebutdengan "The Internet of Things"puluhan milyar perangkatterkoneksi ke Internet.
+ 0:50
+在我看来，互联网的大程度扩张前提是需要基本保证“能源中性化”（指尽量减少能源消耗）这就是说， 我们需要尽可能的多用现存的基础设施这就是为什么前面提到太阳能电池和LED
+Menurut saya, perluasan Internethanya akan berhasiljika energi yang digunakan hampir nihil.Ini artinya, sedapat mungkin kita harusmenggunakan prasarana yang sudah ada.Dan di sinilah sel surya dan LED berperan.
+ 1:07
+我之前第一次证明这件事是2011年在TED演讲我称它为Li-Fi，即光保真用现存的LED灯可以极快地传递Li-Fi数据并且这种方式安全可靠数据由光传输由亮度的细微变化解码如果我们环视四周，在我们身边有很多的LED灯因此在我们周围有着非常丰富的Li-Fi发射装置但是目前，我们通常使用一个特别的设备——小型照片探测器来接收由数据解码出来的信息我想要找到一种方法，利用现有的基础设施来接收Li-Fi灯发出的数据这也是为什么我一直研究太阳能电池和太阳能电板
+Saya memperagakannya untuk pertama kali,di TED tahun 2011,Li-Fi atau Light Fidelity(mengandalkan cahaya).Li-Fi menggunakan LED yang sudah adauntuk memancarkan data dengan super cepat,dan juga dengan carayang aman dan terkendali.Data ditransfer dengan cahaya,disandikan dalam transisitingkat kecerahan yang halus.Jika kita melihat sekeliling,ada banyak LED di sekitar kita,jadi prasarana pemancar Li-Fiberlimpah di sekitar kita.Tapi sejauh ini, kita menggunakanperangkat khusus — detektor foto kecil,untuk menerimainformasi tersandi dalam data.Saya juga ingin menemukan caraagar dapat menggunakan prasarana yang adauntuk menerima data dari cahaya Li-Fi.Itulah sebabnya selama ini sayamemakai sel surya dan panel surya.
+ 2:02
+太阳能电池吸收光并转化成电能这就是为什么我们能用太阳能电池给我们的手机充电但我们知道数据是由LED亮度的微妙变化来编码的所以如果入射的光有波动那么太阳能电池收集的能量也有波动这就意味着我们具备了一项基本原理：信息通过光的传导，由太阳能电池板接收因为收集的能量波动 与传输的数据相对应
+Sel surya menyerap cahayadan mengubahnya menjadi energi listrik.Ini sebabnya sel surya dapat digunakanuntuk mengisi daya ponsel kita.Tapi sekarang kita harus ingatbahwa data tersandi pada perubahantingkat kecerahan LED yang halus,jadi jika cahaya yang masuk tidak stabil,begitu juga energiyang didapatkan dari sel surya.Ini artinya di situ ada prinsip mekanismeuntuk menerima informasidari cahaya dan dengan sel surya,karena fluktuasi energi yang didapatsesuai dengan data yang ditransfer.
+ 2:42
+当然问题就在我们是否能够收集到非常迅速和微小的亮度变化比如通过我们的LED灯传递的那种答案是 是的，我们可以我们在实验室已经展示我们能够接收达到每秒50MB的数据通过一个标准的，现有的太阳能电池这比目前最高速的宽带连接还要快
+Tentu saja, pertanyaannya:dapatkah kita menerima perubahantingkat kecerahan yang cepat dan halus,seperti yang dipancarkan oleh cahaya LED?Dan jawabannya adalah ya, bisa.Kita telah tunjukkan di labbahwa kita dapat menerima sampai 50 Mbpsdari sel surya standar yang sudah ada.Dan ini lebih cepat daripada kebanyakankoneksi broadband yang ada saat ini,
+ 3:10
+现在让我来实践展示一下在这个盒子里，是一个现有的标准LED灯这是一个现有的标准太阳能电池它连接到笔记本电脑上这儿我们还有一个测量仪用来显示我们从太阳能电池收集的能量现在这个仪表上有读数这是因为太阳能电池已经开始从周围环境收集光了
+Sekarang saya akan tunjukkan prakteknya.Dalam kotak ini adalampu LED standar yang sudah ada.Ini adalah sel surya standaryang sudah ada;yang terhubung ke laptop.Dan juga ada alat iniuntuk memperlihatkanenergi yang didapat dari sel surya.Dan sekarang inialat ini menunjukkan sesuatu.Ini karena sel surya sudahmendapat cahaya dari sekelilingnya.
+ 3:42
+现在，首先我将把灯打开只是简单的打开灯，等一段时间你会注意到指针跳到了右边所以现在 太阳能电池正在从这个人工光源接收能量如果把它关掉，我们看到读数降回去了再打开所以我们用太阳能电池收集了能源
+Sekarang yang ingin saya lakukan duluadalah menyalakan cahayanya,dan saya nyalakan saja cahayanya sebentardan yang Anda bisa lihat adalahalatnya bergerak ke kanan.Jadi sel surya, untuk beberapa waktu,mendapatkan energidari sumber cahaya buatan ini.Jika saya matikan,kita bisa melihatnya turun.Saya nyalakan ...Jadi kita mendapat energi dari sel surya.
+ 4:07
+接下来， 我将要启动视频传导通过按下这个按钮来实现所以现在这个LED灯正在通过亮度的细微变化传导一个视频这种亮度变化太快，不能用肉眼识别为了证明这一点我可以阻挡太阳能电池接收的光首先你会注意到收集的能源下降了并且视频也停止了如果我移开阻碍物， 视频会继续播放
+Tapi kemudian saya akanaktifkan streaming videonya.Dan saya melakukannyadengan menekan tombol ini.Jadi sekarang lampu LED-nyamengalirkan videodengan mengubah tingkatkecerahan LED secara halus,sampai tak terlihat oleh penglihatan Anda,karena perubahannyaterlalu cepat untuk dilihat.Tapi untuk membuktikannya,saya bisa halangi cahaya sel suryanya.Jadi awalnya Anda tahupemasukan energi menurun.dan videonya juga berhenti.Saya singkirkan penghalangnya,videonya akan mulai lagi.
+ 4:48
+（掌声）
+(Tepuk tangan)
+ 4:54
+这个操作可以重复所以当我们阻止视频的传输能源收集也相应停止这说明太阳能电池可以作为一个接收器
+Dan saya bisa mengulanginya.Jadi kita hentikan pancaran videodan pemasukan energi juga berhenti.Jadi itu untuk membuktikan bahwasel surya bertindak sebagai penerima.
+ 5:07
+但是现在想像一下这个LED灯是街灯并且周围有雾我想模拟有雾的情况因此我随身带来一个手帕
+Tapi bayangkan lampu LED iniadalah lampu jalanan dan ada kabut.Jadi saya akan simulasikan kabutnya,dan itu sebabnya saya membawa saputangan.
+ 5:18
+（笑声）
+(Tawa)
+ 5:19
+让我把手帕放到太阳能电池上首先你会注意到能源收集量降低了，和预料的一样但是现在视频仍在继续播放这意味着，尽管有阻碍物还是有足够的光穿过手帕到太阳能电池因此太阳能电池仍然能够解码、传导数据信息甚至是我们现在用的高清视频信息
+Dan saya akan letakkansaputangannya di atas sel surya.Pertama Anda lihatpemasukan energi menurun,seperti yang sudah diduga,tapi videonya masih berjalan.Ini artinya, walaupun ada halangan,ada cukup cahaya yang masukmelalui saputangan ke sel surya,sehingga sel surya dapat membaca sandidan mengalirkan informasi,dalam hal ini, video resolusi tinggi.
+ 5:50
+重要的是 太阳能电池在这里成为了一个接收器接收编码成光的高速无线信号同时也保持了它作为能源收集设备的基本功能这就是说，屋顶上那些现有的太阳能电池可以用来作为宽带网络的接收器信号可以来自靠近山坡的激光站，或者街边的路灯
+Yang sangat penting di sini adalahsel surya telah menjadi penerimasinyal nirkabel kecepatan tinggiyang tersandi dalam cahaya,sementara menjaga fungsi utamanyasebagai alat penerima energiItulah mengapa, sangat memungkinkanuntuk menggunakan sel suryayang sudah ada di atap rumahuntuk bertindak sebagai penerima broadbanddari pemancar sinar laserdi bukit terdekat, atau lampu jalanan.
+ 6:18
+哪里的光束到达太阳能电池并不要紧并且实际上窗户上安装的半透明太阳能电池安装在街道设施上的太阳能电池甚至安装在成千上万其他设备上的太阳能电池它们将会形成物联网这是因为我们不想经常给这些设备充电更不想每几个月就要更换电池
+Dan tidak masalah di manasinarnya menyentuh sel surya.Hal yang sama juga berlakupada sel surya transparanyang dipasang di jendela,sel surya yang dipasangpada benda di jalanan,atau, sel surya yang dipasangpada berbagai peralatan lainnyayang akan mewujudkanThe Internet of Things.Sederhana saja, kita enggan mengisi dayasemua perangkat ini secara rutin,atau lebih buruk, menggantibaterainya setiap lima bulan.
+ 6:45
+我之前说这是我第一次向公众展示这些这次展示可以说是一个实验证明一个原型但是我和我的团队有信心接下来两到三年，这项产品会进入市场希望我们能够对终结“数字鸿沟”做出贡献并且帮助成千上万的设备连接到互联网而且所有设备不会造成巨大的能源消耗因为我们将利用现有的太阳能电池
+Seperti yang sudah saya katakan,ini pertama kalisaya peragakan di depan umum.Ini baru percobaan lab saja,suatu prototipe.Tapi tim saya dan saya sendiri yakinkami bisa membawanya ke pasarandua atau tiga tahun lagi.Dan kami berharap dapat berkontribusimenghapus kesenjangan digital,dan juga berkontribusimenghubungkan milyaranperangkat ke Internet.Dan semuanya tanpa mengakibatkanledakan konsumsi energi besar-besaran —dikarenakan sel surya adalah kebalikannya.
+ 7:15
+谢谢
+Terima kasih.
+ 7:16
+（掌声）
+(Tepuk tangan)
+ 0:11
+我想要第一次向公众证明视频可以由一台LED台灯传送至太阳能电池板上，并由一台手提电脑接收没有Wi-Fi介入，只是光
+Saya akan memperagakanpertama kalinya di depan umumbahwa mungkin untuk memancarkan videodari lampu LED standar yang sudah adake sel surya dengan laptopsebagai penerima.Tidak menggunakan Wi-Fisama sekali, hanya cahaya saja.
+ 0:32
+那么你可能想知道，这样做有什么意义？意义就是：将来互联网会大规模覆盖“数字鸿沟“将不复存在并且让我们所说的“物联网”变为可能——数以亿计的设备连接到互联网
+Anda mungkin heran, apa intinya?Dan intinya adalah sebagai berikut:Akan ada perluasan Internet besar-besaranuntuk menghapus kesenjangan digital,juga untuk mewujudkan yang kita sebutdengan "The Internet of Things"puluhan milyar perangkatterkoneksi ke Internet.
+ 0:50
+在我看来，互联网的大程度扩张前提是需要基本保证“能源中性化”（指尽量减少能源消耗）这就是说， 我们需要尽可能的多用现存的基础设施这就是为什么前面提到太阳能电池和LED
+Menurut saya, perluasan Internethanya akan berhasiljika energi yang digunakan hampir nihil.Ini artinya, sedapat mungkin kita harusmenggunakan prasarana yang sudah ada.Dan di sinilah sel surya dan LED berperan.
+ 1:07
+我之前第一次证明这件事是2011年在TED演讲我称它为Li-Fi，即光保真用现存的LED灯可以极快地传递Li-Fi数据并且这种方式安全可靠数据由光传输由亮度的细微变化解码如果我们环视四周，在我们身边有很多的LED灯因此在我们周围有着非常丰富的Li-Fi发射装置但是目前，我们通常使用一个特别的设备——小型照片探测器来接收由数据解码出来的信息我想要找到一种方法，利用现有的基础设施来接收Li-Fi灯发出的数据这也是为什么我一直研究太阳能电池和太阳能电板
+Saya memperagakannya untuk pertama kali,di TED tahun 2011,Li-Fi atau Light Fidelity(mengandalkan cahaya).Li-Fi menggunakan LED yang sudah adauntuk memancarkan data dengan super cepat,dan juga dengan carayang aman dan terkendali.Data ditransfer dengan cahaya,disandikan dalam transisitingkat kecerahan yang halus.Jika kita melihat sekeliling,ada banyak LED di sekitar kita,jadi prasarana pemancar Li-Fiberlimpah di sekitar kita.Tapi sejauh ini, kita menggunakanperangkat khusus — detektor foto kecil,untuk menerimainformasi tersandi dalam data.Saya juga ingin menemukan caraagar dapat menggunakan prasarana yang adauntuk menerima data dari cahaya Li-Fi.Itulah sebabnya selama ini sayamemakai sel surya dan panel surya.
+ 2:02
+太阳能电池吸收光并转化成电能这就是为什么我们能用太阳能电池给我们的手机充电但我们知道数据是由LED亮度的微妙变化来编码的所以如果入射的光有波动那么太阳能电池收集的能量也有波动这就意味着我们具备了一项基本原理：信息通过光的传导，由太阳能电池板接收因为收集的能量波动 与传输的数据相对应
+Sel surya menyerap cahayadan mengubahnya menjadi energi listrik.Ini sebabnya sel surya dapat digunakanuntuk mengisi daya ponsel kita.Tapi sekarang kita harus ingatbahwa data tersandi pada perubahantingkat kecerahan LED yang halus,jadi jika cahaya yang masuk tidak stabil,begitu juga energiyang didapatkan dari sel surya.Ini artinya di situ ada prinsip mekanismeuntuk menerima informasidari cahaya dan dengan sel surya,karena fluktuasi energi yang didapatsesuai dengan data yang ditransfer.
+ 2:42
+当然问题就在我们是否能够收集到非常迅速和微小的亮度变化比如通过我们的LED灯传递的那种答案是 是的，我们可以我们在实验室已经展示我们能够接收达到每秒50MB的数据通过一个标准的，现有的太阳能电池这比目前最高速的宽带连接还要快
+Tentu saja, pertanyaannya:dapatkah kita menerima perubahantingkat kecerahan yang cepat dan halus,seperti yang dipancarkan oleh cahaya LED?Dan jawabannya adalah ya, bisa.Kita telah tunjukkan di labbahwa kita dapat menerima sampai 50 Mbpsdari sel surya standar yang sudah ada.Dan ini lebih cepat daripada kebanyakankoneksi broadband yang ada saat ini,
+ 3:10
+现在让我来实践展示一下在这个盒子里，是一个现有的标准LED灯这是一个现有的标准太阳能电池它连接到笔记本电脑上这儿我们还有一个测量仪用来显示我们从太阳能电池收集的能量现在这个仪表上有读数这是因为太阳能电池已经开始从周围环境收集光了
+Sekarang saya akan tunjukkan prakteknya.Dalam kotak ini adalampu LED standar yang sudah ada.Ini adalah sel surya standaryang sudah ada;yang terhubung ke laptop.Dan juga ada alat iniuntuk memperlihatkanenergi yang didapat dari sel surya.Dan sekarang inialat ini menunjukkan sesuatu.Ini karena sel surya sudahmendapat cahaya dari sekelilingnya.
+ 3:42
+现在，首先我将把灯打开只是简单的打开灯，等一段时间你会注意到指针跳到了右边所以现在 太阳能电池正在从这个人工光源接收能量如果把它关掉，我们看到读数降回去了再打开所以我们用太阳能电池收集了能源
+Sekarang yang ingin saya lakukan duluadalah menyalakan cahayanya,dan saya nyalakan saja cahayanya sebentardan yang Anda bisa lihat adalahalatnya bergerak ke kanan.Jadi sel surya, untuk beberapa waktu,mendapatkan energidari sumber cahaya buatan ini.Jika saya matikan,kita bisa melihatnya turun.Saya nyalakan ...Jadi kita mendapat energi dari sel surya.
+ 4:07
+接下来， 我将要启动视频传导通过按下这个按钮来实现所以现在这个LED灯正在通过亮度的细微变化传导一个视频这种亮度变化太快，不能用肉眼识别为了证明这一点我可以阻挡太阳能电池接收的光首先你会注意到收集的能源下降了并且视频也停止了如果我移开阻碍物， 视频会继续播放
+Tapi kemudian saya akanaktifkan streaming videonya.Dan saya melakukannyadengan menekan tombol ini.Jadi sekarang lampu LED-nyamengalirkan videodengan mengubah tingkatkecerahan LED secara halus,sampai tak terlihat oleh penglihatan Anda,karena perubahannyaterlalu cepat untuk dilihat.Tapi untuk membuktikannya,saya bisa halangi cahaya sel suryanya.Jadi awalnya Anda tahupemasukan energi menurun.dan videonya juga berhenti.Saya singkirkan penghalangnya,videonya akan mulai lagi.
+ 4:48
+（掌声）
+(Tepuk tangan)
+ 4:54
+这个操作可以重复所以当我们阻止视频的传输能源收集也相应停止这说明太阳能电池可以作为一个接收器
+Dan saya bisa mengulanginya.Jadi kita hentikan pancaran videodan pemasukan energi juga berhenti.Jadi itu untuk membuktikan bahwasel surya bertindak sebagai penerima.
+ 5:07
+但是现在想像一下这个LED灯是街灯并且周围有雾我想模拟有雾的情况因此我随身带来一个手帕
+Tapi bayangkan lampu LED iniadalah lampu jalanan dan ada kabut.Jadi saya akan simulasikan kabutnya,dan itu sebabnya saya membawa saputangan.
+ 5:18
+（笑声）
+(Tawa)
+ 5:19
+让我把手帕放到太阳能电池上首先你会注意到能源收集量降低了，和预料的一样但是现在视频仍在继续播放这意味着，尽管有阻碍物还是有足够的光穿过手帕到太阳能电池因此太阳能电池仍然能够解码、传导数据信息甚至是我们现在用的高清视频信息
+Dan saya akan letakkansaputangannya di atas sel surya.Pertama Anda lihatpemasukan energi menurun,seperti yang sudah diduga,tapi videonya masih berjalan.Ini artinya, walaupun ada halangan,ada cukup cahaya yang masukmelalui saputangan ke sel surya,sehingga sel surya dapat membaca sandidan mengalirkan informasi,dalam hal ini, video resolusi tinggi.
+ 5:50
+重要的是 太阳能电池在这里成为了一个接收器接收编码成光的高速无线信号同时也保持了它作为能源收集设备的基本功能这就是说，屋顶上那些现有的太阳能电池可以用来作为宽带网络的接收器信号可以来自靠近山坡的激光站，或者街边的路灯
+Yang sangat penting di sini adalahsel surya telah menjadi penerimasinyal nirkabel kecepatan tinggiyang tersandi dalam cahaya,sementara menjaga fungsi utamanyasebagai alat penerima energiItulah mengapa, sangat memungkinkanuntuk menggunakan sel suryayang sudah ada di atap rumahuntuk bertindak sebagai penerima broadbanddari pemancar sinar laserdi bukit terdekat, atau lampu jalanan.
+ 6:18
+哪里的光束到达太阳能电池并不要紧并且实际上窗户上安装的半透明太阳能电池安装在街道设施上的太阳能电池甚至安装在成千上万其他设备上的太阳能电池它们将会形成物联网这是因为我们不想经常给这些设备充电更不想每几个月就要更换电池
+Dan tidak masalah di manasinarnya menyentuh sel surya.Hal yang sama juga berlakupada sel surya transparanyang dipasang di jendela,sel surya yang dipasangpada benda di jalanan,atau, sel surya yang dipasangpada berbagai peralatan lainnyayang akan mewujudkanThe Internet of Things.Sederhana saja, kita enggan mengisi dayasemua perangkat ini secara rutin,atau lebih buruk, menggantibaterainya setiap lima bulan.
+ 6:45
+我之前说这是我第一次向公众展示这些这次展示可以说是一个实验证明一个原型但是我和我的团队有信心接下来两到三年，这项产品会进入市场希望我们能够对终结“数字鸿沟”做出贡献并且帮助成千上万的设备连接到互联网而且所有设备不会造成巨大的能源消耗因为我们将利用现有的太阳能电池
+Seperti yang sudah saya katakan,ini pertama kalisaya peragakan di depan umum.Ini baru percobaan lab saja,suatu prototipe.Tapi tim saya dan saya sendiri yakinkami bisa membawanya ke pasarandua atau tiga tahun lagi.Dan kami berharap dapat berkontribusimenghapus kesenjangan digital,dan juga berkontribusimenghubungkan milyaranperangkat ke Internet.Dan semuanya tanpa mengakibatkanledakan konsumsi energi besar-besaran —dikarenakan sel surya adalah kebalikannya.
+ 7:15
+谢谢
+Terima kasih.
+ 7:16
+（掌声）
+(Tepuk tangan)

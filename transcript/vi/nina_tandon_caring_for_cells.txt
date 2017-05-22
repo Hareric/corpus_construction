@@ -1,0 +1,54 @@
+ 0:11
+大家早上好
+Xin chào buổi sáng tất cả các bạn.
+ 0:14
+我从事的是一种不可思议的非常非常微小的生物，叫做细胞让我来向大家展示实验室里如何培育这些细胞在我工作的实验室，我们把细胞从它们原本的生长环境中取出来我们把它们放到器皿中我们通常称之为培养皿然后我们培养它们 — 当然是无菌的 —用一种叫做细胞培养基的东西 — 类似于他们的食物 —然后我们在孵化器中培养他们
+Tôi đang làm việc với nhữngsinh vật bé xíu tên là tế bào.Và hãy để tôi kể các bạn ngheviệc nuôi cấy những tế bào trong phòng thí nghiệm diễn ra như thế nào.Phòng thí nghiệm nơi tôi làm việc là nơi những tế bào được tách ra khỏi môi trường tự nhiên của chúng.Chúng tôi đặt chúng vào những cái đĩamà chúng tôi hay gọi là đĩa petri .Và chúng tôi cho chúng ăn - tất nhiên là vô trùng -phương tiện nuôi cấy tế bào - giống như thức ăn của chúng -và chúng tôi nuôi chúng trong những tủ ấp.
+ 0:39
+我为什么这么做?我们在培养皿中观察细胞这只是表面上的我们在实验室中真正要做的是把组织从细胞中分离那意味着什么呢？这意味着生成一个真的心脏比方说培育一块骨头它可以被植入人体内不仅如此，它们还可以被用于疾病模型为了这个目的，传统的细胞培养技术是远远不够的细胞会想家培养皿不像它们的家因此在复制它们原始的生存环境上面我们需要做的更好从而让它们更好的生长我们称之为仿生（biomimetic paradigm）—即在实验室中复制自然环境
+Tại sao tôi thực hiện điều này?Chúng tôi quan sát những tế bào trên đĩa,và chúng chỉ ở trên bề mặt.Nhưng điều chúng tôi thực sự đang làm trong phòng thí nghiệmlà lấy mô ra khỏi tế bào.Thế nghĩa là gì?Nghĩa là chúng tôi đang nuôi một trái tim thật,hoặc có thể nói là,một mảnh xươngmà có thể cấy vào trong cơ thể.Không chỉ vậy, chúng còn có thể được dùng làm các mô hình bệnh tật.Với mục đích này, những kĩ thuật nuôi cấy tế bào truyền thốngthật sự không đảm đương được.Những tế bào tỏ ra nhớ nhà;cái đĩa không giống như nhà của chúng.Nên chúng tôi cần tái tạo môi trường sống tự nhiên cho chúngđể giúp chúng tồn tại.Chúng tôi gọi cách thức này là mô hình mô phỏng sinh học -sao chép môi trường trong phòng thí nghiệm.
+ 1:21
+让我们用培育心脏举例我为此做了许多研究是什么让心脏与众不同恩，是心跳有节奏的，不知疲倦的，不停的跳动我们在实验室复制它用一套电极细胞培养系统这些电极起到类似迷你起搏器的作用从而让实验室内的细胞间产生联系关于心脏我们还了解什么？心脏细胞非常贪婪在身体中自然培育心脏细胞需要非常非常大量的血液供给在实验室中，我们用生物材料做成微型通道来培养细胞这让细胞培养基得以流动，成为细胞的食物通过我们培育细胞的脚手架 —很像大家印象里心脏中的毛细血管床的样子
+Lấy quả tim làm ví dụ,\Điều gì khiến quả tim khác biệt?Quả tim đập một cáchnhịp nhàng, không ngừng nghỉ và miệt mài.Chúng tôi sao chép đặc điểm này vào trong phòng thí nghiệmbằng cách áp dụng hệ thống nuôi cấy tế bào với các điện cực.Những điện cực này hoạt động giống như những máy điều hòa nhịp tim tí hongiúp tế bào hợp tác trong phòng thí nghiệm.Chúng ta còn biết điều gì nữa về trái tim?Tế bào cơ tim khá tham lam.Cơ chế tự nhiên nuôi sống tế bào cơ tim trong cơ thế bạnbằng đường cung máu dày đặc.Trong phòng thí nghiệm, chúng tôi tách các phần thành những khuôn nhỏtrong những vật liệu sinh họcnơi chúng tôi nuôi tế bào.Và cách này giúp việc nuôi cấy tế bào được trôi chảy, thức ăn của tế bàoqua những cái giàn nơi chúng tôi nuôi tế bào -rất giống với những gì bạn tưởng tượngtừ ống mao dẫn trong quả tim.
+ 2:06
+这就教会我们第一课：生命可以用细小的东西做很多事让我们举一个电刺激的例子看看这些小东西中的一员可以变得多么强大在左边，有很小的一片心脏跳动组织它是我在实验室用老鼠的细胞培育的差不多一个迷你棉花糖大小一个星期后，它开始跳动你可以在左上角看见如果看不太清楚也没关系这些细胞可以跳动根本就是不可思议的但是真正不可思议的是这些细胞，当用类似起搏器的电击它们的时候它们的跳动加强了很多
+Nên tôi rút ra bài học đầu tiên:Những gì lớn lao của cuộc sống đều từ những điều bé nhỏ.Hãy lấy sự kích điện làm ví dụ.Hãy xem chỉ một yếu tố có thể mang tầm quan trọng như thế nào.Góc bên trái, bạn nhìn thấy hình ảnh một mô cơ tim đang hoạt độngmà tôi tách từ tế bào của chuột thí nghiệm.Nó khoảng cỡ của một cây thục quỳ nhỏ.Và sau một tuần, nó bắt đầu đập.Bạn hãy nhìn lên góc trên bên trái.Không sao cả nếu bạn không nhìn thấy rõ.Thật tuyệt vời khi thấy những tế bào đó đập.Nhưng điều thật sự tuyệt vời hơn nữalà khi những tế bào đó được kích thích bằng điệnnhư dùng máy điều hòa nhịp tìm,thì chúng đập càng mạnh hơn.
+ 2:42
+它们带给我们第二个启示：细胞可以做任何工作在某种程度上，组织工程师有点自身身份上的危机因为，结构工程师建造桥梁和大建筑电脑工程师，设计电脑但是我们做的事情实际上是为细胞创造它们本身拥有的科技做这些对我们意味着什么？让我们做些非常简单的事情我们想一下细胞并不是一个抽象的概念大家知道，我们的细胞支撑着我们的生命用一种非常现实的方式“我们就是我们所吃的东西”，可以简单的理解成“我们就是我们细胞所吃的东西”在我们肠道菌群失调的情况下这些细胞甚至可能不会变成人类同样值得注意的是细胞还可以改变我们的人生经历在每一个声音，视觉，触觉，味觉和嗅觉的背后都是一套相应的细胞组合它们接收这类信息然后翻译给我们这就引出一个问题我们是否应该把环境管理意识概念扩展到我们身体的生态环境？
+Và tôi lại có thêm bài học thứ hai:tế bào làm hết mọi việc.Đôi khi, những kĩ sư mô tế bào gặp phải vài sự khủng hoảng nhân dạng,vì những kiến trúc sưxây cầu và xây những thứ to lớn,những kĩ sư máy tính thì làm ra máy tính,còn việc chúng tôi làmlà thúc đẩy những tế bào tự tạo ra công nghệ cho nó.Điều này nghĩa là gì?Hãy lấy ví dụ thật đơn giản.Hãy tự nhủ bản thânrằng tế bào không phải một khái niệm trừu tượng.Hãy nhớ rằng tế bào của chúng ta duy trì sự sống cho tatheo một cách rất tự nhiên."Chúng ta là những thứ chúng ta ăn," có thể diễn đạt lạilà," Chúng ta là những gì tế bào của ta ăn."Và trong trường hợp những thực vật trong ruột của ta,những tế bào này có thể không phải là người.Nhưng cũng cần lưu ý lànhững tế bào cũng hỗ trợ quá trình sống của chúng ta.Sau những thính giác, thị giác, xúc giác, vị giác và khứu giáclà tập hợp tế bàotiếp nhận thông tinvà phiên dịch cho chúng ta.Một câu hỏi được đặt ra là:chúng ta có nên mở rộng khả năng quản lí môi trường ragồm cả hệ sinh thái của chính cơ thể chúng ta không?
+ 3:48
+我邀请大家之后一起讨论这个问题与此同时，祝大家好运希望大家的非癌症细胞不会变成稀有物种
+Tôi mời các bạn cùng thảo luận tiếp với tôi về chủ đề này,và tôi cũng chúc các bạn nhiều may mắn.Chúc cho những tế bào không bị ung thư của bạnkhông trở thành sinh vật bị đe dọa.
+ 3:57
+谢谢
+Xin cảm ơn.
+ 3:59
+（掌声）
+(Tiếng vỗ tay)
+ 0:11
+大家早上好
+Xin chào buổi sáng tất cả các bạn.
+ 0:14
+我从事的是一种不可思议的非常非常微小的生物，叫做细胞让我来向大家展示实验室里如何培育这些细胞在我工作的实验室，我们把细胞从它们原本的生长环境中取出来我们把它们放到器皿中我们通常称之为培养皿然后我们培养它们 — 当然是无菌的 —用一种叫做细胞培养基的东西 — 类似于他们的食物 —然后我们在孵化器中培养他们
+Tôi đang làm việc với nhữngsinh vật bé xíu tên là tế bào.Và hãy để tôi kể các bạn ngheviệc nuôi cấy những tế bào trong phòng thí nghiệm diễn ra như thế nào.Phòng thí nghiệm nơi tôi làm việc là nơi những tế bào được tách ra khỏi môi trường tự nhiên của chúng.Chúng tôi đặt chúng vào những cái đĩamà chúng tôi hay gọi là đĩa petri .Và chúng tôi cho chúng ăn - tất nhiên là vô trùng -phương tiện nuôi cấy tế bào - giống như thức ăn của chúng -và chúng tôi nuôi chúng trong những tủ ấp.
+ 0:39
+我为什么这么做?我们在培养皿中观察细胞这只是表面上的我们在实验室中真正要做的是把组织从细胞中分离那意味着什么呢？这意味着生成一个真的心脏比方说培育一块骨头它可以被植入人体内不仅如此，它们还可以被用于疾病模型为了这个目的，传统的细胞培养技术是远远不够的细胞会想家培养皿不像它们的家因此在复制它们原始的生存环境上面我们需要做的更好从而让它们更好的生长我们称之为仿生（biomimetic paradigm）—即在实验室中复制自然环境
+Tại sao tôi thực hiện điều này?Chúng tôi quan sát những tế bào trên đĩa,và chúng chỉ ở trên bề mặt.Nhưng điều chúng tôi thực sự đang làm trong phòng thí nghiệmlà lấy mô ra khỏi tế bào.Thế nghĩa là gì?Nghĩa là chúng tôi đang nuôi một trái tim thật,hoặc có thể nói là,một mảnh xươngmà có thể cấy vào trong cơ thể.Không chỉ vậy, chúng còn có thể được dùng làm các mô hình bệnh tật.Với mục đích này, những kĩ thuật nuôi cấy tế bào truyền thốngthật sự không đảm đương được.Những tế bào tỏ ra nhớ nhà;cái đĩa không giống như nhà của chúng.Nên chúng tôi cần tái tạo môi trường sống tự nhiên cho chúngđể giúp chúng tồn tại.Chúng tôi gọi cách thức này là mô hình mô phỏng sinh học -sao chép môi trường trong phòng thí nghiệm.
+ 1:21
+让我们用培育心脏举例我为此做了许多研究是什么让心脏与众不同恩，是心跳有节奏的，不知疲倦的，不停的跳动我们在实验室复制它用一套电极细胞培养系统这些电极起到类似迷你起搏器的作用从而让实验室内的细胞间产生联系关于心脏我们还了解什么？心脏细胞非常贪婪在身体中自然培育心脏细胞需要非常非常大量的血液供给在实验室中，我们用生物材料做成微型通道来培养细胞这让细胞培养基得以流动，成为细胞的食物通过我们培育细胞的脚手架 —很像大家印象里心脏中的毛细血管床的样子
+Lấy quả tim làm ví dụ,\Điều gì khiến quả tim khác biệt?Quả tim đập một cáchnhịp nhàng, không ngừng nghỉ và miệt mài.Chúng tôi sao chép đặc điểm này vào trong phòng thí nghiệmbằng cách áp dụng hệ thống nuôi cấy tế bào với các điện cực.Những điện cực này hoạt động giống như những máy điều hòa nhịp tim tí hongiúp tế bào hợp tác trong phòng thí nghiệm.Chúng ta còn biết điều gì nữa về trái tim?Tế bào cơ tim khá tham lam.Cơ chế tự nhiên nuôi sống tế bào cơ tim trong cơ thế bạnbằng đường cung máu dày đặc.Trong phòng thí nghiệm, chúng tôi tách các phần thành những khuôn nhỏtrong những vật liệu sinh họcnơi chúng tôi nuôi tế bào.Và cách này giúp việc nuôi cấy tế bào được trôi chảy, thức ăn của tế bàoqua những cái giàn nơi chúng tôi nuôi tế bào -rất giống với những gì bạn tưởng tượngtừ ống mao dẫn trong quả tim.
+ 2:06
+这就教会我们第一课：生命可以用细小的东西做很多事让我们举一个电刺激的例子看看这些小东西中的一员可以变得多么强大在左边，有很小的一片心脏跳动组织它是我在实验室用老鼠的细胞培育的差不多一个迷你棉花糖大小一个星期后，它开始跳动你可以在左上角看见如果看不太清楚也没关系这些细胞可以跳动根本就是不可思议的但是真正不可思议的是这些细胞，当用类似起搏器的电击它们的时候它们的跳动加强了很多
+Nên tôi rút ra bài học đầu tiên:Những gì lớn lao của cuộc sống đều từ những điều bé nhỏ.Hãy lấy sự kích điện làm ví dụ.Hãy xem chỉ một yếu tố có thể mang tầm quan trọng như thế nào.Góc bên trái, bạn nhìn thấy hình ảnh một mô cơ tim đang hoạt độngmà tôi tách từ tế bào của chuột thí nghiệm.Nó khoảng cỡ của một cây thục quỳ nhỏ.Và sau một tuần, nó bắt đầu đập.Bạn hãy nhìn lên góc trên bên trái.Không sao cả nếu bạn không nhìn thấy rõ.Thật tuyệt vời khi thấy những tế bào đó đập.Nhưng điều thật sự tuyệt vời hơn nữalà khi những tế bào đó được kích thích bằng điệnnhư dùng máy điều hòa nhịp tìm,thì chúng đập càng mạnh hơn.
+ 2:42
+它们带给我们第二个启示：细胞可以做任何工作在某种程度上，组织工程师有点自身身份上的危机因为，结构工程师建造桥梁和大建筑电脑工程师，设计电脑但是我们做的事情实际上是为细胞创造它们本身拥有的科技做这些对我们意味着什么？让我们做些非常简单的事情我们想一下细胞并不是一个抽象的概念大家知道，我们的细胞支撑着我们的生命用一种非常现实的方式“我们就是我们所吃的东西”，可以简单的理解成“我们就是我们细胞所吃的东西”在我们肠道菌群失调的情况下这些细胞甚至可能不会变成人类同样值得注意的是细胞还可以改变我们的人生经历在每一个声音，视觉，触觉，味觉和嗅觉的背后都是一套相应的细胞组合它们接收这类信息然后翻译给我们这就引出一个问题我们是否应该把环境管理意识概念扩展到我们身体的生态环境？
+Và tôi lại có thêm bài học thứ hai:tế bào làm hết mọi việc.Đôi khi, những kĩ sư mô tế bào gặp phải vài sự khủng hoảng nhân dạng,vì những kiến trúc sưxây cầu và xây những thứ to lớn,những kĩ sư máy tính thì làm ra máy tính,còn việc chúng tôi làmlà thúc đẩy những tế bào tự tạo ra công nghệ cho nó.Điều này nghĩa là gì?Hãy lấy ví dụ thật đơn giản.Hãy tự nhủ bản thânrằng tế bào không phải một khái niệm trừu tượng.Hãy nhớ rằng tế bào của chúng ta duy trì sự sống cho tatheo một cách rất tự nhiên."Chúng ta là những thứ chúng ta ăn," có thể diễn đạt lạilà," Chúng ta là những gì tế bào của ta ăn."Và trong trường hợp những thực vật trong ruột của ta,những tế bào này có thể không phải là người.Nhưng cũng cần lưu ý lànhững tế bào cũng hỗ trợ quá trình sống của chúng ta.Sau những thính giác, thị giác, xúc giác, vị giác và khứu giáclà tập hợp tế bàotiếp nhận thông tinvà phiên dịch cho chúng ta.Một câu hỏi được đặt ra là:chúng ta có nên mở rộng khả năng quản lí môi trường ragồm cả hệ sinh thái của chính cơ thể chúng ta không?
+ 3:48
+我邀请大家之后一起讨论这个问题与此同时，祝大家好运希望大家的非癌症细胞不会变成稀有物种
+Tôi mời các bạn cùng thảo luận tiếp với tôi về chủ đề này,và tôi cũng chúc các bạn nhiều may mắn.Chúc cho những tế bào không bị ung thư của bạnkhông trở thành sinh vật bị đe dọa.
+ 3:57
+谢谢
+Xin cảm ơn.
+ 3:59
+（掌声）
+(Tiếng vỗ tay)

@@ -1,0 +1,60 @@
+ 0:11
+在2016年的春季，一场在苹果公司和美国联邦调查局之间的战争吸引了全世界的注意。
+Vào mùa xuân năm 2016,Một cuộc chiến pháp lí giữa Apple vàcục Điều tra Liên bangđã thu hút sự chú ý của thế giới.
+ 0:20
+苹果在其出产的手机产品里设置了安全系统，能够保护使用者的数据不被泄露。这意味着，犯罪分子、黑客，是的，甚至是政府都被拒之门外。对于苹果的客户而言，这太棒了。但政府就不那么高兴了。苹果公司做了一个清醒的决定，让自己远离监视活动。苹果让监视变得极其困难，不论是政府还是其他任何他人。
+Apple đã xây dựng một tính năng bảo mậtvào sản phẩm điện thoại của họđể bảo vệ dữ liệu trong thiết bị khỏi tầmtay của bất cứ ai trừ người sở hữu nó.Điều đó có nghĩa là tội phạm, hackervà vâng, kể cả chính phủđều bị khóa ngoài.Đối với khách hàng của Apple, đây là một điều tuyệt vời.Nhưng chính phủ lại không vui vẻ như vậy.Bạn thấy đấy, Apple đã đưa ra một quyết định tỉnh táođể thoát khỏi sự giám sát.Apple cố gắng để việc giám sát trở nên khó khăn nhất có thểđối với chính phủ và bất cứ ai khác.
+ 0:52
+在全球智能手机市场上只有两个（主流）操作系统：iOS和安卓。iOS是苹果公司的，安卓系统是Google开发的。苹果花了很长时间和金钱来确保其产品具备极佳的安全性。苹果为储存在iPhone里的数据默认加密，苹果手机间传送的短信也被默认加密，无需用户进行任何设置。
+Có hai hệ điều hành điện thoại thông minhtrên thị trường toàn cầu.iOS và Android.iOS được tạo nên bởi Apple.Android tạo nên bởi Google.Apple đã dành rất nhiều thời gian và tiền bạcđể đảm bảo những sản phẩm của họan toàn nhất có thể.Apple mặc định mã hóa mọi dữ liệulưu trữ trên iPhone,và tin nhắn văn bản được gửi từ kháchhàng này của Apple sang khách hàng khácđều được mã hóa mặc địnhmà người dùng không phải làm gì cả.
+ 1:21
+这就意味着，如果警察拿到一部带有密码的苹果手机，他们将很难从手机中拿到任何数据，几乎不可能。相反的，安卓系统的安全性就没有那么好了。安卓手机，或者至少是大部分售卖给顾客的安卓手机，没有默认加密手机中储存的数据，安卓中内置的短信应用也没有使用加密。如果警察拿到了一部安卓手机，他们很有可能从那部手机中拿到想要获得的全部数据。
+Điều này có nghĩa là,nếu cảnh sát tịch thu một chiếc iPhonecó cài mật khẩu,họ sẽ rất khó khăn để khai thác dữ liệutừ nó,đấy là nếu họ có thể.Ngược lại, bảo mật của Android thực sự không được tốt như thế.Điện thoại Android, hay ít nhất làđa số điện thoại Androidđược bán cho khách hàng,không mặc định mã hóa dữ liệulưu trữ trong thiết bị,và ứng dụng tin nhắn cài sẵn trongAndroid không sử dụng mã hóa.Vậy nếu như cảnh sát tịch thu một chiếc điện thoại Android,khả năng là họ sẽ có thể khai thácmọi dữ liệu họ muốntừ thiết bị đó.
+ 1:58
+两种智能手机，由世界上最大的两个公司出产，一个默认保护用户数据，一个不是。
+Hai chiếc điện thoạitừ hai trong những công tylớn nhất thế giới;một cái mặc định bảo vệ dữ liệu,một cái thì không.
+ 2:07
+苹果售卖的是昂贵的产品，占据高端市场。我们自然会期待奢侈品制造商的产品有更多功能。但并不是每个人都能买得起一部iPhone。这就是安卓系统真正占领的市场：中低端市场，十五亿无法负担，或是不愿意花600美元购买手机的用户。
+Apple chuyên bán những sản phẩmsang trọng.Nó phổ biến ở thị trường cao cấp.Và chúng ta sẽ kì vọng một nhà sản xuấthàng cao cấp có những sản phẩmmà có nhiều tính năng hơn.Nhưng không phải ai cũngcó thể sở hữu iPhone.Đó là chỗ mà Android trở nêncực kì phổ biến:thị trường trung và thấp cấp,điện thoại thông minh dành cho 1.5 tỉ ngườikhông thể hoặc không muốn tiêu600 đô la cho một chiếc điện thoại.
+ 2:38
+但安卓系统手机的市场优势导致了我所说的“数字安全分化”。也就是，穷人和富人的隐私安全状况出现了越来越大的差异。那些买得起默认保护数据的电子产品的富人，以及那些使用无法保证安全的电子产品的穷人。
+Nhưng sự phổ biến của Androidđã dẫn đến cái tôi gọi là"sự cách biệt an ninh kĩ thuật số."Tức là, giờ đây có một khoảng cách ngày càng lớngiữa sự riêng tư và an toàn củangười giàu có,người có thể mua những thiết bị mặc định bảo vệ dữ liệu,và của những người nghèo,mà thiết bị của họ hiếm có thểbảo vệ họ một cách mặc định.
+ 3:06
+想想看，苹果的用户一般来说是：银行家，律师，医生，政客。这些人越来越倾向于使用这些手机，能够默认保护他们的通话，他们的短信息，以及手机上的所有数据，而不需要做任何额外设置。相对的，那些穷人，和那些社会里最不受保护的人，使用的电子设备却将他们轻易地暴露于被监控的危险。
+Vậy nên, hãy nghĩ đến những khách hàng trung bình của Apple:chủ ngân hàng, luật sư, bác sĩ,chính trị gia.những cá nhân này ngày càng sở hữuđiện thoại thông minh nhiều hơnchúng mã hóa những cuộc gọi của họ,những tin nhắn của họ,mọi dữ liệu trên thiết bị của họmà họ không cần phải thực sự làm gìđể bảo vệ thông tin của họ.Ngược lại, những người nghèo và dễ bịtấn công trong xã hội của chúng tađang sử dụng những thiết bị khiến họhoàn toàn dễ dàng bị giám sát.
+ 3:42
+在美国，我居住的地方，非洲裔美国人更容易被怀疑，或是更容易被记录在案，更容易被国家列为监视目标。但是，非洲裔美国人大多使用那些无法保护他们隐私的安卓系统手机。这是个问题。
+Ở hoa Kì, nơi tôi sống,người Mĩ gốc Phi dễ bị nghi ngờ hơnhoặc hay bị chú ý hơn,và hay trở thành mục tiêu cho sự giám sát của bang.Nhưng người Mĩ gốc Phi cũng chiếm đa số rất hay sử dụngnhững thiết bị Android mà chẳng làm gìđể bảo vệ họ khỏi sự giám sát đó.Đây là một vấn đề.
+ 4:06
+我们必须记住，监视是一个工具。一个被有权力的人掌控，用来对付没有权力的人的工具。我认为苹果这样的公司自动加密保护用户的隐私，真的值得称赞，但如果那些能够保护自己不被政府轻易监视的人是有钱且有权的，这就是个问题。这不仅仅是一个关于隐私或是网络安全的问题。这是关于公民权利的问题。
+Chúng ta phải nhớ rằng giám sát là một công cụ.Một công cụ dùng bởi nhữngngười có quyền lựcđối với những người không có quyền lực.Và trong khi tôi nghĩ nóhoàn toàn tuyệt vờikhi những công ty như Apple khiếnviệc mã hóa dễ dàng hơn cho mọi người,nếu như những người duy nhất có thể bảo vệ chính họkhỏi cái nhìn của chính phủlà những người giàu có, quyền lựcthì đó là vấn đề.Và nó không chỉ là một vấn đề sự riêng tưhay an ninh mạng.Nó là vấn đề quyền công dân.
+ 4:41
+因此，安卓系统没有默认安全设置的问题，不仅仅是关乎那些使用这部电子产品的贫穷且容易受伤害的用户。这其实是个事关我们民主的问题。我解释下这是什么意思。
+Vậy sự thiếu bảo vệ mặc định của Androidkhông chỉ là vấn đề cho những ngườidùng dễ bị tấn côngphải phụ thuộc vào những thiết bị này.Đây thực chất là một vấn đề của nền Dân chủ.Tôi sẽ giải thích ý của mình.
+ 4:57
+当代的社会运动依赖科技——从“珍视黑人生命”到“阿拉伯之春”，再到“占领华尔街”。这些运动的组织者和参与这些运动的人们越来越多地使用智能手机来联络和组织活动。于是，那些感到自身政权被这些运动所威胁的政府，会盯上组织者和他们的智能手机。很有可能，未来的马丁路德金，或是曼德拉，又或者是甘地，会用iPhone来保护自己不受政府监视。但也有可能，他们的口袋里只有一个便宜的20美元的安卓手机。
+Những phong trào xã hội hiện đạicần đến công nghệ —từ Black Lives Matter đến Mùa Xuân Ả Rậpđến Occupy Wall Street.Những người tổ chức và thành viên củanhững phong trào nàyngày càng giao tiếp và hợp tác bằng điện thoại thông minh nhiều hơn.Và vì vậy, điều tự nhiên khi chính phủ thấy bị đe dọa bởi những phong trào nàyhọ sẽ nhắm tới những người tổ chứcvà điện thoại của họ.Giờ đây, rất có thểmột Martin Luther King tương lai hay một Mandela hay một Gandhisẽ có một chiếc iPhone và được bảo vệ khỏi sự giám sát của chính phủ.Nhưng khả năng cao làhọ sẽ có một chiếc Android rẻ tiền trị giá20 đô la trong túi.
+ 5:41
+如果我们对电子设备安全问题置之不理，如果我们不确保社会里的每个人都能得到电子产品安全加密的保护，能够平等地保护自身不被国家监视，不仅仅是那些贫穷和易受伤害的人会暴露在监视下，未来的公民权利运动也有可能在它们真正兴起之前被扼杀。
+Và nếu chúng ta không làm gì để giải quyếtsự cách biệt an ninh kĩ thuật số,nếu chúng ta không làm gì đểbảo đảm mọi người trong xã hộicó được những lợi ích như nhau từ việc mã hóavà có khả năng tự bảo vệ khỏi sự giám sát của chính quyền như nhau,thì không chỉ những người nghèo và dễ bị tổn thương phải chịu sự giám sát,mà những phong trào quyền công dân tương lai cũng có thể bị đàn áptrước khi chúng đạt đến hiệu quả cao nhất.
+ 6:06
+谢谢。
+Cảm ơn.
+ 6:07
+（鼓掌）
+(Vỗ tay)
+ 6:14
+海伦·沃特(HW)：克里斯，非常感谢你。我有一个问题想要问你。我们近期从媒体获知，脸书的马克·扎克伯格把（电脑）摄像头遮盖起来了，并且也对自己的耳机麦克风做了些保护。我想问你一个比较私人的问题：你也这样做吗？另外，我们在座的各位，包括我自己，需要这样做吗？我们也需要把这些都遮盖起来吗？
+Helen Walters: Cảm ơn anhrất nhiều, Chris.Tôi có một câu hỏi dành cho anh.Chúng ta thấy gần đây báo chí đưa tinMark Zuckerberg từ Facebook đãche camera của anh ấy lạivà làm gì đó với jack cắm tai nghecủa anh ấy.Vậy tôi muốn hỏi anh một câu hỏicá nhân, đó là:Anh có làm vậy không?Và, thay mặt mọi người ở đây,đặc biệt là chính tôi,Chúng ta có nên làm vậy không?Chúng ta có nên che những thứ đó lại không?
+ 6:38
+克里斯托弗·索戈扬（CS）：我喜欢用创可贴来贴住他们，因为你可以反复把它们撕掉再贴上，当你需要打电话，或是用skype视频通话的时候。把摄像头贴起来可能是保护自己的隐私最好的方式，这是最简单易行的。真的有很多恶意程序，病毒软件能够侵入你的摄像头，甚至都不会有（摄像头开启指示）灯亮起来。犯罪分子、跟踪狂可能会使用这样的软件。你可以在网上用19.99美元买到“窥视你的前女友”软件。这真的很可怕。当然，政府也会使用这些。这同样也会导致性侵害案件，这样的偷窥监视活动很可能被用来侵害妇女或是任何人，让他们在社会上抬不起头。即使你认为自己没什么要隐藏的，但是，如果你和孩子，或是青少年一起生活，请确保贴住他们的摄像头，来保护他们。
+Christopher Soghoian: Dán một nhãn dán,thực ra, tôi thích băng cá nhân,bởi bạn có thể bóc nó ra và dán lạibất cứ khi nào bạn muốn gọi điệnhoặc Skype.Dán một nhãn dán trên webcamcó lẽ là điều tốt nhất cho sự riêng tưnếu xét về sự đầu tư đáng tiền.Đúng là có những phần mềm độc hạicó thể chiếm được web cam của bạn,thậm chí khi đèn không sáng.Nó được bọn tội phạm sử dụng.Nó được bọn theo đuôi sử dụng.Bạn có thể mua phần mềm "do thám bạn gái cũ" trên mạng với giá 19.99 đô la.Điều đó thật kinh khủng.Và sau đó, tất nhiên, nó được chính phủ sử dụng.Và tất nhiên có cả bạo lực tình dụcbao gồm trong đó,nghĩa là loại giám sát này có thể đượcdùng hiệu quả nhấtđể gây bất lợi cho phụ nữ và những người dễ bị hạ nhục trong xã hội.Kể cả khi bạn nghĩ bạn chẳng có gìphải giấu,thì ít nhất, nếu bạn có những đứa con,là trẻ vị thành niên trong gia đình,hãy đảm bảo bạn có gắn một nhãn dánlên camera của chúng và bảo vệ chúng.
+ 7:37
+HW: 太棒了，谢谢你。CS: 谢谢。
+HW: Wow. Cảm ơn rất nhiều.CS: Cảm ơn.
+ 7:38
+HW: 谢谢，克里斯。
+HW: Cảm ơn, Chris.
+ 7:39
+（鼓掌）
+(Vỗ tay)

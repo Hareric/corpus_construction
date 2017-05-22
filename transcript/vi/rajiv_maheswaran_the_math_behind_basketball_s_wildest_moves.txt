@@ -1,0 +1,126 @@
+ 0:11
+我和我的同事对移动圆点背后的科学非常着迷。那么这些小圆点是什么呢？就是我们自己。我们在家里，办公室里来回走动，也在世界各地旅行和购物。如果我们能弄清这些移动，并从中发现规律，意义并提出见解，不是一件很棒的事吗？很幸运的是，我们生活在这么一个时代，我们非常擅长捕捉关于自身的信息。不管是通过传感器，视频，或软件应用，我们都能详尽地追踪到个人移动的轨迹。
+Khoa học chuyển động điểm là ngànhtôi và các đồng nghiệp rất say mê.Vậy những chuyển động điểm đó là gì?Đó đơn giản là con người.Con người di chuyển trong nhà,ở văn phòng, khi đi shopping, đi du lịchkhắp nơi mình sống và khắp thế giới.Nếu có thể hiểu được những chuyển động ấychẳng phải sẽ vô cùng thú vị sao?Hiểu được những hình thái, ý nghĩavà bản chất của nó là gì.May thay, công nghệ ngày nayđã cho phép ghi lại những số liệu về con người một cách rất tuyệt vời.Nào là các thiết bị cảm ứng, camera, rồi các ứng dụng,đã cho phép ghi lại những chuyển độngcủa con người một cách cực kỳ chi tiết.
+ 0:47
+这就让我们发现，最佳的数据来源之一就是体育运动。因此无论是篮球、棒球、橄榄球或足球，我们都可以在场馆内，甚至运动员身上装上设备来追踪他们每个时刻的运动数据。所以我们要做的——你们大概已经猜到了——就是把运动员的移动转化成圆点的移动。
+Và một nơi lý tưởng nhất để ghi lạichuyển động của con ngườiđó là ở các trận đấu thể thao.Thế là từ bóng rổ, bóng chày,bóng bầu dục đến bóng đá,chúng tôi lắp thiết bị khắp sân vận độngvà trên cơ thể vận động viênđể ghi lại từng tích tắc chuyển động một.Đến đây chắc các bạn cũng đoán đượccông việc của chúng tôi rồiđó là nghiên cứu những vận động viênnhư những chuyển động điểm.
+ 1:12
+所以我们收集了不计其数的移动小圆点，就像多数原始数据一样，难以处理，也没什么趣味。但数据里面蕴藏着，比如篮球教练想知道的事情。但问题是，除非教练们把每场比赛里每一秒数据都记下来再去思考，否则他们没法从中得到想要的信息。人类大脑无法做到这件事，但机器没问题。然而，机器没办法自己以教练的视角去看一场比赛。直到现在，我们做到了。那么，我们让机器去观察些什么呢？
+Chúng tôi thu được cả núi chuyển động điểmnhưng những dữ liệu thô ấyrẩt khó nghiên cứuvà không đáng quan tâm lắm.Cái có giá trị trong đó, là những điềuhuấn luyện viên luôn muốn biết,mà không thể biết được vìhọ không thể theo dõi các trận đấutừng giây một, không thể nhớ được hết và xử lý hết.Bởi vì con người không thể làm được điều đó.Nhưng máy móc thì có thể.Vấn đề ở chỗ máy móc không thể hiểu đượctrận đấu như một huấn luyện viên,ít nhất cho đến nay là chưa.Vậy chúng tôi đã dạy máy móchiểu được những gì?
+ 1:44
+先从简单的开始。我们先教会它传球、投篮和篮板球，这类普通球迷也知道的事。然后我们开始教它一些稍复杂点的事情，比如落位背打、挡拆和拉开单打。你们如果不了解这些名词，没关系。打球的人大都了如指掌。迄今为止，我们已经能够让机器理解下掩护和无球掩护这类复杂的，只有专业人士才懂的战术。于是我们已经教会电脑用教练的视角去观察数据了。
+Đầu tiên là những thứ đơn giản trước.Ví dụ như chuyền bóng,ném bóng, rồi bắt bóng bật bảng,những kiến thức cơ bản nhất đã.Sau đó chúng tôi tiếp tục đến những thứ phức tạp hơn,ví dụ như đè chiếm vị trí,phối hợp yểm trợ, rồi cô lập.Nếu bạn không biết thì cũng không sao,người chơi nghiệp dư là đã biết rồi.Đến nay thiết bị của chúng tôiđã hiểu được những hành động phức tạpnhư di chuyển tạo khoảng trống, wide pin,những kỹ thuật của dân nhà nghề.Vậy là thiết bị của chúng tôi đã hiểu đượctrận đấu như một huấn luyện viên rồi.
+ 2:21
+我们是怎么做到的呢？如果我让一个教练讲解挡拆，我会得到一个定义，如果我把这个定义编码成一个算法估计会惨不忍睹。挡拆就是四个球员之间的舞蹈，两人进攻，两人防守。大概是这么个过程：一个没有带球的进攻球员跑向持球的防守队员，站在那里待一会儿，
+Vậy chúng tôi đã làm thế nào?Nếu hỏi một huấn luyện viênphối hợp yểm trợ là gì,rồi lấy những gì họ mô tảđem mã hoá như một thuật toán,kết quả chắc kinh khủng luôn.Bởi vì họ sẽ bảo, phối hợp yểm trợ làmột điệu khiêu vũ giữa 4 cầu thủhai người tấn công,và hai người phòng thủ.Cơ bản nó là như thế này.Một trong hai cầu thủ tấn công sẽ không giữ bóng.Cầu thủ đó sẽ ở bên cạnhđể yểm trợ cho cầu thủ có bóng.Và cầu thủ đó sẽ ở vị trí này.
+ 2:47
+然后他们一起移动（制造机会），嗒哒，这就是挡拆。
+Cả hai cầu thủ sẽ cùng di chuyển đến rổ.Đấy, chỉ có thế thôi.
+ 2:50
+（笑声）
+(Khán giả cười)
+ 2:52
+这也是个糟糕的算法实例。如果那个干扰的球员——或者叫掩护者——只是跑过来干扰一下而不停下，这可能就不是挡拆了。就算他停下来，但停的位置不够接近，那也不算是挡拆。或者，就算他足够近，而且停下来，但他是在篮下完成的那也不算挡拆。或者我可能错了，这些都是挡拆。是否是挡拆要根据发生的时间、球员间距、位置而定，这些都很难去界定。幸运的是，有了机器学习技术，我们就能超越自身的能力来描述我们已知的事物。
+Đó là một ví dụ về một thuật toán tồi.Nếu cầu thủ yểm trợ,từ chuyên môn là cầu thủ cảndi chuyển gần cầu thủ có bóng,nhưng không dừng lại,thì có thể không phải là phối hợp yểm trợ.Hoặc cầu thủ đó có dừng lại,nhưng quá xa cầu thủ có bóng,thì có thể cũng không phải làphối hợp yểm trợ.Hoặc cầu thủ đó ở gần, và có dừng lại,nhưng hai cầu thủ đó ở vị trí dưới rổ,thì cũng không phải là phối hợp yểm trợ.Nhưng tất cả những cái đórất dễ đánh giá sai.Bởi vì khoảng thời gian,khoảng cách, và vị trí của cầu thủphải xác định cực kỳ chính xác.May thay, nhờ có máy móc, chúng tacó thể mô tả những gì đã biếtmột cách phi thường.
+ 3:34
+这个技术要如何实现呢？举个例子：我们对机器说，“早上好，机器。这儿有些挡拆例子，还有一些不是。你来找出不同点吧。”这其中的关键是电脑能找出区别两者的特征来。所以如果我要教会机器辨别苹果和橘子，我可能会说：“不妨用颜色和形状来区分吧？”而目前要解决的问题就是，要区分事物的特征是什么？电脑需要掌握的整个移动圆点世界的关键特征是什么？搞清楚所有这些相对位置、绝对位置、距离、时机、速率之间的关系——就是移动圆点科学的真正关键所在，换成专业术语，我们喜欢称之为：时空模式识别。因为首先，你要让它听起来很难懂，很专业——因为事实的确如此。
+Thiết bị này làm việc như thế nào,bằng việc ghi lại các mẫu có sẵn.Chúng tôi đến chỗ bạn thiết bị,bảo bạn ấy rằng,"Nhé, thế này là phối hợp yểm trợ,còn thế này là không phải.Nó khác nhau ở chỗ nào nào?"Mấu chốt là ở chỗ tìm được đặc điểmđể phân biệt được một cách rõ ràng.Nếu tôi phải dạy cho thiết bịcách để phân biệtquả táo và quả cam chẳng hạn.Có lẽ tôi sẽ bảo nó hãy dựa vàomàu sắc và hình dạng.Còn đối với trường hợp nàythì nên dựa vào cái gì?Đặc điểm mấu chốt nàogiúp thiết bị có thể định vị đượcmột biển các chuyển động điểm?Vì thế, việc tìm ra mối liên hệ giữavị trí tương đối và tuyệt đối,khoảng cách, thời gian và vận tốclà chìa khoá của ngành chuyển động điểm,hay gọi cho đúng ratheo tên chuyên ngành, lànhận thức hình thái không gian-thời gian.Nghe có vẻ phức tạp,nhưng thực ra là nó phức tạp thật.
+ 4:23
+对于NBA教练们来说，判断是否是挡拆并不是关键，而这个挡拆是怎么发生的才是他们关注的。为何教练们如此关心这一点？这儿我要解释一下。在现代的篮球比赛中，挡拆几乎是最重要的战术。了解如何使用以及怎样防守挡拆，基本上是比赛输赢的关键。因此挡拆的步伐多种多样，能够识别这些不同的形式是非常重要的，这就是为什么我们对机器的智能性要求相当高。
+Vấn đề là ở chỗ, các huấn luyện viên không cần biếtđó có phải là phối hợp yểm trợ hay không.mà họ muốn biết cầu thủ của họđã chơi như thế nào.Vì sao họ muốn biết điều đó? Tôi xintiết lộ một bí quyết nhà nghề của họ.Trong ngành bóng rổ hiện đại,hầu như trận đấu nàocũng sử dụng kỹ thuật này.Việc thuần thục kỹ thuậtphối hợp yểm trợlà mấu chốt quyết định thắng bại.Nhưng kỹ thuật nàycó rất nhiều biến thểvà việc xác định các biến thể của nólà vô cùng quan trọng.Đó là lý do họ cần một thiết bị thật tốt.
+ 4:53
+举个例子。这儿有两个进攻队员和两个防守队员，他们准备开始实施挡拆。那么持球人既可以选择利用挡拆，也可以放弃挡拆，他的队友可以拆向篮下，或撤到一个无人盯防的空位。防守持球者的人可以上前绕过掩护，或者从后方绕过掩护。而他的队友则可以探出补防，或保持近距离防守，亦或者向后消极防守。两个防守球员也可以换防，或者包夹。一开始的时候我也不是很懂这些，如果每个人都能沿着箭头方向移动，事情就好办多了。这会让我们的工作简单很多，但往往这些移动非常杂乱。球场上会发生很多突然的变动，要在查准率和查全率方面准确识别这些变化是相当困难的，但只有这样，才能让专业教练相信你的技术。尽管在准确的时空特性识别上困难重重，我们还是成功地做到了。
+Tôi xin đưa ra một ví dụ.Hai cầu thủ tấn côngvà hai cầu thủ phòng vệ.đang chuẩn bị thực hiệnkỹ thuật phối hợp yểm trợ.Cầu thủ có bóng có thể tiếp nhậnhoặc không tiếp nhận phối hợp.Người đồng đội có thể lật hoặc giật.Cầu thủ bảo vệ bóng có thểdi chuyển phía trên hoặc phía dưới.Người đồng đội có thể showhoặc play up to touch, hoặc play soft.Và cùng nhau họ có thểđổi chỗ hoặc tấn công chớp nhoáng.Mới đầu tôi thậm chí cònkhông hiểu gì về những điều đó.Và nếu các cầu thủdi chuyển đúng như thế,chúng tôi sẽ dễ thở hơn nhiều,nhưng thực tế lại còn khó khăn hơn thế.Các cầu thủ dao động rất nhiều,khiến cho việc xác định những biến thểvới độ chính xác cao,cả về tính chính xác,và khả năng truy vấn,trở nên rất khó khănnhưng có thế các huấn luyện viênmới có thể tin tưởng chúng tôi được.Nhưng cho dù những đặc điểmkhông gian-thời gian có khó khăn đến đâuchúng tôi đã vượt qua hết.
+ 5:44
+教练相信我们的机器能够识别这些变化。目前，我们已经推出了相关的识别软件，几乎每个觊觎今年NBA总冠军的球队，都在使用我们的这款软件，其功能就是通过机器识别篮球领域的移动。不仅如此，我们还对如何改善战术提供建议，并帮助球队赢得过重要的比赛。能够让联盟中执教30年的老教练愿意听取机器提供的意见，这太让人激动了。不仅仅局限于挡拆，更让我们兴奋的是我们让电脑从简单的事情着手，逐渐学会了更复杂的事物，如今它已经掌握了丰富的知识。老实说，我不大明白它是怎么做到的，不过就算比我聪明也没什么特别的，但我们在想，机器能否比教练懂得更多呢？它能比人类懂得更多吗？事实上，答案是肯定的。
+Các huấn luyện viên đã tin tưởng chúng tôitrong việc xác định những biến thể ấy.Chúng tôi đã tiến đến mứchầu như tất cả các ứng cử viêntham gia vào giải NBA năm nayđều sử dụng phần mềm của chúng tôi,được cài đặt trên một thiết bịhiểu được những chuyển động của bóng rổ.Không chỉ có vậy, chúng tôi đã có thểđưa ra những lời khuyên về chiến thuậtgiúp đội bóng chiến thắngcác trận đấu quan trọng.Cảm giác được một huấn luyện viênđã 30 năm trong nghềhỏi ý kiến thiết bị của chúng tôithật sự rất tự hào.Không chỉ có phối hợp yểm trợ,nó còn biết nhiều hơn thế.Lúc đầu nó chỉ hiểu đượcnhững thứ đơn giản,nhưng dần dần đã hiểu đượcnhững thứ phức tạp hơn.Giờ đây nó đã biết rất nhiều thứ rồi.Nói thẳng tôi thậm chí còn không hiểu mấy những cái nó làmTất nhiên đôi khi máy móc có thểthông minh hơn con người,chúng tôi vẫn băn khoăn, liệu nó có thểbiết nhiều hơn cả huấn luyện viên không?Liệu nó có biết nhiều hơn cả con người không?Hoá ra là có.
+ 6:39
+教练想让球员投出好球。所以如果我站在篮筐旁边，周围没人，这就是好的投篮时机。如果我站得远，而且被对方包围住，通常来讲这球投不进。但我们无法定量衡量这个“好”有多好，“差”有多差，但现在不同了。
+Huấn luyện viên luôn muốn cầu thủcó được những cú ném tốt.Nếu cầu thủ đang ở gần rổmà không có đối thủ nào xung quanhthì quá đơn giản.Nhưng nếu cầu thủ ở quá xa rổ, lại bịnhiều đối thủ kèm thì khó mà ném tốt được.Nhưng về định tính, chưa ai xác định đượctình huống tốt/không tốt đến mức nào.Cho đến khi thiết bị này ra đời.
+ 6:56
+同样，我们能做的就是利用时空特性来分析每次投篮。我们可以看到：在哪里投篮？投篮的角度是多少？防守方的站位？他们间的距离，以及角度如何？防守球员不止一名的情况下，我们能够通过观察球员的移动来预测投篮类型。我们可以根据他们的速度建立一个模型，预测在这些情况下，进球的可能性。为什么这一点很重要？因为我们可以通过分析投篮这一单一行为得到不同以往的两种信息：投篮的质量，以及投手的质量。我们可以看一下这个气泡图，没有气泡图，还算什么TED呢？
+Điều mà chúng tôi làm được, là sử dụngcác đặc điểm không gian-thời gianChúng tôi quan sát từng cú ném một.Chúng tôi có thể quan sát đượctừ vị trí của cú ném, góc hướng rổ,đến vị trí của các đối thủ phòng vệ,khoảng cách của họ,góc đứng của họ.Nếu có nhiều đối thủ, chúng tôiquan sát được họ di chuyển như thế nàovà dự đoán được loại ném.Chúng tôi dựa vào vận tốc của họđể xây dựng một mô hình dự đoánkhả năng ghi điểm của cú ném đó.Vì sao điều này lại quan trọng?Nếu trước đây cú ném chỉ là cú ném thôithì bây giờ chúng tôiphân tích nó thành hai yếu tốchất lượng của cú némvà chất lượng của cầu thủĐây là một biểu đồ bong bóng. Đã là TEDthì phải có biểu đồ bong bóng chứ.
+ 7:35
+（笑声）
+(Khán giả cười)
+ 7:37
+这些气泡都是NBA球员。大小代表球员的体型，颜色代表他们的位置。x轴代表投篮的命中率。靠左的球员偏向勉强投篮，靠右的球员会在有空当时才出手。Y轴代表的是投篮质量。好投手在上面，较差的在下面。举个例子，有一个球员的投篮命中率是47%，以前你只能知道这么多。但如今，我能告诉你NBA球员投篮的平均命中率是49%，他还低了两个百分点。因为我们要在众多47%的球员中选择一个。那么重点就在于要搞清楚让你支付了一大笔美金的人到底是个经常勉强投篮的神投手，还是一个愿意空位出手的差投手。机器分析不只改变了我们对球员的看法，也改变了我们看待比赛的方式。
+Đây là các cầu thủ NBA.Kích cỡ của bong bóng là kích cỡ của cầu thủ, và màu sắc là vị trí.Trục X thể hiệnkhả năng ghi điểm của cú ném.Các cầu thủ bên tráithực hiện các cú ném khó,Các cầu thủ bên phảithực hiện các cú ném dễ.Trục Y thể hiệnnăng lực của cầu thủ.Các cầu thủ giỏi ở phía trên,cầu thủ kém ở phía dưới.Ví dụ, trước đây bạn chỉ biếtmột cầu thủ nào đóđã thực hiện cú némcó 47% khả năng ghi điểmbạn chỉ biết được có thế.Nhưng hôm nay, tôi có thể cho bạn biếtcầu thủ đó đã thực hiện một cú némmà một cầu thủ NBA bình thườngcó thể đạt được 49%và anh ta ném kém hơn 2%.Điều này rất quan trọng bởi vìcó rất nhiều những cú ném kém như vậy.nên cần phải biết đượccú ném của cầu thủ mà bạn đang địnhký hợp đồng 100tr đôla đólà cú ném tồi của một cầu thủ giỏihay cú ném tốt của một cầu thủ kém.Thiết bị này không thay đổi cáchchúng ta nhìn nhận cầu thủnhưng thay đổi cách chúng tanhìn nhận trận đấu.
+ 8:31
+几年前有一场很激烈的NBA总决赛，迈阿密落后三分，只剩20秒了。他们将要失去总冠军了。一位叫勒布朗詹姆斯的年轻人上去想投个三分追平。但他没投中。他的队友克里斯波什拿到篮板，传给另一个队友雷阿伦。他投中了个三分，比赛进入加时。最后他们赢了比赛，得了总冠军。这是篮球比赛中最激动人心的时刻之一。而我们能知道每个球员在每一刻的投篮命中率以及抢到篮板的可能性，这种能力是前所未有的。有点可惜，我无法给大家展示这个精彩片段。但为了在座的各位，我们在三周前的篮球周赛上重塑了那经典一刻。
+Xin kể một câu chuyện, cách đây vài nămtrong một trận chung kết giải NBAĐội Miami đang thua 3 điểmmà chỉ còn 20 giâyHọ sắp vuột mất chức vô địch đến nơi.Một anh bạn trẻ tên là LeBron Jamesxông lên thực hiện cú ném 3 điểmNém không trúng.Đồng đội của anh ta, Chris Boshđã bắt bóng bật bảngchuyền cho một cầu thủ khác là Ray Allen.Anh ta ghi 3 điểm. Rồi họ chơi bù giờ.Đội Miami thắng trận đóvà giành chức vô địch.Đó là một trong những trận đấuhay nhất trong lịch sử bóng rổ.Việc tính toán đượckhả năng ghi điểm của mỗi cầu thủtrong từng giây mộtvà khả năng họ bắt đượcbóng bật bảng từng giây mộtsẽ lý giải khoảnh khắc ấy bằngmột phương pháp trước kia chưa từng có.Rất tiếc tôi không được phépsử dụng đoạn băng đó ở đây.Nhưng để các bạn hình dung được,chúng tôi đã đóng lại tình huống ấytrong trận bóng của công tykhoảng 3 tuần trước.
+ 9:18
+（笑声）
+(Khán giả cười)
+ 9:20
+我们也重新加入了电脑追踪数据的演示。这就是我和同事们，在洛杉矶的唐人街，我们每周都会去打球的公园，我们在重塑雷阿伦时刻，所有的轨迹都与之相关。就是这个投篮。你们会看到这一经典时刻，以及这一刻背后都发生了什么。唯一的不同就是我们取代了专业球员，而我取代了专业讲解员。大家请见谅。
+Chúng tôi đã dựng lại các phân tíchdẫn đến các chỉ đạo trong tình huống đó.Đây, đây là đội bóng công ty chúng tôi.Đây là Chinatown ở Los Angeles,ở công viên mà chúng tôihay chơi vào cuối tuần.Chúng tôi đang dựng lạikhoảnh khắc của Ray Allen hồi ấyvà các phân tích mà thiết bị đã làm.Và đây là cú ném huyền thoại ấy.Tôi sẽ cho các bạn xem khoảnh khắc ấyvà tất cả những chỉ đạocủa huấn luyện viên.Chỉ khác đây là chúng tôi,thay vì là cầu thủ chuyên nghiệp,và tôi sẽ là bình luận viên.Các bạn chịu khó nhé.
+ 9:52
+迈阿密。落后三分。还有20秒。杰夫带球。约什接球，三分出手！
+Đây là đội Miami.Đang bị dẫn 3 điểm.Còn 20 giây.Jeff chuyền bóng.Josh đã bắt được, chuẩn bị ném cú 3 điểm!
+10:03
+[计算命中率]
+(Thiết bị tính toán khả năng ghi điểm)
+10:06
+[投篮质量]
+(Chất lượng ném)
+10:08
+[篮板球概率]
+(Khả năng bắt bóng bật bảng)
+10:11
+进不了！
+Không trúng!
+10:12
+[篮板球概率]
+(Khả năng bắt bóng bật bảng)
+10:14
+诺尔的篮板。传回给达丽亚。
+Noel bắt đi.Chuyền cho Daria.
+10:17
+[投篮质量]
+(Chất lượng ném)
+10:21
+球进了——三分！打平了，还剩5秒。观众们沸腾了！
+Cú 3 điểm - xong!Trận hoà với 5 giây còn lại.Đám đông cuồng lên.
+10:27
+（笑声）
+(Khán giả cười)
+10:29
+真实情况大概就是这样。
+Đại loại khoảnh khắc đó là như vậy.
+10:30
+（掌声）
+(Khán giả vỗ tay)
+10:31
+差不多。
+Đại loại thôi.
+10:32
+（掌声）在NBA有9%的概率会发生这样的时刻，我们知道的还有很多。我是不会告诉你们我们尝试了多少次才成功的。
+(Khán giả vỗ tay)Trong các giải NBA có khoảng 9% khả năng xảy ra những khoảnh khắc như vậy.Chúng tôi tính toán đượcvà còn tính toán được nhiều thứ nữa.Nhưng tôi không nói cho các bạn chúng tôiđã phải đóng lại mấy lần mới đạt đâu.
+10:46
+（笑声）
+(Khán giả cười)
+10:48
+好吧，我还是说吧，四次。
+Thôi được tôi nói. 4 lần .
+10:50
+（笑声）
+(Khán giả cười)
+10:51
+达丽亚，三分球还得努力啊。
+Daria cậu làm tốt lắm.
+10:52
+但那段视频以及我们对每场NBA比赛的细微观察并不是重点。事实上，你无需组建一个专业团队才能追踪移动。你也无需成为专业运动员去理解那些移动。
+Nhưng điều quan trọng trong đoạn băng đókhông phải là những chỉ đạo từ cánh gàcủa huấn luyện viên.Bạn không cần là huấn luyện viên mớitheo dõi được các chuyển động.Bạn không cần là cầu thủ chuyên nghiệpmới có phân tích các chuyển động của mình.
+11:09
+而且，这不仅限于运动，因为我们无时不刻不在移动。我们在家里，在办公室里来回走动，我们也在世界各地各个城市购物旅行。我们能发现什么？我们能学到什么？或许，除了识别挡拆，机器还能识别某些时刻，让我知道我女儿何时迈出她的第一步。她现在随时都有可能学会走路。
+Thậm chí, bạn không cần phải chơi thể thaobởi bạn tạo ra chuyển động ở khắp nơi.Bạn chuyển động trong nhà mình,trong công sở,khi đi shopping, khi đi du lịchkhắp nơi bạn sốngvà khắp thế giới.Thiết bị này có thể giúp được gì?Không phải nhận dạngkỹ thuật phối hợp yểm trợ nữa,mà xác định khoảnh khắcvà báo cho tôi biếtkhi nào con tôi bước bước đi đầu tiên.Cháu sắp biết đi rồi đấy các bạn ạ.
+11:47
+或许我们能合理地利用我们的建筑物，更加好地规划我们的城市。我相信随着移动圆点这一科学的发展，我们能更好地移动，更智能地移动，一路向前。
+Hay giúp chúng ta sử dụng các toà nhàtốt hơn, quy hoạch thành phố tốt hơn.Tôi tin rằng với sự phát triểncủa khoa học chuyển động điểm,Chúng ta sẽ chuyển động tốt hơn, thông minh hơn và sẽ tiến về phía trước.
+11:59
+谢谢大家。
+Xin cám ơn các bạn rất nhiều.
+12:00
+（掌声）
+(Khán giả vỗ tay)

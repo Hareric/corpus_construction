@@ -1,0 +1,105 @@
+ 0:11
+节俭/富国电子(Frugal Digital)本质上是一家挂靠在哥本哈根互动设计机构下的小型研究机构哥本哈根互动设计机构的成员们一直在尝试研究改变对于如何创造一个包罗万象的电子社会的一些看法这是我们追求的目标我们之所以这么做，是因为我们认为目前的硅谷科技大多关于一种过剩文化它的主体大多关于最快的速度，最高的效率最炫的工具然而，世界上三分之二左右的人几乎难以接触到这种最基本的科技并用这种科技解决最基本的生活需求例如，医疗，教育以及其他所有最最基本的事项
+Frugal Digital đơn giản là một nhómnghiên cứu nhỏ tại C.I.D.nơi chúng tôi tìm kiếmnhững tầm nhìn mới giúp tạo ra mộtxã hội kỹ thuật số toàn diện.Đó là điều chúng tôi đang theo đuổi.Chúng tôi làm điều này vìchúng tôi tin rằngcông nghệ phần mềm ngày naychủ yếu xoay quanhnền văn hoá của sự dư thừa.Đó là một dụng cụ hiệu quả nhất, nhanh nhấtvà đáng kinh ngạc nhất mà bạn có thể có được,trong khi hai phần ba thế giớigần như không thể tiếp cận được điều căn bản nhất của công nghệ nàyđể giải quyết những nhu cầu sống tối thiểu bao gồm chăm sóc sức khoẻ, giáo dụcvà tất cả những vấn đề tương tự.
+ 0:53
+所以，在我开始今天的演讲前，我想跟大家分享一个小故事是关于一位我曾在孟买碰到的先生他名叫萨斯-佘理他非常杰出因为他是一位企业家自己经营着一家小店那家店位于孟买的一条穷街陋巷店面只有10平米左右但他却在这间简陋狭小的店铺里做了很多事情令人难以置信，我简直不敢相信我自己的眼睛当我有一次偶遇他的时候他所提供的服务几乎包罗万象，无所不及那些服务通常针对小额付款和在线订票还有各种琐碎、基本的在线活动，你能想到的那些基本上都被涵盖在内但是他是服务于线下的客户把线下的客户连接到电子世界中来更重要的是，他的盈利模式是通过销售手机充值卡给预付卡的用户然后，在店面，他有个小房间和一些员工在里面他们就可以修理几乎所有东西包括所有手机，小工具，他们都可以修理覆盖的服务还很广泛，我曾经就拿过iPhone去修他说：“你是否需要升级？”“当然要！”（笑声）当时我其实对他抱有怀疑，但是之后我决定还是先给他个诺基亚试试看吧（笑声）
+Trước khi bắt đầu, tôi muốn kểmột câu chuyệnvề một người đàn ông tôi đã gặp ở Mumbai.Tên anh ta là Sathi Shri.Anh ấy là một người đặc biệtvới việc khởi nghiệp của mình.Anh ta điều hành một cửa hàng nhỏnằm tại một con con phố hẹp của Mumbai.Cửa hàng tuy chỉ vỏn vẹntrong 10 mét vuông,nhưng đã làm được rất nhiều điều.Tôi đã không thể tin vào mắt mìnhkhi tôi tình cờ gặp anh ấy.Về cơ bản, anh ấy cung cấp tất cả dịch vụliên quan đến thanh toán và đặt véhay những nghiệp vụ ta cần lên mạng thực hiện,anh ấy cung cấp các dịch vụnày offline,và kết nối vào thế giới kĩ thuật số.Quan trọng là, anh ấy kiếm tiềntừ bán những phiếu giảm giáđiện thoại, bạn biết đấy,cho các thuê bao trả trước.Nhưng, ở phía sau, anh ta có một góc nhỏcùng với một vài nhân côngnơi họ có thể sửa hầu nhưtất cả mọi thứ.Bạn có thể mang điện thoại haybất kì vật gì ra đó, họ sẽ sửa chúng.Khá là khó tin vì tôi đã mang iPhonecủa mình tới đó,và anh ấy đã nói, "Anh muốn nâng cấp nó?""Vâng" (cười)Tôi hơi hoài nghi, nhưng rồi quyết địnhđưa cho anh ấy cáiNokia thay vì iPhone. (cười)
+ 2:05
+不过之后我就吃惊了，他的逆向工程做得如此之好他拿小小的两米空间内竟然蕴藏着如此深厚的知识功力他们能够解决所有需要的东西例如拆解重排电路，更新固件对手机无所不能而且他们修理速度非常之快你可以把手机早上拿过去午饭后左右就可以取回了相当惊人
+Nhưng tôi đã thực sự ngạc nhiên với kỹ thuật đảo ngược nàyvà khi biết điều đó được thực hiện trong khoảng không gian hai mét nhỏ hẹp này.Họ tìm ra mọi thứ cần thiếtđể tháo từng phần riêng,viết lại mạch điện, thay đổi phần mềmlàm mọi thứ bạn muốn,và họ có thể sửa rất nhanhbất cứ thứ gì.Bạn đưa cho họ điện thoại vào sáng nayvà có thể lấy vào ngay sau giờ ăn trưa,điều đó đúng là không thể tin được.
+ 2:33
+于是我们差异这究竟是当地的一个现象，还是在全球均属普遍现象随着时间慢慢过去，我们开始逐渐理解也开始系统地做一些研究他们这种维修生态系统究竟是什么因为这发生在孟买的大街小巷，每个角落，并非只在这条街而已甚至遍布全国乃至非洲，比如我们在开普敦对此做了大量研究即便在这里——多哈，我也能找到这个小小的角落你可以通过它修理闹钟和手表闹钟、手表都有很多小零部件，修理起来着实不易你自己试试就知道了
+Chúng tôi thắc mắc liệu đây làmột hiện tượng cục bộ hay làhiện tượng toàn cầu?Dần dần, chúng tôi bắt đầu hiểuvà nghiên cứu một cách hệ thốnghệ thống sửa chữa này thực sự là gì,vì điều này đang xảy rakhông chỉ ở một góc đường ở Mumbai.Nó diễn ra trên khắp đất nước.Thậm chí ở cả Châu Phi, cụ thể làthị trấn Cape mà chúng tôi đang nghiên cứu.Thậm chí ở Doha, tôi đã tìm thấy một góc nhỏnơi bạn có thể sửa đồng hồ treotường hay đồng hồ đeo tay,và còn nhiều góc nhỏ khác. Điều đó không dễ dàng chút nào.Khi tự trải nghiệmbạn sẽ tin điều tôi nói.
+ 3:05
+但是是什么驱动了这些呢？就是整套低成本零件的生态系统产自世界各地而后，他们重新分配到这个产业你甚至可以通过他们买到二手零件你甚至基本上不用买任何新的东西。你有个坏电脑那些电脑没有了外壳但是你可以买一些处理零部件然后重新组装一台电脑
+Nhưng điều gì tạo nên việc này?Đó là toàn bộ hệ sinh thái của nhữngbộ phận và thiết bị có giá trị thấpđược sản xuất trên toàn thế giới,và sau đó được phân bố lại để phục vụ ngành công nghiệp này,và thậm chí bạn có thể mua phần phế thải.Về cơ bản, các bạn không cần phải muacác món hàng mới. Bạn có máy tính cũđã được tháo rời ra,và bạn có thể mua thêmphế liệuđể lắp ráp lại thành một cấu hình mới.
+ 3:31
+那么我们可以从这种新的方式中学到什么呢？这是真正关键的问题，因为有些东西一直存在着作为每个社会的一部分需要耗费太多资源但是，同时也有一个有趣的范式通常现有传统手工艺而后演变成科技含量高的工艺我们称之为“科技含量高的工艺”是因为它们还刚刚兴起它们并非成熟的产业没有形成气候大学里也没有关于这一领域的课程和研究而是口口相传的属于非正式教育体系
+Nhưng phương pháp mới nàymang đến cho chúng ta điều gì?Đó quả là câu hỏi,bởi đây là một phần của các xã hộikhông có đủ tài nguyên.Nhưng đây là một mô hình thú vị.Có nghề thủ công truyền thống,và sau đó có những nghề thủ công công nghệGọi nó là nghề thủ công nghệ vì nó rất mới mẻ.Không phải là thứ được thiết lập nên.Cũng không phải là một thứđược thể chế hóa.Không được dạy ở trường đại học.mà thông qua truyền miệng,một hệ thống giáo dục không chính thống
+ 3:59
+因此，我们想说：“我们究竟可以从中学到什么呢？”你认为我们应从中学习什么关键价值观呢？我认为主要是一种文化，即力争在本地修复这简直太棒了，因为这意味着你的产品或服务无需经过冗长的行政系统，才最终得以修复同时，它也便于我们获得经济实惠的附件，这也非常好，因为它意味着你可以花同样的钱做更多的事然后，最重要的是它为我们大大地节省了成本也就意味着你可以运用很多巧妙的算法把它更广泛地应用于一些实际上非常简单的设备上
+Chúng tôi đã hỏi: " Ta có thể có đượcgì từ điều này?Các bạn biết đấy, các giá trị mấuchốt từ điều này là gì?"Quan trọng nhất là văn hóa sửa chữa trong khu vựcthật sự tuyệt vời khi nó giúpsản phẩm hay dịch vụđược sửa chữa mà không phải trải quamột hệ thống quan liêu khổng lồ nào.Nó mang đến việc sản xuất giá rẻđiều này thực sự tuyệt,có nghĩa bạn có thể làm được nhiều thứ hơnVà sau đó, quan trọng nhất là, nó đãđưa ra 1 bài toán sản xuất với giá thành thấp.Có nghĩa là bạn có thể càinhững thuật toán khá thông minhvà nhiềuý tưởng mở rộng vàonhững thiết bị đơn giản.
+ 4:33
+因此，我们称之为硅谷“山寨”行业基本上，它就是工业革命前的系统或范式这种系统和范式现在再次上演以一种全新的方式，开展在小规模电子商店里遍布全球大多数的发展中国家
+Vì vậy chúng tôi gọi đây là ngành công nghiệp silicon.Cơ bản đây chính là hệ thống hoặc mô hìnhtrước khi cách mạng công nghiệptái diễntheo một cách hoàn toàn mớitại những cửa hàng kĩ thuật nhỏở những đất nước đang phát triển.
+ 4:49
+因此，我们就考虑这个想法我们想：“我们能利用这个想法做些什么呢？能不能用它来发明一些小产品或设计什么服务呢？“因此我们做的第一件事就是多媒体平台。我们称之为”午餐盒“我们研究的场景之一是位于印度很偏远的学校这个惊人的想法在当地被叫做”一个老师的学校“这唯一的老师在那里扮演着多重角色在这让人惊讶的小型社会场合中教课它是一所非正规教育的学校但教育的领域很是全面他们唯一没有的是资源。他们甚至没有教科书有时候，他们也没有合适的课程
+Chúng ta đang chơi đùa với ý tưởng này và tự hỏi"Làm gì với ý tưởng này đây?Có thể tạo sản phẩm hay dịch vụ từ đây không?"Một trong số điều đầutiên ta thực hiện được gọi làmột nền văn hóa đa phương tiện. Một hộp đồ ăn trưa.Về cơ bản, một trong những nơichúng tôi đã nghiên cứu làcác trường học ở những nơihẻo lánh của Ấn Độ.Có một khái niệm tuyệt vời được gọi là trường-một-giáo-viên,nghĩa là một giáo viên kiêm nhiều nhiệm vụdạy tất cả những gì có trong chương trình.Ngôi trường không chính thống,nhưng lại giáo dục toàn diện.Thứ duy nhất họ không cólà tiếp cận tài nguyên.Họ còn không có sáchvà thậm chí còn không có một chương trình thực sự.
+ 5:27
+所以我们就像：”我们如何才能让这位老师有更多‘权力’呢从而他可以施展更多？”如何让他接触到电子世界？而非作为唯一的信息守护者让他能够传递这些信息所以我们想：“要做到这一点哪些步骤是必要的呢？”如何让这位老师成为数字的大门如何设计一个花费不太高昂的多媒体平台而且这个平台需要在本地搭建，并服务本地“于是我们在当地考察了一番去了一些就近的市场试着去了解，”通过学习什么东西能促进实现这个想法？“
+Vì vậy chúng tôi đã nói, "Chúng ta có thểgiúp gì cho người giáo viên nàyđể họ làm được nhiều hơn?" Làm cách nào để họ tiếp cận thế giới số?Thay vì trở thành người giám hộ thông tin,hãy tạo điều kiện tiếp cậnnhững thông tin này.Vì vậy chúng tôi nói: Những bước cầnđể trao quyền cho người thầy là gìLàm sao để người thầy tiếp cận vớicông nghệ kĩ thuật sốvà làm sao chế tạo thiết bị đa phương tiện với giá thành rẻđể thực hiện và phục vụ tại chỗ?"Vì vậy chúng tôi đã xem xét xung quanh.Chúng tôi đã tìm kiếmở những siêu thị gần đó,và tự hỏi: "Chúng tôi có thể nhặt những thứ gì ở đây?"
+ 5:59
+我们从中学到了一点那就是配备小投影仪的移动电话一台这样的电话大约是60美元我们买了一个带大电池的闪光灯还有一些小的麦克风于是，这部手机给了我们一个连接外界的多媒体平台我们可以通过它上网，上传文件包括各种格式，还可以播放、观看这些文件闪光灯则是一个发光很强，很明亮的LED还带有可充电的电池，可支撑长达6小时这个”午饭盒“可谓一个很不错的小装备你可以往里面放任何东西以及一些小型扬声器用来扩大音量请相信我，那些小教室确实非常嘈杂小孩子们通常都大喊大叫因此你的音量必须高过他们我们拿回这件小东西把它拿到那个维修铺随后，奇妙的事情就发生了我们拆解了它把它重新组装把硬件重整一番系统性地培训了团队成员如何操作于是，这个小”午饭盒”就诞生了！
+Và thứ mà chúng tôi cólà 1 chiếc điện thoại nhỏ cùngvới một chiếc máy chiếu rất nhỏvà giá trị của chúng vào khoảng 60 đô la.Chúng tôi đã mua một cái đèn pincó bộ pin rất lớn ,và một cụm loa nhỏ.Về cơ bản, chiếc điện thoại giúp chúng tôikết nối với các thiết bị đa phương tiệnNó cho phép chúng tôi lên mạng và tải lên các tài liệutheo các định dạng khác nhau để trình chiếu.Chiếc đèn pin thực sự có ích,với ánh sáng L.E.D,và pin kéo dài sáu tiếng.và hộp đồ ăn trưa chính là nơi phù hợpđể đặt mọi thứ vào trong,và vài chiếc loa giúp khuếch đạiâm thanh ở một mức đủ lớn.Tin tôi đi, những phòng học nhỏ đó thực sự rất ồn ào.Chúng là những đứa trẻ hét to nhất,và bạn cần lấn át tiếng lũ trẻ.Chúng tôi đã mang nhữngvật này lại cho cửa hàng nhỏ kianơi tôi đã sửa điện thoại,và điều kì diệu xảy ra.Chúng tôi tháo rời mọi thứ,chúng tôi lắp chúng lạitheo một cấu trúc mới,và chúng tôi ghép các phần cứngvới nhau,hệ thống đào tạo chàng trai này làm nên điều đó.Sau đó, một hộp ăn trưa-vỏ máy
+ 7:00
+（掌声）
+(Vỗ tay)
+ 7:07
+之后，我们进行了系统性地实地测试因为在这些实地测试中我们可以了解到一些要点，我们经历一遍又一遍的重复一个关键的问题是电池耗电量和充电亮度也是个问题，有时候室外的阳光非常刺眼因为很多情况下屋顶是破损的，因此你的教室可能暗度不合适
+Và chúng tôi tiến hành thực nghiệm một cách hệ thốngbởi vì trong thực nghiệm chúng tôiđã học đượcvài bài học quan trọng, và chúng tôi lặp lại nhiều lần.Một trong những vấn đề chínhlà dung lượng pin và sạc.Độ sáng là một vấn đề khi ngoài trờicó quá nhiều ánh sáng mặt trời.Thường thì trần nhà có lỗ hổng,nên bạn không có đủbóng tối trong phòng học đểlàm những điều này.
+ 7:27
+我们延伸了这一想法，再次反复调试了很多次之后的升级版可以利用太阳能来充电更重要的是，它可以连接到汽车电池因为汽车电池是比较普及的能源形式特别是当地这种电力不完善的地方或者说供电不稳定
+Chúng tôi đã mở rộng ý tưởng,thử nghiệm nhiều lần,và trong phiên bản tiếp theochúng tôi đã tạo ra một cái hộpcó thể hấp thụ năng lượng mặt trời,nhưng quan trọng nhất là nó có thểkết nối với pin xe hơi,vì pin xe hơi là nguồn điện phổ biếnở những nơi chưa có đủ điện sử dụnghoặc nguồn điện thất thường.
+ 7:45
+我们做的另外一件很关键的事情是给它设计了一个USB接口，因为我们意识到纵使有GPRS信号，和论文里面都有的东西，至少理论上更有效的方式是用U盘传送数据可能需要几天才能到但至少清晰度很高而且质量可靠因此我们做了这个小盒子，然后重新测试了一下并随着设计不断测试不断改进
+Và một điều quan trọngnữa làlàm cho chiếc hộp nàynhận dạng được chiếc USBvì mặc dù có đủ GPRS và mọi thứ ở trên giấy,nhưng trên lý thuyết nó sẽ hiệu quả hơnkhi gửi dữ liệu trên USB bằng mail.Có thể mất vài ngày để tới nơi,nhưng ít nhất nó đến đó vớisự chính xác caovà chất lượng đáng tin cậy.Nên chúng tôi làm cái hộp này,kiểm tra tới lui, trải quacác bước phức tạp.
+ 8:11
+但是这个技术绝非仅限于用于教育这种技术几乎可以用于任何领域让我再告诉你一个小故事这个故事关于一个叫做“中介测量器”的小设备这是我们研发的一个小型健康检测仪
+Nó không chỉ giới hạn ở giáo dục.Loại công nghệ hay hệ thống đo lườngcó thể sử dụng ở nhiều lĩnh vực khác,và tôi kể cho bạn thêm một chuyện nữa.Về thiết bị mang tên thước đo sức khỏe.1 công cụ chăm sóc sức khỏe chúngtôi phát triển.
+ 8:26
+在印度，有一群惊人的医疗工作者——ASHA工作人员他们堪称医疗卫生系统的排头兵生活在当地社区，接受过基本医疗概念和工具操作的培训主要目的是告诉人们如何过更好的生活，同时提出一些建议关于他们应该获取哪种医疗服务？从本质上来讲，他们是为人们推荐服务
+Ở Ấn Độ, có những con ngườithật đáng kinh ngạc,họ là những nhân viên chăm sóc sức khỏe ASHA.Họ là bộ binh trong hệthống chăm sóc sức khỏenhững người sống ở địa phương vàđược huấn luyệnvới những kĩ năng, khái niệmvề chăm sóc sức khỏe,và mục đích chính là truyền tải cho mọi ngườicách để khiến cuộc sống tốt hơn, nhưng vẫnđịnh hướng hoặc đưa ra nhiều lời khuyêngiúp chăm sóc sức khỏe một cách phù hợp ?Nhưng về bản chất thì chúng vẫn là dịch vụ giới thiệu
+ 8:55
+但是我们觉得这其中的问题是经过一系列研究之后，他们会告诉人们哪里是最近的诊室或者公共医疗护理系统，但是那些公共医疗护理系统的一个问题是：这些地方通常都需要排很长的队人太多了，使得系统超负荷运转简单说是因为医生和设备数量不够对比需要使用这些资源的人数因此，下至普通感冒上至严重的疟疾，基本上都是同等对待没有分优先级
+Nhưng vấn đề là chúng tôi dần nhận rasau một chuỗi các nghiên cứunhững người đó thật tuyệt vờikhi giới thiệu mọi người tới phòng khám gần nhấthoặc hệ thống chăm sóc sức khỏe công cộng, nhưng tạicác hệ thống chăm sóc sức khỏe công cộng:luôn có những hàng chờ dàiđầy những người, điều này khiếnhệ thống quá tảivì sự thiếu hụt của đội ngũ bác sĩvà trang thiết bịkhi đối mặt với một lượngquá lớn bệnh nhân.Mọi chứng bệnh từ cảm lạnh thông thườngđến một ca sốt rét nghiêm trọng,đều nhận đượcsự quan tâm như nhau, và không có sự ưu tiên.
+ 9:26
+于是我们就想：“不行！一定得有一种更好的方式！需要有更好的办法来解决这个问题！”“那么我们该怎么跟ASHA工作人员一起合作呢才能让他们成为一个好的筛选机制而不仅仅是一个筛子而已，能够让他们发挥推荐的作用进而还可以平衡系统内的工作量把不同病人分配到不同的卫生资源根据他们疾病的严重程度”
+Vậy chúng tôi nói: "Hẳn phải có cáchtốt hơn để làm điều này."Thế là chúng tôi nói: "Có thể làmgì với nhân viên ASHAgiúp họ trở thành một bộ lọc thú vị,nhưng không chỉ là một bộ lọc,mà là một hệ thốngchuyển tuyến giúp tải mạng cân bằng,và hướng dẫn bệnh nhân các nguồnchăm sóc sức khỏe khác nhaudựa vào sự ngặt nghèo hoặc độ nghiêm trọngcủa các trường hợp?
+ 9:50
+于是最关键的问题就是我们如何助力这些女士们？如何用比较简单的工具让她们有能力胜任？本质上是更多的侧重于筛选，而非严格诊断从而让她们如何给病人更好的建议？这对系统会产生很大的影响因为等候的时间太长，并且他们需要做跋涉的路程太远有时候当地人需要经过7-15公里，有时候甚至是步行的才可以获得一次简单的健康检查，这是极其不利的从某种程度上讲，甚至让人们放弃去获取医疗服务因此，如果她们可以做到刚才提到的那些事情，那将令人震撼而惊奇
+Vậy câu hỏi chìa khóa chính là,làm sao để giúp người phụ nữ này?Làm sao giúp cô ấy vớinhững thứ đơn giảnkhông phải chẩn đoán mà sàng lọc tự nhiênđể cô ấy ít nhất biết nên khuyên bệnh nhânra sao?Điều này tạo ra khác biệtlớn trên hệ thống,bởi vì thời gian chờ và quãng đườngmà người bệnh cần đi, thỉnh thoảng lênđến 15 ki-lô-mét, đôi khi là đi bộ,để kiểm tra sức khỏe rất bất tiệnkhi nghĩ rằng nó thực sự giúp đỡ mọi ngườitiếp cận dịch vụ chăm sóc sức khỏe.Nếu cô ấy có thể làm gì đóthì sẽ thật tuyệt vời.
+10:27
+于是我们把这个想法转换成了这个设备这个医疗仪器让我来为你们展示一下因为过程很简单
+Vì vây, chúng tôi đã đưa thiết bị nàyvào trong thiết bị y tế.Tôi muốn giới thiệu ngay,bởi vì nó là một quá trình rất đơn giản.
+10:36
+布鲁诺，想一起来吗？（鼓励）来吧！（掌声）
+Bruno, phiền anh lên đây với chúng tôi.Lên đây nào. (Vỗ tay)
+10:45
+我们要做的就是来测量你的一些基本指标包括，脉搏、心率、氧饱和率就是那些在你血液里的氧气含量你只要把手指放在上面就可以了
+Nên điều chúng tôi sẽ làm làđo một vài thông số cơ bản của anh,bao gồm nhịp tim và lượng ôxytrong máu của anh.Hãy đặt ngón cái của anh lên đây.
+10:59
+布鲁诺：就像这样？可以吗？
+Bruno Giussani: Như thế này?
+11:00
+威内：对，没错。布鲁诺：好
+Vinay Venkatraman: Phải.BG: Được.
+11:02
+威内：好，那我要开始啦！希望它能成功。（嘀嘀声）它会发出嘀嘀声，因为它毕竟是个闹钟呵呵（笑声）
+VV: Tôi bắt đầu ngay đây. Mong là nó hoạt động.(Tiếng bíp) Nó kêu bíp, vì dù gì nó cũng làđồng hồ báo thức.Vậy...(Cười)
+11:12
+好，现在我从头开始，然后我按下阅读键（嘀嘀声）于是，它就开始测量了你的那些指标了（嘀嘀声）然后指针就指向三个不同的标准让我们来看一看（嘀嘀声）哦，布鲁诺，你可以回去了
+Tôi để nó ở vị trí bắt đầu, và sau đótôi nhấn nút đọc. (tiếng bíp)Nó đang đọc các thông số của anh đấy .(Tiếng bíp)Và rồi, chiếc kim quay chỉ vào3 lựa chọn khác nhau.Hãy cùng xem điều gì xảy ra.(Kêu bíp) Bruno, ông có thể về,thực sự đó.
+11:34
+BG：太棒了！好消息！（掌声）
+BG: Thật tuyệt. Tin tốt cho anh đây.
+11:38
+威内：呵呵，那么……（掌声）
+VV: Vậy...(Vỗ tay)
+11:40
+从中我们可以看到如果指针不幸地指向红色区域它警示我们要赶紧去医院还好今天不是这样。如果它指向橙色区域或者受琥珀色，那么说明你必须从医疗工作者那里获取持续的护理服务所以，这可以说是一个很简单的三部曲检验流程但是却可以带来很多改变对公共医疗卫生产生方方面面的影响
+Vậy về điều nàynếu như chiếc kim, không may, chỉ vào khu vực màu đỏ,chúng tôi sẽ phải vộiđưa anh đi viện.May không phải hôm nay. Và nếu chỉ vào khu vực vànghoặc màu hổ phách, thì có nghĩa là anhcần phải có,nhân viên chăm sóc sức khỏe.Quá trình 3 bướcmà có thể cơ bản thay đổi cách thức làm việccủa công cụ chăm sóc sức khỏe công cộngở nhiều lĩnh vực.
+12:07
+布鲁诺：谢谢你的好消息！威内：没关系！
+BG: Cảm ơn cậu vì tin này. VV: Yeah.
+12:08
+（掌声）所以，我已经向各位简要介绍了这个设备的基本工作方式因为这部分比较有趣从根本上来讲，需要具备三点来确保这一转变首先是价格低廉电视机的遥控器这个你在哪里都买得到其次是电脑鼠标的一些部件这些你也可以以很低的价格淘到还有就是一些编过程的部件换句话说，它就是个小遥控器，外加一些零部件，都是极其便宜的东西在世界上任何地方一样。这就是所需要的全部了可能还需要一点当地的维修人才来转换这个设备所以我们现在要做的就是一些系统的实地测试从而确认这个设备是否能够合理地应用于ASHA工作人员的工作场合
+(Vỗ tay)Vậy, rất ngắn gọn, tôi sẽ chỉ giải thích cho các bạn cách hoàn tất,bởi vì còn có nhiều phần thú vị hơn.Về bản chất, có ba việc được yêu cầuđể tạo ra sự chuyển đổi từ anh chàngnày sang anh chàng nàylà một chiếc điều khiển ti vi rẻ tiềnmà bạn có thể tìm thấy ở mọi nhà trong ngày hôm nay,vài phần của chuột máy tính, về cơ bản,vài thứ bạn nhặt được có giá rất thấp,và vài phần phải được lập trình trước.Về cơ bản đây là một vi điềukhiển cùng với vàibộ phận bổ sung có thể được gửi đến với giá rẻtrên toàn thế giới, và đó là tất cả những thứ được yêu cầucùng với một chút tài của người thợ địa phươngđể biến thiểt bị nàyra thứ khác.Vậy chúng tôi ngay bây giờ làm vài bài kiểm tra lĩnh vực có hệ thốngđể cơ bản xác định chắc chắn cónhững thứ như thế này thật sựlàm nên định hướng cho ASHA.
+13:05
+我们开展了一些对比测试来进行比较跟那些专业设备进行对比，看看在效率方面的提高和对人们生活产生的实际响。不过，最重要的当属我们现在尝试做的是扩大它的规模因为总共有超过25万ASHA工作人员作为医疗领域的排头兵，如果我们可以至少给他们中的一部分这些设备就可以大大改变公共医疗卫生的经济运作方式了，它改变了系统的运作方式而不仅是在系统性统筹计划层面上的但是也非常草根，非常自下而上
+Ta làm vài bài kiểm traliên quan để đối chiếu vớithiết bị chuyên nghiệp để cósự đồng ýcho thay đổi có hiệu lựcnếu nó có tác độngtới cuộc sống của mọi người. Nhưng quan trọng nhất,điều chúng ta cố gắng làm bây giờlà cố gắng mở rộng quy mô, bởi vì cóhơn 250,000 nhân viên ASHAlà những lính bộ tuyệt vời, và nếu như chúng tôi có thểtặng họ những thứ này,nó chỉ thay đổi cách nền kinh tế chăm sóc sức khỏe cộng đồnglàm việc, và thay đổi cách mà hệ thống thực sự hoạt động,không chỉ ở trong kế hoạch của hệ thống,mà còn ở trong mọi cơ sở,ở cấp độ cao hơn.
+13:43
+就是这样，我们希望能更大规模地做这些事情谢谢！（掌声）
+Chúng tôi hi vọng thực hiệnđiều này trên diện rộng.Cảm ơn. (Vỗ tay)
+13:49
+（掌声）
+(Vỗ tay)

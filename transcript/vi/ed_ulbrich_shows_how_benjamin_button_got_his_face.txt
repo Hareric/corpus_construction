@@ -1,0 +1,153 @@
+ 0:15
+今天我在这里代表了一队艺术家、技术专家和电影制作者在过去的四年里，他们在一起为一个了不起的电影项目工作。在这一过程中，他们在计算机视觉特效做出了突破。
+Hôm nay, tôi đại diện cho một nhóm gồm các họa sĩ, kỹ thuật viên và nhà làm phimnhững người đã cùng nhau làm nên một dự án phim đặc sắc trong vòng 4 năm quaVà qua đó họ đã làm nên bước đột phá trong việc hình ảnh hóa bằng máy tính.
+ 0:27
+所以我现在想为你们播放一段电影片段。但愿播放不会卡。若是我们做得好的话，你们不会觉察到我们曾参与其中。
+Vì thế, ngay bây giờ tôi muốn cho các bạn xem một đoạn phim.Hi vọng nó không bị lắp.Và nếu như chúng tôi làm công việc của mình tốt, bạn sẽ không biết rằng chúng tôi đã tham gia vào đó.
+ 0:36
+电影内容：我不知道这怎么可能。。。但是看上去你的头发多了。
+Giọng nói (Video): Tôi không biết làm sao nó có thể xảy ranhưng hình như ông càng ngày có nhiều tóc hơn.
+ 0:42
+本杰明·巴顿：如果我告诉你我没有变老。。。却变得比比人年轻了会怎样？
+Brad Pitt: Sẽ ra sao nếu như tôi kể với bạn rằng tôi không già đimà tôi càng ngày càng trẻ hơn tất cả mọi người?
+ 0:50
+我生来就得了一种病。
+Tôi sinh ra với một chứng bệnh.
+ 0:53
+声音：什么病？
+Giọng nói: Chứng bệnh gì?
+ 0:55
+本杰明·巴顿：我生来年老。
+BP: Tôi sinh ra đã già.
+ 0:58
+男声：抱歉。
+Người đàn ông: Tôi xin lỗi
+ 1:00
+本杰明·巴顿：没必要。年老没有什么错。
+BP: Không cần phải xin lỗi đâu. Già thì có gì sai.
+ 1:05
+女声：你病了吗？
+Cô bé: Chú bệnh à?
+ 1:07
+本杰明·巴顿：我听到妈妈和Tizzy偷偷说话，他们说我就快要死了。但是。。。或许不会。
+BP: Tôi nghe mẹ và Tizzy thì thầm,và họ nói tôi sẽ chết sớm thôi.Nhưng ... có lẽ là không.
+ 1:15
+女声：你同我见过的所有人都不一样。
+Cô bé: Chú thật khác so với bất cứ ai mà cháu từng gặp.
+ 1:19
+本杰明·巴顿：变化了好多。。。一些你能看到，一些你不能。毛发开始在身体的各个地方生长，一些别的东西也是。我感觉相当好。
+BB: Có nhiều sự thay đổi ...một số cháu có thể thấy, một số thì không.Tóc bắt đầu mọc ở nhiều nơi,cùng một vài thứ khác nữa.Chú cảm thấy khá tốt,
+ 1:35
+Ed Ulbrich：刚刚播放的是来自《本杰明巴顿奇事》的电影片段。你们中的许多人可能已经看过或者听说过这个故事。但是你或许有所不知的是在电影的接近一小时里，由布拉德皮特扮演的主角，本杰明巴顿他脖子以上的部分完全是由计算机生成的。注意，我们没有使用假体化妆或者将布拉德的照片附加到另一个演员的身体上。我们创造了一个完全数字的人类头部。
+Ed Ulbrich: Đó là một đoạn trong phim "Trường hợp kì lạ của Benjamin Button".Nhiều người trong số các bạn, có lã đã xem bộ phim này hoặc các bạn đã nghe qua câu chuyện.nhưng điều các bạn có thể không biếtđó là trong gần 1 giờ đầu của bộ phim,nhân vật chính, Benjamin Button, do Brad Pitt thủ vai,được tạo ra hoàn toàn bằng máy tính từ cổ trở lên.Không hề có hóa tranghoặc sử dụng thuật chụp ảnh của Brad ghép lên cơ thể của một diễn viên khác.Chúng tôi đã tạo ra đầu người hoàn toàn bằng kỹ thuật số.
+ 2:02
+现在我想开始讲一点这个项目的历史。这是基于菲兹杰拉德的一部短篇故事。讲的是一个生下来就很老然后过着相反的生活。现在，这个电影已经在好莱坞发行了半个世纪了在九十年代早期，我们第一次参与了这个项目当时的导演是朗·霍华德我们开了很多会并认真的考虑了但是当时我们不得不投降认输当时被认为是不可能的。刻画一个人从老到年轻，这超越了当时的技术能力。人类的构型，尤其是头部，被看作是我们工业里的圣杯。
+Vì thế, Tôi muốn bắt đầu với một chút lịch sử của dự án.Nó được dựa trên một câu chuyện ngắn của F. Scott FitzgeraldVề một người đàn ông sinh ra đã già và sống cuộc sống đào ngược của mình.Bộ phim này đã nổi lên ở Hollywoodtrong hơn nửa thế kỷ.và chúng tôi lần đầu tiên tham gia vào dự án vào đầu những năm 90,với đạo diễn Ron Howard.Chúng tôi tiến hành nhiều cuộc họp và xem xét nó một cách nghiêm túc.nhưng tại thời điểm chúng tôi bỏ cuộc.Điều đó dường như là bất khả thi.Nó nằm ngoài khả năng công nghệ lúc đó để miêu tả một người đàn ông lão hóa ngược.Hình dáng con người, cụ thể là đầu người,được xem như Chén thánh trong ngành công nghiệp của chúng tôi.
+ 2:36
+十年后这个项目由回到我们这里，这一回导演的名字是大卫·芬奇芬奇是个有趣的家伙。他无惧于技术，并且绝对固执。并且大卫不会接受“不”。大卫相信，就像我们对视觉特效工业的观点一样，没有不可能前提是你有足够的时间，资源，当然，还有钱因此大卫有兴趣接手这部电影，并且给我们抛来一个挑战。他希望电影中的主角从摇篮里出来一直到进入坟墓，都由一个演员来演。刚好是这个人。
+Dự án quay trở lại với chúng tôi sau một thập kỷ,và lần này là với đạo diễn David Fincher.Fincher là một người rất thú vị.David không hề sợ sệt trước công nghệ,và anh ấy rất kiên quyết.Và David không chấp nhận từ "không".Và David tin rằng, như chúng tôi tin trong ngành công nghiệp hiệu ứng hình ảnh,rằng mọi thứ đều có thể xảy ramiễn là các bạn có đủ thời gian, nguồn lực và tất nhiên là tiền bạc.Và vì thế David có hứng thú với bộ phim,và anh ấy đặt ra thử thách cho chúng tôi.Anh ấy muốn nhân vật chính của bộ phim là một diễn viên thủ vaitừ lúc trong nôi cho tới khi xuống mồ.Tình cờ là anh chàng này.
+ 3:14
+我们经历了削减和发现的过程同大卫一道，当然，我们放弃了换演员的想法。那个想法就是：我们会有不同的演员，并且我们会用一个又一个演员。
+Chúng tôi trải qua một quá trình loại trừ và một quá trình khám phávới David, và tất nhiên chúng tôi loại trừ việc hoán đổi diễn viên.Đó là một ý tưởng: chúng tôi sẽ có nhiều diễn viên khác nhau,và chúng tôi sẽ đổi từ diễn viên này sang diễn viên khác.
+ 3:25
+我们划掉了使用化妆的想法。我们意识到假体化妆就是没法做得真。特别是近看的时候。而且化妆是一个额外的步骤。 你不得不在脸的外边来化。大卫想让皱纹深深的刻在布拉德的脸上以显示出这个角色的年纪变化。他需要一个非常的意气相投的人物。所以我们决定拍摄一系列的小人物他们扮演本杰明在不同时候的不同的身体并且我们事实上会创造一个计算机生成的布拉德的头部。随本杰明年纪而变化，并将它附到真的演员身体上。听上去很棒。
+Chúng tôi thậm chí loại trừ ý tưởng sử dụng hóa trang.Chúng tôi nhận ra rằng hóa trang sẽ không giữ được lâu,đặc biệt là trong cảnh quay gần.Và hóa trang là một quá trình phụ. Bạn phải xây dựng gương mặt.Và David muốn khắc họa thật sâu sắc gương mặt của Bradnhằm đem lại sự lão hóa cho nhân vật này.Anh ấy phải là một nhân vật đồng cảm.Vì vậy chúng tôi quyết định tuyển chọn một nhóm ngườisẽ đóng vai những phần cơ thể khác nhau của Benjaminở những giai đoạn khác nhau trong cuộc đờivà thực tế chúng tôi sẽ tạo một phiên bản đầu Brad bằng máy tính,bị lão hóa để xuất hiện như là Benjamin,và gắn vào cơ thể của diễn viên thật.Nghe có vẻ thật hay.
+ 4:00
+当然，这曾经是我们这一行离得圣杯，事实上布拉德作为一个全球符号也没能帮上一把，因为我很确信如果你们任何人站成一行在杂货店里，你知道，我们总是看到他的脸。所以这里边没有容错的空间。华纳兄弟和派拉蒙参与在其中。他们都相信这无疑会是一个令人惊奇的电影但是它也是一个非常高风险的提议。很多的钱与声誉都处在危险关头。我们相信我们有一个非常坚实的方法可能管用。。。
+Tất nhiên, điều này như là Chén thánh trong ngành công nghiệp của chúng tôi,và thực tế việc anh ấy là biểu tượng toàn cầu cũng không giúp ích được,bởi vì tôi chắc rằng nếu bất cứ ai trong các bạn từng xếp hàng tại cửa hàng bách hóa,bạn biết đây - chúng ta thấy gương mặt anh ấy liên tục.Vì thế, thực sự không có sự chấp nhận sai sót nào.Có 2 xưởng phim tham gia: Warner Brothers và Paramount.Và cả 2 đều tin rằng đây tất nhiên sẽ là một bộ phim tuyệt vời,nhưng nó là một dự án có rủi ro rất cao.Rất nhiều tiền và danh tiếng đang trên vực rủi ro.Nhưng chúng tôi tin rằng chúng tôi có một phương pháp vững chắcvà có thể thực hiện.
+ 4:32
+但是无论我们如何口头承诺，他们要一些证明。为此，在2004年，他们委托我们做一次本杰明的试镜。我们差不多五周后做给他们看。但是我们在其中参了好多假并走了捷径。基本上我们把一些东西搁了一块儿就通过了会议。我现在把那些拿出来给你们看。 这是本杰明巴顿的第一个测试。然后在这里，你肯一看到，那是一个计算机生成的头部。相当不错。附到演员的身体后的样子。这个成了。 制片厂松了一口气。在这个项目拍拍停停好多年，并做了艰难的选择后，他们最终决定为这个电影开绿灯。我可以记起来，事实上，但我收到祝贺我们的电话，说电影要拍了的时候，我其实是一团糟。（笑声）你知道，这是一些艰难的东西。
+Nhưng ngoài đảm bảo bằng lời,họ muốn một vài bằng chứng.Và vì thế, vào năm 2004, họ yêu cầu chúng tôi quay thử Benjamin.Và chúng tôi đã làm nó trong vòng 5 tuần.Nhưng chúng tôi sử dụng nhiều trò lừa bịp và đường tắt.Cơ bản chúng tôi ghép một vài thứ lại để vượt qua buổi họp.Tôi sẽ chiếu tới đó cho các bạn ngay bây giờ. Đây là thử nghiệm đầu tiên cho Benjamin Button.Và ở đây, các bạn có thể thấy, đó là một đầu người được tạo ra bằng máy tính—- khá tốt - được gắn vào cơ thể của một diễn viên.Và nó đã thành công. Và nó làm cho xưởng phim rất an tâm.Sau một vài năm bắt đầu và tạm ngừng dự án này,và đưa ra một quyết định khó khăn,cuối cùng họ đã bật đèn xanh cho bộ phim.Và tôi còn nhớ, khi tôi nhận được cuộc gọi chúc mừng,để nói rằng bộ phim được chấp thuận,tôi thật sự đã buồn nôn.(Tiếng cười)Bạn biết đây, đây là điều rất khó khăn.
+ 5:21
+然后我们开始了早期的团队会议，并且把所有人聚起来，开始的时候更像是治疗，得相互说服、保证对方说我们确实能承担这些。我们得支撑一部单人物持续一小时的电影而且他并不是一部特效电影；中间得有一个人。我们觉得自己就好像是在—-某种戒瘾过程中。当然，第一步是：承认自己有一个问题。我们有一个大问题。我们不知道我们该怎样去做。但我们知道一件事。在视觉特效工业里，我们，连同大卫，相信我们现在有足够的时间，足够的资源，然后，天哪，我们希望我们有足够的钱。并且我们有足够的激情去用意志趋势工序与技术变成实际。
+Vì thế chúng tôi bắt đầu họp nhóm sớm,và chúng tôi tập hợp mọi người lại,và nó giống như một liệu pháp vào lúc bắt đầu,thuyết phục và trấn an lẫn nhau rằng chúng tôi thật sự có thể thực hiện điều này.Chúng tôi phải xây dựng một bộ phim trong 1 giờ với một nhân vật.Và nó không phải là một bộ phim hiệu ứng đặc biệt; nó phải là người thật.Chúng tôi cảm thấy như đang trong một chương trình gồm 12 bước.Và tất nhiên, bước đầu tiên là chấp nhận rằng bạn có vấn đề.(Tiếng cười)Vì thế, chúng tôi gặp vấn đề lớn:chúng tôi không biết mình sẽ phải làm sao.Nhưng chúng tôi biết một điều.Là từ ngành hiệu ứng hình ảnh,Chúng tôi, và David, tin rằng bây giờ chúng tôi có đủ thời gian,đủ nguồn lực, và, Chúa ơi, chúng tôi hi vọng có đủ tiền.Và chúng tôi có đủ đam mê để hiện thực hóa quy trình và công nghệ.
+ 6:06
+所以，当你面对一些这样的事情时，当然你会把它分块儿。你取一个大问题然后把它分成几个小问题然后开始攻破。我们有三个主要的需要专注的地方。我们需要让布拉德看上去老许多。我们需要他差不多45岁的样子。我们也需要确保我们可以抓住布拉德的特殊癖好行为，他的小抽搐，那些能体现他的细微之处并将它们转移到我们的处理过程中使得它出现在银幕上的本杰明中。
+Khi bạn đối mặt với một việc như thế,tất nhiên bạn sẽ phải chia nhỏ ra.Bạn chia một vấn đề lớn thành những mảnh nhỏ hơn.và bắt đầu giải quyết chúng.Có 3 mảng chính mà chúng tôi cần tập trung vào.Chúng tôi phải làm Brad trông già hơn —làm anh ấy già đi khoảng 45 năm hoặc hơn thế.Và chúng tôi cũng phải đảm bảo rằng chúng tôi có thể lấy được các đặc tính của Brad,những cái giật nhỏ của cơ mặt, sự tinh tế làm nên anh ấy.và truyền tải thông qua quá trình của chúng tôiđể nó xuất hiện là Benjamin trên màn ảnh.
+ 6:32
+我们还需要创造一个角色他可以支撑起所有情况。他得能够行走在大白天，晚上，烛光中，他得能够撑住大特写镜头，他得能够传递对话，他得会跑，出汗，他还得会洗澡，哭泣，他甚至得会呕吐。当然不是同时做这些事情。但是他得会，你知道，做所有这些事情。
+Và chúng tôi cần phải tạo ra một nhân vậtcó thể thuyết phục trong mọi điều kiện.Anh ta có thể bước đi giữa ban ngày,vào ban đêm, dưới ánh nến,cậu ấy phải có những cảnh quay thật cận cảnh,anh ấy phải truyền tải được cuộc đối thoại,anh ấy phải có thể chạy, đổ mồ hôi,anh ấy có thể tắm, có thể khóc,thậm chí anh ấy có thể nôn.Không phải tất cả cùng một lúc —nhưng bạn biết đấy, anh ấy phải làm được tất cả những thứ đó.
+ 6:53
+并且这些工作得支撑电影的差不多前一个小时。我们拍摄了325个镜头因此我们需要一个系统能够让本杰明去做任何人可以做的事情。我们意识到一个大分歧出现在2004年的技术艺术水平和我们的愿望之间。
+Và chúng phải thuyết phụctrong gần một giờ đầu của bộ phim.Chúng tôi quay khoảng 325 cảnh.Vì thế chúng tôi cần một hệ thống cho phép Benjamincó thể làm mọi thứ mà con người có thể làm.Và chúng tôi nhận ra rằng có một khoảng cách lớngiữa công nghệ tân tiến nhất vào năm 2004và nơi đến chúng tôi cần nó đạt đến.
+ 7:12
+因此我们集中在运动捕捉。我相信你们中许多人已经看过运动捕捉了。当时的工艺水平叫做基于标记的动作捕捉。这里我给你们举一个例子。想法基本上就是，你穿一个连衣裤，然后安放一些反光标志用来替换摄像机的，是围绕在一个空间内的红外感应传感器那些红外传感器实时地跟踪那些标记的空间位置然后动画师收集这些数据并应用到计算机生成的人物中。你可以看到右边的计算机人物正做着着同舞蹈者相同的复杂运动。
+Vì thế chúng tôi tập trung vàoghi hình chuyển động.Tôi chắc các bạn đã thấy ghi hình chuyển động.Công nghệ tân tiến nhất vào lúc đólà một thứ được gọi là ghi hình chuyển động dựa trên điểm.Tôi sẽ cho các bạn một ví dụ.Nó cơ bản là ý tưởng, bạn mặc một bộ quần áo nịt,và họ sẽ gắn một số điểm phản chiếu lên người bạn,thay vì sử dụng máy quay phim,có cảm biến hồng ngoại xung quanh bộ nhớ,và những cảm biến hồng ngoại đó sẽ theo dõi vị trí ba chiềucủa những điểm đó trong thời gian thực.Và sau đó các hiệu ứng viên có thể ghi dữ liệuchuyển động của những điểm đóvà áp dụng chúng vào nhân vật tạo từ máy tính.Bạn có thể thấy nhân vật máy tính ở bên phảicó cùng những chuyển động phức tạp như vũ công.
+ 7:45
+与此同时我们也关注其他的运用脸部捕捉技术的电影将标志放在脸部进行同样的处理正如你所看到的，这种技术所生成的画面相当糟糕这并不十分引人注目。我们意识到我们所需要的是那些在这些标志点之间的信息我们需要皮肤的细节我们需要透过皮肤看到肌肉和骨骼的运动我们需要皱纹，酒窝之类的
+Nhưng chúng tôi cũng xem những bộ phim khác vào lúccó sử dụng theo dõi điểm trên gương mặt,và đó là ý tưởng gắn các điểm trên gương mặtvà làm quá trình tương tự.Và như bạn thấy, nó cho ra chất lượng cực kỳ tệ.Điều đó không thuyết phục chút nào.Và điều chúng tôi nhận ralà cái chúng tôi cầnlà thông tin diễn ra giữa các điểm.Chúng tôi cần những sự tinh tế trong làn da.Chúng tôi cần phải thấy làn da chuyển động trên các cơ trên xương.Chúng tôi cần các nếp gấp và các vết lõm và nếp nhăn và tất cả những thứ đó.
+ 8:12
+我们第一件要做的事就是抛弃现今所用的技术这一天的技术，现状，最先进的。所以我们放弃了动作捕捉我们离开了我们所熟悉的领域进入了从未涉及过的新领域我们进入了一个技术上的难点我们结束了通话“技术炖。”我们开始在其他领域需求帮助我们相信我们会找到我们所需要的技术金块或技术宝石这项技术可能是从其他领域， 例如医药或是家庭游戏机或是重新调整他们或者我们需要一项全新的技术这项技术可以编写成一个软件允许我们将这些零散的信息组合在一起走到一起，齐心协力。
+Khám phá đầu tiên của chúng tôi là phải hoàn toàn loại bỏ và bước ra khỏinền công nghệ hiện tại, thực trạng nghệ thuật.Vì vậy chúng tôi không sử dụng ghi lại chuyển động.Và chúng tôi ra khỏi khu vực an toàn,và ở trong một vùng đất mới.Chúng tôi bị bỏ lại với ý tưởng nàymà cuối cùng chúng tôi gọi là "món hầm công nghệ".Chúng tôi bắt đầu chú ý tới các lĩnh vực khác.Ý tưởng là chúng tôi sẽ tìm thấyvàng hoặc mầm móng công nghệđến từ các ngành công nghiệp khác như quang tuyến,không gian trò chơi điện tử,và áp dụng chúng.Chúng tôi phải tạo ra một loại nước sốt.Và nước sốt được mã hóa vào phần mềmmà chúng tôi đã viết để có phép những mảnh ghép công nghệ khác nhau nàykết hợp lại với nhau và hoạt động thống nhất.
+ 8:55
+起初，我们遇见一些研究由Paul在70年代早期得到的他认为 他可以将人类的面部表情归类目录中的人脸。他设计了面部动作编码系统他认为有10个基本的面部表情人类面对或形状借由这些动作去构成无数种可能它们可以结合起来，创造无限的可能性一切人类面对的就是这样做的能力。这些全部不受年龄 种族 文化 性别的限制这成为我们继续的基石
+Lúc đầu, chúng tôi tình cờ tìm thấy một vài nghiên cứu đáng chú ýthực hiện bởi một quý ông tên Paul Ekman vào đầu những năm 70.Ông ấy tin rằng mình có thểlập danh mục khuôn mặt con người.Ông ấy nảy ra ý tưởng Hệ mã hóa các cử động khuôn mặt hoặc gọi tắt là FACS.Ông ấy cho rằng có 70 điệu bộhoặc kiểu khuôn mặt cơ bản,và những bộ điệu hoặc kiểu khuôn mặt đócó thể được kết hợp lại nhằm tạo ra vô hạn các khả năngmà gương mặt con người có thể làm.Và tất nhiên, chúng vượt qua cả tuổi tác, sắc tộc, văn hóa, giới tính.Nó trở thành nền tảng cho nghiên cứu của chúng tôi khi chúng tôi tiến xa hơn.
+ 9:29
+即接着我们遇到了一些卓越的科技被称作Contour你可以看到这个人的面部 具有磷 标记点刻在她的脸上。我们现在说看到的是一个真实面部捕捉而不是那种标记捕捉它站于一组由电脑驱动的相机阵列前这些相机将会准确的描绘出物体的运动重建几何正是这一主题的目前做的事情。我们可一有效的获得物体在3D空间的运动数据对比下这两种技术在左侧，我们看到的数据给了我们什么容积并在右边你看到什么标记给我们。显而易见，这种技术是多么优越了但是这还只是这项技术的雏形，还没有被完全证实。但是，我们可以对比多边形定点个数做个比较。在多边形数计算。左侧的是100，000个顶点右边这个却已经打到了上亿个顶点或者可以认为是无限个
+Và sau đó chúng tôi tìm thấy một vài công nghệ đáng chú ýgọi là Tạo khối.Và ở đây các bạn có thể thấy một chủ thể đang được hóa trang bằng photphobằng cách vẽ từng chấm lên gương mặt cô ấy.Và bây giờ cái chúng ta nhìn thấy đang tạo ra việc chụp bề mặtđối lập với chụp điểm.Vật thể đứng trước một hàng các máy quay,và những máy quay đó có thể, theo từng khung,xây dựng lại chính xác hình học những gì vật thể đang làm.Bạn sẽ có dữ liệu 3D trong thời gian thực của vật thể.Và nếu bạn nhìn vào sự so sánh,ở bên trái, chúng ta thấy những gì dữ liệu đưa ra,và ở bên phải là những gì các điểm đưa ra.Rõ ràng chúng tôi đang ở một nơi tốt hơn.Nhưng chúng chỉ mới ở những ngày đầu của công nghệ này,và nó chưa thật sự được chứng minh.Chúng tôi đo lường độ phức tạp và chính xác của dữ liệutheo số lượng đa giác.Ở bên trái, chúng ta thấy có 100,000 đa giác.Chúng ta có thể tiến tới hàng triệu đa giác.Nó đường như là vô tận.
+10:21
+这令我们豁然开朗这是我们这个项目的一个中重大突破啊这令我们有一种我们可以完成这部电影的信心了这一定会成功的和“一哈！”是，如果我们可以采取布拉德皮特，我们可以把布拉德本装置，并利用这一轮廓的过程中，我们可以在这个点画磷光化妆并把他下黑灯，我们可以，事实上，他在实时扫描表演埃克曼的流式细胞仪构成。看 非常有效我们最终完成了一个3D数据库包含了所有Brad Pitt 的所有表情大笑
+Đây là khi mà chúng tôi phát lên "Aha!:Đây là sự đột phá.Đây là lúc chúng tôi nói "Được rồi, chúng ta rồi sẽ ổn thôi,Điều này rốt cuộc sẽ làm được việc."Và "Aha!" chính là, nếu chúng tôi có thể lấy Brad Pitt,và chúng tôi có thể đưa Brad vào thiết bị này,và sử dụng quá trình Tạo khối này,và chúng tôi chấm lên hóa trang phát quang nàyvà đặt anh ấy dưới đèn cực tím,và chúng tôi có thể scan anh ấy trong thời gian thựcđang thực hiện các điệu bộ FACS của Ekman.Đúng không? thật hiệu quả,cuối cùng chúng tôi có một cơ sở dữ liệu 3Dcủa tất cả những thứ mà gương mặt Brad Pitt có thể làm(Tiếng cười)
+10:53
+这里， 我们实际上是分割了这些面部表情分解为许多组成部分我们获得了上千种形状一个他面部所能做到的各种表情的数据库他面对的就是这样做的能力。
+Từ đó, chúng tôi chia những gương mặt đóthành những mảnh hơn và thành phần nhỏ của gương mặt anh ấy.Vì thế cuối cùng chúng tôi có hàng ngàn và hàng ngàn và hàng ngàn hình dáng,một cơ sở dữ liệu hoàn chỉnh của tất cả những khả năngmà gương mặt anh ấy có thể làm.
+11:08
+这一切看起来都很不错， 不过这是他44岁的模样我们需要将这个年龄加上40岁我们于是请来了Rick Baker,他是一名强力的化妆和特效天才，在电影行业中。我们的工业。我们还有Kazu sujiKazu 是一名非常好的动态光影建模师我们的人任务就是做一个模型或是 毁了他 本杰明因此，在“大揭幕精神” - 我不得不这样做我已经推出的东西。这是ben 80岁的样子我们做了三个模型分别是本 80 70 60这是我们继续的模板
+Bây giờ, điều đó thật tuyệt, trừ việc anh ấy đang ở tuổi 44.Chúng tôi cần tăng anh ấy lên 40 năm nữa vào lúc này.Chúng tôi mời RIck Baker,và Rick là một trong những bậc thầy về trang điểm và hiệu ứng đặc biệttrong ngành chúng tôi.Và chúng tôi cũng mời một quý ông tên Kazu Tsuji,và Kazu Tsuji là một trong những nhà điêu khắc hiện thực tuyệt vời nhất trong thời đại chúng ta.Và chúng tôi ủy thác họ làm một mô hình điêu khắc,hay là một tượng bán thân của Benjamin.Theo tinh thần của "Sự tiết lộ vĩ đại" — Tôi phải làm điều này —Tôi phải tiết lộ điều gì đó.Đây là Ben lúc 80 tuổi.Chúng tôi tạo ra 3 cái như thế:Ben lúc 80 tuổi, Ben lúc 70 tuổi, Ben lúc 60 tuổi.Và đây thực sự trở thành khuôn mẫu để tiến xa hơn nữa.
+11:44
+现在，这是从一个生命铸造的布拉德。因此，事实上，在解剖学上，这是正确的。的眼睛，下巴，牙齿...一切都是在完美的路线是什么真正的家伙。我们这些maquettes扫描进电脑在非常高的分辨率。巨大的多边形数。所以现在我们有三个年龄递增本杰明在计算机中。
+Bây giờ, nó được làm từ việc diễn thật của Brad.Vì vậy, thực tế theo phương diện giải phẫu, nó chính xác.Cặp mắt, quai hàm, răng:tất cả mọi thứ đều đúng theo những gì mà một người thật có.Chúng tôi đem các tượng điêu khắc quét vào máy tính.với độ phân giải cao —với một số lượng khổng lồ hình đa giác.Và chúng tôi có 3 độ tuổi tăng trưởng của Benjamintrong máy tính.
+12:07
+但是，我们必须找到他的数据库做不止于此。我们经历了这一过程，那么，所谓的重新定向。这是布拉德埃克曼流式细胞仪做的一个姿势。这里的结果数据来自该来了，该模型从该来。和重定目标的过程是数据的移调到另一个模型。而且因为生活投，或胸部 - 在maquette - 本雅明是从布拉德，我们可以在44转布拉德数据在87到布拉德。所以，现在，我们有一个三维数据库的一切布拉德皮特的脸可以做87岁的他70多岁，在他60岁。
+Nhưng chúng tôi cần có cơ sở dữ liệu của những gì anh ấy phải làm hơn thế nữa.Chúng tôi trải qua một quá trình gọi là tái mục tiêu.Đây là Brad đang thực hiện một trong những điệu bộ FACS của Ekman.Và đây là kết quả dữ liệu từ đó,mô hình tạo ra từ đó.Tái mục tiêu là một quá trình chuyển dữ liệusang một mô hình khác.Và bởi vì diễn thật, hoặc tượng bán thân — mô hình điêu khắc — của Benjaminđược làm từ Brad,chúng tôi có thể chuyển dữ liệu của Brad lúc 44 tuổisang Brad lúc 87 tuổi.Bây giờ, chúng tôi có một cơ sở dữ liệu 3D của tất cả những gì gương mặt Brad Pitt có thể làmlúc 87 tuổi, trong độ tuổi 70 và 60 của cậu ấy .
+12:42
+下一步，我们已进入了拍摄过程。因此，尽管所有这回事，我们下来在新奥尔良和世界各地的位置。我们的身体，我们拍摄的演员，我们向他们拍摄身穿蓝色头巾。因此，这是绅士玩本杰明。和蓝盖帮我们两件事情：1，我们可以很容易抹掉他们的头上;我们也把他们的头标记跟踪这样我们就可以重新相机的动作从镜头的光学设置。
+Tiếp theo, chúng tôi phải thực hiện quy trình quay phim.Trong lúc tất cả đang diễn ra,Chúng tôi ở New Orleans và các địa điểm khắp nơi trên thế giới.Chúng tôi quay thân hình của diễn viên,và chúng tôi quay khi họ đội mũ trùm đầu màu xanh dương.Đây là những người đóng vai BenjaminVà mũ trùm đầu xanh giúp chúng tôi 2 việc:một là, chúng tôi có thể dễ dàng xóa bỏ đầu của họ;và chúng tôi có thể dán các điểm theo dõi lên đầu họvì thế chúng tôi có thể tái tạo lại chuyển động ghi hìnhvà ống kính quang từ cảnh quay.
+13:04
+但现在我们需要得到布拉德的表现，以推动我们的虚拟本杰明。因此，我们编辑了这是拍摄画面上的位置与其他演员和演员的身体约6个月后我们带来了布拉德到一个在洛杉矶的声场他看着屏幕上当时他的工作成为本杰明。因此，我们循环的场景。他一遍又一遍。我们鼓励他即兴。他带成有趣和不寻常的地方本杰明我们不认为他会去。我们打到了他与4高清摄像机所以我们会得到他的多个视图然后戴维会选择利用被本杰明布拉德他认为最匹配的镜头同其他演员。
+Nhưng chúng tôi cần lấy diễn xuất của Brad để làm Benjamin ảo của chúng tôi.Vì vậy chúng tôi chỉnh sửa cảnh phim được quay ở một địa điểmvới toàn bộ dàn diễn viên và thân hình diễn viênvà khoảng 6 tháng sauchúng tôi đưa Brad lên một sân khấu âm thanh ở Los Angelesvà anh ấy theo dõi trên màn hình.Công việc của anh ấy là trở thành Benjamin.Và chúng tôi lồng ghép các cảnh quay.Anh xem đi xem lại nhiều lần.Chúng tôi khuyến khích anh ấy để ứng biến.Và anh ấy đã đưa Benjamin đến những nơi thú vị và khác thườngmà chúng tôi không nghĩ rằng anh ấy sẽ đi đến đó.Chúng tôi quay anh ấy với các máy quay HDvì thế chúng tôi có nhiều cảnh của anh ấyvà sau đó David sẽ chọn lần bấm máy Brad đóng vai Benjaminmà anh ấy nghĩ cảnh quayphù hợp nhất với dàn diễn viên.
+13:41
+从那里我们去到一个名为图像分析过程。所以在这里，你可以再次看到，所选择的需要。我们看到，现在，该数据被调换到本87。因此，有趣的是这我们使用一种叫做图像分析，它正在从本雅明的脸不同部分的时间安排。所以我们可以选择，例如，他的左眼眉。而且，软件会告诉我们，好，在14帧的左眼眉开始从这里到这里，并得出结论朝框架32。因此，我们可以选择的职位数量在脸上拉从数据。
+Từ đó chúng tôi đi vào một quy trình gọi là phân tích hình ảnh.Và ở đây, bạn có thể thấy một lần nữa, lần bấm máy được chọn.Và bây giờ bạn đang thấy dữ liệu được chuyển sang Ben lúc 87 tuổi.Và điều thú vị làchúng tôi sử dụng một thứ gọi là phân tích hình ảnh,nó đang định giờ từ các thành phần khác nhau trên gương mặt của Benjamin.Và như vậy chúng tôi có thể chọn, giả sử, lông mày trái của anh ấy.Và phần mềm sẽ cho chúng tôi biết,trong khung 14 lông mày trái bắt đầu di chuyển từ đây qua đâyvà nó bao gồm chuyển động trong khung 32.Và chúng tôi có thể chọn nhiều vị trí khác nhau trên gương mặtđể lấy dữ liệu.
+14:11
+然后，我谈酱油与我们的技术炖，这是秘密酱油，有效，使我们的软件布拉德性能相匹配的镜头与我们的老年生活本杰明数据库的行动，流式细胞仪的形状，我们有。上一帧一帧的基础上，其实，我们可以重建一个三维头部这正好符合了布拉德的表现。
+Và sau đó, nước sốt tôi đã nhắc đến ở nồi hầm công nghệ của chúng tôi —thật hiệu quả, nước sốt bí mật đó là phần mềm cho phép chúng tôikhớp cảnh quay của Bradtrong đời thực với dữ liệu độ tuổi của Benjamin,những hình dạng FACS mà chúng tôi có.Trên nền tảng từng khung hình,chúng tôi có thể xây dựng lại một cái đầu 3Dkhớp hoàn toàn với cảnh diễn của Brad.
+14:34
+因此，这是如何拍摄完成的影片中出现。在这里你可以看到演员的身体。然后，这就是我们所谓的“死头”，不向杰里加西亚参考。
+Đây là cách mà cảnh quay hoàn thiện xuất hiện trên phim.Và ở đây bạn có thể thấy thân hình của diễn viên.Và đây là cái mà chúng tôi gọi là "cái đầu chết", không ám chỉ đến Jerry Garcia.
+14:42
+然后这里的改造企业绩效现在的表现计时。然后，再次，最后一幕。这是一个漫长的过程。（鼓掌）
+Và đây là cảnh diễn đã được xây dựng lại.Bây giờ là cảnh diễn được định giờ.Và một lần nữa, cảnh quay cuối cùng.Đó là cả một quá trình dài.(Vỗ tay)
+15:04
+下一节在这里，我要通过这个刚刚爆炸，因为我们可以做多张幻灯片的下一个整体TEDTalk。
+Ở phần tiếp theo, tôi sẽ nói nhanh qua,bởi vì chúng tôi có thể thực hiện cả một buổi nói chuyện TEDTalk trên tấm phim chiếu tiếp theo.
+15:10
+我们必须创造一个照明系统。因此，其实我们的很大一部分是在创造过程中的照明环境对于每一个位置，本杰明已经出现这样我们可以把任何场景本的头它会完全匹配的照明，关于其他方面的在现实世界中。
+Chúng tôi phải tạo ra một hệ thống chiếu sáng.Thật sự, một phần lớn trong quá trình là tạo ra một môi trường chiếu sángcho mỗi một địa điểm Benjamin xuất hiệnđể chúng tôi có thể đưa đầu của Ben vào bất kì cảnh quay nàovà nó khớp hoàn toàn với ánh sáng rọi vào các diễn viên kháctrong thế giới thực.
+15:25
+我们还必须建立一个眼系统。我们发现旧的格言，你知道，“眼睛是灵魂之，窗口”千真万确。因此，这里的关键是保持大家在Ben的眼睛。如果你能感受到温暖，感受到人类，他的意图和感受来通过眼睛，然后我们会成功。因此，我们有一个人对眼睛的聚焦系统几乎整整两年。
+Chúng tôi cũng phải tạo ra một hệ thống ánh mắt.Chúng tôi có một ngạn ngữ cố, bạn biết đấy,"Đôi mắt là cửa sổ tâm hồn"điều đó hoàn toàn đúng.Chìa khóa ở đây là giữ cho mọi người nhìn vào đôi mắt của Ben.Và nếu như bạn có thể cảm thấy sự ấm áp, cảm thấy tình người,và cảm thấy ý muốn của anh ấy thông qua đôi mắt,thì chúng tôi sẽ thành công.Vì vậy chúng tôi có một người tập trung vào hệ thống ánh mắttrong vòng gần tròn 2 năm.
+15:46
+我们还必须创建一个口系统。我们还必须创建一个口系统。我们必须随着时间的推移年龄的牙齿。
+Chúng tôi cũng phải tạo ra một hệ thống miệng.Chúng tôi làm từ khuôn miệng của Brad.Chúng tôi phải làm răng lão hóa theo thời gian.
+15:52
+我们还必须创造一个阐明舌头，让他阐述他的话。整个系统有一个软件书面阐明了舌头。我们有一个人专门为约9个月的舌头。他很受欢迎。
+Chúng tôi cũng phải tạo ra một cái lưỡi cho phép anh ấy phát âm rõ ràng.Có cả một hệ thống được viết trong phần mềm để lưỡi phát âm rõ.Chúng tôi có một người dành khoảng 9 tháng cho phần lưỡi.Anh ấy rất nổi tiếng.
+16:01
+皮肤位移：另一个大问题。皮肤必须绝对准确，而且他也有一老年之家，他在一家养老院周围的其他老人，所以他看的人完全一样。因此，大量的工作，对皮肤变形，你可以看到在这些情况下，一些作品，在某些情况下，它看起来不错，这是一个非常，非常，很早就在我们的测试过程。所以，我们创建了一个有效的数字傀儡可经营的布拉德皮特与他自己的脸。有没有必要来在动画和解释行为或加强他的表现。
+Thay đổi da: một vấn đề lớn khác.Làn da phải hoàn toàn chính xác.Anh ấy ở trong một viện dưỡng lão, anh ấy ở trong một nhà chăm sócxung quanh các người già khác,vì thế anh ấy phải trông giống hệt những người khác.Có rất nhiều việc phải làm cho việc chuyển đổi da,bạn có thể thấy trong một vài trường hợp nó hiệu quả,nhưng nó trông thật tệ trong trường hợp khác.Đây là một thử nghiệm rất rất sớm trong quá trình của chúng tôi.Chúng tôi tạo ra một con rối điện tửmà Brad Pitt có thể điều khiển bằng chính gương mặt mình.Không nhất thiết phải có các hiệu ứng viên làm rõ các hành vihoặc nâng cao diễn xuất của anh ấy.
+16:30
+有些东西，我们遇到的，虽然，这要求我们结束了“数字肉毒杆菌的效果。”因此，在这个过程中经历的事情，芬奇总是说：“这sandblasts边关闭的表现。”其中一件我们的工艺和技术不能做它是无法理解的意图，该演员意图。因此，它认为，作为一个微笑的微笑。它不承认一个具有讽刺意味的微笑，或者一个幸福的微笑，或沮丧的笑容。因此，它确实需要人类推到一个或另一种方式。
+Có một thứ mà chúng tôi gặp phải,cuối cùng chúng tôi gọi là "Hiệu ứng Botox kỹ thuật số".Khi mọi thứ thực hiện xong quy trình này,Fincher sẽ luôn nói "Nó đổ cát lên các góc cạnh của màn trình diễn."Và điều quá trình của chúng tôi và công nghệ không thể làm,là chúng không thể hiểu ý định,ý định của diễn viên.Nó thấy một nụ cười là một nụ cười.Nó không thể nhận biết một nụ cười mỉa mai, hay một nụ cười hạnh phúc,hoặc một nụ cười chán nản.Con người đại loại phải thúc ép nó bằng cách này hay cách khác.
+16:59
+但我们最终调用的全过程和所有的技术“情感捕捉”而不仅仅是动作捕捉。再来看看。
+Nhưng cuối cùng chúng tôi gọi toàn bộ quá trìnhvà tất cả công nghệ là "bắt lấy cảm xúc",đối lập với bắt lấy chuyển động.Hãy nhìn lại.
+17:08
+布拉德皮特：嗯，我听到妈妈和如痴如醉的耳语，他们说我是将要死去不久，但是...也许不会。
+Brad Pitt: Tôi nghe mẹ và Tizzy thì thầm,và họ nói tôi sẽ mất sớm,nhưng...có lẽ là không.
+17:34
+埃德尔布里奇：这是如何创建一个数字人体在18分钟。（掌声）
+EU: Đó là cách để tạo ra một con người kỹ thuật số trong 18 phút.(Vỗ tay)
+17:45
+一个快速改编过的夫妇。他花费了155人超过两年的时间，我们甚至没有谈到60发型和全数字理发。但是，这是本杰明。谢谢。
+Một số thông tin nhanh,155 người dành 2 năm để làm nó,và chúng tôi thậm chí không nói về 60 kiểu tóc và cắt tóc bằng kỹ thuật sốNhưng, đó là Benjamin. Cám ơn.

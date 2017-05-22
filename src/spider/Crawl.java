@@ -34,7 +34,8 @@ public class Crawl {
 			result = sb.toString();
 			bf.close();
 		} else if (huc.getResponseCode() == HttpURLConnection.HTTP_NOT_FOUND) {
-			System.err.println("HTTP_NOT_FOUND");
+			throw new Exception("HTTP_NOT_FOUND");
+//			System.err.println("HTTP_NOT_FOUND");
 		}
 		return result;
 	}

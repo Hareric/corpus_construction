@@ -14,6 +14,13 @@ public class UrlMatch {
 		}
 	}
 
+	/**
+	 * 爬取指定页码的演讲稿链接
+	 * @param url
+	 * @param startNum
+	 * @param endNum
+	 * @throws Exception
+	 */
 	public void matchPageUrl(String url, int startNum, int endNum) throws Exception {
 
 		for (int i = startNum; i <= endNum; i++) {
@@ -23,7 +30,40 @@ public class UrlMatch {
 				this.match(htmlsc);
 			}
 			catch (NullPointerException E){
-				System.err.println("faile");
+				System.err.println(" faile");
+				i--;
+				Thread.sleep(3000);
+				continue;
+			}
+			
+			
+			System.out.println("  Done!");
+		}
+	}
+	
+	/**
+	 * 爬取所有演讲稿的链接
+	 * @param url
+	 * @throws Exception
+	 */
+	public void matchPageUrl(String url) throws Exception {
+		int len = -1;  // 记录网页的长度 若连续两页的长度相同 则表明页数已到底
+		for (int i = 1; i <= 200; i++) {
+			System.out.print(url + "&page=" + i);
+			try{
+				String htmlsc = spider.Crawl.getPage(url + "&page=" + i);
+				if (htmlsc.length() == len && htmlsc.length()>40000 && htmlsc.length()<42000){
+					System.out.println("  break!");
+					break;
+				}else{
+					len = htmlsc.length();
+				}
+				this.match(htmlsc);
+			}
+			catch (NullPointerException E){
+				System.err.println(" faile");
+				i--;
+				Thread.sleep(3000);
 				continue;
 			}
 			

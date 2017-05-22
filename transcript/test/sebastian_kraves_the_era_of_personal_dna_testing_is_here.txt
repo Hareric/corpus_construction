@@ -1,0 +1,84 @@
+ 0:12
+想象你是一个养猪户。你住在一个菲律宾的小农场。你的牲口是家庭唯一的收入来源——只要它们是健康的。你知道任意一天，你的猪都有可能感染流感，猪流感。住在狭小的猪圈，一只猪的咳嗽和喷嚏很可能马上感染另一只猪，直至感染你的整个猪圈。如果是一个十分严重的病毒，你猪圈里的猪将迅速被传染，无一幸免。如果你叫来一个兽医，他会拜访你的农场并且在猪的鼻腔和口腔内取样。但之后他们会开车回到城里在他们的实验室里检测那些样品。两周后，你会收到检测结果。而两周时间足以让疫情蔓延，夺走你的生计。
+Hãy tưởng tượng bạn là người chăn nuôi lợn.Bạn sống trong một trang trại nhỏ ở PhilipinesNhững con thú của bạn là nguồn thu duy nhất của gia đình.khi chúng khỏe mạnh.Bạn biết là vào 1 ngày nào đó,một trong những chú heo có thể bị cúm,triệu chứng cảm của lợn.Sống trong không gian chật hẹp,1 chú heo ho và hắt hơi,có thể dẫn tới chú heo tiếp theocũng ho và hắt hơi,cho đến khi dịch bệnhchiếm lấy trang trại của bạn.Nếu như nó là 1 virut đủ tệ,thì sức khỏe của đàn heocó thể ra đi trong chớp mắt.Nếu bạn gọi cho bác sĩ thú y,ông ấy hoặc bà ấy sẽ đến thămtrang trại của bạn, lấy những mẫu thửtừ mũi và miệng của mấy chú heo.Nhưng sau đó họ sẽ phải lái xe về thành phốđể kiểm tra những mẫu tạiphòng thí nghiệm của họ.Hai tuần sau đó, bạn mới biết kết quả.Hai tuần có thể vừa đủ thời gianđể cho dịch bệnh lan rộng hơnvà lấy đi nguồn kiểm sống của bạn.
+ 1:06
+但现实并不一定会这么糟。如今，农户们可以自己采集那些样本。他们可以直接进入猪圈中，用一张小小的滤纸在猪的鼻子和口腔中取样，将这张滤纸放在一个小试管中，和一些化学物质混合起来，提取出他们从猪的鼻子和口腔中得到的遗传物质。不用离开他们的农场，他们要做的只是将一滴遗传物质放入一个比鞋盒还小的分析仪中，设定程序分析猪流感病毒的DNA或者RNA，只1个小时内便可以取回结果，看到是否感染。我并非是在夸大其实，因为如今我们生活在个体DNA技术的时代。每个人都能检测我们自己的DNA。
+Nhưng không cần phải làm theo cách đó.Ngày nay, những người nông dâncó thể tự kiểm tra những mẫu đó.Họ có thể dùng ngay những chiếc bútvà lau vào mũi và miệng những chú lợncùng với mẩu giấy lọc nhỏ,đặt mẩu giấy lọc đó vào một chiếc ống nhỏ,và trộn vào đó một ít hóa chấtmà sẽ trích xuất vật liệu di truyềntừ mũi và mõm những chú lợn đó.Và không cần phải rời trang trại của mình,họ lấy những mẫu gen di truyền đóvà đặt vào một chiếc máy phân tích nhỏ,bé hơn một chiếc hộp giày,lập trình nó để phát hiện raDNA hoặc RNA của virut cúm,và trong vòng một tiếng sau cho kết quả,Hiện thực này là có thểbởi vì ngày nay chúng ta sốngtrong kỉ nguyên của công nghệ DNA tiên tiến.Mỗi chúng ta thực sự có thếtự mình kiểm tra DNA bản thân.
+ 1:54
+DNA是携带遗传指令最基本的分子，帮助建造了生机勃勃的世界。人类有DNA。猪有DNA。甚至细菌和一些病毒都有DNA。编码在 DNA 中的遗传指令告诉我们的身体如何发育，成长，和发挥机能。而且在很多情况下，同样的信息还能引发疾病。你的遗传信息串成了一段长而扭曲的分子，即DNA双螺旋结构，它有着超过三十亿个碱基，从开始到结束。但是携带有意义的信息的那几行通常却很短——只有几十到几千个字母那么长。所以当我们在寻找基于DNA问题的答案时，我们实际上并不需要去读完所有的那三十亿个字。这会像在晚上觉得很饿，然后不得不翻阅整个电话簿，从头到尾，一行不落，只是为了找到最近的披萨店。
+DNA là phân tử lớnmang các cấu trúc di truyềnđể tạo nên thế giới sự sống.Con người có DNA.Lợn có DNA.Ngay cả vi sinh vật vàmột vài loại virut cũng có DNA.Những cấu trúc di truyền được mã hóatrong DNA mô tả cách mà cơ thể chúng ta phát triển,lớn lên, chuyển hóa .Và trong nhiều trường hợp, những thông tintương tự có thể mô tả sự lan truyền dịch bệnh.Thông tin di truyền của bạnđược gắn vào chuỗi phân tử dài và xoắn,chuỗi xoắn kép DNAcó khoảng hơn ba tỷ kí hiệu,kéo dài tới cả hai đầu.Nhưng những dòng mang những thông tin giá trịthực ra lại rất ngắn.dài khoảng vài nghìn ký hiệu.Vì vậy chúng tôi đang tìm kiếmcâu trả lời cho câu hỏi dựa vào DNA,chúng ta thực sự không cần phải đọctất cả ba tỷ kí hiệu đóĐiều đó có thể giống như việc đói bụng vào ban đêmvà phải lướt qua cảquyển danh bạ điện thoạitừ đầu đến cuối,dừng lại ở từng dòng,chỉ để tìm ra số điện thoạicủa cửa hàng pizza gần nhất.
+ 2:52
+（笑声）
+( Cười lớn )
+ 2:53
+幸运的是，三十年前，人类开始发明工具使我们能找到任何一种特定的遗传信息。这些DNA检测器非常棒。它们能查找出DNA中任何一行的信息。但虽然它们找到了它，DNA仍然很小，而且周围那么多其他的DNA，那么这些机器接下来做的便是复制目标基因，复制一份又一份，成千上万次,直到那个与众不同的基因出现；直到我们能看见它，解释它，读懂它，理解它，直到我们能回答：我的猪得了流感吗？或者其他埋藏在我们自己DNA中的问题：我有患癌症的风险吗？我有爱尔兰血统吗?那孩子是我亲生的吗？
+Thật may mắn, ba thập kỷ trước,con người đã bắt đầu phát minh ra công cụcó thể tìm kiếm những dòng đặc biệtmang thông tin di truyền.Những cỗ máy DNAnày rất tuyệt vời.Chúng có thể tìm đượcbất cứ dòng nào trong DNA.Nhưng một lần họ tìm ra nó,DNA đó rất nhỏ, và được bao quanhbởi rất nhiều những DNA khác,và điều những cố máy này sẽ làm tiếp theođó là sao chép những gen chính,và một bản sao nối trước bản sao khác,hàng nghìn và hàng nghìn bản sao,cho đến khi bộ gen được hoàn thiện,đến khi chúng ta có thể hình dung ra nó,dịch nó, đọc nó, hiểu được nó,cho đến khi chúng ta có thể trả lời :Chú lợn của tôi có bị cúm hay không ?Hoặc có những câu hỏi khác ẩntrong chính DNA của chúng ta :Liệu tôi có nguy cơ mắc ung thư?Liệu tôi có phải con cháu của người Do Thái?Có thật đó là con trai tôi?
+ 3:46
+（笑声）
+( Cười lớn )
+ 3:49
+DNA的这种复制能力听起来很简单，却改变了我们的世界。科学家们每天都用它来检测和对付疾病，创造新药品,改进食品，评估我们的食物是否安全，又或者是否被致命的细菌污染。甚至法官在法庭上也使用这些机器输出的结果在DNA证据的基础上来判定某人是无辜或有罪。DNA复制技术的发明者在1993 年被授予诺贝尔化学奖。但过了30年，遗传分析的力量一直局限于象牙塔，或是有重大影响力的博士科学家的工作之中。世界各地的数家公司正在把同样的技术简易化，方便人们在日常生活中使用，例如养猪农户,以及我们大家。
+Khả năng này để khiến cho những bản saocủa DNA, đơn giản như cái tên của nóđã thay đổi thế giới của chúng ta.Những nhà khoa học dùng nó hàng ngàyđể nhận biết và đưa ra kết luận đối với triệu chứng,để tạo ra những loại thuốc hiệu quả,để sửa đổi thức ăn,để đánh giá thức ăn nào là an toànhoặc khi nào nó bị nhiễm độcbởi những vi khuẩn chết người.Ngay cả thẩm phán cũng sử dụng kết quảkiểm tra của những chiếc máy này ở tòa ánđể phán quyết khi nào thì một người vô tộihay có tội dựa vào chứng cứ lấy từ DNA.Phát minh ra công nghệ sao chép DNAđã được nhận giải Nobel Hóa họcvào năm 1993.Nhưng trong 30 năm,Sức mạnh của những nghiên cứu genđã bị bó buộc và xa rời thực tiễn,hoặc bị những tiến sĩ khoa học đứng đầu quản lý.Rất nhiều công ty trên thế giớiđang làm việc để tạo ra công nghệ truy cập tương tựđến với những người như người nông dân chăn lợn,như bạn.
+ 4:43
+我与其他人共同成立了其中一家这样的公司。在3年前，和我的一位生物学家朋友Zeke Alvarez Saavedra一起,我们决定让个人化DNA检测器能被每个人所使用。我们的目标是在新的地方将DNA科学带给更多的人。我们在地下室开始工作。我们有一个简单的问题：如果每个人都能分析DNA，世界可能是什么样子的呢？我们很好奇，就像你们好奇我如果在1980年向你们展示这张照片。
+Tôi đã đồng sáng lập một trong số những công ty này.Ba năm trước,cùng với một nhà sinh vật họcvà một người bạn của tôi,Zeke Alvarez Saavedra,chúng tôi đã quyết định làm một cỗ máy DNA cá nhânthứ mà mọi người đều sử dụng được.Mục tiêu của chúng tôi là mang công nghệ DNAđến với nhiều người hơn dưới góc nhìn mới mẻChúng tôi bắt đầu làm việc trong một tầng hầmChúng tôi đặt một câu hỏi đơn giản :Thế giới sẽ ra saonếu như mọi người đều có thể nghiên cứu DNA?Chúng tôi rất hiếu kì,hiếu kì giống như các bạn khi tôi chocác bạn xem bức tranh này vào năm 1980.
+ 5:16
+（笑声）
+( Cười lớn )
+ 5:17
+你一定会想：“哇喔！我现在可以在车里打电话给我姨妈Glenda祝她生日快乐了。我现在能给任何人在任何时间打电话了。这就是未来！”你还并不知道，你会拨通电话来预订晚餐，让你和Glenda姨妈一起庆祝。拨打另一通电话，你将订好她的礼物。而且每多一次拨号，你将会被Glenda姨妈在Facebook上“点赞”。而你可以坐在马桶上做完这所有的事。
+Lúc đó bạn sẽ nghĩ : " Wow!Ngay bây giờ tôi có thểgọi cho dì Glenda của tôi từ xevà chúc mừng sinh nhật dì ấy.Tôi có thể gọi bất cứ ai, bất cứ khi nào.Đây là tương lai!Bạn có thể chưa biết,bạn có thể chạm vào chiếcđiện thoại kia để đặt bữa tốicho bạn và cho dì Glenda để tổ chức cùng nhau.Với một vài cú chạm,bạn đã đặt quà cho bà ấy.Và thêm một lần bấm nữa,và bạn đang "like"Auntie Glenda trên Facebook.Bạn làm tất cả việc này,khi đang ngồi trong toilet
+ 5:44
+（笑声）
+( Cười lớn )
+ 5:46
+新技术将把我们带往何处，谁都说不准。对如今的个人DNA技术来说情况也是一样。
+Rõ ràng khó dự đoán đượccông nghệ mới có thể đưa chúng ta đến đâu.Và điều tương tự đúngvới với công nghệ ADN cá nhân ngày nay
+ 5:56
+举个例子，我从来没想过一个种松露的农民，怎么会需要用到个人DNA检测设备。Paul Thomas博士以种植松露为生。我们可以看见，在这张照片里，他在他的一个农场里，手里拿着第一个尿激酶培养的松露。松露如此美味源于一种在活的树根生长的真菌。这是一种罕见的真菌。一些种类每公斤能卖到$3000，$7000，甚至更多。我从保罗那了解到种松露的农民的收益可以很高。当保罗获得生长在他的农场的新松露时，他被置于仿冒品的威胁之中——这种松露的外观和感觉很像真的，但是它们的质量很差。不过即使有一双像保罗那样训练有素的眼睛，在显微镜下观察,这些松露都可以通过真品的检测。为了种植最高质量的松露，那些世界各地的大厨所竞相争夺的松露，保罗必须使用DNA分析。这难道不令人大开眼界吗?我敢打赌你以后看着黑松露意大利调味饭，都不得不想到它的基因。
+Ví dụ, tôi chưa bao giờ tưởng tượngmột người nông dân chân chất,hay tất cả mọi người,có thể sử dụng một cỗ máy DNA cá nhân.Tiến sĩ Paul Thomas trồngnấm cục để kiếm sống.Chúng ta có thể thấyanh ấy trong bức ảnh này,đang cầm trên tay nấm cục đầu tiên của nước Anh,tại một trong những nông trại của anh ấy.Nấm cục là loại nấm kí sinhmọc ngược từ một cây nấm sinh trưởngtrên nhánh của những cây sống.Và đó là một loài nấm hiếm.Một vài loại trị giá lên đến 3000,7000 đô-la hoặc nhiều hơn cho 1 kgTôi đã học được từ Paulrằng số tiền vốn mà một ngườinông dân trồng nấm bỏ ra có thể rất lớn.Khi anh ấy tìm được loại nấm mớivà trồng trên nông trại của mình,anh ấy gặp phải vấn đề bị làm nhái —những cây nấm nhìn và có cảm giác như thật.Nhưng chúng có chất lượng kém hơn.Và dù cho luyện đôi mắt tinh tường như Paul,ngay cả khi nhìn dưới kính hiển vi,nhưng cây nấm này vẫn có thể vượt kiểm duyệt.Vì vậy để trồng được giống nấmcó chất lượng tốt nhất,những người đầu bếp thế giớibuộc phải tẩy chay.Paul phải dùng đến nghiên cứu DNA.Điều đó không phải là sự đột phá sao ?Tôi cược là bạn sẽ không bao giờ nhìn vàonhững cây nấm risotto đen sìmà không nghĩ về cấu trúc gen của chúng.
+ 7:08
+（笑声）
+( Cười lớn )
+ 7:10
+但个人DNA检测器还可以挽救人类的生命。Ian Goodfellow教授是剑桥大学的病毒学家。去年他去了塞拉利昂。当埃博拉疫情在非洲西部爆发，他即刻意识到那里的医生缺乏基础的工具去检测疾病并与之搏斗。结果最迟需要一周才能出来—这对于遭受痛苦的病人和家属来说太久了。Ian决定将他的实验室搬去马可尼，塞拉利昂。在这里，我们可以看到Ian Goodfellow正在把一个超过10吨的设备搬入一个弹出式帐篷，这是他准备来检测和诊断病毒，在24小时内确定病毒的基因序列的地方。但令人意想不到的是：Ian在英国实验室用来确定和诊断埃博拉病毒基因序列的相同设备，在当前的条件下是根本无法使用的。我指的是当地35摄氏度的高温和超过90%的湿度。但现在，伊恩可以使用个人DNA检测器，它们小到可以被放置在空调装置的前面，来进行病毒测序和拯救生命。
+Nhưng máy DNA cá nhân cũng có thểcứu được cuộc sống của con người.Nhà phát minh Ian Goodfellow là một ngườinghiên cứu về virus ở trường đại học Cambridge.Năm ngoái anh ấy đã đến Sierra Leone.Khi dịch Ebola lan ra Bắc Phi,anh ấy đã nhanh chóng nhận rằngbác sĩ ở đây thiếu những thiệt bị cơ bảnđể phát hiện và chống lại dịch bệnh.Kết quả xét nghiệm có thể mất đến cả tuầnđiều này là quá lâu đối với người bệnh và gia đình họ- những người đang ở trong nỗi lo lắng.Ian quyết định đưa phòng thí nghiệm củaanh ấy đến Makeni, Sierra Leone.Ở đây chúng ta thấy Ian Goodfellowđang chuyển hơn 10 tấn trang thiết bịvào trong lềumà anh ấy có thể chuẩn bị đểnhận biết và chuẩn đoán virutvà xử lý nó trong vòng chưa đến 24 giờ.Nhưng đáng ngạc nhiên, khinhững thiết bị tương tự mà Ian có thểsử dụng tại phòng thí nghiệm ở Anhđể xác định gen và chuẩn đoán Ebolachưa từng hoạt động ở những điều kiện như thế nàyChúng ta đang nói đến cái nóng 35 độ Cvà độ ấm đến 90% ở đây.Nhưng thay vào đó, Ian có thểsử dụng máy DNA cá nhânđủ bé để đặt ở trước máy điều hòa không khíđể giữ bộ gen của virusvà để cứu sống mọi người.
+ 8:24
+这可能看起来像在在一个极端的地方进行DNA分析，但是让我们看看一个更更极端的环境：外太空。让我们来谈谈在太空中进行DNA分析。当宇航员生活在国际空间站中，是绕着距地球400公里高的轨道移动。他们以每小时2万7千多公里的时速绕行。想象一下吧——每天会看到15次日落和日出。人也在微重力中漂浮着。在这些条件下，我们的身体机能会失常。其一便是我们的免疫系统会被抑制，让宇航员更容易感染疾病。
+Đây có thể được xem nhưnơi lý tưởng cho nghiên cứu DNA,nhưng hãy đi đến một môi trườngđầy thách thức:môi trường ngoài trái đấtHãy cùng nói về nghiên cứu DNA ngoài vũ trụ.Khi nhà du hành sốngở Trạm không gian Quốc tế,họ đang cách trái đất ở độ cao 250 dặmhọ đang bay với tốc độ 17000 dặm một giờ.Hãy hình dung —Bạn đang nhìn thấy 15 lần mặt trời lặn và mọc mỗi ngày.và bạn đang sống trong môi trườngkhông trọng lượng, trôi nổi.Và dưới những điều kiện này, cơ thểchúng ta không thể hoạt động bình thườngMột trong số đó là hệ thống miễn dịchcủa chúng ta bị suy giảm,làm cho nhà du hành dễ bị nhiễm trùng hơn.
+ 9:06
+一个16岁的女孩，一个来自纽约的高中生，Anna-Sophia Boguraev，想知道宇航员的DNA变化是否可能与免疫抑制相关，通过一个被称为“太空基因”的科学比赛，为了测试这个假说，Anna-Sophia设计了一个实验，在国际空间站上使用了个人DNA检测器。这里，我们看到的是Anna-Sophia2016年4月8日在卡纳维拉尔角，看着她的实验装置发射到国际空间站。那团烟是火箭带着Anna-Sophia的实验设备去国际空间站，三天后，宇航员蒂姆·皮克进行了她的实验——在微重力环境中。个人DNA检测器现在在国际空间站上服役，在那里它们可以帮助监测宇航员的身体机能，并保护宇航员的生命。
+Một cô gái 16 tuổi,một học sinh cấp 3 đến từ New York,Anna-Sophia Boguraev,băn khoăn rằng thứ đã làm thay đổi DNAcủa nhà du hành vũ trụcó thể có mối liên hệ vớisự suy giảm miễn dịch này,và trong một cuộc thi khoa họcmang tên "Genes In Space "Anna- Sophia nghĩ ra một ý tưởngđể kiểm tra giả thiết nàysử dụng máy DNA cá nhânở Trạm không gian Quốc tế.Ở đây,chúng ta thấy Anna-Sophiavào ngày 8/4/2016, ở Cape Canaveral,đứng xem thí nghiệm của cô ấyphóng lên Trạm không gian Quốc tế.Đám mây khói kia là từ tên lửađang mang thí nghiệm của Anna-Sophiađến Trạm không gian Quốc tế,nơi mà, 3 ngày sau,nhà du hành Tim Peake thực hiện thí nghiệmcủa cô ấytrong môi trường không trọng lực.Máy DNA cá nhân bây giờ đã ra ngoài vũ trụ,nơi mà họ có thể theo dõicác điều kiện sốngvà bảo vệ mạng sống của những phi hành gia
+10:04
+一个16岁的孩子设计了DNA检测实验，为了保护宇航员的生命，看起来非常罕见，天才儿童的标志。而对我来说，它标志着更重要的事：DNA技术终于距离你们每一个人都不远了。
+Một ý tưởng thí nghiệm ADN của cô bé 16 tuổibảo vệ cuộc sống của những phi hành giacó thể xem như một chuyện hiếm có,một thiên tài tuổi trẻ.Với tôi, đó là dấu hiệu cho điều gì đóto lớn hơn:công nghệ DNA đó cuối cùng có thể đến vớimỗi người trong các bạn.
+10:24
+几年前，一个大学生配备上一台个人电脑就能写出一个应用程序，现在这是一个社交网络的应用程序，有超过十亿的用户。我们可以进入一个每个家庭都配备一台个人DNA检测器的世界吗?
+Vài năm trước,một sinh viên cao đẳng đã bắt tayvới máy tính cá nhân,có thể tạo ra một ứng dụng,một ứng dụng ngày nay là mạng xã hộivới hơn một tỷ người dùng.Liệu chúng ta tạo ra một thế giớinơi nhà nhà đều có một máy ADN cá nhân?
+10:40
+我知道这在有些家庭中已经实现了。例如丹尼尔斯一家，在芝加哥郊区的家庭地下室建立了一个DNA实验室。这不是一个由博士科学家组成的家庭。这只是一个再普通不过的家庭。他们只是喜欢花时间在一起做有趣的，有创造性的事情。白天，布莱恩是私人股票基金公司的一个经理。晚上和周末，他和7岁和9岁的孩子一起，进行他们的DNA实验，把这视为一种探索世界的方式。上次我打电话给他们的时候，他们检查了后院花园里自家种植的农产品。他们测试了采摘的西红柿，提取它们表皮上的果肉，放进试管中，用化学药剂混合提取DNA，然后使用他们自家的DNA复印机来测试那些西红柿的转基因性状。
+Tôi biết nhiều gia đình đã sẵn sàngsống với thế giới đó.Gia đình Daniel, là một ví dụ,xây dựng một phòng thí nghiệm ADN ngay tạicăn hầm ngôi nhà ở ngoại ô Chicago.Đây không phải là gia đìnhcủa một tiến sĩ khoa họcĐó là một gia đình bình thường như bất cứ gia đình nào.Họ chỉ là thích dành thời gian cùngvới nhau để vui vẻ, sáng tạo nhiều thứ.Hiện tại, Brian là giám đốc điều hànhtại một công ty cổ phần tư nhân,Vào buổi tối cuối tuần,ông ấy làm thí nghiệm với DNAcùng với các con của mình, 7 tuổi và 9 tuổi,giống như cách khám phá thế giới sự sống.Lần gần đây nhất tôi gọi cho họ,họ đang kiểm tra sản phẩm do chính họ pháttriển tại sân vườn sau nhàHọ đang kiểm tra khoai tâymà họ vừa thu hoạch,lấy lớp da mỏng của củ khoai,đặt vào ống kiểm tra,trộn nó với hóa chất nhận biết DNAvà sau đó sử dụng máy sao chép gen tại nhàđể kiểm tra những củ khoai tây ấycó bị biến đổi gen tính trạng không.
+11:35
+对于丹尼尔斯一家来说，个人DNA检测器就像针对21世纪设计的化学实验。我们大多数人可能还没有在自家厨房的水槽中做过任何基因检测，或者家庭亲子鉴定测试。
+Đối với gia đình Daniel,máy DNA cá nhân giống như bộ "đồ chơi" hóa họccủa thế kỉ 21.Nhiều người trong chúng ta có thể chưa từngchuẩn đoán điều kiện di truyềntrong bồn rửa báthoặc xét nghiệm quan hệ cha con tại nhà
+11:50
+（笑声）
+( Cười lớn )
+11:51
+但是我们绝对达到了历史上的一个节点，每个人都能在厨房亲自进行DNA检测试验。你能复制，粘贴和分析DNA，从中提取有用的信息。在这种情况下，这种深刻的转变一定会发生；当改变发生时,那些在之前仅限于少数象牙塔中的强大技术，最终能够让我们每一个人接触和使用到，从农民到学生。想想那一刻当手机不再需要插线进行充电，又或者当电脑脱离了大型计算机构架，进入你的家里或者办公室中。
+Nhưng chúng ta chắc chắn đã chạm tớicột mốc lịch sửnơi mà mỗi người trong chúng ta đều thực sựcó thể tự kiểm tra DNAở trong căn bếp của mình.Bạn có thể sao chép và phân tích DNAvà giải nghĩa những thông tin hữu ích từ nó.Và vào lúc như vậy là sự biển đổi sâu sắcnhất định sẽ xảy ra;khoảnh khắc mà một sự biến đổi,mạnh mẽ của công nghệmà trước đây, bị giớ hạn và lãng quên,cuối cùng cũng trở nên gần gũivới mỗi người chúng ta,từ những người nông dân cho đếncác em học sinh.Hãy nghĩ về khoảnh khắc nàykhi mà điện thoại không cònbị ràng buộc bởi sợi dây,hoặc khi mà những chiếc máy tính ngày càng nhỏ lạivà đặt ở trong ngôi nhà hoặc văn phòng của bạn.
+12:36
+个人DNA革命的涟漪可能很难预测，但有一件事是可以确定的：革命不会倒退，DNA技术已经蔓延得比我们的想象更快。
+Làn sóng của cuộc cách mạng máy DNA cá nhâncó thể khó để dự đoán.nhưng có 1 điều chắc chắn :Cách mạng kĩ thuật sẽ không lùi bước,và công nghệ DNA đã sẵn sàng để lan tỏanhanh hơn cả trí tưởng tượng của chúng ta
+12:49
+所以，如果你很好奇，去近距离探索个人化DNA吧——就从今天开始。因为好奇就存在于我们基因中。
+Vậy nên nếu bạn hiếu kì,hãy đến gần và cá nhân hóa DNA — ngay hôm nayTò mò về ADN nằm trong chúng ta.
+12:57
+（笑声）
+( Cười lớn )
+12:58
+谢谢大家。
+Cảm ơn.
+12:59
+（掌声）
+( Vỗ tay )

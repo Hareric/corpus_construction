@@ -1,0 +1,27 @@
+ 0:12
+2008年Nargis台风袭击了缅甸数百万人急需帮助联合国想调度人员、物资进入灾区但是标明灾区道路的地图并不存在地图上也没有标示医院，因此无法帮助台风受害的民众。
+Vào năm 2008, bão Nargis tàn phá Myanmar.Hàng triệu người rất cần sự trợ giúp.Liên Hiệp Quốc muốn nhanh chóng đưa người và hàng hoá tới vùng bị nạn.Nhưng không hề có bản đồ, chỉ dẫn đường phố,bản đồ chỉ dẫn bệnh viện, không có cách nào để tới được chỗ các nạn nhân.
+ 0:33
+当我们看洛杉矶，伦敦的地图时让人难以置信的是截止到2005年全世界只有15%的地方有精确地图可供地理软件使用联合国跟世界大部分的人们遭遇到一样的问题：没有详细的地图。
+Khi nhìn vào bản đồ của Los Angeles, hay của Londonchúng ta không thể tin được rằngcho tới năm 2005, mới chỉ có 15% diện tích thế giớiđã được vẽ lên bản đồ 1 cách chi tiết để có thể mã hoá.Liên Hiệp Quốc đi tiên phong trong vấn đềphần lớn các nơi đông dân trên thế giới phải đối mặt:không có bản đồ chi tiết.
+ 0:52
+幸好援助来了在谷歌有40个志愿者用一个软件标示了120,000公里的路3000个医院，运输和救援中心他们一共花了四天他们用的软件？叫Google Mapmaker （地图创作家）
+Và giờ giải pháp đang tới.Tại Google, 40 tình nguyện viênđã sử dụng 1 phần mềm mớiđể vẽ lên bản đồ 120.000km đường,3000 bệnh viện, trung tâm phân phối và trại cứu hộ.trong 4 ngày.Phần mềm mới nào họ dùng? Google Mapmaker.
+ 1:10
+Google Mapmaker 是一个允许我们标注我们地方讯息的科技人们使用这套软件在地图上标注了道路，河流学校，地方企业电影出租店到街角的商店。
+Google Mapmaker là công nghệ giúp cho mỗi người có thểvẽ bản đồ những nơi họ biết trong thực tế.Chúng ta sử dụng phần mềm nàyđể vẽ mọi thứ từ các con đường cho tới dòng sông,từ trường học cho tới các công ty kinh doanh địa phương,và từ cửa hàng băng đĩa cho tới các tiệm tạp hoá.
+ 1:26
+地图很重要诺贝尔奖被提名人Hernamdo De Soto认为发展那些大量未被开发的土地对发展中国家的经济跃进起着关键性的作用。举例来说，光在印度还有三兆美元价值的不动产没被发展。
+Bản đồ có ý nghĩa rất quan trọng.Ứng cử viên giải Nobel, Hernando De Sotođã nhận ra rằng chìa khoá cho sự phát triển kinh tếcủa các quốc gia đang phát triểnlà quy hoạch 1 số lượng lớn đất chưa sử dụng.Ví dụ, hàng triệu triệu dollarsgiá trị đất vẫn chưa được quy hoạch chỉ tính riêng ở trong Ấn Độ.
+ 1:43
+光在去年在170个国家数千个使用者在地图上加上了数百万笔的讯息创造了前所未有的精确度这都要感谢世界各地热情的使用者使这一切变为可能。
+Trong năm qua,hàng nghìn thành viên ở 170 quốc giađã đưa lên bản đồ hàng triệu thông tin,và tạo ra 1 bản đồ với độ chi tiết chưa bao giờ nghĩ là có thể làm được.Và điều này trở nên khả thibởi sức mạnh của thành viên khắp mọi nơi.
+ 2:01
+现在让我们看一看这些使用者标注地图的情况：就在我们在这里演说的同时有170个国家的人在标示地图你可以看到在非洲的Bridget在标示赛内加尔的道路离这近一点的Chulua在标示班加罗尔的NG路
+Bây giờ hãy cùng nhìn vào một vài bản đồđang được các thành viên tạo ra.Vậy, trong khi chúng ta trò chuyện, các thành viên vẫn đang vẽ bản đồở trong 170 nước này.Các bạn có thể thấy Bridget ở Châu Phi vừa mới vẽ 1 tuyến đường ở Senegal.Và, gần nhà hơn, Chalua, 1 con đường ở Bangalore.
+ 2:22
+这是综合了计算机地理动作识别，机器学习的结果这是分布在数百个城市数千个使用者的胜利一个使用者，一次编辑一个讯息
+Đây là kết quả của hình học điện toán,của sự nhận diện cử chỉ, và của sự học hỏi về máy móc.Đây là thắng lợi của hàng nghìn thành viên,ở hàng trăm thành phố,mỗi thành viên, một lần chỉnh sửa.
+ 2:34
+这也是对全球那70%还没标注地图的地区的邀请欢迎来到新世界（掌声）
+Đây là lời mời tới 70% diện tích trên hành tinhchưa được bản đồ hoá.Chào mừng tới thế giới mới.(Vỗ tay)

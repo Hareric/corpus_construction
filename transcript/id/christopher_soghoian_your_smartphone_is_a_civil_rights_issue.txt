@@ -1,0 +1,120 @@
+ 0:11
+在2016年的春季，一场在苹果公司和美国联邦调查局之间的战争吸引了全世界的注意。
+Pada musim semi 2016,sengketa hukum antara Appledan <i>Federal Bureau of Investigation</i> (FBI)telah menarik perhatian dunia.
+ 0:20
+苹果在其出产的手机产品里设置了安全系统，能够保护使用者的数据不被泄露。这意味着，犯罪分子、黑客，是的，甚至是政府都被拒之门外。对于苹果的客户而言，这太棒了。但政府就不那么高兴了。苹果公司做了一个清醒的决定，让自己远离监视活动。苹果让监视变得极其困难，不论是政府还是其他任何他人。
+Apple telah membangun fitur keamanandalam produk-produknyayang melindungi data dalam perangkat Appledari semua orang kecuali pemiliknya.Itu berarti para penjahat, peretas, dan bahkan pemerintahsemuanya tidak bisa masuk.Bagi pengguna Apple, hal ini sangat bagus.Tetapi pemerintah tidak begitu senang.Apple telah dengan sadar memutuskanuntuk keluar dari bisnis pengawasan.Apple telah membuat pengawasanmenjadi sesulit mungkinbagi pemerintah dan pelaku lainnya.
+ 0:52
+在全球智能手机市场上只有两个（主流）操作系统：iOS和安卓。iOS是苹果公司的，安卓系统是Google开发的。苹果花了很长时间和金钱来确保其产品具备极佳的安全性。苹果为储存在iPhone里的数据默认加密，苹果手机间传送的短信也被默认加密，无需用户进行任何设置。
+Sebenarnya hanya ada duasistem operasi ponsel pintardi pasar global:iOS dan Android.iOS dibuat oleh Apple.Android dibuat oleh Google.Apple telah menghabiskanbanyak waktu dan uanguntuk memastikan produk-produknyaseaman mungkin.Secara otomatis, Apple mengenkripsi semuadata yang tersimpan dalam iPhone,dan pesan singkat yang dikirimantara ponsel Appledienkripsi secara otomatis tanpa penggunaharus mengambil tindakan apapun.
+ 1:21
+这就意味着，如果警察拿到一部带有密码的苹果手机，他们将很难从手机中拿到任何数据，几乎不可能。相反的，安卓系统的安全性就没有那么好了。安卓手机，或者至少是大部分售卖给顾客的安卓手机，没有默认加密手机中储存的数据，安卓中内置的短信应用也没有使用加密。如果警察拿到了一部安卓手机，他们很有可能从那部手机中拿到想要获得的全部数据。
+Artinya adalahjika kepolisian menyita sebuah iPhoneyang menggunakan kata sandi,mereka akan kesulitan untukmendapatkan data dari iPhone tersebutatau bahkan tidak bisa sama sekali.Sebaliknya, sistem keamanan Androidtidak sebagus itu.Ponsel Android atau setidaknyakebanyakan ponsel Androidyang dijual di pasarantidak secara otomatis mengenkripsidata yang disimpan dalam perangkat.Dan aplikasi pesan singkat yang terpasangjuga tidak menggunakan enkripsi.Jadi, jika polisi menyitasebuah ponsel Android,kemungkinannya mereka bisa mendapatkansemua data yang mereka inginkandari perangkat tersebut.
+ 1:58
+两种智能手机，由世界上最大的两个公司出产，一个默认保护用户数据，一个不是。
+Dua ponsel pintardari dua perusahaan terbesar di dunia;yang satu melindungi data secara otomatis,dan yang satunya tidak.
+ 2:07
+苹果售卖的是昂贵的产品，占据高端市场。我们自然会期待奢侈品制造商的产品有更多功能。但并不是每个人都能买得起一部iPhone。这就是安卓系统真正占领的市场：中低端市场，十五亿无法负担，或是不愿意花600美元购买手机的用户。
+Apple adalah penjual barang mewah.Mereka mendominasipangsa pasar kelas atas.Dan kita berharap produsenbarang mewah menjual produk-produkdengan fitur yang lebih.Tetapi tidak semua orangmampu memiliki iPhone.Di situlah di mana Androidsangat mendominasi:di pangsa pasar kelas menengah dan bawah,ponsel pintar bagi 1,5 milyar orangyang tidak mampudan tidak mau membelanjakan600 dolar untuk sebuah ponsel.
+ 2:38
+但安卓系统手机的市场优势导致了我所说的“数字安全分化”。也就是，穷人和富人的隐私安全状况出现了越来越大的差异。那些买得起默认保护数据的电子产品的富人，以及那些使用无法保证安全的电子产品的穷人。
+Namun dominasi Androidtelah menyebabkan yang saya sebut"kesenjangan keamanan digital."Artinya, terdapat peningkatan kesenjanganantara privasi dan keamanankelompok kayayang bisa memiliki perangkat yangmengamankan data mereka secara otomatis,dan kelompok miskinyang perangkatnya hampir tidak bisamelindungi mereka secara otomatis.
+ 3:06
+想想看，苹果的用户一般来说是：银行家，律师，医生，政客。这些人越来越倾向于使用这些手机，能够默认保护他们的通话，他们的短信息，以及手机上的所有数据，而不需要做任何额外设置。相对的，那些穷人，和那些社会里最不受保护的人，使用的电子设备却将他们轻易地暴露于被监控的危险。
+Bayangkan pengguna Apple pada umumnya:seorang bankir, hakim, dokter, politisi.Orang-orang tersebut sekarang memilikiponsel pintar dalam kantongnyayang mengenkripsipanggilan telepon, pesan singkat,dan semua data dalam perangkat mereka,tanpa harus melakukan apapununtuk mengamankan informasi mereka.Sebaliknya, orang yang kurang mampudan paling rentan dalam masyarakat kitamenggunakan perangkat yang membuat merekabenar-benar rentan terhadap pengawasan.
+ 3:42
+在美国，我居住的地方，非洲裔美国人更容易被怀疑，或是更容易被记录在案，更容易被国家列为监视目标。但是，非洲裔美国人大多使用那些无法保护他们隐私的安卓系统手机。这是个问题。
+Di Amerika Serikat, tempat saya tinggal,orang keturunan Afrika-Amerikalebih sering dianggap mencurigakan,atau distereotipekan,dan lebih sering dijadikan targetpengawasan oleh pemerintah.Tetapi orang Afrika-Amerikajuga lebih cenderungmenggunakan perangkat Android,yang tidak melindungi merekaterhadap pengawasan.Ini adalah masalah.
+ 4:06
+我们必须记住，监视是一个工具。一个被有权力的人掌控，用来对付没有权力的人的工具。我认为苹果这样的公司自动加密保护用户的隐私，真的值得称赞，但如果那些能够保护自己不被政府轻易监视的人是有钱且有权的，这就是个问题。这不仅仅是一个关于隐私或是网络安全的问题。这是关于公民权利的问题。
+Kita harus ingat, bahwapengawasan merupakan alat.Alat yang digunakan oleh penguasaterhadap mereka yang tidak memiliki kuasa.Meski saya berpikir sungguh bagus ketikaperusahaan seperti Apple mempermudahorang-orang mengenkripsi data mereka,namun jika yang mampumelindungi diri merekadari pengawasaan pemerintahhanyalah orang-orang kaya dan berkuasa,ini adalah sebuah masalah.Dan bukan hanya masalah privasiatau masalah keamanan dunia maya.Ini adalah masalah hak sipil.
+ 4:41
+因此，安卓系统没有默认安全设置的问题，不仅仅是关乎那些使用这部电子产品的贫穷且容易受伤害的用户。这其实是个事关我们民主的问题。我解释下这是什么意思。
+Kurangnya standar keamananotomatis pada Androidbukan hanya masalah untukkelompok rentan dan tidak mampuyang bergantung pada perangkat tersebut.Ini adalah masalah bagi demokrasi kita.Saya akan menjelaskan maksud saya.
+ 4:57
+当代的社会运动依赖科技——从“珍视黑人生命”到“阿拉伯之春”，再到“占领华尔街”。这些运动的组织者和参与这些运动的人们越来越多地使用智能手机来联络和组织活动。于是，那些感到自身政权被这些运动所威胁的政府，会盯上组织者和他们的智能手机。很有可能，未来的马丁路德金，或是曼德拉，又或者是甘地，会用iPhone来保护自己不受政府监视。但也有可能，他们的口袋里只有一个便宜的20美元的安卓手机。
+Gerakan sosial modernbergantung pada teknologi,dari <i>Black Lives Matter</i> hingga <i>Arab Spring</i>sampai ke <i>Occupy Wall Street</i>.Penyelenggara dan anggota gerakan inisemakin sering berkomunikasi danberkoordinasi melalui ponsel pintar.Tentunya, pemerintah yang merasa terancamoleh gerakan semacam iniakan memperhatikan para aktivis ini dan ponsel pintar mereka.Nah, mungkin sajaseorang Martin Luther King atau Mandelaatau Gandhi di masa depanakan memiliki sebuah iPhone danterhindar dari pengawasan pemerintah.Tetapi kemungkinannya adalahmereka mungkin menggunakanponsel Android murah seharga 20 dolar.
+ 5:41
+如果我们对电子设备安全问题置之不理，如果我们不确保社会里的每个人都能得到电子产品安全加密的保护，能够平等地保护自身不被国家监视，不仅仅是那些贫穷和易受伤害的人会暴露在监视下，未来的公民权利运动也有可能在它们真正兴起之前被扼杀。
+Jika kita tidak melakukan apa pun untukmenanggapi kesenjangan keamanan digital,jika kita tidak melakukan apa pununtuk memastikan semua orangmerasakan keuntunganyang sama dari enkripsidan sama-sama mampu melindungi diridari pengawasan oleh pemerintah,pengawasan mungkin tidak hanya akanmenyasar kelompok rentan & tidak mampu,tapi pergerakan hak sipil di masa depanpun mungkin akan dipatahkansebelum mereka mencapai potensi penuh mereka.
+ 6:06
+谢谢。
+Terima kasih.
+ 6:07
+（鼓掌）
+(Tepuk tangan)
+ 6:14
+海伦·沃特(HW)：克里斯，非常感谢你。我有一个问题想要问你。我们近期从媒体获知，脸书的马克·扎克伯格把（电脑）摄像头遮盖起来了，并且也对自己的耳机麦克风做了些保护。我想问你一个比较私人的问题：你也这样做吗？另外，我们在座的各位，包括我自己，需要这样做吗？我们也需要把这些都遮盖起来吗？
+Helen Walters: Chris, terima kasih banyak.Saya punya pertanyaan untuk Anda.Akhir-akhir ini kita melihat di mediabahwa Mark Zuckerberg dari Facebookmenutupi kameranyadan melakukan sesuatu pada<i>jack</i> <i>headphone-mic</i>-nya.Saya mau bertanya satupertanyaan personal:Apa Anda juga melakukannya?Mewakili semua orang disini,terutama saya sendiri,apa kita sebaiknya melakukannya?Apa kita sebaiknya menutupi alat-alat ini?
+ 6:38
+克里斯托弗·索戈扬（CS）：我喜欢用创可贴来贴住他们，因为你可以反复把它们撕掉再贴上，当你需要打电话，或是用skype视频通话的时候。把摄像头贴起来可能是保护自己的隐私最好的方式，这是最简单易行的。真的有很多恶意程序，病毒软件能够侵入你的摄像头，甚至都不会有（摄像头开启指示）灯亮起来。犯罪分子、跟踪狂可能会使用这样的软件。你可以在网上用19.99美元买到“窥视你的前女友”软件。这真的很可怕。当然，政府也会使用这些。这同样也会导致性侵害案件，这样的偷窥监视活动很可能被用来侵害妇女或是任何人，让他们在社会上抬不起头。即使你认为自己没什么要隐藏的，但是，如果你和孩子，或是青少年一起生活，请确保贴住他们的摄像头，来保护他们。
+Christopher Soghoian: Tempelkan stiker,sebenarnya, saya suka handiplast,karena Anda bisa melepasdan menempelkannya kembalikapanpun anda maumenelpon atau menggunakan Skype.Menempelkan stiker padakamera komputer Andamungkin adalah tindakan terbaikuntuk melindungi privasi Andasecara murah meriah.Ada malware, software berbahayadi luar sanayang bisa mengambil alihkontrol kamera komputer Andabahkan tanpa menyalakan lampunya.Ini digunakan oleh para penjahat,para penguntit.Siapa pun bisa membeli softwareuntuk "memata-matai mantan Anda"seharga 20 dolar secara online.Sangat mengerikan.Dan tentu saja, pengawasan jugadilakukan oleh pemerintah.Dan jelas ada komponen kekerasan seksual,dimana pengawasan semacam ini bisa digunakan secara efektifterhadap wanita dan orang lain yang ber-potensi dipermalukan di masyarakat kita.Meski Anda berpikir bahwaAnda tidak menyembunyikan apapun,setidaknya, apabila Anda punyaanak kecil atau remaja,pastikan Anda menempelkan stiker dikamera mereka dan melindungi mereka.
+ 7:37
+HW: 太棒了，谢谢你。CS: 谢谢。
+HW: Wow. Terima kasih banyak.CS: Terima kasih.
+ 7:38
+HW: 谢谢，克里斯。
+Terima kasih, Chris.
+ 7:39
+（鼓掌）
+(Tepuk tangan)
+ 0:11
+在2016年的春季，一场在苹果公司和美国联邦调查局之间的战争吸引了全世界的注意。
+Pada musim semi 2016,sengketa hukum antara Appledan <i>Federal Bureau of Investigation</i> (FBI)telah menarik perhatian dunia.
+ 0:20
+苹果在其出产的手机产品里设置了安全系统，能够保护使用者的数据不被泄露。这意味着，犯罪分子、黑客，是的，甚至是政府都被拒之门外。对于苹果的客户而言，这太棒了。但政府就不那么高兴了。苹果公司做了一个清醒的决定，让自己远离监视活动。苹果让监视变得极其困难，不论是政府还是其他任何他人。
+Apple telah membangun fitur keamanandalam produk-produknyayang melindungi data dalam perangkat Appledari semua orang kecuali pemiliknya.Itu berarti para penjahat, peretas, dan bahkan pemerintahsemuanya tidak bisa masuk.Bagi pengguna Apple, hal ini sangat bagus.Tetapi pemerintah tidak begitu senang.Apple telah dengan sadar memutuskanuntuk keluar dari bisnis pengawasan.Apple telah membuat pengawasanmenjadi sesulit mungkinbagi pemerintah dan pelaku lainnya.
+ 0:52
+在全球智能手机市场上只有两个（主流）操作系统：iOS和安卓。iOS是苹果公司的，安卓系统是Google开发的。苹果花了很长时间和金钱来确保其产品具备极佳的安全性。苹果为储存在iPhone里的数据默认加密，苹果手机间传送的短信也被默认加密，无需用户进行任何设置。
+Sebenarnya hanya ada duasistem operasi ponsel pintardi pasar global:iOS dan Android.iOS dibuat oleh Apple.Android dibuat oleh Google.Apple telah menghabiskanbanyak waktu dan uanguntuk memastikan produk-produknyaseaman mungkin.Secara otomatis, Apple mengenkripsi semuadata yang tersimpan dalam iPhone,dan pesan singkat yang dikirimantara ponsel Appledienkripsi secara otomatis tanpa penggunaharus mengambil tindakan apapun.
+ 1:21
+这就意味着，如果警察拿到一部带有密码的苹果手机，他们将很难从手机中拿到任何数据，几乎不可能。相反的，安卓系统的安全性就没有那么好了。安卓手机，或者至少是大部分售卖给顾客的安卓手机，没有默认加密手机中储存的数据，安卓中内置的短信应用也没有使用加密。如果警察拿到了一部安卓手机，他们很有可能从那部手机中拿到想要获得的全部数据。
+Artinya adalahjika kepolisian menyita sebuah iPhoneyang menggunakan kata sandi,mereka akan kesulitan untukmendapatkan data dari iPhone tersebutatau bahkan tidak bisa sama sekali.Sebaliknya, sistem keamanan Androidtidak sebagus itu.Ponsel Android atau setidaknyakebanyakan ponsel Androidyang dijual di pasarantidak secara otomatis mengenkripsidata yang disimpan dalam perangkat.Dan aplikasi pesan singkat yang terpasangjuga tidak menggunakan enkripsi.Jadi, jika polisi menyitasebuah ponsel Android,kemungkinannya mereka bisa mendapatkansemua data yang mereka inginkandari perangkat tersebut.
+ 1:58
+两种智能手机，由世界上最大的两个公司出产，一个默认保护用户数据，一个不是。
+Dua ponsel pintardari dua perusahaan terbesar di dunia;yang satu melindungi data secara otomatis,dan yang satunya tidak.
+ 2:07
+苹果售卖的是昂贵的产品，占据高端市场。我们自然会期待奢侈品制造商的产品有更多功能。但并不是每个人都能买得起一部iPhone。这就是安卓系统真正占领的市场：中低端市场，十五亿无法负担，或是不愿意花600美元购买手机的用户。
+Apple adalah penjual barang mewah.Mereka mendominasipangsa pasar kelas atas.Dan kita berharap produsenbarang mewah menjual produk-produkdengan fitur yang lebih.Tetapi tidak semua orangmampu memiliki iPhone.Di situlah di mana Androidsangat mendominasi:di pangsa pasar kelas menengah dan bawah,ponsel pintar bagi 1,5 milyar orangyang tidak mampudan tidak mau membelanjakan600 dolar untuk sebuah ponsel.
+ 2:38
+但安卓系统手机的市场优势导致了我所说的“数字安全分化”。也就是，穷人和富人的隐私安全状况出现了越来越大的差异。那些买得起默认保护数据的电子产品的富人，以及那些使用无法保证安全的电子产品的穷人。
+Namun dominasi Androidtelah menyebabkan yang saya sebut"kesenjangan keamanan digital."Artinya, terdapat peningkatan kesenjanganantara privasi dan keamanankelompok kayayang bisa memiliki perangkat yangmengamankan data mereka secara otomatis,dan kelompok miskinyang perangkatnya hampir tidak bisamelindungi mereka secara otomatis.
+ 3:06
+想想看，苹果的用户一般来说是：银行家，律师，医生，政客。这些人越来越倾向于使用这些手机，能够默认保护他们的通话，他们的短信息，以及手机上的所有数据，而不需要做任何额外设置。相对的，那些穷人，和那些社会里最不受保护的人，使用的电子设备却将他们轻易地暴露于被监控的危险。
+Bayangkan pengguna Apple pada umumnya:seorang bankir, hakim, dokter, politisi.Orang-orang tersebut sekarang memilikiponsel pintar dalam kantongnyayang mengenkripsipanggilan telepon, pesan singkat,dan semua data dalam perangkat mereka,tanpa harus melakukan apapununtuk mengamankan informasi mereka.Sebaliknya, orang yang kurang mampudan paling rentan dalam masyarakat kitamenggunakan perangkat yang membuat merekabenar-benar rentan terhadap pengawasan.
+ 3:42
+在美国，我居住的地方，非洲裔美国人更容易被怀疑，或是更容易被记录在案，更容易被国家列为监视目标。但是，非洲裔美国人大多使用那些无法保护他们隐私的安卓系统手机。这是个问题。
+Di Amerika Serikat, tempat saya tinggal,orang keturunan Afrika-Amerikalebih sering dianggap mencurigakan,atau distereotipekan,dan lebih sering dijadikan targetpengawasan oleh pemerintah.Tetapi orang Afrika-Amerikajuga lebih cenderungmenggunakan perangkat Android,yang tidak melindungi merekaterhadap pengawasan.Ini adalah masalah.
+ 4:06
+我们必须记住，监视是一个工具。一个被有权力的人掌控，用来对付没有权力的人的工具。我认为苹果这样的公司自动加密保护用户的隐私，真的值得称赞，但如果那些能够保护自己不被政府轻易监视的人是有钱且有权的，这就是个问题。这不仅仅是一个关于隐私或是网络安全的问题。这是关于公民权利的问题。
+Kita harus ingat, bahwapengawasan merupakan alat.Alat yang digunakan oleh penguasaterhadap mereka yang tidak memiliki kuasa.Meski saya berpikir sungguh bagus ketikaperusahaan seperti Apple mempermudahorang-orang mengenkripsi data mereka,namun jika yang mampumelindungi diri merekadari pengawasaan pemerintahhanyalah orang-orang kaya dan berkuasa,ini adalah sebuah masalah.Dan bukan hanya masalah privasiatau masalah keamanan dunia maya.Ini adalah masalah hak sipil.
+ 4:41
+因此，安卓系统没有默认安全设置的问题，不仅仅是关乎那些使用这部电子产品的贫穷且容易受伤害的用户。这其实是个事关我们民主的问题。我解释下这是什么意思。
+Kurangnya standar keamananotomatis pada Androidbukan hanya masalah untukkelompok rentan dan tidak mampuyang bergantung pada perangkat tersebut.Ini adalah masalah bagi demokrasi kita.Saya akan menjelaskan maksud saya.
+ 4:57
+当代的社会运动依赖科技——从“珍视黑人生命”到“阿拉伯之春”，再到“占领华尔街”。这些运动的组织者和参与这些运动的人们越来越多地使用智能手机来联络和组织活动。于是，那些感到自身政权被这些运动所威胁的政府，会盯上组织者和他们的智能手机。很有可能，未来的马丁路德金，或是曼德拉，又或者是甘地，会用iPhone来保护自己不受政府监视。但也有可能，他们的口袋里只有一个便宜的20美元的安卓手机。
+Gerakan sosial modernbergantung pada teknologi,dari <i>Black Lives Matter</i> hingga <i>Arab Spring</i>sampai ke <i>Occupy Wall Street</i>.Penyelenggara dan anggota gerakan inisemakin sering berkomunikasi danberkoordinasi melalui ponsel pintar.Tentunya, pemerintah yang merasa terancamoleh gerakan semacam iniakan memperhatikan para aktivis ini dan ponsel pintar mereka.Nah, mungkin sajaseorang Martin Luther King atau Mandelaatau Gandhi di masa depanakan memiliki sebuah iPhone danterhindar dari pengawasan pemerintah.Tetapi kemungkinannya adalahmereka mungkin menggunakanponsel Android murah seharga 20 dolar.
+ 5:41
+如果我们对电子设备安全问题置之不理，如果我们不确保社会里的每个人都能得到电子产品安全加密的保护，能够平等地保护自身不被国家监视，不仅仅是那些贫穷和易受伤害的人会暴露在监视下，未来的公民权利运动也有可能在它们真正兴起之前被扼杀。
+Jika kita tidak melakukan apa pun untukmenanggapi kesenjangan keamanan digital,jika kita tidak melakukan apa pununtuk memastikan semua orangmerasakan keuntunganyang sama dari enkripsidan sama-sama mampu melindungi diridari pengawasan oleh pemerintah,pengawasan mungkin tidak hanya akanmenyasar kelompok rentan & tidak mampu,tapi pergerakan hak sipil di masa depanpun mungkin akan dipatahkansebelum mereka mencapai potensi penuh mereka.
+ 6:06
+谢谢。
+Terima kasih.
+ 6:07
+（鼓掌）
+(Tepuk tangan)
+ 6:14
+海伦·沃特(HW)：克里斯，非常感谢你。我有一个问题想要问你。我们近期从媒体获知，脸书的马克·扎克伯格把（电脑）摄像头遮盖起来了，并且也对自己的耳机麦克风做了些保护。我想问你一个比较私人的问题：你也这样做吗？另外，我们在座的各位，包括我自己，需要这样做吗？我们也需要把这些都遮盖起来吗？
+Helen Walters: Chris, terima kasih banyak.Saya punya pertanyaan untuk Anda.Akhir-akhir ini kita melihat di mediabahwa Mark Zuckerberg dari Facebookmenutupi kameranyadan melakukan sesuatu pada<i>jack</i> <i>headphone-mic</i>-nya.Saya mau bertanya satupertanyaan personal:Apa Anda juga melakukannya?Mewakili semua orang disini,terutama saya sendiri,apa kita sebaiknya melakukannya?Apa kita sebaiknya menutupi alat-alat ini?
+ 6:38
+克里斯托弗·索戈扬（CS）：我喜欢用创可贴来贴住他们，因为你可以反复把它们撕掉再贴上，当你需要打电话，或是用skype视频通话的时候。把摄像头贴起来可能是保护自己的隐私最好的方式，这是最简单易行的。真的有很多恶意程序，病毒软件能够侵入你的摄像头，甚至都不会有（摄像头开启指示）灯亮起来。犯罪分子、跟踪狂可能会使用这样的软件。你可以在网上用19.99美元买到“窥视你的前女友”软件。这真的很可怕。当然，政府也会使用这些。这同样也会导致性侵害案件，这样的偷窥监视活动很可能被用来侵害妇女或是任何人，让他们在社会上抬不起头。即使你认为自己没什么要隐藏的，但是，如果你和孩子，或是青少年一起生活，请确保贴住他们的摄像头，来保护他们。
+Christopher Soghoian: Tempelkan stiker,sebenarnya, saya suka handiplast,karena Anda bisa melepasdan menempelkannya kembalikapanpun anda maumenelpon atau menggunakan Skype.Menempelkan stiker padakamera komputer Andamungkin adalah tindakan terbaikuntuk melindungi privasi Andasecara murah meriah.Ada malware, software berbahayadi luar sanayang bisa mengambil alihkontrol kamera komputer Andabahkan tanpa menyalakan lampunya.Ini digunakan oleh para penjahat,para penguntit.Siapa pun bisa membeli softwareuntuk "memata-matai mantan Anda"seharga 20 dolar secara online.Sangat mengerikan.Dan tentu saja, pengawasan jugadilakukan oleh pemerintah.Dan jelas ada komponen kekerasan seksual,dimana pengawasan semacam ini bisa digunakan secara efektifterhadap wanita dan orang lain yang ber-potensi dipermalukan di masyarakat kita.Meski Anda berpikir bahwaAnda tidak menyembunyikan apapun,setidaknya, apabila Anda punyaanak kecil atau remaja,pastikan Anda menempelkan stiker dikamera mereka dan melindungi mereka.
+ 7:37
+HW: 太棒了，谢谢你。CS: 谢谢。
+HW: Wow. Terima kasih banyak.CS: Terima kasih.
+ 7:38
+HW: 谢谢，克里斯。
+Terima kasih, Chris.
+ 7:39
+（鼓掌）
+(Tepuk tangan)

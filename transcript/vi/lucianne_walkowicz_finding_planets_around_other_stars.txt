@@ -1,0 +1,30 @@
+ 0:11
+在我们太阳系之外的行星系就好象遥远的城市，我们可以看见有灯火在闪烁，但是却无法踏上城市的街道然而通过研究这些闪烁，我们可以了解到恒星是如何与行星相互作用来形成他们自己的生态系统并创造出适宜生命繁衍的栖息地
+Những hệ hành tinh bên ngoài Hệ Mặt Trờigiống như những thành phố xa xăm với ánh đèn thoắt ẩn thoắt hiện,mà chúng ta không bao giờ có thể đặt chân tới.Bằng cách nghiên cứu thứ ánh sáng chớp tắt ấy,chúng ta có thể biết được cách các ngôi sao và hành tinh tương tác với nhauđể hình thành một "hệ sinh thái" của riêng chúngnơi sự sống có thể sinh sôi và phát triển.
+ 0:29
+在这张东京的城市图片中，我将从最新型的行星探测空间望远镜，开普勒任务，所获的的数据隐藏在了这个街区里。可以看见吗？在这里。这只是开普勒观测行星的范围中的一小块儿。通过每半个小时一次精确地测量全部15万颗行星的光谱。
+Trong bức hình toàn cảnh Tokyo về đêm này,tôi đã giấu một số dữ liệucủa chiếc kính thiên văn mới nhất,Kepler Mission.Các bạn phát hiện ra nó không?Nó đây.Đây chỉ là một bộ phận nhỏ bầu trời mà Kepler đang quan sát,nhắm tìm kiếm những hành tinhbằng cách đo lượng ánh sáng của hơn 150.000 ngôi sao,cùng một lúc, cứ 30 phút một lần,và cực kì chính xác.
+ 0:53
+我们想要寻找是行星在移动过程中经过恒星时阻挡住射向我们的一部分光线所造成的暗淡。在仅两年的运行后我们发现了超过1200个可能是围绕其他恒星运转的行星系统。相比较下，在开普勒任务之前的长达二十年的搜寻中，我们只发现了早于开普勒的400颗行星。
+Thứ chúng tôi đang tìm kiếmlà những điểm sáng nhỏ bé mờ nhạtgây ra bởi một hành tinh di chuyển ngang qua một ngôi saovà chặn bớt ánh sáng từ ngôi sao đó truyền đến đây.Chỉ sau 2 năm đưa vào vận hành,chúng tôi đã phát hiện ra hơn 1.200hệ hành tinh tiềm tàng quanh các ngôi sao.Để các bạn dễ hình dung,trong suốt 2 thập kỉ vừa qua,chúng ta chỉ thấy khoảng 400 hệtrước khi có Kepler.
+ 1:20
+当发现这光亮的减弱我们可以得到一些信息。一是可以确认那里有一颗行星，还有它的大小，和距离它所围绕的恒星的距离。这个距离是非常重要的，因为它能告诉我们大致上这行星接受到了多少光。对距离与光照强弱的了解是非常关键的，这就好像我们坐在一个篝火边上。你会想要靠的够近好让自己取暖，但是又不可以太近，导致温度太高把自己烫伤。
+Khi chúng tôi dò được những đốm sáng này,chúng tôi có thể xác định được nhiều thứ.Ví dụ, chúng tôi biết rằng có một hành tinh tồn tại ở đó,chúng tôi cũng đo được kích cỡ của nóvà khoảng cách của nó đến ngôi sao chính trong hệ.Việc xác định khoảng cách rất quan trọngvì nó chúng tôi biếtlượng ánh sáng mà hành tinh ấy nhận được.Việc biết khoảng cách và xác định lượng quang năng rất quan trọng,hãy tưởng tượng như việc chúng ta đang ngồi quanh đống lửa trại.Bạn cần ngồi đủ gần để giữ ấm,nhưng không quá gầnđến nỗi bạn bị thiêu rụi.
+ 1:50
+然而，除了整体上行星会接受到多少光线，对恒星的还有许多其他的信息需要了解。让我来告诉你原因。这是我们的行星，太阳。这里所呈现的是可见光。就是我们人类的眼睛可以看见的光。大家发现这基本上就是典型的我们小时候所画的象征太阳的黄色圆球。但大家有没有看到还有一些别的东西，这就是太阳的表面有一些斑点。这些斑点被称作太阳黑子，他们是太阳磁场活动的表现之一。它使得恒星发出的光产生变化。这个现象是可以用开普勒望远镜非常精确地测量与追踪的。
+Tuy nhiên, có nhiều thứ để tìm hiểu về những ngôi sao này,hơn là việc bạn nhận được bao nhiêu ánh sáng từ chúng.Và đây là lí do.Đây là ngôi sao của chúng ta: Mặt Trời.thể hiện bằng ánh sáng nhìn thấy được.Đó là loại ánh sáng mà bạn có thể quan sát được bằng mắt thường.Bạn sẽ nhớ lại rằng nó trông khá giốngmột quả cầu màu vàng —thứ Mặt Trời mà trẻ con hay vẽ.Nhưng bạn cũng để ý thấy thứ khác,rằng trên bề mặt Mặt Trờicó những đốm màu đen.Những thứ này được gọi là vết đen,và chúng chỉ là một trong số các biểu hiệncủa từ trường Mặt Trời.Chúng khiến ánh sáng từ ngôi sao mất ổn định.Và chúng tôi có thể đo lường sự bất ổn nàymột cách rất chính xác nhờ Kepler, và truy ra những ảnh hưởng của chúng.
+ 2:30
+而这也才只是冰山一角而已。如果我们能看见UV射线与X射线，我们会真正认识到太阳磁场活动所产生的活跃又激烈的景象。其他的恒星上也发生着同样的事情。想想一下，即使窗外乌云密布，这样壮观的景象在我们的天空之上时刻都在发生。当我们想要了解一颗行星是否适宜居住，是否能承载生命，我们不仅想要知道它接受到多少阳光，温度有多高，我们还想知道它的太空气候。由恒星所产生的强力的辐射线，比如UV射线与X射线。行星就沐浴在这些强力的射线中。
+Tuy vậy đây chỉ là phần nổi của tảng băng.Nếu mắt chúng ta nhìn được tia cực tím hay tia X,chúng ta sẽ thấy rõnhững biến động mạnh mẽtrong từ trường của Mặt Trời —những biến động này cũng diễn ra trên các ngôi sao khác.Thử nghĩ rằng kể cả khi trời nhiều mây,những sự kiện này vẫn luôn diễn rangay trên đầu chúng ta.Vậy nên khi chúng tôi muốn tìm hiểu xem một hành tinhcó phù hợp với sự sống hay không,chúng tôi không chỉ muốn biết tổng lượng quang năng mà nó nhận đượchay lượng nhiệt năng có phù hợp không,mà chúng tôi còn muốn xác định điều kiện không gian xung quanh hành tinh đó —bao gồm loại bức xạ năng lượng cao như thế này,và những tia tử ngoại và tia Xdo ngôi sao chính sinh ratràn ngập trong màn bức xạ năng lượng cao này.
+ 3:14
+还有，我们并不能从其他恒星的行星上获得同观察太阳系同样详细的信息。我这里展示的是金星，地球和火星－－这三颗我们太阳系中的行星基本上大小相同，而其中只有一颗适合生命生存。但是我们可以做的是通过测量我们恒星发出的光，研究恒星与各个行星之间的关系。来摸索出一些线索好像我们知道在茫茫太空中哪些行星可能是会找到生命的地方。
+Vì vậy, chúng ta không thể quan sátnhững hành tinh xung quanh các ngôi sao đómột cách chi tiếtnhư khi chúng ta quan sát các hành tinh trong Hệ Mặt Trời.Đây là ảnh của Kim Tinh, Trái Đất và Hỏa Tinh —3 hành tinh trong Hệ Mặt Trời có kích cỡ gần giống nhau,nhưng chỉ một trong số chúngcó điều kiện thích hợp cho sự sống.Nhưng ngay lúc này chúng ta có thểđo lường cường độ ánh sáng từ các ngôi saovà qua đó hiểu về mối quan hệgiữa các hành tinh và ngôi sao chính của hệnhằm tìm ra lời giảivề việc hành tinh nào sẽ là ứng viên cho việctruy tìm sự sống ngoài vũ trụ.
+ 3:47
+开普勒不会在每一颗它所观察的恒星周围发现行星。但它所做的每一个测量都非常宝贵。因为它告诉我们恒星与行星间的关系，还有星光才是真正在宇宙中为生命的形成提供条件的角色。虽然是开普勒望远镜在凝视着太空但最终是我们，在不断地搜寻。
+Kepler tuy không thể lúc nào cũng tìm ranhững hành tinh trong mọi ngôi sao nó quan sát.Nhưng tất cả những phép đo mà nó thực hiệnđều rất quý giá,vì nó cho chúng ta biết về mối quan hệgiữa các vì sao và các hành tinh,và những ngôi sao nàocó thể đã đặt nền móngcho việc hình thành sự sống.Kính thiên văn Kepler chỉ là dụng cụ để quan sát,chính chúng ta mới là những người đóng vai trò quyết định.
+ 4:11
+谢谢
+Xin cảm ơn.
+ 4:13
+（掌声）
+(Vỗ tay)

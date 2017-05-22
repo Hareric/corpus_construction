@@ -1,0 +1,27 @@
+ 0:12
+2008年Nargis台风袭击了缅甸数百万人急需帮助联合国想调度人员、物资进入灾区但是标明灾区道路的地图并不存在地图上也没有标示医院，因此无法帮助台风受害的民众。
+Pada tahun 2008, Puting Beliung Nargis melanda Myanmar.Jutaan manusia memerlukan bantuan.Bangsa-bangsa Bersatu mahu segera menghantar penyelamat dan bekalan ke sana.Tetapi tidak terdapat peta, tidak ada peta jalan raya,tidak ada peta hospital, tidak ada cara untuk membantu mangsa puting beliung itu.
+ 0:33
+当我们看洛杉矶，伦敦的地图时让人难以置信的是截止到2005年全世界只有15%的地方有精确地图可供地理软件使用联合国跟世界大部分的人们遭遇到一样的问题：没有详细的地图。
+Apabila kita melihat pada peta Los Angeles atau Londonsukar untuk mempercayaibahawa sejak 2005 hanya 15 peratus kawasan duniayang dipeta ke tahap perincian geokod.Bangsa-bangsa Bersatu berhadapan dengan masalahyang dihadapi oleh kebanyakan negara ramai penduduk:tidak mempunyai peta yang terperinci.
+ 0:52
+幸好援助来了在谷歌有40个志愿者用一个软件标示了120,000公里的路3000个医院，运输和救援中心他们一共花了四天他们用的软件？叫Google Mapmaker （地图创作家）
+Namun, bantuan sedang tiba.Di Google, 40 orang relawanmenggunakan satu perisian yang baruuntuk memeta 120,000 kilometer jalan raya,3,000 tapak hospital, logistik dan bantuan.Mereka mengambil masa empat hari.Perisian baru yang mereka gunakan? Google Mapmaker.
+ 1:10
+Google Mapmaker 是一个允许我们标注我们地方讯息的科技人们使用这套软件在地图上标注了道路，河流学校，地方企业电影出租店到街角的商店。
+Google Mapmaker ialah satu teknologi yang memperkasakan kitauntuk memeta apa yang kita tahu di peringkat tempatan.Orang ramai menggunakan perisian iniuntuk memeta segala-galanya dari jalan raya hingga sungai,dari sekolah hingga perniagaan tempatan,dan kedai video hingga kedai sudut.
+ 1:26
+地图很重要诺贝尔奖被提名人Hernamdo De Soto认为发展那些大量未被开发的土地对发展中国家的经济跃进起着关键性的作用。举例来说，光在印度还有三兆美元价值的不动产没被发展。
+Peta adalah penting.Calon Hadiah Nobel Hernando De Sotomengiktiraf bahawa kunci kepada pemacuan ekonomibagi kebanyakan negara-negara sedang membangunialah untuk menggunakan kawasan tanah yang luas yang tidak dimanfaatkan.Sebagai contoh, di India sahajahartanah bernilai trilion dolar tidak dipermodalkan.
+ 1:43
+光在去年在170个国家数千个使用者在地图上加上了数百万笔的讯息创造了前所未有的精确度这都要感谢世界各地热情的使用者使这一切变为可能。
+Pada tahun lalu,ribuan pengguna di 170 buah negaratelah memeta jutaan cebisan maklumat,dan mencipta sebuah peta dengan tahap perincian yang tidak pernah difikirkan boleh.Dan hal ini berlaku dengankuasa pengguna yang penuh semangat di mana-mana.
+ 2:01
+现在让我们看一看这些使用者标注地图的情况：就在我们在这里演说的同时有170个国家的人在标示地图你可以看到在非洲的Bridget在标示赛内加尔的道路离这近一点的Chulua在标示班加罗尔的NG路
+Mari kita lihat beberapa buah petayang sedang dicipta oleh pengguna sekarang.Jadi, sedang kita berbicara, pengguna sedang memeta duniadi 170 buah negara ini.Anda boleh lihat Bridget di Afrika yang baru memeta sebatang jalan raya di Senegal.Dan, lebih dekat dengan negara kita, Chalua, sebatang jalan raya N.G di Bangalore.
+ 2:22
+这是综合了计算机地理动作识别，机器学习的结果这是分布在数百个城市数千个使用者的胜利一个使用者，一次编辑一个讯息
+Ini adalah hasil daripada geometri perkomputeraan,pengenalan gerak isyarat dan pembelajaran mesin.Ini merupakan kemenangan bagi ribuan pengguna,di ratusan bandar-bandar,seorang pengguna, satu suntingan setiap masa.
+ 2:34
+这也是对全球那70%还没标注地图的地区的邀请欢迎来到新世界（掌声）
+Ini adalah satu pelawaan kepada 70 peratusdaripada kawasan planet kita yang belum dipeta.Selamat datang ke dunia baru.(Tepuk tangan)

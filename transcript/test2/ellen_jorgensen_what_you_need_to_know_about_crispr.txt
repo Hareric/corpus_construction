@@ -1,0 +1,87 @@
+ 0:11
+有人听说过 CRISPR 吗大家应该都知道
+Vậy, đã ai từng nghe về CRISPR chưa?Tôi sẽ rất ngạc nhiên nếu bạnchưa từng.
+ 0:17
+这是一种人为改变染色体的技术这种技术如此全能却又十分引人争议以至于各种有趣的争论应运而生我们要猛犸象复活吗？我们应该改造人类胚胎吗？我最喜欢的一个问题是我们能够接受用这种技术将一个人类认为有害的物种从地球上完全消灭吗？
+Đây là 1 công nghệ chỉnh sửa gene,rất tiện lợi và cũng gây nhiều tranh cãivì nó làm dấy lên nhiều cuộc tranh cãi thú vị.Chúng ta có nên hồi sinhvoi ma mút lông xoăn?Chúng ta có nên chỉnh sửaphôi thai loài người?Và điều làm tôi hứng thú đó là:Làm cách nào chúng ta có thể biện hộcho việc quét sạch toàn bộ 1 loàimà ta cảm thấy nguy hại cho con ngườikhỏi bề mặt Trái Đất,sử dụng công nghệ này?
+ 0:46
+这种科技比控制它本身的常规技术发展的还要快在过去六年里我致力于让更多人了解这种技术以及它的意义何在
+Ngành khoa học này đang phát triểnnhanh hơn so vớicác cơ chế kiểm soát nó.Và vì vậy, trong vòng 6 năm gần đây,tôi đã tự thực hiện sứ mệnh của mìnhđể đảm bảo rằng càng nhiều ngườihiểu đượcnhững loại công nghệ nàyvà sứ mệnh của chúng
+ 1:03
+现在，CRISPR已经成了媒体炒作的焦点最普遍的用于描述它的词是“容易” 和“廉价”我想将这个话题深入下去并探讨与之有关的谜团以及现实状况
+CIRSPR hiện giờ trở thành 1 chủ đềcủa các phương tiện truyền thôngvà các từ ngữ thường được sử dụngđể miêu tả là "rẻ" và "dễ dàng".Vì vậy điều mà tôi muốn làm là đi sâu hơn1 chút vào vấn đềvà nhìn vào 1 số bí ẩn và thực tếxung quanh CRISPR.
+ 1:21
+如果 你想在一条染色体上做CRISPR你得首先破环DNA分子这种破坏需要从双螺旋结构上斩断双链结构随后细胞的修复机制开始插手这是我们就可以让这些修复系统来改造我们想要的基因了这不是自然的改造这就是这种技术的原理这是一个两步走的技术首先要有一个Cas9蛋白质还有一种向导RNA可以将其比作定向导弹于是Cas9蛋白质-我喜欢将其拟人化Cas9 就像是吃豆人中的小圆脸迫不及待地想要吃掉 DNA向导 RNA 就像是控制住它不进入染色体的皮带直到它找到了符合的位置这两种分子的结合体就叫做 CRISPR这是一种我们从古老的细菌结构中发现的方法
+Nếu bạn đang cố gắngchỉnh sửa 1 đoạn gene,điều đầu tiên bạn phải làmlà làm tác động lên DNA.Sự hư hại này ở dạngphá vỡ cấu trúc sợi đơn DNAqua chuỗi xoắn kép.Và sau đó các quá trình sửa chữacủa tế bào khởi độngvà sau đó chúng tôi khiến chocác cơ chế sửa chữa nàychỉnh sửa theo ý của chúng tôi,không phải là một sửa chữa tự nhiênĐó là cách CRISPR hoạt động.Nó là 1 hệ thống có 2 phần.Bạn có protein Cas9và 1 thứ gọi là RNA mồi.Tôi thích gọi nó là mồi dẫn.Cas9 này - tôi thích nhân hóa chúng -vậy nên Cas9 là 1 thứ nhìn giống Pac - Manmuốn nhai vụn DNA,và RNA mồi là dây xích giữ nókhỏi đoạn genecho tới khi nó tìm được vị trí chính xácnơi nó kết hợp được.Và sự kết hợp của 2 thứ nàyđược gọi là CRISPR.Đây là hệ thống mà chúng tôi mượn lấytừ hệ thống miễn dịch của 1 loài vi khuẩnrất rất cổ.
+ 2:16
+最令人惊奇的部分是 RNA虽只有20个有效信息但却是整个结构的定位部分CRISPR 设计起来非常容易并且价格低廉这种手法已经被模块化并且一成不变因此这种技术用起来十分便捷并且有效
+Phần thú vị về nó chính là RNA mồi,chỉ có 20 chữ cái,là mục tiêu của hệ thống.Nó thiết kế rất dễ dàng,và mua nó với giá rất rẻ.Đây là 1 phần mô đun của hệ thống;những thứ khác ở vẫn như vậyChuyện này làm nó trở thànhhệ thống sử dụng rất dễ dàng và đầy sức mạnh.
+ 2:41
+向导 RNA 和 Cas9 蛋白质组成一个整体在染色体上来回穿梭当它们发现一个与向导 RNA 吻合的部位时就会嵌入双螺旋结构将其撕裂导致 Cas9 蛋白质开始切割工作于是突然之间你就让一个细胞处在了极大的恐慌之中因为它的一条 DNA 收到了破坏
+RNA mồi và protein Cas9 kết hợp với nhauchạy dọc chiều dài đoạn gene,và khi chúng tìm được 1 vị trímà RNA mồi kết hợp được,nó sẽ chèn vào giữa 2 mạch đơn của chuỗi xoắn képchia đôi nó ra,kích hoạt protein Cas9 cắt,và đột nhiên,bạn có 1 tế bào hoàn toàn bị stressbởi vì bây giờ nó đang có1 DNA bị bẻ gãy.
+ 3:06
+这时它该怎么办呢-呼叫现场急救员细胞有着两种主要的修复机制第一种是直接将断掉的 DNA 接上这种方法不是最有效的由于有时会多一个链环有时又会少一个这种方法只能...算撞出一个基因来但不是我们通常想要的基因改造方式
+Nó sẽ làm gì đây?Nó gọi bộ phận phản ứng đầu tiên của nó.Có 2 con đường sửa chữa chính.Con đường thứ nhất giữ các DNAvà nối 2 mảnh lại với nhauĐây không phải là 1 hệ thống có hiệu quả,bởi vì chuyện xảy ra là có vài lúc 1 base rơi rahay 1 base mới được thêm vào.Điều này chấp nhận được, kiểu nhưphá hủy 1 gennhưng nó không phải là con đườngmà chúng tôi thật sự mong muốn để chỉnh sửa gene.
+ 3:31
+第二种修复机制更为有趣在这种机制中细胞会寻找一条相同的 DNA在有着双染色体的生物-比如说人类我们得到了我们父母各自的一组染色体如果一条 DNA 受损细胞可以用另外一条来修复它这就是这种技术的原理修复成功之后染色体又重获安全
+Con đường thứ 2 thú vị hơn nhiều.Cách sửa chữa này,nó lấy 1 mảnh DNA tương đồng.Và nhắc các bạn nhớ, trong 1 cơ thể lưỡng bội như con người,chúng ta có 1 bản sao của gene từ chavà 1 bản sao từ mẹ,vậy nên nếu 1 bản sao bị hư hại,nó có thể sử dụngchromosome còn lại để sửa chữa.Đây là nơi mọi thứ bắt đầu.Sự sửa chữa được thực hiện,và bây giờ đoạn gene lại an toàn.
+ 3:55
+我们将其调包的方法是用一条新的 DNA—在两端上与原来相同中间却不同—来修复它于是你可以随心所欲地将你想要的中间部分安装上去细胞本身却毫无察觉你可以改变基因中的一条信息也可以删除它但最为重要的是你可以像特洛伊木马一样将一条全新的 DNA 嵌入
+Cách mà chúng tôi có thểchiếm quyền điều khiểnlà chúng tôi có thể cho vào 1đoạn DNA sai,1 đoạn tương đồng ở 2 đầu tậnnhưng sai khác ở giữa.Bây giờ, bạn có thể chobất cứ thứ gì bạn muốn vào trung tâmvà tế bào sẽ bị đánh lừa.Vậy nên bạn có thể thay thế 1 chữ cái,bạn có thể lấy bớt chữ ra,nhưng quan trọng nhất,bạn có thể nhét thêm vào 1 DNA mới,như 1 kiểu ngựa Trojan.
+ 4:18
+CRISPR 的作用出人预料它能推动许多不同领域的科技发展它的特殊之处在于这个攻击系统模块我们多年来一直尝试着将 DNA 嵌入生物体中但由于这种模块攻击系统我们能将它放在我们想要的地方
+CRISPR sẽ trở nên rất tuyệt vờitrong rất nhiều những cải tiến khoa họcmà nó chuẩn bị xúc tác.Thứ làm cho nó trở nên đặc biệt làhệ thống nhắm mục tiêu theo mô đun này.Ý tôi là, chúng tôi đã ghép DNAvào tế bào hàng chục năm rồi, đúng không?Nhưng bởi vì hệ thống nhắm mục tiêu theo mô đun,chúng tôi có thể đặt chúng vào chính xác nơi chúng tôi muốn
+ 4:38
+问题是现在有很多关于它的廉价性和便捷性的话题我有着一所社区实验室并且开始收到人们的来信—
+Vấn đề là có rất nhiều thảo luậnvề việc nó quá rẻvà dễ dàng của nó.Và tôi đang điều hành 1 phòng thí nghiệm cộng đồng.Tôi đang bắt đầu nhận được email từ nhiều ngườinói những thứ đại loại như
+ 4:52
+“我能在开放夜来你那吗？借我用用 CRISPR 编辑一下自己的基因行吗？”
+"Hey, tôi có thể tới vào đêm ra mắtvà có thể sử dụng CRISPRđể thiết kế bộ gene của tôi không?"
+ 4:58
+（笑声）
+(cười)
+ 5:00
+讲真的
+Kiểu như, rất nghiêm túc.
+ 5:02
+我说：“不，你不行“
+Tôi: "Không, anh không thể làm thế."
+ 5:04
+（笑声）
+(cười)
+ 5:05
+“但我听说那很便宜，很简单啊”
+"Nhưng tôi nghe bảo nó rẻ và dễ lắm mà"
+ 5:07
+我们谈谈这个吧究竟有多便宜？相对来说确实便宜它能将一个实验所需材料通常的价格从几千美元降至几百美元还能节约时间几周的工作几天就能完成这很好但你仍需要专业的实验室来做没有实验室是不可能完成这项技术的别相信那些说你可以在自家厨房里做实验的人这项技术真的不简单更别说有一场如火如荼的专利战打的正酣即使发明者创造出了这样的奇思妙想布罗德研究所和 UC 伯克利也在为专利权而争斗不休隔岸观火很有趣因为他们都在不断控诉对方，称其发布诬告性言论他们中的有人常常说“我在我的笔记本上到处都记了笔记”这件事好几年都没完即使真的解决了到那时你就得为使用这项技术支付高昂的费用所以它真的便宜吗？如果你有自己的实验室，并且在做基础学科实验的话——是的
+Chúng ta sẽ tìm hiểu về nó 1 chút.Nó rẻ tới mức nào?Đúng là nó rẻ. để mà so sánhNó sẽ có mức giá trung bình như vật liệucho 1 thí nghiệmtừ hàng ngàn đô la tới hàng trăm đô la,và nó cũng rút ngắn thời gian.Nó có thể giảm thời gian từ vài tuầnxuống vài ngày.Thật tuyệt vời.Bạn vẫn cần 1 phòng thí nghiệm chuyên nghiệpđể làm công việc này;bạn không làm bất cứ thứ gì vô nghĩangoài phòng thí nghiệm chuyên nghiệp.Ý tôi là, đừng nghe ai nói rằngbạn có thể làm được điều nàytrên bàn bếp nhà bạn.Nó thực sự không dễ dàng để làm được.Chưa kể đến cuộc chiến bằng sáng chế sắp diễn ra,ngay cả khi bạn phát minh ra thứ gì đó,Viện Broad và UC Berkeleyđang trong cuộc chiến cho bằng sáng chế tuyệt vời nàyRất thú vị khi xem nó diễn ra,bởi vì họ buộc tội lẫn nhau gian lậnvà sau đó họ có người nói rằng"Ồ, đúng rồi, tôi kí lên cuốn sổcủa tôi ở đây hay ở kia nè."Chuyện này sẽ không kết thúc vài nămVà khi đó,bạn có thể cá rằng bạn sẽ phải trả cho ai đó1 số tiền lệ phí cấp giấy phép khổng lồđể sử dụng được nó.Vậy nên, nó có thực sự rẻ không?Nó chỉ rẻ khi bạn làm nghiên cứu cơ bảnvà bạn có 1 phòng thí nghiệm.
+ 6:20
+容易吗？现在我们来谈谈这个魔鬼总藏在深处我们仍然不十分了解细胞他们就像是一个黑匣子比如说，我们不知道为什么有一些RNA十分有效有一些却不是这样我们也不知道为什么一些细胞采用一种修复机制另一些采用另外一种
+Vậy còn dễ dàng thì sao?Hãy nhìn vào mệnh đề này.Quỷ dữ luôn nhìn vào chi tiết.Chúng tôi thực sự không biết nhiều về chúng trong các tế bàoChúng vẫn là 1 kiểu hộp đen bí ẩn.Ví dụ, chúng tôi không biếttại sao 1 vài RNA mồi hoạt động thực sự tốtvà một vài cái khác lại không.Chúng tôi không biết tại sao 1 vài tế bàomuốn sửa chữa theo con đường nàyvà 1 số tế bào khác lại không.
+ 6:45
+除了这些以外在一开始将这个系统植入细胞时同样面临着问题在培养皿中，这不是很难可是如果是整个生物体那就很麻烦了采用血液或是骨髓是可行的它们也是现在的研究重点
+Và bên cạnh đó,cả 1 vấn đề to lớnvề việc đưa được hệ thống vào 1 tế bàotrong lần thử đầu tiên.Trong đĩa petri, điều này không khó lắm,nhưng nếu bạn cố thử làm điều nàytrên 1 cơ thể,nó trở nên rắc rối.Nó sẽ được nếu bạn sử dụng thứ gì đónhư máu hay tủy xương -đây là những mục tiêucủa khá nhiều nghiên cứu hiện nay.
+ 7:02
+有一个关于一位女孩奇迹的故事她患了白血病最后通过将血取出，人为将其改造后放回人体最终痊愈——用的是CRISPR的前期技术这是一种人们希望从事的研究但是如果你想针对整个人体可能就要用到病毒了采集病毒以后，将 CRISPR 放进去你需要让病毒感染细胞但只要你将病毒注入细胞内部就可能出现长期的副作用而且 CRISPR 还有一些伤及无辜的攻击行为只占很小一部分——但总之存在一段时间过后又会发生什么呢？
+Có 1 câu chuyện tuyệt vời về 1 cô gái nhỏ nào đóđược cứu sống khỏi căn bệnh máu trắngbằng cách rút hết máu ra, chỉnh sửa lại nó,rồi truyền trả ngược vềbằng 1 tiền chất của CRISPR.Và đây là 1 hướng nghiên cứu mà mọi người đang hướng tới.Nhưng hiện nay, nếu bạn muốn đưa nóvào toàn bộ cơ thể,bạn chắc hẳn phải dùng tới virus.Bạn lấy 1 con virus, cho CRISPR vào trong nó,cho virus lây nhiễm vào tế bào.Nhưng bây giờ bạn có virus trong đó rồi,và chúng ta không biết tác dụng lâu dàicủa việc đó là gì.Thêm nữa, CRISPR có một vài tác dụng không mong muốn,một tỉ lệ rất nhỏ, nhưng nó vẫn có.Chuyện gì sẽ xảy ra theo thời gian với điều này?
+ 7:37
+这不是小事有科学家一直想要解决这些问题而且它们有可能被解决但研究需要时间这种方法真的容易吗？在经过几年的深入研究之后它才真正变得容易
+Đây không phải là những câu hỏi dễ dàngvà có những nhà khoa họcđang cố gắng trả lời nó,và họ hy vọng sẽ giải quyết được nó.Nhưng nó không phải là thứ cắm vào là chạy,không phải bằng 1 cú đá dài hơi.Vậy nên: nó có thật sự dễ dàng?Nếu bạn dành 1 vài nămlàm việc trên 1 hệ thống cụ thể của bạn,thì câu trả lời là "Có".
+ 7:56
+还有一个问题是我们不知道怎样通过改变染色体中的某个部位来到达我们想要的目的我们现在还无法获知怎样使一只猪长出翅膀或是多长一条腿那会十分有趣，不是吗但确切的是CRISPR 正被成千上万的科学家利用去做十分重要的工作例如建造更好的动物疾病模型或是找到经济的化学物质生产方法用它们进行工业生产和发酵甚至是有关基因功能的基本研究
+Bây giờ, thứ còn lại làchúng ta không thật sự biết nhiều về việccụ thể để làm ra đượcbằng cách thay thế 1 vài điểm cụ thểtrong đoạn gene.Chúng tôi còn cách rất xa với việc tìm raVí dụ: làm cách nào để cho 1 con heo mọc cánh.Hay thậm chí có thêm 1 cái chân nữa.Điều này tuyệt vời đúng không?Nhưng chuyện đang xảy ra làCRISPR đang được sử dụng bởihàng chục ngàn nhà khoa họcđể thực hiện các công việc thật sự quan trọng,như làm các mô hình bệnh học tốt hơn trên động vật,hay tìm ra chu trình tổng hợp nên các chất giá trịvà đưa vào sản xuất công nghiệptrong các thùng lên men,hay thậm chí làm những nghiên cứucực kì cơ bản về sự hoạt động của gene.
+ 8:45
+这才是 CRISPR 真正的用处我不赞同让它的瑕疵掩盖了它真正的光芒不计其数的科学家呕心沥血造就了 CRISPR我认为十分明智的是这些科学家受到了社会的广泛支持
+Đây là câu chuyện của CRISPRmà chúng tôi nên kể,và tôi không thíchcác phương diện hào nhoáng của nóđang nhấn chìm tất cả những thứ này đi.Rất nhiều các nhà khoa học làm rất nhiều nghiên cứuđể biến CRISPR thành hiện thựcvà thứ thu hút tôi lànhững nhà khoa học nàyđang được xã hội chúng ta hỗ trợ.
+ 9:04
+想一想我们有着能够让一小部分人在里面倾其一生从事科学研究的机构这让我们所有人成为了 CRISPR 的创造者让我们成为 CRISPR的掌控者我们需要负起责任来
+Hãy nghĩ về điều đó đi.Chúng tôi đã có cơ sở hạ tầng cho phép1 tỉ lệ dân số nhất địnhdành toàn bộ thời gian làm nghiên cứu.Điều này làm chúng tôi trở thànhngười phát minh ra CRISPR,và tôi muốn nói điều này làm chúng tôitrở thành người trông nom CRISPR.Tất cả chúng tôi đều có trách nhiệm với nó.
+ 9:24
+所以我们需要重视这方面的技术因为，只有这样我们才能掌控这些技术的发展和它们的应用然后确保到最后我们能得到正面的结果不管是对这颗星球还是我们自己
+Vậy nên tôi mong bạn thực sự tìm hiểuvề những loại công nghệ này,bởi vì, thật sự, chỉ có cách đóchúng ta mới có thể dẫn đường chosự phát triển của các công nghệ này,lợi ích của các công nghệ nàyvà đảm bảo rằng, cuối cùng,đây là kết quả khả quancho cả hành tinh và chúng ta.
+ 9:45
+谢谢
+Cảm ơn.
+ 9:46
+（掌声）Translated by: Elvis Liu
+(Vỗ tay)

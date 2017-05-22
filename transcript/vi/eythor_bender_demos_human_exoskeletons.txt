@@ -1,0 +1,90 @@
+ 0:15
+我想大家现在想象一下一个可穿戴的机器人，它能提供给你超人般的能力，或是让轮椅使用者再次站起来行走。我们在伯克利仿生技术公司把这些机器人称为外骨骼。还没有其他任何东西你早晨穿上后它将为你提供额外的力量，它将进一步提高你的速度，它将帮你，比如，控制平衡。实际上它真正地整合了人和机器。但不仅如此 —它还将整合并把你与外界连接起来，连接到其他设备上。
+Giờ tôi muốn các bạn hãy tưởng tượngmột robot có thể đeo vào ngườimang đến cho bạn những khả năng phi thường,hoặc một robot có thể giúp người đi xe lănđứng dậy và bước đi.Tại Berkley Bionics, chúng tôigọi những robot này là bộ xương ngoài (exoskelentons)Chúng không khác gì 1 vậtmà bạn mặc vào buổi sáng,và nó sẽ cho bạn thêm sức mạnh,đồng thời giúp tăng cường tốc độ của bạn,và nó sẽ giúp bạn, ví dụ, quản lý việc giữ thăng bằng.Nó thực sự là sự hợp nhất thực sựcủa con người và máy móc.Nhưng không chỉ có thế —nó sẽ hợp nhất và mạng lưới bạnvới thế giớivà các thiết bị khác ngoài cuộc sống.
+ 1:10
+这不仅仅是些天马行空的想象。为了向各位展示一下我们目前在进行的工作，我们来谈谈美国士兵，他们能在背上背大约100磅的重量，而且还在被要求携带更多装备。很显然，这会导致一些并发的问题 —百分之三十的士兵有背部损伤 —慢性背部损伤。所以我们想我们该正视这一挑战创造一个能帮助解决这一问题的外骨骼。那么现在让我向各位介绍一下HULC —全称是人类负重外骨骼。
+Đây không chỉ là những suy nghĩ viển vông.Bây giờ, để cho bạn xem những gì chúng tôi đang làmbằng việc bắt đầu nói vềlính Mỹ,trung bình họ phải mang khoảng 100 lbs. trên lưng,và họ đang bị yêu cầu mang thêm thiết bị.Rõ ràng, việc này gây ramột số biến chứng nghiêm trọng —đau lưng, 30 % số lính mắc phải —đau lưng mãn tính.Vì vậy chúng tôi nghĩ chúng tôi sẽ giải quyết thách thức nàybằng cách tạo ramột bộ xương ngoài.Bây giờ, để tôi giới thiệu cho các bạn về HULC—thiết bị mang vác cho con người(Human Universal Load Carrier)
+ 1:57
+士兵：用了HULC外骨骼之后，我能负重200磅。在复杂的地形中行走多个小时。它灵活的设计能让人深蹲，匍匐前进和高灵活性运动。它能感觉到我想做什么，想上哪儿去，然后提升我的力量和耐力。
+Người lính: Với bộ xương ngoài HUCL,tôi có thể mang tới 200 lbs. trên các loại địa hình khác nhautrong nhiều giờ.Thiết kế thoải mái của nó cho phép ngồi xổm,lê, trườn và chuyển động nhanh nhẹn.Nó cảm nhận được những gì tôi muốn làm, hướng nào tôi muốn đi,và sau đó làm tăng sức mạnh và sự bền bỉ của tôi.
+ 2:17
+艾瑟·本德：我们与我们的行业伙伴以及准备好引入这一设备，在今年引入这一新的外骨骼。这是真的。现在让我们把视线转向轮椅使用者，这是我个人非常热爱的部分。世界上估计有6千8百万轮椅使用者。大约占人口总数的百分之一。这是个保守的估计。我们现在要说的是，有脊髓损伤的非常年轻的人在年富力强的时候 — 20岁，30岁，40岁 —碰了壁轮椅就成了唯一的选择。而且人口老龄化也使得这一数字成倍增长。而这唯一的选择，大致上 —当人患有中风或是其他病症时 —就是轮椅。实际上最近500年来都是这样，这是非常成功的介绍，我必须说。因此，我想我们该开始撰写机动性的新的篇章了。现在让我向各位介绍eLEGS，穿着者是阿曼达·波斯特，她19年前受到了脊柱损伤，由此导致她19年来无法行走，直到现在。
+Eythor Bender: Đối tác công nghiệp của chúng tôigiới thiệu thiết bị này,bộ xương ngoài này trong năm nay.Vì vậy nó là sự thật.Bây giờ hãy chuyển qua thiết bị chonhững người sử dụng xe lăn,một thiết bị mà tôi đặc biệt đam mê.Có khoảng 68 triệu ngườiphải sử dụng xe lăn trên thế giới.Khoảng 1% của tổng dân số.Và ước tính đó thực ra còn thấp hơn thực tế.Chúng ta đang nói đến ở đây về, thường,những người trẻ với chấn thương cột sống,trong những giai đoạn quan trọng của cuộc đời — 20, 30, 40 tuổi —bất lựcvà xa lăn là lựa chọn duy nhất.Nhưng nó cũng là dân số giàcon số sẽ nhân lên nhiều lần.Và lựa chọn duy nhất, khá nhiều —khi đột quỵ hoặc các biến chứng khác—là dùng xe lăn.Và đó thực sự là giải pháp cho 500 năm vừa qua,từ sự giới thiệu rất thành công của nó, tôi phải nói như vậy.Vì vậy chúng tôi nghĩ nên bắt đầuviết lên một chương hoàn toàn mớicủa di chuyển.Để tôi giới thiệu với các bạn về eLEGS bây giờnó được mặc bởi Amanda Boxtelcô bị chấn thương cột sống khi 19 tuổi,và kết quả làcô không thể đi lại đượctừ lúc 19 tuổi tới nay.
+ 3:45
+（掌声）
+(Vỗ tay)
+ 3:48
+阿曼达·波斯特：谢谢。
+Amanda Boxtel: Cảm ơn.
+ 3:50
+（掌声）
+(Vỗ tay)
+ 3:55
+艾瑟：我说了，阿曼达穿着的就是我们的eLEGS。它拥有传感器 —在这些支撑内完全是非侵入的传感器，它们发送信号至装在她背部的机载电脑。同时还有个电池组，为装在她臀部的电动机提供能量，包括她膝关节处的电动机，这让她能以平稳自然的步伐前进。
+EB: Amanda đang mặc thiết bị eLEGS của chúng tôi, như tôi đã nhắc tới.Nó có một số cảm biến—chúng là những cảm biến được đặt hoàn toàn trongcái nạngchúng gửi tín hiệu lại cho máy tính của chúng tôiđược đặt ở đây sau lưng cô ấy.Bộ pin cũng nằm ở đâyđộng cơ điện được đặt tại hông của cô ấycũng như tại đầu gối của cô ấynó đưa cô tiến về phía trướctrong tư thế bước đi rất mềm mại và tự nhiên.
+ 4:28
+阿曼达：我24岁时在生命的最巅峰，我速降滑雪时不慎摔倒，我瘫痪了。在那一瞬间，我失去了骨盆以下的所有感觉和活动能力。不久之后，一名医生走进我的病房，对我说，“阿曼达，你再也不能走路了。”那是19年前。他剥夺了我存在的每一丝希望。自适应技术曾使我能够再次学习如何速降滑雪，攀岩，甚至手动自行车。但没有什么发明能让我行走，直到现在。
+AB: Tôi đã 24 tuổivà khi tôi đang trượt tuyếtkhi đột ngột thực hiện cú nhảy lộn nhào trong khi trượt xuống đồitôi bị tê liệt.Trong giây phút trượt ngã,tôi mất toàn bộ cảm giác và cử độngphần dưới xương chậu.Không lâu sau,một bác sỹ bước vào phòng bệnh của tôi,và ông ta nói, "Amanda,cô sẽ không bao giờ đi lại được nữa."Và đó là 19 năm trước.Ông ấy đã cướp đimọi hi vọngcủa tôi.Công nghệ thích ứngđã có thể giúp tôihọc cách làm sao để lại có thể trượt tuyết đường dốc,và ngay cả đi xe bằng tay.Nhưng chưa từng có thiết bị nào được phát minhmà có khả năng giúp tôi đi lại được,cho tới giờ.
+ 5:22
+（掌声）
+(Vỗ tay)
+ 5:25
+谢谢。
+Cảm ơn.
+ 5:27
+（掌声）
+(Vỗ tay)
+ 5:35
+艾瑟：正如各位所看到的，我们有了技术，我们有了能坐下的平台，这已经和大家讨论过了。它就在我们手中，我们拥有所有的潜力，去改变我们后代的生活 —不仅仅是为了士兵，或是为了阿曼达和所有的轮椅使用者，而是为了每个人。
+EB: Như mọi người thấy,chúng tôi có công ngệchúng tôi có 1 địa điểmđể ngồi xuống và đã thảo luận với mọi người.Điều này là trong tầm tay,và chúng tôi có tất cả các tiềm năng ở đâygiúp thay đổi cuộc sốngcủa những thế hệ tương lai—không chỉ là dành cho binh lính,hoặc cho Anmanda ở đây và tất cả những người phải sử dụng xe lăn,mà là cho tất cả mọi người
+ 6:04
+阿曼达：谢谢。
+AB: cảm ơn.
+ 6:06
+（掌声）
+(Vỗ tay)
+ 0:15
+我想大家现在想象一下一个可穿戴的机器人，它能提供给你超人般的能力，或是让轮椅使用者再次站起来行走。我们在伯克利仿生技术公司把这些机器人称为外骨骼。还没有其他任何东西你早晨穿上后它将为你提供额外的力量，它将进一步提高你的速度，它将帮你，比如，控制平衡。实际上它真正地整合了人和机器。但不仅如此 —它还将整合并把你与外界连接起来，连接到其他设备上。
+Giờ tôi muốn các bạn hãy tưởng tượngmột robot có thể đeo vào ngườimang đến cho bạn những khả năng phi thường,hoặc một robot có thể giúp người đi xe lănđứng dậy và bước đi.Tại Berkley Bionics, chúng tôigọi những robot này là bộ xương ngoài (exoskelentons)Chúng không khác gì 1 vậtmà bạn mặc vào buổi sáng,và nó sẽ cho bạn thêm sức mạnh,đồng thời giúp tăng cường tốc độ của bạn,và nó sẽ giúp bạn, ví dụ, quản lý việc giữ thăng bằng.Nó thực sự là sự hợp nhất thực sựcủa con người và máy móc.Nhưng không chỉ có thế —nó sẽ hợp nhất và mạng lưới bạnvới thế giớivà các thiết bị khác ngoài cuộc sống.
+ 1:10
+这不仅仅是些天马行空的想象。为了向各位展示一下我们目前在进行的工作，我们来谈谈美国士兵，他们能在背上背大约100磅的重量，而且还在被要求携带更多装备。很显然，这会导致一些并发的问题 —百分之三十的士兵有背部损伤 —慢性背部损伤。所以我们想我们该正视这一挑战创造一个能帮助解决这一问题的外骨骼。那么现在让我向各位介绍一下HULC —全称是人类负重外骨骼。
+Đây không chỉ là những suy nghĩ viển vông.Bây giờ, để cho bạn xem những gì chúng tôi đang làmbằng việc bắt đầu nói vềlính Mỹ,trung bình họ phải mang khoảng 100 lbs. trên lưng,và họ đang bị yêu cầu mang thêm thiết bị.Rõ ràng, việc này gây ramột số biến chứng nghiêm trọng —đau lưng, 30 % số lính mắc phải —đau lưng mãn tính.Vì vậy chúng tôi nghĩ chúng tôi sẽ giải quyết thách thức nàybằng cách tạo ramột bộ xương ngoài.Bây giờ, để tôi giới thiệu cho các bạn về HULC—thiết bị mang vác cho con người(Human Universal Load Carrier)
+ 1:57
+士兵：用了HULC外骨骼之后，我能负重200磅。在复杂的地形中行走多个小时。它灵活的设计能让人深蹲，匍匐前进和高灵活性运动。它能感觉到我想做什么，想上哪儿去，然后提升我的力量和耐力。
+Người lính: Với bộ xương ngoài HUCL,tôi có thể mang tới 200 lbs. trên các loại địa hình khác nhautrong nhiều giờ.Thiết kế thoải mái của nó cho phép ngồi xổm,lê, trườn và chuyển động nhanh nhẹn.Nó cảm nhận được những gì tôi muốn làm, hướng nào tôi muốn đi,và sau đó làm tăng sức mạnh và sự bền bỉ của tôi.
+ 2:17
+艾瑟·本德：我们与我们的行业伙伴以及准备好引入这一设备，在今年引入这一新的外骨骼。这是真的。现在让我们把视线转向轮椅使用者，这是我个人非常热爱的部分。世界上估计有6千8百万轮椅使用者。大约占人口总数的百分之一。这是个保守的估计。我们现在要说的是，有脊髓损伤的非常年轻的人在年富力强的时候 — 20岁，30岁，40岁 —碰了壁轮椅就成了唯一的选择。而且人口老龄化也使得这一数字成倍增长。而这唯一的选择，大致上 —当人患有中风或是其他病症时 —就是轮椅。实际上最近500年来都是这样，这是非常成功的介绍，我必须说。因此，我想我们该开始撰写机动性的新的篇章了。现在让我向各位介绍eLEGS，穿着者是阿曼达·波斯特，她19年前受到了脊柱损伤，由此导致她19年来无法行走，直到现在。
+Eythor Bender: Đối tác công nghiệp của chúng tôigiới thiệu thiết bị này,bộ xương ngoài này trong năm nay.Vì vậy nó là sự thật.Bây giờ hãy chuyển qua thiết bị chonhững người sử dụng xe lăn,một thiết bị mà tôi đặc biệt đam mê.Có khoảng 68 triệu ngườiphải sử dụng xe lăn trên thế giới.Khoảng 1% của tổng dân số.Và ước tính đó thực ra còn thấp hơn thực tế.Chúng ta đang nói đến ở đây về, thường,những người trẻ với chấn thương cột sống,trong những giai đoạn quan trọng của cuộc đời — 20, 30, 40 tuổi —bất lựcvà xa lăn là lựa chọn duy nhất.Nhưng nó cũng là dân số giàcon số sẽ nhân lên nhiều lần.Và lựa chọn duy nhất, khá nhiều —khi đột quỵ hoặc các biến chứng khác—là dùng xe lăn.Và đó thực sự là giải pháp cho 500 năm vừa qua,từ sự giới thiệu rất thành công của nó, tôi phải nói như vậy.Vì vậy chúng tôi nghĩ nên bắt đầuviết lên một chương hoàn toàn mớicủa di chuyển.Để tôi giới thiệu với các bạn về eLEGS bây giờnó được mặc bởi Amanda Boxtelcô bị chấn thương cột sống khi 19 tuổi,và kết quả làcô không thể đi lại đượctừ lúc 19 tuổi tới nay.
+ 3:45
+（掌声）
+(Vỗ tay)
+ 3:48
+阿曼达·波斯特：谢谢。
+Amanda Boxtel: Cảm ơn.
+ 3:50
+（掌声）
+(Vỗ tay)
+ 3:55
+艾瑟：我说了，阿曼达穿着的就是我们的eLEGS。它拥有传感器 —在这些支撑内完全是非侵入的传感器，它们发送信号至装在她背部的机载电脑。同时还有个电池组，为装在她臀部的电动机提供能量，包括她膝关节处的电动机，这让她能以平稳自然的步伐前进。
+EB: Amanda đang mặc thiết bị eLEGS của chúng tôi, như tôi đã nhắc tới.Nó có một số cảm biến—chúng là những cảm biến được đặt hoàn toàn trongcái nạngchúng gửi tín hiệu lại cho máy tính của chúng tôiđược đặt ở đây sau lưng cô ấy.Bộ pin cũng nằm ở đâyđộng cơ điện được đặt tại hông của cô ấycũng như tại đầu gối của cô ấynó đưa cô tiến về phía trướctrong tư thế bước đi rất mềm mại và tự nhiên.
+ 4:28
+阿曼达：我24岁时在生命的最巅峰，我速降滑雪时不慎摔倒，我瘫痪了。在那一瞬间，我失去了骨盆以下的所有感觉和活动能力。不久之后，一名医生走进我的病房，对我说，“阿曼达，你再也不能走路了。”那是19年前。他剥夺了我存在的每一丝希望。自适应技术曾使我能够再次学习如何速降滑雪，攀岩，甚至手动自行车。但没有什么发明能让我行走，直到现在。
+AB: Tôi đã 24 tuổivà khi tôi đang trượt tuyếtkhi đột ngột thực hiện cú nhảy lộn nhào trong khi trượt xuống đồitôi bị tê liệt.Trong giây phút trượt ngã,tôi mất toàn bộ cảm giác và cử độngphần dưới xương chậu.Không lâu sau,một bác sỹ bước vào phòng bệnh của tôi,và ông ta nói, "Amanda,cô sẽ không bao giờ đi lại được nữa."Và đó là 19 năm trước.Ông ấy đã cướp đimọi hi vọngcủa tôi.Công nghệ thích ứngđã có thể giúp tôihọc cách làm sao để lại có thể trượt tuyết đường dốc,và ngay cả đi xe bằng tay.Nhưng chưa từng có thiết bị nào được phát minhmà có khả năng giúp tôi đi lại được,cho tới giờ.
+ 5:22
+（掌声）
+(Vỗ tay)
+ 5:25
+谢谢。
+Cảm ơn.
+ 5:27
+（掌声）
+(Vỗ tay)
+ 5:35
+艾瑟：正如各位所看到的，我们有了技术，我们有了能坐下的平台，这已经和大家讨论过了。它就在我们手中，我们拥有所有的潜力，去改变我们后代的生活 —不仅仅是为了士兵，或是为了阿曼达和所有的轮椅使用者，而是为了每个人。
+EB: Như mọi người thấy,chúng tôi có công ngệchúng tôi có 1 địa điểmđể ngồi xuống và đã thảo luận với mọi người.Điều này là trong tầm tay,và chúng tôi có tất cả các tiềm năng ở đâygiúp thay đổi cuộc sốngcủa những thế hệ tương lai—không chỉ là dành cho binh lính,hoặc cho Anmanda ở đây và tất cả những người phải sử dụng xe lăn,mà là cho tất cả mọi người
+ 6:04
+阿曼达：谢谢。
+AB: cảm ơn.
+ 6:06
+（掌声）
+(Vỗ tay)

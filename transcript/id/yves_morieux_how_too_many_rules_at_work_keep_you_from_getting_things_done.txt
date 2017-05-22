@@ -1,0 +1,192 @@
+ 0:11
+诺贝尔经济学奖[得主]，保罗克·鲁格曼，曾经说过：”生产力不能代表一切，但长期来看，它差不多就是一切。“
+Paul Krugman, pemenang Nobelbidang ekonomi pernah menulis:"Produktivitas bukanlah segalanya,namun dalam jangka panjang,ia hampir merupakan segalanya."
+ 0:27
+这是个严肃的问题。世界上没有什么东西能“几乎代表一切。”生产力是社会繁荣的主要推动力。那么我们面临着一个问题。在欧洲最大的经济体当中，50、60年代和70年代初期的生产力曾经保持着每年5%的增长速度。在1973-1983年间，生产力年化增长率为3%。在1983-1995年间，生产力年化增长率保持在2%。自1995年以来，生产力年化增长率每年的增长一直低于1%。日本也是如此。美国亦是如此，即便15年前出现了一次短暂的经济复苏，虽然我们身边的科技日新月异：例如互联网，信息技术，新信息技术和通讯技术的发展。
+Ini serius.TIdak ada begitu banyak hal di duniayang "hampir segalanya."Produktivitas adalah penggerak utamakemakmuran masyarakat.Jadi kita punya masalah.Di negara-negara Eropa terbesar,produktivitas dulu berkembang lima persen per tahunpada tahun 50-an, 60-an, dan awal 70-an.Dari tahun &#39;73 sampai &#39;83: tiga persen per tahun.Dari tahun &#39;83 sampai &#39;95: dua persen per tahun.Sejak 1995: kurang dari satu persenper tahun.Hal yang sama terjadi di Jepang.Hal yang sama terjadi di Amerika Serikat,walaupun ada kenaikan sementara15 tahun yang laludan meskipun dengan semuainovasi teknologi di sekitar kita:internet, informasi,teknologi informasi dan komunikasi baru.
+ 1:27
+生产力年化增长率为3%时，生活水平每个年代会翻一番。每一代人享受到的福利是其父母那代的两倍。当增长率仅为1%时，需要3代的时间才能使生活水平翻一番。在这一进程中，许多人会过得还不如他们的父母。他们的一切都更差些：房子更小了，或者根本没房子，受教育机会更少，获取维生素、抗生素、疫苗的机会也更少 —一切机会都更少。考虑下我们当前所面临的所有问题。所有问题。我们的问题有可能是扎根于生产力危机之上的。
+Ketika produktivitas tumbuh tiga persenper tahun,kita menggandakan standar hidupsetiap generasi.Setiap generasi menjadi dua kalilebih makmur dari orang tuanya.Ketika pertumbuhan satu persen per tahun,butuh tiga generasi untukmenggandakan standar hidup.Dan dalam proses ini, banyak orang yang akan kurang makmur dibanding orang tuanya.Mereka akan memiliki lebih sedikitdalam segala hal:rumah yang lebih kecil, atau mungkintidak memiliki rumah sama sekali,lebih sedikit akses ke kesehatan, vitamin, antibiotik, imunisasi —ke segala hal.Bayangkan semua permasalahan yangkita hadapi sekarang.Semuanya.Kemungkinan mereka berakardi krisis produktivitas.
+ 2:26
+为什么说这个危机是根源呢？因为效率的基本原理 —组织、管理的效率 —往往会使人们的努力适得其反。在公共事业的任何地方 — 在公司当中、我们的工作方式里、我们的创新、投资方式上 — 都在努力提高效率。效率的三位一体是指：透明度、衡量和问责制。它们使人们的努力白费。
+Mengapa krisis ini?Karena prinsip dasar efisiensi —efektivitas dalam organisasi,dalam manajemen —telah menjadi kontra produktifuntuk usaha manusia.Di mana-mana di pelayanan publik —di perusahaan, di cara kita bekerja,cara kita berinovasi, menanam modal —mencoba belajar untuk bekerja lebih baik.Misalnya trinitas suci dari efisiensi:kejelasan, keterukuran, akuntabilitas.Mereka membuat upaya manusia gagal.
+ 3:10
+有两个方式来看待、证明这点。第一，也是我偏向的一种，是严谨，典雅，美观大方的数学。但完整的数学评估方案需要一点时间，因此又有了另一种方式。就是通过接力赛跑来看。也是我们今天要用到的。这样会更生动、更直观也更快 — 这是短跑比赛嘛。当然，我们希望它更便捷。
+Ada dua cara melihatnya, membuktikannya.Pertama, yang lebih saya pilih,adalah matematika yangteliti, elegan, indah.Namun versi matematika yang lengkapbutuh waktu cukup lama,maka ada lagi cara lainnya.Yaitu seperti melihat perlombaan estafet.Ini yang akan kita lakukan sekarang.Ini lebih hidup, lebih visual,dan lebih cepat — ini perlombaan.Semoga saja ia lebih cepat.
+ 3:41
+（笑声）
+(Tertawa)
+ 3:43
+世界杯决赛 — 女子项目。决赛共有八队。最快的是美国队。美国有全世界最快的女运动员。她们是夺冠热门。显然，如果你把她们和一般的队伍比较，比如说，法国队吧，
+Final perlombaan dunia — wanita.Delapan tim bertarung di final.Tim tercepat adalah tim Amerika Serikat.Mereka memiliki wanita tercepat di dunia.Mereka tim favorit untuk menang.Terutama jika Anda membandingkannyadengan tim rata-rata,misalnya, tim Prancis,
+ 4:05
+（笑声）
+(Tertawa)
+ 4:07
+按照她们在100米短跑当中的最佳成绩，把美国选手个人的成绩相加起来，最后她们会在达终点线时比法国队领先3.2米。今年，美国队状态很好。根据她们今年的最好成绩，她们在到达终点时应该要领先法国队6.4米，这是根据数据推算的。那我们来看一下比赛。从某个角度来看，快到终点时，Torri Edwards，美国队第四棒，暂时领先。毫不意外地 — 今年她在100米赛跑中获得了金牌。顺便说下，Chryste Gaines，美国队第二棒，是地球上跑得最快的女性。那么，全世界有35亿女性。最快的两个在哪里？答案在美国队。美国队的另外两名选手也不赖。
+berdasarkan performa terbaik merekapada lomba lari 100 meter,jika Anda menambahkan waktu individualdari para pelari Amerika Serikat,mereka sampai di garis finish3,2 meter di depan tim Prancis.Dan tahun ini, tim AS dalamkondisi prima.Berdasarkan performa terbaikmereka tahun ini,mereka sampai 6,4 meter di depantim Prancis,berdasarkan data.Kita akan melihat perlombaan ini.Pada suatu titik, Anda akan lihat,mendekati akhir,bahwa Torri Edwards,pelari AS keempat, berada di depan.Tidak mengejutkan, tahun ini dia mendapatmedali emas di lomba lari 100 meter.Selain itu, Chryste Gaines,pelari kedua di tim ASadalah wanita tercepat di dunia.Jadi, ada 3,5 miliar wanita di bumi.Ada di mana kedua wanita tercepat? Di Tim AS.Dan kedua pelari lain di tim ASjuga tidak buruk.
+ 5:15
+（笑声）
+(Tertawa)
+ 5:17
+显然，美国队赢得了人才争夺战。不过在其背后，普通的队伍也在奋力追赶。我们来看下比赛。
+Jadi jelas, tim AS memenangkanpersaingan untuk bakat.Tetapi di belakang, tim rata-rataberusaha mengejar.Mari kita lihat lombanya.
+ 5:29
+（视频：法国体育节目比赛解说）
+(Video: pembawa acara Prancismenarasikan lomba)
+ 6:17
+（视频：比赛讲解结束）
+(Video: Narasi perlombaan berakhir)
+ 6:21
+所以视频里发生了什么？最快的队伍没有赢；慢的那一队反而赢了。顺便说下，我希望你们能认可我做了非常深入的历史研究来使法国看起来很好。
+Jadi apa yang terjadi?Tim tercepat tidak menang;yang lebih lambat lah yang menang.Semoga Anda bisa menghargairiset sejarah yang saya lakukan untukmembuat tim Prancis kelihatan bagus.
+ 6:35
+（笑声）
+(Tertawa)
+ 6:40
+但我们不要这么夸张 — 这也不是考古学
+Tapi jangan berlebihan —ini bukan arkeologi.
+ 6:44
+（笑声）
+(Tertawa)
+ 6:46
+但是为什么呢？因为合作。当你听到这句话：“多亏了合作，整体大于部分之和。”这不是诗歌；这不是哲学。这是数学。握着接力棒的人跑得慢了点，但她们交接棒更快。合作的奇迹：它能让人们努力的能量和智慧加倍。这是人们努力的精髓：我们如何合作，个人的成果如何为团队做贡献。通过合作，我们可以事半功倍。
+Tetapi mengapa?Karena kerja sama.Ketika Anda mendengar kalimat ini:"Berkat kerja sama, keseluruhan menjadilebih berharga dari jumlah per bagiannya."Ini bukan puisi;ini bukan filosofi.Ini matematika.Mereka yang membawa tongkatmemang lebih lambat,tapi tongkatnya lebih cepat.Keajaiban dari kerja sama:itu melipatgandakan energi,kepandaian dalam usaha manusia.Itu adalah esensi dari usaha manusia:bagaimana kita bekerja bersama,bagaimana setiap usahamembantu usaha yang lain.Dengan kerja sama,kita bisa melakukan lebih banyakdengan lebih sedikit.
+ 7:28
+那么，当目标 — 包含了 —清晰度、衡量、问责的圣神三位一体 —出现时，会对合作产生什么影响？
+Apa yang terjadi pada kerja samaketika tujuan utama —bahkan Trinitas suci —dari kejelasan, keterukuran,akuntabilitas —muncul?
+ 7:45
+清晰度。管理报告充满了对缺乏清晰度的抱怨。合规性审核、咨询诊断。我们需要更高的清晰度，我们要明确角色分担和过程。就好比说队伍里的选手说，“我们明确下吧 — 我从哪里跑到哪里？我要跑95米，还是96、97米...？”这很重要，我们要分清楚。如果你说97米的话，那么跑完97米，人们就会把交接棒丢掉，可不管到时候有没有人接。
+Kejelasan.Laporan manajemen penuh dengan keluhantentang kurangnya kejelasan.Audit kepatuhan,diagnostik konsultan.Kita butuh kejelasan yang lebih,kita perlu menjelaskan peran, proses.Itu seperti pelari dalam tim berkata,"Mari kita perjelas — di manaperanku mulai dan berakhir?Apa aku harus lari 95 meter,96, 97...?"Ini penting, ayo kita perjelas.Jika Anda bilang 97, setelah 97 meter,pelari akan menjatuhkan tongkat, takpeduli ada yang mengambil atau tidak.
+ 8:30
+问责制。我们总是试图把责任规定给某个人。谁对这个过程负责？我们需要一个人对这个过程负责。所以在接力赛中，既然交接棒如此之重要，那么我们需要非常明确负责交接棒的人是谁。在两个选手中间，我们现在要规定一个新的专门的运动员，这个运动员要非常明确地专注于接过上一个选手的交接棒，然后再交接给下一个选手。而且我们至少需要两个这样的选手。那么，我们，这样以来，会赢得比赛吗？这个我就不知道了，但是可以肯定的是，我们有一个明确的分工，对责任有了非常明确的划分界线。我们会知道由谁来承担过错。但我们不会赢得比赛。如果你仔细想想，会发现我们在失败时把更多精力集中在确定谁来负责的问题上，而不是去创造有利于成功的条件。把所有的人类智慧都投入到组织设计当中 —城市结构、处理系统 —真正的目的是什么？目的是在失败的时候把责任归咎于某人。我们创造了会失败的组织，但是以一种合规的方式来创造的，在这种组织中，有明确的人来为失败负责。在失败这点上，人们做的相当有效率。
+Akuntabilitas.Kita selalu mencoba menaruhakuntabilitasdi tangan seseorang.Siapa yang andal dan bisa dipercayadalam proses ini?Kita perlu seseorang yang bisadipercaya untuk proses ini.Jadi di lomba lari, karena menyampaikantongkat itu sangat penting,maka kita perlu seseorangyang dapat dipercayauntuk mengoper tongkat.Jadi di antara setiap pelari,kita akan punya atlet baruyang berdedikasi,yang berdedikasi untuk mengambil tongkatdari satu pelaridan memberikannya ke pelari selanjutnya.Dan kita perlu paling tidakdua yang seperti itu.Akankah kita, jika seperti itu,akan memenangkan lomba?Saya tidak tahu, tapi yang pasti,kita akan punya antarmukayang jelas,garis tanggung jawabyang jelas.Kita tahu siapa yang bisa disalahkan.Namun kita tidak akan memenangkan lomba.Jika Anda pikir lebih dalam,kita memberi perhatian lebihuntuk tahu siapa yang disalahkanjika terjadi kegagalan,daripada menciptakan kondisiuntuk sukses.Semua kecerdasan manusiayang digunakan dalam desain organisasi —struktur kota, sistem pengolahan —apa tujuan utamanya?Agar ada yang bisa disalahkan jika gagal.Kita menciptakanorganisasi yang dapat gagal,tetapi dalam cara yang sesuai aturan,dengan seseorang yang dapat disalahkansaat kita gagal.Dan kita cukup efektif dalam hal itu —gagal.
+10:15
+衡量。东西衡量好了，事情也就完成了。你看，要传递交接棒，你要在对的时间、用对的手、以正确的速度来传递。但要这么做的话，你要把能量分配到你的手臂里。你手臂中的能量不在你的腿里。你必须牺牲掉可被衡量的速度。你将要交接的时候要及早喊出声，发出信号说明你快到了，以便让下一位选手最好准备、有所预备。而且你要喊得够大声。但是这时血液、能量会集中在你的喉咙里，而不是你的腿里。因为你知道，这时候有8个人同时在喊。所以你要辨别得出你队友的声音。你可不能说，“是你吗？”这就晚了！
+Keterukuran.Apapun yang dapat diukurakan dilakukan.Lihat, untuk mengoper tongkat, Andaharus melakukannya pada saat yang tepatdi tangan yang tepat,pada kecepatan yang tepat.Tetapi untuk melakukan itu,Anda harus memasukkan energi ke lengan.Energi yang berada di lengantidak akan berada di kaki.Energi ke lengan ini akan mengurangikecepatan terukur Anda.Anda harus berteriak cukup awalkepada pelari berikutnyasaat akan mengoper tongkatnya,untuk memberi tanda bahwa Anda tiba,jadi pelari berikutnya dapat bersiap,dapat mengantisipasi.Dan Anda harus berteriak keras.Tetapi aliran darah, energiyang berada di tenggorokan Andatidak akan berada di kaki.Karena Anda tahu, akan ada delapan orangberteriak pada saat yang bersamaan.Jadi Anda harus mengenalisuara rekan Anda.Anda tidak dapat berkata"Apakah itu kamu?"Terlambat !
+11:04
+（笑声）
+(Tertawa)
+11:05
+那么，我们现在看下比赛的慢动作，大家注意第三棒选手。你看她把力量、能量和注意力都分配在哪里。并没有都在腿部 — 虽然这样对她的速度很有利 —可也分配在了喉咙、手臂、眼睛、大脑里。那么这对哪个选手的腿产生了影响呢？答案是下一个选手的腿。但当下一名选手跑得特别快的时候，这是因为她自己特别使劲跑了呢，还是因为前面一名选手的交接棒传得好呢？这个地球上没有标准来给我们一个答案。如果我们根据可以测量的表现来对人们进行奖励的话，人们就会把自己的能量、注意力和血液集中在能够被测量的部位 — 就是腿部。而这样一来交接棒会滑落然后传递速度会减慢。
+Sekarang, mari lihat perlombaannyadalam gerak lambatdan berkonsentrasi pada pelari ketiga.Lihatlah kemana ia mengalokasikan usahanya,energinya, perhatiannya.Tidak semua ke kakinya —itu akan bagus untuk kecepatannya —tetapi juga di tenggorokannya,lengan, mata, otak.Itu akan membuat perbedaandi kaki siapa?Di kaki pelari berikutnya.Tetapi saat pelari berikutnyalari dengan super cepat,apakah karena dia membuat usaha superatau karena cara dari pelari ketigamengoper tongkatnya?Tak ada metrik di duniayang akan memberi kita jawaban.Dan bila kita mengupah orang denganbasis performa mereka yang dapat diukur,mereka akan menggunakan energi mereka,perhatian mereka, darah merekapada hal yang dapat diukur — kaki mereka.Dan tongkatnya akan jatuh dan melambat.
+12:00
+合作不是一股超级力量，而是对力量的分配。这意味着冒险，因为你要牺牲可被客观测量的个人表现所能给予你的终极保障。这对别人的表现有着重要影响，而这些人正是和我们相比较的人。所以要合作就要当傻子。但是人们可不是傻子；所以他们不合作。
+Untuk bekerja sama bukanlahusaha super,tetapi bagaimana mengalokasikan usaha.Bekerja sama itu beresikokarena Anda mengorbankanperlindungan terakhiryang diberikan oleh kinerja individuyang dapat terukur secara objektif.Bekerja sama mendorong kita membuatperbedaan super dalam kinerja orang lain,yang akan dibandingkan dengan kita.Jadi, perlu menjadi bodoh duluuntuk bekerja sama.Dan orang tidak bodoh:mereka tidak bekerja sama.
+12:31
+你知道吗，在比较简单的世界里，清晰度、问责制、衡量都是可行的。但商业已经变得更加复杂了。我的团队，我们评估了商业复杂度的演变。如今要吸引并留住客户，打造世界级的优势并创造价值，是一件要求严苛的事。而商业越是复杂，我们就越是会以清晰度、问责和衡量的名义来让结构、过程和体制更加复杂繁多。
+Anda tahu, kejelasan, akuntabilitas,keterukuran adalah baiksaat dunia lebih sederhana.Tetapi bisnis telah menjadilebih kompleks.Dengan tim saya, kami telah mengukurevolusi kompleksitas dalam bisnis.Lebih banyak tuntutan sekarang untukmenarik dan mempertahankan pelanggan,untuk membangun kelebihandalam skala global,untuk menciptakan nilai.Dan bila bisnis semakin menjadi kompleks,semakin banyak, dalam nama kejelasan,akuntabilitas, keterukurankita menggandakan struktur,proses, sistem.
+13:12
+要知道，这种对清晰度和问责的推崇会引发一种反生产力的复杂化，导致出现更多的分界线、中间部门、协调者，他们不仅能动员人力和物资，但也会增添障碍。组织越是复杂，就越难理解究竟发生了什么。所以我们需要做总结、代理、报告、关键绩效指标、衡量标准。所以人们都把精力放在了可以被测量的东西上，然后牺牲合作。当表现退步了，我们会增加更多的结构、过程、体系。人们会把时间都用来开会、写报告，写了又改、改了又写。根据我们的分析数据显示，这些机构的团队会把40%到80%的时间用来浪费时间，他们越做越辛苦，越做越耗时，而增值活动却越来越少。这才是泯灭生产力的罪魁祸首，这才是让人们工作痛苦的原因。
+Anda tahu, dorongan untuk kejelasan danakuntabilitas menyebabkankontra produktif yang berlipat ganda atasantarmuka, kantor perantara, koordinator,yang tidak hanya menggerakkan orangdan sumber dayatetapi juga menambah rintangan.Dan semakin rumit suatu organisasi,semakin sulit untuk memahamiapa yang sebenarnya terjadi.Jadi kita memerlukanringkasan, perwakilan, laporan,indikator kinerja utama, metrik.Jadi orang menggunakan energi merekadalam hal yang dapat diukurdengan mengorbankan kerja sama.Dan saat kinerja semakin menurun,kita menambah lebih banyak struktur,proses, sistem.Orang menghabiskan waktu merekadalam rapat,menulis laporan yang harus dilakukan,dibatalkan, dan dilakukan ulang.Berdasarkan analisa kami,tim dalam organisasi inimenghabiskan antara 40 sampai 80 persenwaktu mereka secara sia-sia,tetapi mereka bekerja semakin kerasdan semakin lamadalam aktivitas yang semakin tidakmemiliki pertambahan nilai.Inilah yang membunuh produktivitas,yang membuat orangmenderita dalam pekerjaan.
+14:30
+我们的组织在浪费人类智慧。它们和人类的努力背道而驰。当人们不合作的时候，不要怪他们的思想、他们的心理、他们的性格 —请看一下他们的工作环境吧。合作与否真的事关他们的个人利益吗，如果，他们合作了，他们的个人表现会不会被削弱？既然如此他们为什么还会合作呢？当我们责怪的是一个人的性格，而不是责怪清晰度、问责制和衡量方法时，我们在无效之上又加上了不公正。
+Organisasi kita menyia-nyiakankecerdasan manusia.Mereka telah berbalikmelawan usaha manusia.Saat orang tidak bekerja sama,jangan menyalahkan cara berpikir mereka,mentalitas mereka, kepribadian mereka —lihat pada situasi pekerjaan.Apakah memang menjadi kepentingan pribadimerekauntuk bekerja sama atau tidak,jika, saat bekerja sama, posisi merekasecara individu semakin buruk?Lalu mengapa mereka harus bekerja sama?Saat kita menyalahkan kepribadianbukannya kejelasan, akuntabilitas, keterukuran,kita menambahkan ketidakadilandi samping ketidakefektifan.
+15:16
+我们要创造的组织，应该让人们觉得合作有益于个人。把界线划分、中间部门取消掉 —所有这些复杂的协调结构。不要强求清晰度；选择模糊。模糊没有明确分界线。取消大部分的评估表现的量化指标。速度指的是“什么”。可我们要看的是合作，即“如何。”你如何传递交接棒？你直接抛弃它吗，还是有效地传递过去？我是不是把我的能量都集中在了可量化的方面 —我的腿，我的速度 — 还是放在了如何传递交接棒上？
+Kita perlu membuat organisasiyang mendorong individu mendapat manfaatapabila mereka bekerja sama.Hilangkan antarmuka, kantor perantara —semua struktur koordinasi yang rumit.Jangan mencari kejelasan;carilah ketidakjelasan.Ketidakjelasan yang tumpang tindih.Hilangkan sebagian besarmetrik kuantitatif untuk menilai kinerja.Percepat "apa-nya."Dalam bekerja sama, perhatikan"bagaimana-nya".Bagaimana Anda mengoper tongkatnya?Anda melemparnyaatau Anda mengopernya secara efektif?Apakah saya menggunakan energidalam hal yang dapat diukur —kaki saya, kecepatan saya —atau dalam mengoper tongkat?
+16:07
+你们，作为领导和管理者，是否让人们觉得合作有益于个人了？我们组织、公司、社团的未来取决于你们对这些问题的答案。
+Anda, sebagai pemimpin, sebagai manajer,apakah Anda menciptakan keuntunganbagi individuyang dapat mendorong merekauntuk bekerja sama?Masa depan organisasi kita,perusahaan kita, masyarakat kitabergantung pada jawaban Andaatas pertanyaan ini.
+16:32
+谢谢。
+Terima kasih.
+16:33
+（掌声）
+(Tepuk tangan)
+ 0:11
+诺贝尔经济学奖[得主]，保罗克·鲁格曼，曾经说过：”生产力不能代表一切，但长期来看，它差不多就是一切。“
+Paul Krugman, pemenang Nobelbidang ekonomi pernah menulis:"Produktivitas bukanlah segalanya,namun dalam jangka panjang,ia hampir merupakan segalanya."
+ 0:27
+这是个严肃的问题。世界上没有什么东西能“几乎代表一切。”生产力是社会繁荣的主要推动力。那么我们面临着一个问题。在欧洲最大的经济体当中，50、60年代和70年代初期的生产力曾经保持着每年5%的增长速度。在1973-1983年间，生产力年化增长率为3%。在1983-1995年间，生产力年化增长率保持在2%。自1995年以来，生产力年化增长率每年的增长一直低于1%。日本也是如此。美国亦是如此，即便15年前出现了一次短暂的经济复苏，虽然我们身边的科技日新月异：例如互联网，信息技术，新信息技术和通讯技术的发展。
+Ini serius.TIdak ada begitu banyak hal di duniayang "hampir segalanya."Produktivitas adalah penggerak utamakemakmuran masyarakat.Jadi kita punya masalah.Di negara-negara Eropa terbesar,produktivitas dulu berkembang lima persen per tahunpada tahun 50-an, 60-an, dan awal 70-an.Dari tahun &#39;73 sampai &#39;83: tiga persen per tahun.Dari tahun &#39;83 sampai &#39;95: dua persen per tahun.Sejak 1995: kurang dari satu persenper tahun.Hal yang sama terjadi di Jepang.Hal yang sama terjadi di Amerika Serikat,walaupun ada kenaikan sementara15 tahun yang laludan meskipun dengan semuainovasi teknologi di sekitar kita:internet, informasi,teknologi informasi dan komunikasi baru.
+ 1:27
+生产力年化增长率为3%时，生活水平每个年代会翻一番。每一代人享受到的福利是其父母那代的两倍。当增长率仅为1%时，需要3代的时间才能使生活水平翻一番。在这一进程中，许多人会过得还不如他们的父母。他们的一切都更差些：房子更小了，或者根本没房子，受教育机会更少，获取维生素、抗生素、疫苗的机会也更少 —一切机会都更少。考虑下我们当前所面临的所有问题。所有问题。我们的问题有可能是扎根于生产力危机之上的。
+Ketika produktivitas tumbuh tiga persenper tahun,kita menggandakan standar hidupsetiap generasi.Setiap generasi menjadi dua kalilebih makmur dari orang tuanya.Ketika pertumbuhan satu persen per tahun,butuh tiga generasi untukmenggandakan standar hidup.Dan dalam proses ini, banyak orang yang akan kurang makmur dibanding orang tuanya.Mereka akan memiliki lebih sedikitdalam segala hal:rumah yang lebih kecil, atau mungkintidak memiliki rumah sama sekali,lebih sedikit akses ke kesehatan, vitamin, antibiotik, imunisasi —ke segala hal.Bayangkan semua permasalahan yangkita hadapi sekarang.Semuanya.Kemungkinan mereka berakardi krisis produktivitas.
+ 2:26
+为什么说这个危机是根源呢？因为效率的基本原理 —组织、管理的效率 —往往会使人们的努力适得其反。在公共事业的任何地方 — 在公司当中、我们的工作方式里、我们的创新、投资方式上 — 都在努力提高效率。效率的三位一体是指：透明度、衡量和问责制。它们使人们的努力白费。
+Mengapa krisis ini?Karena prinsip dasar efisiensi —efektivitas dalam organisasi,dalam manajemen —telah menjadi kontra produktifuntuk usaha manusia.Di mana-mana di pelayanan publik —di perusahaan, di cara kita bekerja,cara kita berinovasi, menanam modal —mencoba belajar untuk bekerja lebih baik.Misalnya trinitas suci dari efisiensi:kejelasan, keterukuran, akuntabilitas.Mereka membuat upaya manusia gagal.
+ 3:10
+有两个方式来看待、证明这点。第一，也是我偏向的一种，是严谨，典雅，美观大方的数学。但完整的数学评估方案需要一点时间，因此又有了另一种方式。就是通过接力赛跑来看。也是我们今天要用到的。这样会更生动、更直观也更快 — 这是短跑比赛嘛。当然，我们希望它更便捷。
+Ada dua cara melihatnya, membuktikannya.Pertama, yang lebih saya pilih,adalah matematika yangteliti, elegan, indah.Namun versi matematika yang lengkapbutuh waktu cukup lama,maka ada lagi cara lainnya.Yaitu seperti melihat perlombaan estafet.Ini yang akan kita lakukan sekarang.Ini lebih hidup, lebih visual,dan lebih cepat — ini perlombaan.Semoga saja ia lebih cepat.
+ 3:41
+（笑声）
+(Tertawa)
+ 3:43
+世界杯决赛 — 女子项目。决赛共有八队。最快的是美国队。美国有全世界最快的女运动员。她们是夺冠热门。显然，如果你把她们和一般的队伍比较，比如说，法国队吧，
+Final perlombaan dunia — wanita.Delapan tim bertarung di final.Tim tercepat adalah tim Amerika Serikat.Mereka memiliki wanita tercepat di dunia.Mereka tim favorit untuk menang.Terutama jika Anda membandingkannyadengan tim rata-rata,misalnya, tim Prancis,
+ 4:05
+（笑声）
+(Tertawa)
+ 4:07
+按照她们在100米短跑当中的最佳成绩，把美国选手个人的成绩相加起来，最后她们会在达终点线时比法国队领先3.2米。今年，美国队状态很好。根据她们今年的最好成绩，她们在到达终点时应该要领先法国队6.4米，这是根据数据推算的。那我们来看一下比赛。从某个角度来看，快到终点时，Torri Edwards，美国队第四棒，暂时领先。毫不意外地 — 今年她在100米赛跑中获得了金牌。顺便说下，Chryste Gaines，美国队第二棒，是地球上跑得最快的女性。那么，全世界有35亿女性。最快的两个在哪里？答案在美国队。美国队的另外两名选手也不赖。
+berdasarkan performa terbaik merekapada lomba lari 100 meter,jika Anda menambahkan waktu individualdari para pelari Amerika Serikat,mereka sampai di garis finish3,2 meter di depan tim Prancis.Dan tahun ini, tim AS dalamkondisi prima.Berdasarkan performa terbaikmereka tahun ini,mereka sampai 6,4 meter di depantim Prancis,berdasarkan data.Kita akan melihat perlombaan ini.Pada suatu titik, Anda akan lihat,mendekati akhir,bahwa Torri Edwards,pelari AS keempat, berada di depan.Tidak mengejutkan, tahun ini dia mendapatmedali emas di lomba lari 100 meter.Selain itu, Chryste Gaines,pelari kedua di tim ASadalah wanita tercepat di dunia.Jadi, ada 3,5 miliar wanita di bumi.Ada di mana kedua wanita tercepat? Di Tim AS.Dan kedua pelari lain di tim ASjuga tidak buruk.
+ 5:15
+（笑声）
+(Tertawa)
+ 5:17
+显然，美国队赢得了人才争夺战。不过在其背后，普通的队伍也在奋力追赶。我们来看下比赛。
+Jadi jelas, tim AS memenangkanpersaingan untuk bakat.Tetapi di belakang, tim rata-rataberusaha mengejar.Mari kita lihat lombanya.
+ 5:29
+（视频：法国体育节目比赛解说）
+(Video: pembawa acara Prancismenarasikan lomba)
+ 6:17
+（视频：比赛讲解结束）
+(Video: Narasi perlombaan berakhir)
+ 6:21
+所以视频里发生了什么？最快的队伍没有赢；慢的那一队反而赢了。顺便说下，我希望你们能认可我做了非常深入的历史研究来使法国看起来很好。
+Jadi apa yang terjadi?Tim tercepat tidak menang;yang lebih lambat lah yang menang.Semoga Anda bisa menghargairiset sejarah yang saya lakukan untukmembuat tim Prancis kelihatan bagus.
+ 6:35
+（笑声）
+(Tertawa)
+ 6:40
+但我们不要这么夸张 — 这也不是考古学
+Tapi jangan berlebihan —ini bukan arkeologi.
+ 6:44
+（笑声）
+(Tertawa)
+ 6:46
+但是为什么呢？因为合作。当你听到这句话：“多亏了合作，整体大于部分之和。”这不是诗歌；这不是哲学。这是数学。握着接力棒的人跑得慢了点，但她们交接棒更快。合作的奇迹：它能让人们努力的能量和智慧加倍。这是人们努力的精髓：我们如何合作，个人的成果如何为团队做贡献。通过合作，我们可以事半功倍。
+Tetapi mengapa?Karena kerja sama.Ketika Anda mendengar kalimat ini:"Berkat kerja sama, keseluruhan menjadilebih berharga dari jumlah per bagiannya."Ini bukan puisi;ini bukan filosofi.Ini matematika.Mereka yang membawa tongkatmemang lebih lambat,tapi tongkatnya lebih cepat.Keajaiban dari kerja sama:itu melipatgandakan energi,kepandaian dalam usaha manusia.Itu adalah esensi dari usaha manusia:bagaimana kita bekerja bersama,bagaimana setiap usahamembantu usaha yang lain.Dengan kerja sama,kita bisa melakukan lebih banyakdengan lebih sedikit.
+ 7:28
+那么，当目标 — 包含了 —清晰度、衡量、问责的圣神三位一体 —出现时，会对合作产生什么影响？
+Apa yang terjadi pada kerja samaketika tujuan utama —bahkan Trinitas suci —dari kejelasan, keterukuran,akuntabilitas —muncul?
+ 7:45
+清晰度。管理报告充满了对缺乏清晰度的抱怨。合规性审核、咨询诊断。我们需要更高的清晰度，我们要明确角色分担和过程。就好比说队伍里的选手说，“我们明确下吧 — 我从哪里跑到哪里？我要跑95米，还是96、97米...？”这很重要，我们要分清楚。如果你说97米的话，那么跑完97米，人们就会把交接棒丢掉，可不管到时候有没有人接。
+Kejelasan.Laporan manajemen penuh dengan keluhantentang kurangnya kejelasan.Audit kepatuhan,diagnostik konsultan.Kita butuh kejelasan yang lebih,kita perlu menjelaskan peran, proses.Itu seperti pelari dalam tim berkata,"Mari kita perjelas — di manaperanku mulai dan berakhir?Apa aku harus lari 95 meter,96, 97...?"Ini penting, ayo kita perjelas.Jika Anda bilang 97, setelah 97 meter,pelari akan menjatuhkan tongkat, takpeduli ada yang mengambil atau tidak.
+ 8:30
+问责制。我们总是试图把责任规定给某个人。谁对这个过程负责？我们需要一个人对这个过程负责。所以在接力赛中，既然交接棒如此之重要，那么我们需要非常明确负责交接棒的人是谁。在两个选手中间，我们现在要规定一个新的专门的运动员，这个运动员要非常明确地专注于接过上一个选手的交接棒，然后再交接给下一个选手。而且我们至少需要两个这样的选手。那么，我们，这样以来，会赢得比赛吗？这个我就不知道了，但是可以肯定的是，我们有一个明确的分工，对责任有了非常明确的划分界线。我们会知道由谁来承担过错。但我们不会赢得比赛。如果你仔细想想，会发现我们在失败时把更多精力集中在确定谁来负责的问题上，而不是去创造有利于成功的条件。把所有的人类智慧都投入到组织设计当中 —城市结构、处理系统 —真正的目的是什么？目的是在失败的时候把责任归咎于某人。我们创造了会失败的组织，但是以一种合规的方式来创造的，在这种组织中，有明确的人来为失败负责。在失败这点上，人们做的相当有效率。
+Akuntabilitas.Kita selalu mencoba menaruhakuntabilitasdi tangan seseorang.Siapa yang andal dan bisa dipercayadalam proses ini?Kita perlu seseorang yang bisadipercaya untuk proses ini.Jadi di lomba lari, karena menyampaikantongkat itu sangat penting,maka kita perlu seseorangyang dapat dipercayauntuk mengoper tongkat.Jadi di antara setiap pelari,kita akan punya atlet baruyang berdedikasi,yang berdedikasi untuk mengambil tongkatdari satu pelaridan memberikannya ke pelari selanjutnya.Dan kita perlu paling tidakdua yang seperti itu.Akankah kita, jika seperti itu,akan memenangkan lomba?Saya tidak tahu, tapi yang pasti,kita akan punya antarmukayang jelas,garis tanggung jawabyang jelas.Kita tahu siapa yang bisa disalahkan.Namun kita tidak akan memenangkan lomba.Jika Anda pikir lebih dalam,kita memberi perhatian lebihuntuk tahu siapa yang disalahkanjika terjadi kegagalan,daripada menciptakan kondisiuntuk sukses.Semua kecerdasan manusiayang digunakan dalam desain organisasi —struktur kota, sistem pengolahan —apa tujuan utamanya?Agar ada yang bisa disalahkan jika gagal.Kita menciptakanorganisasi yang dapat gagal,tetapi dalam cara yang sesuai aturan,dengan seseorang yang dapat disalahkansaat kita gagal.Dan kita cukup efektif dalam hal itu —gagal.
+10:15
+衡量。东西衡量好了，事情也就完成了。你看，要传递交接棒，你要在对的时间、用对的手、以正确的速度来传递。但要这么做的话，你要把能量分配到你的手臂里。你手臂中的能量不在你的腿里。你必须牺牲掉可被衡量的速度。你将要交接的时候要及早喊出声，发出信号说明你快到了，以便让下一位选手最好准备、有所预备。而且你要喊得够大声。但是这时血液、能量会集中在你的喉咙里，而不是你的腿里。因为你知道，这时候有8个人同时在喊。所以你要辨别得出你队友的声音。你可不能说，“是你吗？”这就晚了！
+Keterukuran.Apapun yang dapat diukurakan dilakukan.Lihat, untuk mengoper tongkat, Andaharus melakukannya pada saat yang tepatdi tangan yang tepat,pada kecepatan yang tepat.Tetapi untuk melakukan itu,Anda harus memasukkan energi ke lengan.Energi yang berada di lengantidak akan berada di kaki.Energi ke lengan ini akan mengurangikecepatan terukur Anda.Anda harus berteriak cukup awalkepada pelari berikutnyasaat akan mengoper tongkatnya,untuk memberi tanda bahwa Anda tiba,jadi pelari berikutnya dapat bersiap,dapat mengantisipasi.Dan Anda harus berteriak keras.Tetapi aliran darah, energiyang berada di tenggorokan Andatidak akan berada di kaki.Karena Anda tahu, akan ada delapan orangberteriak pada saat yang bersamaan.Jadi Anda harus mengenalisuara rekan Anda.Anda tidak dapat berkata"Apakah itu kamu?"Terlambat !
+11:04
+（笑声）
+(Tertawa)
+11:05
+那么，我们现在看下比赛的慢动作，大家注意第三棒选手。你看她把力量、能量和注意力都分配在哪里。并没有都在腿部 — 虽然这样对她的速度很有利 —可也分配在了喉咙、手臂、眼睛、大脑里。那么这对哪个选手的腿产生了影响呢？答案是下一个选手的腿。但当下一名选手跑得特别快的时候，这是因为她自己特别使劲跑了呢，还是因为前面一名选手的交接棒传得好呢？这个地球上没有标准来给我们一个答案。如果我们根据可以测量的表现来对人们进行奖励的话，人们就会把自己的能量、注意力和血液集中在能够被测量的部位 — 就是腿部。而这样一来交接棒会滑落然后传递速度会减慢。
+Sekarang, mari lihat perlombaannyadalam gerak lambatdan berkonsentrasi pada pelari ketiga.Lihatlah kemana ia mengalokasikan usahanya,energinya, perhatiannya.Tidak semua ke kakinya —itu akan bagus untuk kecepatannya —tetapi juga di tenggorokannya,lengan, mata, otak.Itu akan membuat perbedaandi kaki siapa?Di kaki pelari berikutnya.Tetapi saat pelari berikutnyalari dengan super cepat,apakah karena dia membuat usaha superatau karena cara dari pelari ketigamengoper tongkatnya?Tak ada metrik di duniayang akan memberi kita jawaban.Dan bila kita mengupah orang denganbasis performa mereka yang dapat diukur,mereka akan menggunakan energi mereka,perhatian mereka, darah merekapada hal yang dapat diukur — kaki mereka.Dan tongkatnya akan jatuh dan melambat.
+12:00
+合作不是一股超级力量，而是对力量的分配。这意味着冒险，因为你要牺牲可被客观测量的个人表现所能给予你的终极保障。这对别人的表现有着重要影响，而这些人正是和我们相比较的人。所以要合作就要当傻子。但是人们可不是傻子；所以他们不合作。
+Untuk bekerja sama bukanlahusaha super,tetapi bagaimana mengalokasikan usaha.Bekerja sama itu beresikokarena Anda mengorbankanperlindungan terakhiryang diberikan oleh kinerja individuyang dapat terukur secara objektif.Bekerja sama mendorong kita membuatperbedaan super dalam kinerja orang lain,yang akan dibandingkan dengan kita.Jadi, perlu menjadi bodoh duluuntuk bekerja sama.Dan orang tidak bodoh:mereka tidak bekerja sama.
+12:31
+你知道吗，在比较简单的世界里，清晰度、问责制、衡量都是可行的。但商业已经变得更加复杂了。我的团队，我们评估了商业复杂度的演变。如今要吸引并留住客户，打造世界级的优势并创造价值，是一件要求严苛的事。而商业越是复杂，我们就越是会以清晰度、问责和衡量的名义来让结构、过程和体制更加复杂繁多。
+Anda tahu, kejelasan, akuntabilitas,keterukuran adalah baiksaat dunia lebih sederhana.Tetapi bisnis telah menjadilebih kompleks.Dengan tim saya, kami telah mengukurevolusi kompleksitas dalam bisnis.Lebih banyak tuntutan sekarang untukmenarik dan mempertahankan pelanggan,untuk membangun kelebihandalam skala global,untuk menciptakan nilai.Dan bila bisnis semakin menjadi kompleks,semakin banyak, dalam nama kejelasan,akuntabilitas, keterukurankita menggandakan struktur,proses, sistem.
+13:12
+要知道，这种对清晰度和问责的推崇会引发一种反生产力的复杂化，导致出现更多的分界线、中间部门、协调者，他们不仅能动员人力和物资，但也会增添障碍。组织越是复杂，就越难理解究竟发生了什么。所以我们需要做总结、代理、报告、关键绩效指标、衡量标准。所以人们都把精力放在了可以被测量的东西上，然后牺牲合作。当表现退步了，我们会增加更多的结构、过程、体系。人们会把时间都用来开会、写报告，写了又改、改了又写。根据我们的分析数据显示，这些机构的团队会把40%到80%的时间用来浪费时间，他们越做越辛苦，越做越耗时，而增值活动却越来越少。这才是泯灭生产力的罪魁祸首，这才是让人们工作痛苦的原因。
+Anda tahu, dorongan untuk kejelasan danakuntabilitas menyebabkankontra produktif yang berlipat ganda atasantarmuka, kantor perantara, koordinator,yang tidak hanya menggerakkan orangdan sumber dayatetapi juga menambah rintangan.Dan semakin rumit suatu organisasi,semakin sulit untuk memahamiapa yang sebenarnya terjadi.Jadi kita memerlukanringkasan, perwakilan, laporan,indikator kinerja utama, metrik.Jadi orang menggunakan energi merekadalam hal yang dapat diukurdengan mengorbankan kerja sama.Dan saat kinerja semakin menurun,kita menambah lebih banyak struktur,proses, sistem.Orang menghabiskan waktu merekadalam rapat,menulis laporan yang harus dilakukan,dibatalkan, dan dilakukan ulang.Berdasarkan analisa kami,tim dalam organisasi inimenghabiskan antara 40 sampai 80 persenwaktu mereka secara sia-sia,tetapi mereka bekerja semakin kerasdan semakin lamadalam aktivitas yang semakin tidakmemiliki pertambahan nilai.Inilah yang membunuh produktivitas,yang membuat orangmenderita dalam pekerjaan.
+14:30
+我们的组织在浪费人类智慧。它们和人类的努力背道而驰。当人们不合作的时候，不要怪他们的思想、他们的心理、他们的性格 —请看一下他们的工作环境吧。合作与否真的事关他们的个人利益吗，如果，他们合作了，他们的个人表现会不会被削弱？既然如此他们为什么还会合作呢？当我们责怪的是一个人的性格，而不是责怪清晰度、问责制和衡量方法时，我们在无效之上又加上了不公正。
+Organisasi kita menyia-nyiakankecerdasan manusia.Mereka telah berbalikmelawan usaha manusia.Saat orang tidak bekerja sama,jangan menyalahkan cara berpikir mereka,mentalitas mereka, kepribadian mereka —lihat pada situasi pekerjaan.Apakah memang menjadi kepentingan pribadimerekauntuk bekerja sama atau tidak,jika, saat bekerja sama, posisi merekasecara individu semakin buruk?Lalu mengapa mereka harus bekerja sama?Saat kita menyalahkan kepribadianbukannya kejelasan, akuntabilitas, keterukuran,kita menambahkan ketidakadilandi samping ketidakefektifan.
+15:16
+我们要创造的组织，应该让人们觉得合作有益于个人。把界线划分、中间部门取消掉 —所有这些复杂的协调结构。不要强求清晰度；选择模糊。模糊没有明确分界线。取消大部分的评估表现的量化指标。速度指的是“什么”。可我们要看的是合作，即“如何。”你如何传递交接棒？你直接抛弃它吗，还是有效地传递过去？我是不是把我的能量都集中在了可量化的方面 —我的腿，我的速度 — 还是放在了如何传递交接棒上？
+Kita perlu membuat organisasiyang mendorong individu mendapat manfaatapabila mereka bekerja sama.Hilangkan antarmuka, kantor perantara —semua struktur koordinasi yang rumit.Jangan mencari kejelasan;carilah ketidakjelasan.Ketidakjelasan yang tumpang tindih.Hilangkan sebagian besarmetrik kuantitatif untuk menilai kinerja.Percepat "apa-nya."Dalam bekerja sama, perhatikan"bagaimana-nya".Bagaimana Anda mengoper tongkatnya?Anda melemparnyaatau Anda mengopernya secara efektif?Apakah saya menggunakan energidalam hal yang dapat diukur —kaki saya, kecepatan saya —atau dalam mengoper tongkat?
+16:07
+你们，作为领导和管理者，是否让人们觉得合作有益于个人了？我们组织、公司、社团的未来取决于你们对这些问题的答案。
+Anda, sebagai pemimpin, sebagai manajer,apakah Anda menciptakan keuntunganbagi individuyang dapat mendorong merekauntuk bekerja sama?Masa depan organisasi kita,perusahaan kita, masyarakat kitabergantung pada jawaban Andaatas pertanyaan ini.
+16:32
+谢谢。
+Terima kasih.
+16:33
+（掌声）
+(Tepuk tangan)

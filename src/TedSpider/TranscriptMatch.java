@@ -96,8 +96,8 @@ public class TranscriptMatch {
 			return;
 		}
 		else{
-			System.err.print("时间轴无法对应无法添加");
-			throw new Exception();
+			
+			throw new Exception("Cannot match!");
 		}
 //		else{
 //			for (int i = 0, j=0; i < this.scriptList.size(); i++, j++) {

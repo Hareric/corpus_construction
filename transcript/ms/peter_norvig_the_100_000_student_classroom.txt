@@ -1,0 +1,48 @@
+ 0:12
+每个人都既是学生又是老师这就是我当时被我第一个导师所启蒙我的妈妈而这是我教授的“人工智能入门”课程给200多名学生在斯坦福大学
+Setiap orang adalah pelajardan juga pengajar.Ini adalah saya sedang diinspirasikanoleh tutor pertama saya,iaitu ibu saya,dan ini adalah saya sedang mengajarsubjek Pengenalan Kebijaksanaan Buatankepada 200 pelajardi Universiti Stanford.
+ 0:27
+学生和我都非常享受这门课但是我突然想到虽说这门课的主题内容是非常高级的并且现代的但是讲授方法却非如此实际上，我基本上用了和14世纪教师一样的方法来上课课本上的笔记站在讲台上的智者以及正在后面睡觉的学生就跟今天一样
+Saya dan para pelajarsukakan kelas initetapi terlintas difikiran sayadimana sementara perihal subjekkelas ini yang sangat ke hadapandan modennamun teknologi pengajarannya tidak.Hakikatnya, saya menggunakanteknologi yang samaseperti kelas di kurun ke-14 ini.Perhatikan buku teks tersebut,pendeta di atas pentas itu,dan pelajar yang sedang tidurdi belakang. (Gelak tawa)Sama seperti hari ini.
+ 0:56
+因此我的同科目老师Sebastian Thrun和我认为一定有一种更好的方法（来传授知识）我们挑战自我决心去创建一个在线网上课程这门课程将会和我们在斯坦福的课程质量媲美甚至更好而且还能给来自世界各地的人们免费学习的机会
+Pengajar bersama saya,Sebastian Thrun, dan saya sendiri berpendapatpasti ada cara yang lebih baik.Kami mencabar diri sendiriuntuk mengadakan kelas dalam talianyang setaraf atau lebih baikdari segi kualitinya dengan kelas kami di Stanford,tetapi kelas tersebut boleh disertai oleh sesiapa sahajadi dunia secara percuma.
+ 1:13
+我们在7月29号宣布了这项课程在两周之类，50000个人已经报名参加了最后参加人数达到160,000个学生各自从209个国家而来我们实在是非常激动去拥有这样的观众而且还有点害怕因为我们还没准备好课程安排呢……（笑声）
+Kami mengumumkan kelas tersebut pada 29 Julai,dan dalam masa dua minggu, 50,000 orangtelah mendaftar.Dan angka tersebut menjadi 160,000 pelajardari 209 buah negara.Kami sangat terujamendapat audiens sedemikian rupa,dan sedikit rasa gerun kerana kamibelum selesai menyediakan kelas tersebut. (Gelak tawa)
+ 1:33
+因此我们加劲工作我们研究了其他人已经做过的东西计划了哪些东西该继承和哪些需要改变Benjamin Bloom曾表明一对一的家教效果最好因此我们就准备这样模拟就跟我和我妈妈一样虽然我们都知道这实际将是是一对数千人的课程在这里，一个在头顶的摄像头正在录制我在纸上画画的方式讲课的过程
+Jadi kami mula bekerja.Kami mengkaji apa yang telah dilakukan oleh orang lain,apa yang kami boleh tiru dan apa yang perlu diubah.Benjamin Bloom telah menunjukkanyang belajar seorang sama seorang adalah paling baik,jadi itulah yang cuba kami contohi,seperti saya dengan ibu,walaupun kami tahuyang kelas ini adalah seorang dengan beribu-ribu orang.Di sini, sebuah kamera video overhedsedang merakamkan saya yang sedang bercakapdan melukis di atas sekeping kertas.
+ 1:56
+一个学生说：“这门课就像是在酒吧和一个很聪明的朋友坐着这个朋友还会向你解释一些你还不是很懂，但将要懂的东西而这个效果就是我们想要达到的
+Seorang pelajar berkata, "Kelas ini rasanya sepertibersantai di sebuah barbersama-sama seorang sahabat yang bijakyang sedang menerangkan sesuatu yanganda belum paham, tetapi hampir faham."Dan itulah matlamat kami.
+ 2:07
+现在，我们可以在Khan Academy看到这些短短10分钟的视频这些东西比那些在一个小屏幕播放足足一小时的视频讲座效果要好多了我们决定了把他们弄得再短些更有互动性我们的视频一般来说大约2分钟长度有时候更短，有时候比6分钟长一点,然后我们暂停，出一道小问答题，使它变得像一对一的家教在这，我在解释一个电脑如何理解英语语法去解析一个句子，而在这儿呢这里有一个暂停让学生来回忆，理解刚才讲的是什么然后在回到课程之前选择正确的答案
+Daripada Akademi Khan, kami saksikanyang sebuah video pendek 10 minitlebih baik daripada cubamerakam kelas selama sejamdan meletakkannya dalam skrin format kecil.Kami mengambil keputusan untuk buat lagi pendekdan lebih interaktif.Video kami biasanya dua minit,kadang-kadang lebih pendek daripada itu, tidak pernah lebihdaripada enam minit, dan kami berhenti seketika untuksatu soalan kuiz, supaya ia sepertikelas seorang dengan seorang.Di sini, saya sedang menerangkan bagaimana sebuah komputer menggunakantatabahasa Bahasa Inggerisuntuk menghuraikan ayat, dan di sini,kami berhenti dan pelajarperlu melakukan refleksi, dan memahami apa yang sedang berlakudan menandakan kotak yang betulsebelum mereka meneruskan pelajaran.
+ 2:44
+学生在积极主动参与时获得的学习效果最好我们想让他们参与其中，让他们消除迷惑并且使他们去自己总结这些关键的理念像“这有个公式，现在告诉当X是2的时候Y值是多少”我们通常不出这种问题我们更喜欢开放性的问题
+Para pelajar belajar dengan lebih baikapabila mereka melakukan latihans secara aktif.Kami mahu melibatkan mereka, supaya mereka dapat bergelutdalamn kesamaran dan membimbing mereka untuk mensintesiskanidea-idea utama dengan usaha mereka sendiriKami biasanya mengelakkan soalan-soalanseperti, "Ini dia formulanya, sekarangberikan nilai Yapabila X sama dengan dua."Kami lebih sukakan soalan-soalan terbuka.
+ 3:03
+一个学生写到：“我总能看见贝叶斯网络和博弈论的例子到处都是。”我很喜欢那样的回馈这正是我们所想实现的我们不想要学生去背公式我们想去改变他们看待世界的方式最后我们成功了或者我应该说，学生们成功了
+Salah seorang daripada pelajar menulis"Sekarang sayanampak rangkaian Bayes dan contoh-contohteori permainan di mana-mana sahaja saya pandang,."dan saya suka respon seperti itu.Itulah matlamat kami.Kami tidak mahu para pelajar menghafal formula;kami mahu mengubah caramereka memandang dunia.Dan kami berjaya melakukannya.Atau, mungkin sepatutnya, para pelajar ini yang telah berjaya.
+ 3:21
+不过有点讽刺的是，我们差点就破坏了传统式的教育因为这原因，我们最后将我们的在线课程做了调整比起其他的在线课程来说，这更像一个传统大学的课程大多数在线课程的视频都是可以随便看的但是如果你可以随时看，那就以为你可以明天再看而如果你可以明天看，嗯…那你估计说不定就不看了
+Agak sedikit ironikkerana pada mulanya kami mahu menggoncang pendidikan tradisionaltetapi dalam melakukannya, kami akhirnyatelah menjadikan kelas dalam talian inihampir menyerupai kelas kolej tradisionalberbanding kelas-kelas dalam talian yang lain.Kebanyakan kelas dalam talian, video-videonya sentiasa mudah diperolehi.Anda boleh menontonnya bila-bila masa sahaja.Tetapi jika anda boleh menontonnya pada bila-bila masa,bermakna anda boleh menontonnya esok,dan jika anda boleh menontonnya esok,mungkin lama-kelamaananda tidak akan menontonnya langsung. (Gelak tawa)
+ 3:48
+因此呢我们带来的革新方式就是有截止日期。（笑声）你可以观看这些视频在这周的任何时候但是在周末之前，你必须得完成你的作业这就会激励学生去不断地去学习，这还意味着每个人都在在相同的时间内学习相同的内容当你进入一个讨论区的时候你可以在几分钟内从你的同学中得到解答现在，我要给你看几个这样的论坛，大多数的这些讨论都是学生们自己组织的
+Jadi, kami kembalikan semula inovasitarikh tamat. (Gelak tawa)Anda boleh menonton video-video inibila-bila masa yang anda mahu sepanjang minggu itu,tetapi pada akhir minggu,anda perlu menyiapkan kerja yang diberikan.Ini merangsang para pelajar untuk terus belajar, dan ia juga bermaksudmereka semua berusaha memahamiperkara yang sama pada masa yang sama,jadi jika anda masuk ke forum perbincangan,anda boleh mendapat jawapan daripada rakan forum dalam beberapa minit sahajaSaya akan tunjukkan beberapa forum yang kebanyakannyadiselenggarakan sendiri oleh para pelajar ini.
+ 4:14
+从Daphne Koller和Andrew Ng这里，我们学习到关于如何“贯通”课程的的方法学生们先自己观看这些视频然后他们再聚集到一起进行讨论从Eric Mazur，我了解到了关于同学指导的观点同伴可以成为最好的老师因为他们了解类似处境的人的遇到困难时是什么样子的有些东西Sebastian和我都快忘记了不过当然，我们没法和成千上万的学生进行课堂讨论因此我们便鼓励和培养这些在线的讨论模式
+Daripada Daphne Koller dan Andrew Ng, kami mempelajarikonsep "menterbalikkan" (flipping) kelas.Para pelajar menonton video itu sendirikemudian mereka akanberkumpul untuk membincangkan video-video tersebut.Daripada Eric Mazur, saya mempelajari tentang arahan rakan sebaya,yang rakan sebaya boleh menjadi guru yang paling baik,kerana mereka inimasih ingat bagaimana rasanya ketika tidak memahami sesuatu subjek.Saya dan Sebastian sudah tidak berapa ingat rasa itu.Pastinya, kami tidak bolehmengadakan perbincangan kelas denganberatus-ratus ribu pelajarjadi kami menggalakkan dan menyemai forum-forum dalam talian ini.
+ 4:46
+最后，从“Teach For America（为美国而执教）”这个项目中我学习到了上课不光是为了知识的传授更重要的培养积极性和决心学生们应当理解到我们在为他们努力而且他们自己也在相互支持，这是很关键的
+Dan akhirnya, dari Teach For Americasaya dapati yang sesebuah kelas bukanlahmengenai maklumat semata-mata.Apa yang lebih penting adalah motivasi dan tekad.Adalah penting untuk para pelajar ini melihatyang kami sedang berusaha kerasa untuk mereka danmereka menyokong sesama sendiri.
+ 5:00
+到目前为止，这个课程已经进行了10周了,最后，一万六个学生中的一半都会至少在每周看一个视频而且超过两万人完成了他们的作业投入了50-100个小时他们最后收获到了这个结业证明
+Kini, kelas ini telah berjalan selama 10 minggu,akhirnya, lebih kurang separuh daripada 160,000 pelajar tadi menontonsekurang-kurangnya satu video setiap minggu,dan lebih kurang 20,000 lagi menyiapkan kerja yang diberikan,dengan menghabiskan 50 sehingga 100 jam.Mereka memperoleh pernyataan pencapaian seperti ini.
+ 5:14
+那么我们又学到了什么呢？我们用了一些旧的观念和一些新的想法并且把他们结合在了一起不过将来还有很多想法可以去尝试Sebastian正在教授另一个课程我在秋季也准备教授一个斯坦福的Coursera，Udacity，以及麻省理工的MITx还有很多其他的课程也要推出这真的非常激动人心
+Apa yang boleh kita pelajari di sini?Kami telah mencuba beberapa idea lamadan juga beberapa idea baru dan menggabungkannya,tetapi ada beberapa idea yang belum dicuba.Sebastian sedang mengajar sebuah kelas lain sekarang.Saya akan mengajar sebuah kelas lagi pada musim luruh nanti.Standford Coursera, Udacity, MITxdan lain-lain ada lebih banyak kelas yang akan diadakan.Ini memang satu masa yang mengujakan.
+ 5:33
+不过对我来说，最激动人心的就是是那些我们收集到的数据我们收集了上千次的互动记录，还有每个学生在每堂课中共数十亿次的交流我们现在可以开始分析这些数据而当我们能从中探索到什么并做些尝试时真正的变革就会发生你就能够看到从新一代学生身上的精湛成果（鼓掌喝彩）
+Tetapi bagi saya, apa yang paling mengujakan adalahsebahagiannya adalah data yang kami dapat kumpulkan.Kami mengumpul beribu-ribuinteraksi untuk setiap seorang pelajar untuk setiap sebuah kelas,berbilion-bilion interaksi apabila digabungkan,dan kini kami boleh mula menganalisadan apabila kami pelajari daripada data itu,melakukan experimentasimasa itulah mulanya revolusi sebenarnyaDan anda boleh melihat hasilnya daripadasatu generasi baru para pelajar yang menakjubkan.(Tepukan)

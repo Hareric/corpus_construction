@@ -1,0 +1,174 @@
+ 0:12
+当我还是个孩子时，我父母告诉我，“你可以把东西搞得一团糟，但是之后你必须收拾好。”所以自由和责任其实是伴随发生的。我的想象力会把我带到一个什么都可以发生的，神奇的地方。我在一个充满天真的世界中成长——或者应该说是一个无知的世界，因为大人们会对我们说谎，来避免我们接触到丑恶的现实。当我们逐渐长大，我发现其实大人们的世界一团糟，而且他们并不善于收拾烂摊子。
+Saat masih kecil, orang tua saya berkata,"Kamu boleh membuat kekacauan, tapisetelahnya harus kamu bereskan sendiri."Jadi, kebebasan diikuti dengan tanggung jawab.Tapi, imajinasi telah membawa saya ke berbagai tempat yang menakjubkan,yang memungkinkan semua hal terjadi.Saya tumbuh besar dalam gelembung keluguan —atau lebih tepatnya, gelembung kebodohan,karena orang dewasa berbohong untuk melindungi kami dari kebenaran yang pahit.Semakin besar, saya menemukan bahwa orang dewasa juga membuat kekacauan,dan mereka tak begitu jago membereskannya.
+ 0:46
+现在，我变成了个大人，我在香港港口小学教科学和发明课。没过多久，我的学生们走在海滩上的时候，就发现了成堆的垃圾。作为好公民，我们清理了海滩——不，他不是在喝酒，就算是，酒也不是我给的。
+Sekarang, saya sudah dewasa,mengajar ilmu sains dan penemuan kepadamasyarakat di Hong Kong Harbour School.Dan tak makan waktu lamabagi murid saya untuk pergi ke pantaidan menemukan gundukan sampah.Sebagai warga negara yang baik, kami membersihkan pantai —tidak, dia tidak minum alkohol, dankalaupun iya, bukan saya yang beri.
+ 1:06
+（笑声）
+(Tertawa)
+ 1:08
+很遗憾地说，如今超过80%的海洋里有塑料制品。这是个很可怕的事实。在过去的几十年里，我们用这些大船拖着大网把垃圾捞出来，我们把塑料垃圾收集起来，用显微镜观察，然后把它们分类，之后我们把这些数据写在了一张地图上。但那要花很长时间，成本也非常高，而且开那些大船是很危险的。
+Berat mengatakannya,tetapi kini, lebih dari 80 persenlaut dicemari limbah plastik.Ini fakta yang mengerikan.Dalam beberapa dekade terakhir,kita memberangkatkan kapal-kapal besardengan jaring raksasadan mengumpulkan limbah plastik ituserta menelitinya dengan mikroskop,lalu kita memilah merekadan memasukkan datanyauntuk dipetakan.Tetapi proses ini memakan waktu sangatlama, sangat mahal,dan menggunakan kapal-kapal besar ituberesiko cukup tinggi.
+ 1:32
+所以我，和我的6到15岁的学生们，一直都梦想创造一个更好的办法。于是，我们把在香港的一个小教室变成了一个工作室。然后我们就开始建造这个小工作台，把它们做成不同的高度，就算是个子矮的小朋友也可以参加进来了。告诉你们吧，拿着电动工具的孩子们其实很酷炫而且很安全。
+Jadi, bersama murid-murid sayayang berusia 6 sampai 15 tahun,kami semua bermimpi menemukancara yang lebih baik.Jadi, kami mengubah kelas kecil kamidi Hong Kong menjadi bengkel.Dan kami mulai membangunmeja kerja kecil inidengan ketinggian berbeda, agar murid yangterpendek pun bisa ikut serta.Asal tahu saja, anak-anak dengan perkakasterlihat keren dan aman.
+ 1:52
+（笑声）
+(Tertawa)
+ 1:53
+开个玩笑。咱们回到塑料制品那个话题。我们收集了一些塑料制品然后把它们磨成了在海里找到它们时的大小，特别特别小，因为它们在海里都分解了。我们是这么做的。我让我的学生们充分发挥想象力。而我的工作就是尽量收集每个孩子最好的想法，然后试着去把这些想法和一些期望能行的通的东西结合起来。之后我们就达成了一致，我们不收集塑料品了，我们决定仅仅收集数据。我们打算用机器人来获取塑料制品的图片——有了机器人，孩子们简直兴奋死了。我们的下一步工作——我们称之为“快速原型设计”。我们的原型设计做得非常快，以至于我们午饭还没吃完，饭盒就被征用了。
+Tidak juga.Jadi, kembali ke plastik.Kami kumpulkan plastik dan menggerusnyasampai seukuran plastik di laut,yang sangat kecil karena sudah terurai.Begini cara kerja kami.Saya membiarkan imajinasi murid-muridberkembang liar.Tugas saya adalah mengumpulkan ide-ideterbaik dari merekadan menggabungkannya menjadi hal yangmudah-mudahan bisa digunakan.Kami sepakat alih-alihmengumpulkan plastik,kami hanya akan mengumpulkan datanya.Jadi kami akan mengambil gambar plastikdengan robot —karena robot membuat anak-anakjadi semangat.Kemudian, kami membuat "prototipe cepat."Kami sangat cepat mengerjakanprototipenyasampai-sampai sisa makan siang masih adasaat kami gunakan kotaknya.
+ 2:35
+（笑声）
+(Tertawa)
+ 2:36
+我们把桌灯和网络摄像头装到了卫生洁具上，然后把它们组装在漂浮机器人上，机器人会在水面上缓缓移动，穿过水面上的塑料漂浮物——这就是我们用机器人得到的照片。我们可以看到塑料碎片缓缓地流经感应器，内置的计算机就会分析这些影像，并且计算出每个颗粒的大小，所以我们就能对水中塑料品的数量有一个粗略的估计了。
+Kami mengubah lampu meja dan kamera webmenjadi pipa ledeng,dan merakitnya menjadi robot terapungyang bergerak perlahan di airdan di plastik yang ada di sana —dan inilah gambar yang kami dapatdari robotnya.Di sini, tampak plastik mengapung perlahanmelewati sensordan komputer mengolah gambar ini,mengukur setiap partikelsehingga kita punya perkiraan kasar berapabanyak plastik yang ada di dalam air.
+ 3:04
+我们在一个叫Instructables的发明家网站上一步一步地记录下我们的发明，希望有人可以继续完善它。
+Kami mencatat setiap pengembanganpenemuan inidi dalam situs Instructables, khusus untuk para penemu,agar orang lain bisa mengembangkannyalebih baik lagi.
+ 3:14
+这个项目的精彩之处在于，孩子们自己看到了当地的问题，然后灵光一现——他们就马上开始试着去解决这个问题了。
+Yang bagus dari proyek ini ialahmurid-murid melihat masalah di sekitanyadan mereka kemudian mencoba mengatasinya.
+ 3:21
+（我可以研究本地的问题）
+[Saya bisa menyelidiki masalahdi sekitar saya]
+ 3:23
+不过，我在香港的学生是非常与时俱进的孩子。他们常看新闻，他们会上网，然后他们就看到了这张照片。这是一个大概不到10岁的孩子，在徒手清理流出的油污，地点在孟加拉国，拥有世界最大的红树林的孙德尔本斯地区。孩子们感到非常震惊，因为这里的水就是当地人喝的水，他们也常在这里洗澡，在这里钓鱼——这是他们赖以生存的地方。现在你们可以看到水是棕色的，泥土是棕色的，油污也是棕色的，当所有的东西都掺在一起时，很难分清水里有什么东西。但是，有一项相当简单的技术，叫做光谱测定法，可以让你看清水中物质的成分。所以我们就做了一个分光仪的简单原型，让光线透过不同的物质，产生不同的光谱，这样就能帮你分辨水里的东西了。我们就把这个感应器的原型打包好，寄到了孟加拉国。这个项目有意思的地方在于这不只是解决一个本地问题，或者研究一个本地问题了，我的学生们用他们的同情心和丰富的想象力远程帮助了其他的孩子。
+Tapi murid-murid saya di Hong Kongmenerima informasi dari mana-mana.Mereka nonton berita, melihat internet,dan mereka menemukan foto ini.Anak ini, mungkin belum 10 tahun,membersihkan tumpahan minyak sendiridi Sundarbans, Bangladesh, daerah hutan bakau terbesar di dunia.Mereka sangat terkejutkarena itu air yang mereka minum,mereka pakai mandi,tempat mereka memancing — tempat mereka hidup.Dan Anda bisa lihat airnya coklat,lumpur dan minyaknya pun coklat,jadi ketika semuanya tercampur,sulit untuk melihat apa yang adadi dalam air.Tetapi, ada teknologi yang cukup sederhana,namanya spektrometri,yang memungkinkan melihat kandungan air.Jadi kami membuat prototipe kasardari spektrometer,dan Anda bisa memancarkan sinar melalui zat-zat yang berbedayang memproduksi spektrum berbeda,sehingga membantu Andamengidentifikasi zat yang ada di air.Kami memasangi sensor pada prototipe ini,lalu kami kirim ke Bangladesh.Yang keren dari proyek ini adalahbukan hanya mengatasi masalah di sekitaratau mengamati masalah lokal saja,tetapi murid-murid saya menggunakan empatidan daya kreatif merekauntuk menolong anak-anak lain dari jauh.
+ 4:35
+（我可以解决一个远方的问题了）
+[Aku bisa menyelidiki masalah yang jauh]
+ 4:37
+我做第二个实验时有一种很强的使命感，想要更进一步——或许我们可以解决一个更加困难，同时也是我打心底里想研究的问题。
+Jadi, saya terdorong membuat eksperimen keduadan saya ingin membawanyalebih jauh lagi —mungkin mengatasi masalah yang lebih besardan lebih dekat dengan saya.
+ 4:47
+我是日法混血，可能你们还记得在2011年日本遭受了一次很强的地震。地震破坏力很强，还引发了惊天巨浪——也就是海啸——海啸破坏了日本东边沿海地区的很多城市。一瞬间，超过一万四千人失去了生命。而且，海啸还摧毁了福田核电站，一个建在海边的核电站。今天，我读了一些报告，知道了大概300吨的核污水从核电站流到了太平洋。今天，整个太平洋都受到了铯-137的污染。如果你去美国的西海岸，到处都能够发现福岛核泄露的痕迹。但如果你从地图上看，你会看到似乎大部分的放射物质都从日本海岸冲走了，现在核泄露的大部分——看起来都是安全的，因为是蓝色的。然而，现实要比这复杂得多。
+Saya separuh Jepang dan Prancis,dan Anda mungkin ingat gempa bumi besardi Jepang tahun 2011.Gempa itu begitu kuat sehingga menciptakanombak raksasa —yang disebut tsunami —dan tsunami tersebut menghancurkanbanyak kota di pesisir timur Jepang.Lebih dari 14.000 orang tewas seketika.Bencana itu juga merusak pembangkit tenaganuklir Fukushima,yang berlokasi di dekat pantai.Hari ini, saya membaca laporansekitar 300 ton material nuklirbocor dari pembangkit Fukushimake Samudra Pasifik.Saat ini di seluruh Samudra Pasifikterdapat tanda kontaminasi cesium-137.Jika Anda pergi ke luar Pesisir Barat,jejak Fukushima bisa dilihat di mana-mana.Tapi jika Anda melihat peta, sebagianbesar radioaktivitas sepertinyatelah tersapu dari pesisir Jepangdan sebagian besar pesisirnya tampakaman — warnanya biru.Kenyataannya agak lebih rumit dari itu.
+ 5:53
+自从那次事故以来，我每年都会去福岛，我和其他的科学家一起，在陆地上、在水里进行独立调查——这次我想带上孩子们。当然我们没有真的把孩子们带过去，家长们不会让我们这样做的。
+Saya pergi ke Fukushima setiap tahunsetelah kecelakaan itu,dan melakukan pengukuran mandiribersama ilmuwan lain,di tanah, di sungai —dan kali ini, kami mau mengajak anak-anak.Tentu saja kami tidak membawa merekake sana, para orang tua pasti protes.
+ 6:07
+（笑声）
+(Tertawa)
+ 6:09
+但每晚我们都要向“任务控制部”汇报，他们带着不同的面具。看起来好像他们并没有认真工作，但其实不然，因为他们一辈子都要在这种放射性的环境下生活。我们跟他们一起做的工作就是研究我们当天收集的数据，并且讨论我们下一步该做什么——策略、行程等等······于是，我们做了一个核电站周围区域的很简单的地形图。我们做了这个高程图，在上面撒上颜料来代表核放射的实时数据，我们还会喷水来模拟下雨。用这种方法我们看到了放射性尘埃被雨水从山顶冲到了河流里，最后流向大海。这只是个粗略的估算。
+Tapi, setiap malam kami melaporke "Pusat Kendali Misi" —mereka memakai topeng yang berbeda.Kelihatannya mereka tak serius,tapi mereka benar-benar seriuskarena mereka harus hidup denganradioaktivitas seumur hidup mereka.Jadi, yang kami lakukan ialahmendiskusikan data-data yang kami perolehhari itu,dan apa yang harus kami lakukanselanjutnya —strategi, rencana, dan sebagainya.Untuk mewujudkannya, kami membuatpeta tofografis kasardari daerah di sekitar pembangkit listriktenaga nuklir.Kami membuat peta elevasi,kami menebar pigmen yang melambangkan dataradioaktivitas terkini,dan kami menyemprotkan air sebagaisimulasi hujan.Dengan melakukan hal ini, kami dapatmelihat debu radioaktifterbawa dari atas gunung ke sungaidan masuk ke lautan.Itulah kira-kira gambarannya.
+ 7:01
+基于这种方法，我们组织了一次探索活动，这也是公民们距离核电站最近的一次了。我们在离核电站1.5公里远的地方航行，在当地渔民的帮助下，我们用自己发明制作的沉淀物采样器在海底收集了一些沉淀物。我们把这些沉淀物打成一个个的小包，然后把这数百个小包封装好寄给了很多大学，我们做出了这个海床放射活动的地图，特别是在鱼类繁殖的河口地区，我希望我们所做的这些可以使当地的渔民和你们最爱的寿司安全一点。
+Selanjutnya, kami mengatur ekspedisiyang merupakan ekspedisi terdekat manusiake pembangkit listrik tenaga nuklir.Kami berlayar 1,5 kilometer mendekatipembangkit listrik itudan dengan bantuan nelayan lokal,kami mengumpulkan sedimen dari dasar lautdengan peralatan sederhana yang kamiciptakan dan rakit.Kami memasukkan sedimen tersebut ke dalamkantong-kantong kecil,lalu kami bagi lagi mereka ke ratusankantongyang kami kirimkan ke berbagai universitasdan kami memproduksi peta radioaktifdi dasar lautterutama di daerah muara tempat ikanakan bereproduksidan saya berharap kami akan meningkatkankeselamatan nelayan lokal dan keamanansushi kegemaran Anda.
+ 7:38
+（笑声）
+(Tertawa)
+ 7:39
+你们可以看到我们的进步——我们从本地问题开始，到外地的问题，最后再到世界问题。做这些不同规模项目的感觉真的特别爽，我们使用的技术也是非常简单和开源的。但同时，我们也逐渐地感觉有些沮丧，因为我们现在做的仅仅是测量我们过去所造成的危害。我们还没有开始解决这些问题。所以我想知道，我们能不能有一个飞跃，想出一些更好的办法来解决这些问题呢？
+Perkembangannya dapat dilihat,kami berangkat dari masalah lokal kemasalah di tempat jauh ke masalah global.Dan sangatlah menarik bekerja dalam skalayang berbeda ini,dengan teknologi yang sangat sederhanadan terbuka bagi siapapun.Namun pada saat yang sama,rasanya semakin kesalkarena kami baru mulai mengukur kerusakanyang kita buat.Kami belum lagi memulai untuk memecahkanmasalah tersebut.Jadi saya bertanya-tanya bagaimana kalaukami langsung sajamencoba menciptakan cara baruuntuk melakukan semua hal tersebut.
+ 8:12
+然后教室就显得有点小了，我们找了香港的一处废弃工厂，然后把它变成了一个最大的多用空间，专门来研究社会和环境影响。这是在香港市中心，是一个我们可以做木工、金工和化学实验的地方，还可以做一些生物学和光学的实验，在那里，基本上你什么都可以做。这是一个大人和孩子可以一起玩的地方。这是一个在大人的帮助下，孩子们可以梦想成真的地方，在这里，大人们也返老还童了。
+Ruangan kelas kami pun mulaiterasa sempit,jadi kami mendapati satu situs industridi Hong Kongdan kami mengubahnya menjadi ruang besaryang berfokus pada dampak sosialdan lingkungan.Letaknya di pusat Hong Kongdan tempat ini menjadi tempatkami bekerja dengan kayu, logam, kimia,sedikit ilmu biologi, sedikit ilmu optik,intinya, semua hal bisa Anda kerjakandi sana.Tempat di mana anak-anak dan dewasadapat bermain bersama.Tempat di mana impian anak-anak menjadinyata,dengan bantuan orang dewasa,dan orang dewasa bisa menjadianak-anak lagi.
+ 8:43
+学生们：加油！加油！
+Siswa: Percepatan! Percepatan!
+ 8:46
+塞萨尔·原田：我们经常提出这样的问题，我们可以打造一个利用可再生能源的移动设备的未来吗？这是一个例子。还有，我们能把非常常见的轮椅变成很酷的电动车，让老年人的行动更加方便吗？
+Cesar Harada: Pertanyaan kami antara lain,bisakah kita menciptakan pergerakan masadepan dengan teknologi terbarukan?Itu contohnya.Atau, bisakah kita membantu pergerakanpopulasi orang tuadengan mengubah kursi roda standar menjadikendaraan listrik yang keren?
+ 9:04
+塑料制品、油污和核辐射都是非常非常可怕的残留物，但是最最可怕的还是我们对孩子们说的谎话。我们不能再对孩子们隐瞒丑恶的真相了，因为我们需要他们解决问题的想象力。
+Jadi, plastik, minyak, dan radioaktivitasialah warisan kita yang sangat buruk,namun warisan terburuk yang bisa kitaberikan untuk anak kita ialah kebohongan.Kita tak dapat lagi melindungi anak-anakkita dari kenyataan pahitkarena kita membutuhkan imajinasi merekauntuk menciptakan solusi.
+ 9:25
+所以，科学家们、制造商们、梦想家们——我们必须让我们的下一代开始关心现在的环境和人们，这样他们就可以采取行动解决问题了。
+[Imajinasi lebih penting dari pengetahuan]Jadi Anda para ilmuwan, pencipta, pemimpi,Anda harus mempersiapkangenerasi mendatangyang peduli dengan lingkungan hidup danmasyarakat,yang dapat mengambil langkah-langkahuntuk mewujudkannya.
+ 9:39
+谢谢。
+Terima kasih.
+ 9:40
+（掌声）
+(Tepuk tangan)
+ 0:12
+当我还是个孩子时，我父母告诉我，“你可以把东西搞得一团糟，但是之后你必须收拾好。”所以自由和责任其实是伴随发生的。我的想象力会把我带到一个什么都可以发生的，神奇的地方。我在一个充满天真的世界中成长——或者应该说是一个无知的世界，因为大人们会对我们说谎，来避免我们接触到丑恶的现实。当我们逐渐长大，我发现其实大人们的世界一团糟，而且他们并不善于收拾烂摊子。
+Saat masih kecil, orang tua saya berkata,"Kamu boleh membuat kekacauan, tapisetelahnya harus kamu bereskan sendiri."Jadi, kebebasan diikuti dengan tanggung jawab.Tapi, imajinasi telah membawa saya ke berbagai tempat yang menakjubkan,yang memungkinkan semua hal terjadi.Saya tumbuh besar dalam gelembung keluguan —atau lebih tepatnya, gelembung kebodohan,karena orang dewasa berbohong untuk melindungi kami dari kebenaran yang pahit.Semakin besar, saya menemukan bahwa orang dewasa juga membuat kekacauan,dan mereka tak begitu jago membereskannya.
+ 0:46
+现在，我变成了个大人，我在香港港口小学教科学和发明课。没过多久，我的学生们走在海滩上的时候，就发现了成堆的垃圾。作为好公民，我们清理了海滩——不，他不是在喝酒，就算是，酒也不是我给的。
+Sekarang, saya sudah dewasa,mengajar ilmu sains dan penemuan kepadamasyarakat di Hong Kong Harbour School.Dan tak makan waktu lamabagi murid saya untuk pergi ke pantaidan menemukan gundukan sampah.Sebagai warga negara yang baik, kami membersihkan pantai —tidak, dia tidak minum alkohol, dankalaupun iya, bukan saya yang beri.
+ 1:06
+（笑声）
+(Tertawa)
+ 1:08
+很遗憾地说，如今超过80%的海洋里有塑料制品。这是个很可怕的事实。在过去的几十年里，我们用这些大船拖着大网把垃圾捞出来，我们把塑料垃圾收集起来，用显微镜观察，然后把它们分类，之后我们把这些数据写在了一张地图上。但那要花很长时间，成本也非常高，而且开那些大船是很危险的。
+Berat mengatakannya,tetapi kini, lebih dari 80 persenlaut dicemari limbah plastik.Ini fakta yang mengerikan.Dalam beberapa dekade terakhir,kita memberangkatkan kapal-kapal besardengan jaring raksasadan mengumpulkan limbah plastik ituserta menelitinya dengan mikroskop,lalu kita memilah merekadan memasukkan datanyauntuk dipetakan.Tetapi proses ini memakan waktu sangatlama, sangat mahal,dan menggunakan kapal-kapal besar ituberesiko cukup tinggi.
+ 1:32
+所以我，和我的6到15岁的学生们，一直都梦想创造一个更好的办法。于是，我们把在香港的一个小教室变成了一个工作室。然后我们就开始建造这个小工作台，把它们做成不同的高度，就算是个子矮的小朋友也可以参加进来了。告诉你们吧，拿着电动工具的孩子们其实很酷炫而且很安全。
+Jadi, bersama murid-murid sayayang berusia 6 sampai 15 tahun,kami semua bermimpi menemukancara yang lebih baik.Jadi, kami mengubah kelas kecil kamidi Hong Kong menjadi bengkel.Dan kami mulai membangunmeja kerja kecil inidengan ketinggian berbeda, agar murid yangterpendek pun bisa ikut serta.Asal tahu saja, anak-anak dengan perkakasterlihat keren dan aman.
+ 1:52
+（笑声）
+(Tertawa)
+ 1:53
+开个玩笑。咱们回到塑料制品那个话题。我们收集了一些塑料制品然后把它们磨成了在海里找到它们时的大小，特别特别小，因为它们在海里都分解了。我们是这么做的。我让我的学生们充分发挥想象力。而我的工作就是尽量收集每个孩子最好的想法，然后试着去把这些想法和一些期望能行的通的东西结合起来。之后我们就达成了一致，我们不收集塑料品了，我们决定仅仅收集数据。我们打算用机器人来获取塑料制品的图片——有了机器人，孩子们简直兴奋死了。我们的下一步工作——我们称之为“快速原型设计”。我们的原型设计做得非常快，以至于我们午饭还没吃完，饭盒就被征用了。
+Tidak juga.Jadi, kembali ke plastik.Kami kumpulkan plastik dan menggerusnyasampai seukuran plastik di laut,yang sangat kecil karena sudah terurai.Begini cara kerja kami.Saya membiarkan imajinasi murid-muridberkembang liar.Tugas saya adalah mengumpulkan ide-ideterbaik dari merekadan menggabungkannya menjadi hal yangmudah-mudahan bisa digunakan.Kami sepakat alih-alihmengumpulkan plastik,kami hanya akan mengumpulkan datanya.Jadi kami akan mengambil gambar plastikdengan robot —karena robot membuat anak-anakjadi semangat.Kemudian, kami membuat "prototipe cepat."Kami sangat cepat mengerjakanprototipenyasampai-sampai sisa makan siang masih adasaat kami gunakan kotaknya.
+ 2:35
+（笑声）
+(Tertawa)
+ 2:36
+我们把桌灯和网络摄像头装到了卫生洁具上，然后把它们组装在漂浮机器人上，机器人会在水面上缓缓移动，穿过水面上的塑料漂浮物——这就是我们用机器人得到的照片。我们可以看到塑料碎片缓缓地流经感应器，内置的计算机就会分析这些影像，并且计算出每个颗粒的大小，所以我们就能对水中塑料品的数量有一个粗略的估计了。
+Kami mengubah lampu meja dan kamera webmenjadi pipa ledeng,dan merakitnya menjadi robot terapungyang bergerak perlahan di airdan di plastik yang ada di sana —dan inilah gambar yang kami dapatdari robotnya.Di sini, tampak plastik mengapung perlahanmelewati sensordan komputer mengolah gambar ini,mengukur setiap partikelsehingga kita punya perkiraan kasar berapabanyak plastik yang ada di dalam air.
+ 3:04
+我们在一个叫Instructables的发明家网站上一步一步地记录下我们的发明，希望有人可以继续完善它。
+Kami mencatat setiap pengembanganpenemuan inidi dalam situs Instructables, khusus untuk para penemu,agar orang lain bisa mengembangkannyalebih baik lagi.
+ 3:14
+这个项目的精彩之处在于，孩子们自己看到了当地的问题，然后灵光一现——他们就马上开始试着去解决这个问题了。
+Yang bagus dari proyek ini ialahmurid-murid melihat masalah di sekitanyadan mereka kemudian mencoba mengatasinya.
+ 3:21
+（我可以研究本地的问题）
+[Saya bisa menyelidiki masalahdi sekitar saya]
+ 3:23
+不过，我在香港的学生是非常与时俱进的孩子。他们常看新闻，他们会上网，然后他们就看到了这张照片。这是一个大概不到10岁的孩子，在徒手清理流出的油污，地点在孟加拉国，拥有世界最大的红树林的孙德尔本斯地区。孩子们感到非常震惊，因为这里的水就是当地人喝的水，他们也常在这里洗澡，在这里钓鱼——这是他们赖以生存的地方。现在你们可以看到水是棕色的，泥土是棕色的，油污也是棕色的，当所有的东西都掺在一起时，很难分清水里有什么东西。但是，有一项相当简单的技术，叫做光谱测定法，可以让你看清水中物质的成分。所以我们就做了一个分光仪的简单原型，让光线透过不同的物质，产生不同的光谱，这样就能帮你分辨水里的东西了。我们就把这个感应器的原型打包好，寄到了孟加拉国。这个项目有意思的地方在于这不只是解决一个本地问题，或者研究一个本地问题了，我的学生们用他们的同情心和丰富的想象力远程帮助了其他的孩子。
+Tapi murid-murid saya di Hong Kongmenerima informasi dari mana-mana.Mereka nonton berita, melihat internet,dan mereka menemukan foto ini.Anak ini, mungkin belum 10 tahun,membersihkan tumpahan minyak sendiridi Sundarbans, Bangladesh, daerah hutan bakau terbesar di dunia.Mereka sangat terkejutkarena itu air yang mereka minum,mereka pakai mandi,tempat mereka memancing — tempat mereka hidup.Dan Anda bisa lihat airnya coklat,lumpur dan minyaknya pun coklat,jadi ketika semuanya tercampur,sulit untuk melihat apa yang adadi dalam air.Tetapi, ada teknologi yang cukup sederhana,namanya spektrometri,yang memungkinkan melihat kandungan air.Jadi kami membuat prototipe kasardari spektrometer,dan Anda bisa memancarkan sinar melalui zat-zat yang berbedayang memproduksi spektrum berbeda,sehingga membantu Andamengidentifikasi zat yang ada di air.Kami memasangi sensor pada prototipe ini,lalu kami kirim ke Bangladesh.Yang keren dari proyek ini adalahbukan hanya mengatasi masalah di sekitaratau mengamati masalah lokal saja,tetapi murid-murid saya menggunakan empatidan daya kreatif merekauntuk menolong anak-anak lain dari jauh.
+ 4:35
+（我可以解决一个远方的问题了）
+[Aku bisa menyelidiki masalah yang jauh]
+ 4:37
+我做第二个实验时有一种很强的使命感，想要更进一步——或许我们可以解决一个更加困难，同时也是我打心底里想研究的问题。
+Jadi, saya terdorong membuat eksperimen keduadan saya ingin membawanyalebih jauh lagi —mungkin mengatasi masalah yang lebih besardan lebih dekat dengan saya.
+ 4:47
+我是日法混血，可能你们还记得在2011年日本遭受了一次很强的地震。地震破坏力很强，还引发了惊天巨浪——也就是海啸——海啸破坏了日本东边沿海地区的很多城市。一瞬间，超过一万四千人失去了生命。而且，海啸还摧毁了福田核电站，一个建在海边的核电站。今天，我读了一些报告，知道了大概300吨的核污水从核电站流到了太平洋。今天，整个太平洋都受到了铯-137的污染。如果你去美国的西海岸，到处都能够发现福岛核泄露的痕迹。但如果你从地图上看，你会看到似乎大部分的放射物质都从日本海岸冲走了，现在核泄露的大部分——看起来都是安全的，因为是蓝色的。然而，现实要比这复杂得多。
+Saya separuh Jepang dan Prancis,dan Anda mungkin ingat gempa bumi besardi Jepang tahun 2011.Gempa itu begitu kuat sehingga menciptakanombak raksasa —yang disebut tsunami —dan tsunami tersebut menghancurkanbanyak kota di pesisir timur Jepang.Lebih dari 14.000 orang tewas seketika.Bencana itu juga merusak pembangkit tenaganuklir Fukushima,yang berlokasi di dekat pantai.Hari ini, saya membaca laporansekitar 300 ton material nuklirbocor dari pembangkit Fukushimake Samudra Pasifik.Saat ini di seluruh Samudra Pasifikterdapat tanda kontaminasi cesium-137.Jika Anda pergi ke luar Pesisir Barat,jejak Fukushima bisa dilihat di mana-mana.Tapi jika Anda melihat peta, sebagianbesar radioaktivitas sepertinyatelah tersapu dari pesisir Jepangdan sebagian besar pesisirnya tampakaman — warnanya biru.Kenyataannya agak lebih rumit dari itu.
+ 5:53
+自从那次事故以来，我每年都会去福岛，我和其他的科学家一起，在陆地上、在水里进行独立调查——这次我想带上孩子们。当然我们没有真的把孩子们带过去，家长们不会让我们这样做的。
+Saya pergi ke Fukushima setiap tahunsetelah kecelakaan itu,dan melakukan pengukuran mandiribersama ilmuwan lain,di tanah, di sungai —dan kali ini, kami mau mengajak anak-anak.Tentu saja kami tidak membawa merekake sana, para orang tua pasti protes.
+ 6:07
+（笑声）
+(Tertawa)
+ 6:09
+但每晚我们都要向“任务控制部”汇报，他们带着不同的面具。看起来好像他们并没有认真工作，但其实不然，因为他们一辈子都要在这种放射性的环境下生活。我们跟他们一起做的工作就是研究我们当天收集的数据，并且讨论我们下一步该做什么——策略、行程等等······于是，我们做了一个核电站周围区域的很简单的地形图。我们做了这个高程图，在上面撒上颜料来代表核放射的实时数据，我们还会喷水来模拟下雨。用这种方法我们看到了放射性尘埃被雨水从山顶冲到了河流里，最后流向大海。这只是个粗略的估算。
+Tapi, setiap malam kami melaporke "Pusat Kendali Misi" —mereka memakai topeng yang berbeda.Kelihatannya mereka tak serius,tapi mereka benar-benar seriuskarena mereka harus hidup denganradioaktivitas seumur hidup mereka.Jadi, yang kami lakukan ialahmendiskusikan data-data yang kami perolehhari itu,dan apa yang harus kami lakukanselanjutnya —strategi, rencana, dan sebagainya.Untuk mewujudkannya, kami membuatpeta tofografis kasardari daerah di sekitar pembangkit listriktenaga nuklir.Kami membuat peta elevasi,kami menebar pigmen yang melambangkan dataradioaktivitas terkini,dan kami menyemprotkan air sebagaisimulasi hujan.Dengan melakukan hal ini, kami dapatmelihat debu radioaktifterbawa dari atas gunung ke sungaidan masuk ke lautan.Itulah kira-kira gambarannya.
+ 7:01
+基于这种方法，我们组织了一次探索活动，这也是公民们距离核电站最近的一次了。我们在离核电站1.5公里远的地方航行，在当地渔民的帮助下，我们用自己发明制作的沉淀物采样器在海底收集了一些沉淀物。我们把这些沉淀物打成一个个的小包，然后把这数百个小包封装好寄给了很多大学，我们做出了这个海床放射活动的地图，特别是在鱼类繁殖的河口地区，我希望我们所做的这些可以使当地的渔民和你们最爱的寿司安全一点。
+Selanjutnya, kami mengatur ekspedisiyang merupakan ekspedisi terdekat manusiake pembangkit listrik tenaga nuklir.Kami berlayar 1,5 kilometer mendekatipembangkit listrik itudan dengan bantuan nelayan lokal,kami mengumpulkan sedimen dari dasar lautdengan peralatan sederhana yang kamiciptakan dan rakit.Kami memasukkan sedimen tersebut ke dalamkantong-kantong kecil,lalu kami bagi lagi mereka ke ratusankantongyang kami kirimkan ke berbagai universitasdan kami memproduksi peta radioaktifdi dasar lautterutama di daerah muara tempat ikanakan bereproduksidan saya berharap kami akan meningkatkankeselamatan nelayan lokal dan keamanansushi kegemaran Anda.
+ 7:38
+（笑声）
+(Tertawa)
+ 7:39
+你们可以看到我们的进步——我们从本地问题开始，到外地的问题，最后再到世界问题。做这些不同规模项目的感觉真的特别爽，我们使用的技术也是非常简单和开源的。但同时，我们也逐渐地感觉有些沮丧，因为我们现在做的仅仅是测量我们过去所造成的危害。我们还没有开始解决这些问题。所以我想知道，我们能不能有一个飞跃，想出一些更好的办法来解决这些问题呢？
+Perkembangannya dapat dilihat,kami berangkat dari masalah lokal kemasalah di tempat jauh ke masalah global.Dan sangatlah menarik bekerja dalam skalayang berbeda ini,dengan teknologi yang sangat sederhanadan terbuka bagi siapapun.Namun pada saat yang sama,rasanya semakin kesalkarena kami baru mulai mengukur kerusakanyang kita buat.Kami belum lagi memulai untuk memecahkanmasalah tersebut.Jadi saya bertanya-tanya bagaimana kalaukami langsung sajamencoba menciptakan cara baruuntuk melakukan semua hal tersebut.
+ 8:12
+然后教室就显得有点小了，我们找了香港的一处废弃工厂，然后把它变成了一个最大的多用空间，专门来研究社会和环境影响。这是在香港市中心，是一个我们可以做木工、金工和化学实验的地方，还可以做一些生物学和光学的实验，在那里，基本上你什么都可以做。这是一个大人和孩子可以一起玩的地方。这是一个在大人的帮助下，孩子们可以梦想成真的地方，在这里，大人们也返老还童了。
+Ruangan kelas kami pun mulaiterasa sempit,jadi kami mendapati satu situs industridi Hong Kongdan kami mengubahnya menjadi ruang besaryang berfokus pada dampak sosialdan lingkungan.Letaknya di pusat Hong Kongdan tempat ini menjadi tempatkami bekerja dengan kayu, logam, kimia,sedikit ilmu biologi, sedikit ilmu optik,intinya, semua hal bisa Anda kerjakandi sana.Tempat di mana anak-anak dan dewasadapat bermain bersama.Tempat di mana impian anak-anak menjadinyata,dengan bantuan orang dewasa,dan orang dewasa bisa menjadianak-anak lagi.
+ 8:43
+学生们：加油！加油！
+Siswa: Percepatan! Percepatan!
+ 8:46
+塞萨尔·原田：我们经常提出这样的问题，我们可以打造一个利用可再生能源的移动设备的未来吗？这是一个例子。还有，我们能把非常常见的轮椅变成很酷的电动车，让老年人的行动更加方便吗？
+Cesar Harada: Pertanyaan kami antara lain,bisakah kita menciptakan pergerakan masadepan dengan teknologi terbarukan?Itu contohnya.Atau, bisakah kita membantu pergerakanpopulasi orang tuadengan mengubah kursi roda standar menjadikendaraan listrik yang keren?
+ 9:04
+塑料制品、油污和核辐射都是非常非常可怕的残留物，但是最最可怕的还是我们对孩子们说的谎话。我们不能再对孩子们隐瞒丑恶的真相了，因为我们需要他们解决问题的想象力。
+Jadi, plastik, minyak, dan radioaktivitasialah warisan kita yang sangat buruk,namun warisan terburuk yang bisa kitaberikan untuk anak kita ialah kebohongan.Kita tak dapat lagi melindungi anak-anakkita dari kenyataan pahitkarena kita membutuhkan imajinasi merekauntuk menciptakan solusi.
+ 9:25
+所以，科学家们、制造商们、梦想家们——我们必须让我们的下一代开始关心现在的环境和人们，这样他们就可以采取行动解决问题了。
+[Imajinasi lebih penting dari pengetahuan]Jadi Anda para ilmuwan, pencipta, pemimpi,Anda harus mempersiapkangenerasi mendatangyang peduli dengan lingkungan hidup danmasyarakat,yang dapat mengambil langkah-langkahuntuk mewujudkannya.
+ 9:39
+谢谢。
+Terima kasih.
+ 9:40
+（掌声）
+(Tepuk tangan)
