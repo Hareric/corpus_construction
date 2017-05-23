@@ -26,7 +26,7 @@ class DownloadThread extends Thread {
 
 	public void run() {
 		try {
-			TranscriptDownload.downloadUnit(urlArray, languageType, folderName, start, end);
+			new TranscriptDownload().downloadUnit(urlArray, languageType, folderName, start, end);
 		} catch (Exception e) {
 			System.err.println(threadName + " interrupted.");
 		}
@@ -34,7 +34,8 @@ class DownloadThread extends Thread {
 	}
 
 	public void start() {
-		System.out.println(threadName + "Starting " + "total" + urlArray.length + " NO." + start + "~" + "NO." + end);
+		System.out
+				.println(threadName + "  Starting " + "total:" + urlArray.length + " NO." + start + "~" + "NO." + end);
 		if (t == null) {
 			t = new Thread(this, threadName);
 			t.start();
@@ -51,10 +52,11 @@ public class TranscriptDownload {
 	 * @param folderName
 	 * @throws Exception
 	 */
-	public static void download(String url, String languageType, String folderName) throws Exception {
+	public void download(String url, String languageType, String folderName) throws Exception {
 		String htmlsc = spider.Crawl.getPage(url);
 		TranscriptMatch tsmZh = new TranscriptMatch();
 		htmlsc = spider.Crawl.getPage(url + "?language=zh-cn");
+
 		tsmZh.match(htmlsc);
 		String htmlscl = "";
 		TranscriptMatch tsm = new TranscriptMatch();
@@ -81,6 +83,19 @@ public class TranscriptDownload {
 
 	}
 
+	public void switchIp(double r) {
+		String IpPort[][] = { { "175.155.241.114", "808" }, { "183.153.15.153", "808" }, { "119.5.1.62", "808" },
+				{ "58.209.151.126", "808" }, { "180.76.154.5", "8888" }, { "1.192.247.78", "8118" },
+				{ "220.166.96.90", "82" }, { "115.220.1.134", "808" }, { "116.226.90.12", "808" },
+				{ "139.224.237.33", "8888" } };
+		int rr = (int) (r * 100) % IpPort.length;
+//		System.out.println(IpPort[rr][0] + ":" + IpPort[rr][1]);
+		System.getProperties().setProperty("proxySet", "true");
+		System.getProperties().setProperty("http.proxyHost", IpPort[rr][0]);
+		System.getProperties().setProperty("http.proxyPort", IpPort[rr][1]);
+
+	}
+
 	/**
 	 * 保存文件
 	 * 
@@ -90,7 +105,7 @@ public class TranscriptDownload {
 	 * @param code
 	 * @throws Exception
 	 */
-	public static void writeFile(String fileName, ArrayList<String> scriptList, ArrayList<String> timeList, String code)
+	public void writeFile(String fileName, ArrayList<String> scriptList, ArrayList<String> timeList, String code)
 			throws Exception {
 		RandomAccessFile raf = new RandomAccessFile(fileName, "rw");
 		raf.seek(raf.length());
@@ -112,42 +127,49 @@ public class TranscriptDownload {
 	 * @param folderName
 	 * @throws Exception
 	 */
-	public static void downloadUnit(String[] urlArray, String languageType, String folderName, int start, int end)
+	public void downloadUnit(String[] urlArray, String languageType, String folderName, int start, int end)
 			throws Exception {
 		for (int i = start; i <= end; i++) {
 			System.err.println("NO." + i + "   " + urlArray[i]);
 			try {
 				download(urlArray[i], languageType, folderName);
 			} catch (NullPointerException ex) {
+				i--;
+				System.out.println("网页获取失败 该线程暂停");
+				this.switchIp(Math.random());
+				Thread.sleep((int)(Math.random()*10000));
 				continue;
 			}
 		}
 	}
 
-	public static void multiDownload(String language, String folderPath, int threadNum) throws Exception {
+	public void multiDownload(String language, String folderPath, int threadNum) throws Exception {
 		UrlMatch um = new UrlMatch();
-		um.matchPageUrl("https://www.ted.com/talks?language=zh-cn", 1, 3);
+		System.out.println("获取演讲标题...");
+		um.matchPageUrl("https://www.ted.com/talks?language=zh-cn");
 		UrlMatch umOther = new UrlMatch();
-		umOther.matchPageUrl("https://www.ted.com/talks?language=" + language, 1, 3);
+		umOther.matchPageUrl("https://www.ted.com/talks?language=" + language);
 		System.out.println("含有中文文本的演讲个数：" + um.urlSet.size());
 		System.out.println("含有外文文本的演讲个数：" + umOther.urlSet.size());
 		um.urlSet.retainAll(umOther.urlSet);
 		System.out.println("交集后,演讲个数：" + um.urlSet.size());
+		Thread.sleep(1500);
 		String[] urlArray = um.urlSet.toArray(new String[um.urlSet.size()]);
-		
-		System.out.println("开始进行多进程爬取");
+
+		System.out.println("\n\n开始进行多进程爬取");
 		int sumNum = urlArray.length;
-		System.out.println(sumNum);
 		for (int i = 0; i < threadNum; i++) {
 			DownloadThread t = new DownloadThread("Thread-" + (i + 1), urlArray, language, folderPath,
 					sumNum / threadNum * i + 1, sumNum / threadNum * (i + 1));
 			t.start();
+			Thread.sleep((int)(Math.random()*10000));
+			
+			
 		}
 
 	}
 
 	public static void main(String args[]) throws Exception {
-		multiDownload("vi", "transcript/test2", 3);
-
+		new TranscriptDownload().multiDownload("vi", "transcript/vi", 2);  // (id|ms|vi, 保存文件夹, 线程数)
 	}
 }
