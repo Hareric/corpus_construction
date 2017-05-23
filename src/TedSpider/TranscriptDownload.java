@@ -137,7 +137,7 @@ public class TranscriptDownload {
 				i--;
 				System.out.println("网页获取失败 该线程暂停");
 				this.switchIp(Math.random());
-				Thread.sleep((int)(Math.random()*10000));
+				Thread.sleep((int)(Math.random()*30000));
 				continue;
 			}
 		}
@@ -170,6 +170,9 @@ public class TranscriptDownload {
 	}
 
 	public static void main(String args[]) throws Exception {
-		new TranscriptDownload().multiDownload("vi", "transcript/vi", 2);  // (id|ms|vi, 保存文件夹, 线程数)
+		TranscriptDownload td = new TranscriptDownload();
+		td.multiDownload("id", "transcript/id", 5);  // (id|ms|vi, 保存文件夹, 线程数)
+		td.multiDownload("ms", "transcript/ms", 5); 
+		td.multiDownload("vi", "transcript/vi", 5); 
 	}
 }
