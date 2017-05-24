@@ -19,7 +19,7 @@ td.multiDownload("id", "transcript/id", 5);  //外文简写，保存文件路径
 
 中文 简写为 zh-cn
 
-具体简写可在ted网站上查询
+具体简写可在[ted网站][5]上查询
 
 ## 
 ## 下载
@@ -30,3 +30,4 @@ td.multiDownload("id", "transcript/id", 5);  //外文简写，保存文件路径
   [2]: http://oevwfwaro.bkt.clouddn.com/ted%20%E7%88%AC%E5%8F%96%E6%B5%81%E7%A8%8B%E5%9B%BE.png
   [3]: http://oevwfwaro.bkt.clouddn.com/transcript%20%E7%A4%BA%E4%BE%8B.png
   [4]: http://oevwfwaro.bkt.clouddn.com/transcript.zip
+  [5]: https://www.ted.com/talks
