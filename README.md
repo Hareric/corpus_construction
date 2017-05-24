@@ -1,9 +1,5 @@
 # 语料库构建
 
-标签（空格分隔）： github
-
----
-
 ## 项目说明
 爬取[ted演讲][1]网站中的演讲文稿，并将外文与中文对应保存
 
@@ -20,7 +16,9 @@ TranscriptDownload td = new TranscriptDownload();
 td.multiDownload("id", "transcript/id", 5);  //外文简写，保存文件路径，线程个数 
 ```
 马来西亚语 简写为ms
+
 中文 简写为 zh-cn
+
 具体简写可在ted网站上查询
 
 ## 
