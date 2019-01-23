@@ -27,7 +27,7 @@ td.multiDownload("id", "transcript/id", 5);  //外文简写，保存文件路径
 
 
   [1]: https://www.ted.com/talks
-  [2]: http://oevwfwaro.bkt.clouddn.com/ted%20%E7%88%AC%E5%8F%96%E6%B5%81%E7%A8%8B%E5%9B%BE.png
-  [3]: http://oevwfwaro.bkt.clouddn.com/transcript%20%E7%A4%BA%E4%BE%8B.png
-  [4]: http://oevwfwaro.bkt.clouddn.com/transcript.zip
+  [2]: https://raw.githubusercontent.com/Hareric/tuchuang/master/graph/ted%20%E7%88%AC%E5%8F%96%E6%B5%81%E7%A8%8B%E5%9B%BE.png
+  [3]: https://raw.githubusercontent.com/Hareric/tuchuang/master/graph/transcript%20%E7%A4%BA%E4%BE%8B.png
+  [4]: https://raw.githubusercontent.com/Hareric/tuchuang/master/document/transcript.zip
   [5]: https://www.ted.com/talks
